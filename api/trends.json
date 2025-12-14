@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T22:41:15.574698+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2025-12-14T23:37:29.607763+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -134,11 +134,12 @@
             8,
             12,
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 22时41分]"
+          "appearance_count": 5,
+          "time_info": "[18时43分 ~ 23时37分]"
         },
         {
           "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
@@ -175,6 +176,21 @@
           "time_info": "[13时43分 ~ 19时31分]"
         },
         {
+          "title": "茅台1天4次上调价格 发生了什么",
+          "url": "https://www.toutiao.com/trending/7583343061771845670/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2,
+            26,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时36分 ~ 23时37分]"
+        },
+        {
           "title": "长城汽车：全面审视井持续强化内部价格合规管理体系建设",
           "url": "https://wallstreetcn.com/livenews/3020253",
           "source": "华尔街见闻-快讯",
@@ -186,20 +202,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 07时33分]"
-        },
-        {
-          "title": "茅台1天4次上调价格 发生了什么",
-          "url": "https://www.toutiao.com/trending/7583343061771845670/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            2,
-            26,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时41分]"
         },
         {
           "title": "茅台今日酒价大反攻：一日价格跳涨4次，价格到1580元/瓶",
@@ -237,8 +239,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时42分 ~ 22时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时42分 ~ 23时37分]"
         },
         {
           "title": "茅台价格较昨日上涨",
@@ -327,11 +329,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时41分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时37分]"
         }
       ]
     },
@@ -452,8 +455,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时59分 ~ 22时41分]"
+          "appearance_count": 14,
+          "time_info": "[12时59分 ~ 23时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
+          "url": "https://www.cls.cn/detail/2229026",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         }
       ]
     }

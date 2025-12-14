@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T19:31:10.770462+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-12-14T21:36:44.196183+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
@@ -127,6 +127,19 @@
           "time_info": "[00时49分 ~ 07时33分]"
         },
         {
+          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3020397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 21时36分]"
+        },
+        {
           "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
           "url": "https://www.zhihu.com/question/1982864642054250698",
           "source": "知乎",
@@ -137,18 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时50分 ~ 17时37分]"
-        },
-        {
-          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
-          "url": "https://wallstreetcn.com/livenews/3020397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时31分]"
         }
       ]
     },
@@ -191,11 +192,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            2
+            2,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时36分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[17时36分 ~ 21时36分]"
         },
         {
           "title": "茅台今日酒价大反攻：一日价格跳涨4次，价格到1580元/瓶",
@@ -224,6 +226,18 @@
           "time_info": "[00时49分 ~ 07时33分]"
         },
         {
+          "title": "收取茶位费需提前告知！广东三行业“诚信价格”行为指引公开征求意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32174382",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 21时36分]"
+        },
+        {
           "title": "茅台价格较昨日上涨",
           "url": "https://wallstreetcn.com/livenews/3020328",
           "source": "华尔街见闻-快讯",
@@ -239,17 +253,6 @@
           "time_info": "[11时57分 ~ 15时34分]"
         },
         {
-          "title": "收取茶位费需提前告知！广东三行业“诚信价格”行为指引公开征求意见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32174382",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 19时31分]"
-        },
-        {
           "title": "零跑汽车：杜绝任何形式的价格欺诈和不正当竞争行为",
           "url": "https://wallstreetcn.com/livenews/3020358",
           "source": "华尔街见闻-快讯",
@@ -261,6 +264,70 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时50分 ~ 18时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 07时33分]"
+        },
+        {
+          "title": "黄金时隔近两月再次涨超 4300 美元，受哪些因素影响？这次能站稳并继续冲高吗？",
+          "url": "https://www.zhihu.com/question/1982857770605757310",
+          "source": "知乎",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 06时40分]"
+        },
+        {
+          "title": "Uber(UBER.N)：未来五年将在日本投资超过20亿美元，计划扩大与出租车公司和餐馆的合作关系，资助广告宣传活动，并增加员工人数。",
+          "url": "https://flash.jin10.com/detail/20251214162808730800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时37分]"
+        },
+        {
+          "title": "SpaceX IPO内部定价曝光：421美元一股，估值8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3761347",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 15时34分]"
+        },
+        {
+          "title": "科威特石油部长：在当前情况下，科威特认为每桶60至68美元的油价是合理的。",
+          "url": "https://flash.jin10.com/detail/20251214203047950800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -332,61 +399,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时33分]"
-        },
-        {
-          "title": "黄金时隔近两月再次涨超 4300 美元，受哪些因素影响？这次能站稳并继续冲高吗？",
-          "url": "https://www.zhihu.com/question/1982857770605757310",
-          "source": "知乎",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时51分 ~ 06时40分]"
-        },
-        {
-          "title": "Uber(UBER.N)：未来五年将在日本投资超过20亿美元，计划扩大与出租车公司和餐馆的合作关系，资助广告宣传活动，并增加员工人数。",
-          "url": "https://flash.jin10.com/detail/20251214162808730800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时37分]"
-        },
-        {
-          "title": "SpaceX IPO内部定价曝光：421美元一股，估值8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3761347",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 21时36分]"
         }
       ]
     },
@@ -434,8 +448,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时59分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时59分 ~ 21时36分]"
         }
       ]
     }

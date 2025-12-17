@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T19:38:31.560589+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2025-12-17T21:49:41.279889+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "蜜雪冰城进军北美，外卖预售套餐 3.99 美元，能复制国内的成功吗？可选 200% 糖度，真的好喝吗？",
@@ -138,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "荷兰合作银行：2026年欧元兑美元上行空间受限，或维持区间震荡",
+          "url": "https://flash.jin10.com/detail/20251217213944773800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "美国务院批准1亿美元对日军售",
@@ -607,6 +618,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "AI芯片初创公司Mythic融资1.25亿美元，旨在挑战英伟达",
+          "url": "https://flash.jin10.com/detail/20251217213434412800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "阿根廷比索兑美元在阿根廷央行宣布调整外汇波动区间后走弱，收盘下跌0.93%，报1美元兑1,452比索。",
           "url": "https://flash.jin10.com/detail/20251217021114606800",
           "source": "金十数据",
@@ -624,7 +646,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -638,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "美国天然气期货日内涨幅扩大至3%，现报4.003美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3022435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "现货白银日内涨幅达3.00%，现报65.64美元/盎司。",
@@ -786,7 +819,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "英国10月DCLG房价指数年率 1.7%，前值2.60%。",
@@ -1019,7 +1052,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1288,6 +1321,17 @@
           "time_info": "15时44分"
         },
         {
+          "title": "美国股指期货削减涨幅，标普500指数期货、纳指期货和道指期货均上涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20251217212432060800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "英国11月零售物价指数环比 -0.4%，预期 0%，前值 0.3%。",
           "url": "https://wallstreetcn.com/livenews/3022213",
           "source": "华尔街见闻-快讯",
@@ -1302,7 +1346,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -1511,13 +1555,35 @@
           "time_info": "17时53分"
         },
         {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "OpenAI科学家姚顺雨任腾讯首席AI科学家。",
           "url": "https://wallstreetcn.com/livenews/3022385",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1602,7 +1668,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "华为Mate80为啥价格突崩",
@@ -1804,6 +1870,17 @@
           "time_info": "18时53分"
         },
         {
+          "title": "在线教育平台Coursera和Udemy表示，两家公司将以约9.3亿美元的价格收购同行Udemy。",
+          "url": "https://wallstreetcn.com/livenews/3022426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "Citadel创始人Ken Griffin：“快钱”（easy Money）意味着股市更高的价格。",
           "url": "https://wallstreetcn.com/livenews/3021808",
           "source": "华尔街见闻-快讯",
@@ -1818,7 +1895,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -1952,6 +2029,17 @@
           "time_info": "[03时01分 ~ 03时35分]"
         },
         {
+          "title": "甲骨文美股盘前股价下跌2%，有报道称公司100亿美元密歇根数据中心项目陷入困境，因与Blue Owl的融资谈判陷入僵局。",
+          "url": "https://wallstreetcn.com/livenews/3022447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "亚马逊(AMZN.O)美股盘前上涨1.2%，有报道称亚马逊正在商谈向OpenAI投资约100亿美元。",
           "url": "https://flash.jin10.com/detail/20251217172802469800",
           "source": "金十数据",
@@ -1972,6 +2060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "美股期货短线走低，纳指期货日内涨幅收窄至0.12%，标普500指数期货涨幅收窄至0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3022443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
@@ -2010,7 +2109,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "国资委张玉卓：推动形成更加符合人工智能发展需要的数字基础设施体系",
@@ -2091,6 +2190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "美联储理事沃勒：就业市场非常疲软，目前的就业增长情况不佳。 美国就业增长接近于零。 美联储的降息举措对就业市场有所帮助。 2026年经济形势可能会更好，希望这能提振就业市场。 通胀仍高于目标，但预计未来几个月会回落。 通胀预期保持稳定。 目前还不清楚人工智能将对就业市场产生什么影响。",
+          "url": "https://wallstreetcn.com/livenews/3022436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "埃森哲将收购人工智能数据中心工程与咨询公司DLB Associates 65%的股权。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T07:39:42.071681+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2025-12-18T11:51:29.521735+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时39分]"
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 11时51分]"
         },
         {
           "title": "媒体称甲骨文100亿美元数据中心融资受阻，甲骨文：仍按计划进行，推进情况合预期",
@@ -76,7 +76,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -239,6 +239,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 05时40分]"
+        },
+        {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 11时51分]"
         },
         {
           "title": "周三（12月17日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报7.0402元，较周二纽约尾盘跌39点，日内整体交投于7.0324-7.0431元区间。",
@@ -443,15 +455,15 @@
           "time_info": "05时40分"
         },
         {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
+          "title": "分析师警告：特斯拉股价高度押注自动驾驶 汽车业务仅值每股30美元",
+          "url": "https://www.cls.cn/detail/2232805",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时39分"
+          "time_info": "11时51分"
         },
         {
           "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
@@ -533,214 +545,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 17,
+      "keyword_group": "指数",
+      "match_count": 20,
       "titles": [
         {
-          "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
+          "title": "金十图示：2025年12月18日（周四）富时中国A50指数成分股午盘收盘行情一览：银行、石油、煤炭板块走强，消费电子、汽车、电池、通信设备等板块走弱",
+          "url": "https://flash.jin10.com/detail/20251218113258825800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 05时40分]"
-        },
-        {
-          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时39分]"
-        },
-        {
-          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251218013152524800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251218013016003800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2232828",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时39分]"
-        },
-        {
-          "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
-          "url": "https://flash.jin10.com/detail/20251218024123307800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时48分]"
-        },
-        {
-          "title": "半导体ETF收跌3.6%，领跌美股行业ETF，标普能源板块反弹2.2%",
-          "url": "https://wallstreetcn.com/livenews/3022615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时45分]"
-        },
-        {
-          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251218050532569800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时45分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
-          "url": "https://wallstreetcn.com/livenews/3022611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时45分]"
-        },
-        {
-          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251218050513464800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时45分]"
-        },
-        {
-          "title": "美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。",
-          "url": "https://wallstreetcn.com/livenews/3022628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时39分]"
-        },
-        {
-          "title": "周三（12月17日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.10%，报85950美元，北京时间23:06曾拉涨至90565美元刷新日高——短线呈现出冲高回落走势。 CME以太币期货DCR主力合约跌4.73%，报2820美元。 美股加密货币与加密货币关联指数跌5.27%，报58.24点，整体持续走低。 最近24小时，MarketVector数字资产100小盘指数跌5.49%，暂报3525.38点。",
-          "url": "https://wallstreetcn.com/livenews/3022625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时39分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。",
-          "url": "https://wallstreetcn.com/livenews/3022622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时39分]"
-        },
-        {
-          "title": "美股大麻股盘后集体走高，Tilray Brands涨超4%，Canopy Growth涨近7%，极光大麻涨超2%，VFF涨6.9%，CGC涨5.2%，ACB涨4.3%，MSOS涨4%。 媒体报道称，特朗普拟于周四签署行政令重新归类大麻。",
-          "url": "https://wallstreetcn.com/livenews/3022648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时39分"
+          "time_info": "11时51分"
         },
-        {
-          "title": "美光科技(MU.O)美股盘后涨6%。",
-          "url": "https://flash.jin10.com/detail/20251218050240044800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
-          "url": "https://flash.jin10.com/detail/20251218050114407800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 17,
-      "titles": [
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3022570",
@@ -885,6 +703,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "上证指数早盘收报3876.40点，涨0.16%。 深证成指早盘收报13111.78点，跌0.85%。 创业板指早盘收报3118.30点，跌1.81%。 沪深300早盘收报4554.12点，跌0.56%。 科创50早盘收报1313.11点，跌0.92%。 中证500早盘收报7139.53点，涨0.02%。 中证1000早盘收报7311.69点，涨0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3022814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "欧洲STOXX 600指数收跌0.00%，报579.79点，日内大部分时间高位震荡，北京时间23:00开始显著回落并一度转跌。 欧元区STOXX 50指数收跌0.63%，报5681.67点，微幅高开之后全天持续下挫。 富时泛欧绩优300指数收跌0.03%，报2310.71点。",
           "url": "https://wallstreetcn.com/livenews/3022532",
           "source": "华尔街见闻-快讯",
@@ -938,12 +767,230 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "日经225指数早盘收跌1%，日本东证指数早盘跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3022779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 05时40分]"
+        },
+        {
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 11时51分]"
+        },
+        {
+          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2232828",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 11时51分]"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013152524800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013016003800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
+          "url": "https://flash.jin10.com/detail/20251218024123307800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时48分]"
+        },
+        {
+          "title": "半导体ETF收跌3.6%，领跌美股行业ETF，标普能源板块反弹2.2%",
+          "url": "https://wallstreetcn.com/livenews/3022615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时45分]"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251218050532569800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时45分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
+          "url": "https://wallstreetcn.com/livenews/3022611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时45分]"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251218050513464800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时45分]"
+        },
+        {
+          "title": "美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。",
+          "url": "https://wallstreetcn.com/livenews/3022628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时39分]"
+        },
+        {
+          "title": "周三（12月17日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.10%，报85950美元，北京时间23:06曾拉涨至90565美元刷新日高——短线呈现出冲高回落走势。 CME以太币期货DCR主力合约跌4.73%，报2820美元。 美股加密货币与加密货币关联指数跌5.27%，报58.24点，整体持续走低。 最近24小时，MarketVector数字资产100小盘指数跌5.49%，暂报3525.38点。",
+          "url": "https://wallstreetcn.com/livenews/3022625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时39分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。",
+          "url": "https://wallstreetcn.com/livenews/3022622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时39分]"
+        },
+        {
+          "title": "美股大麻股盘后集体走高，Tilray Brands涨超4%，Canopy Growth涨近7%，极光大麻涨超2%，VFF涨6.9%，CGC涨5.2%，ACB涨4.3%，MSOS涨4%。 媒体报道称，特朗普拟于周四签署行政令重新归类大麻。",
+          "url": "https://wallstreetcn.com/livenews/3022648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨6%。",
+          "url": "https://flash.jin10.com/detail/20251218050240044800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
+          "url": "https://flash.jin10.com/detail/20251218050114407800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -951,11 +998,23 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 11时51分]"
+        },
+        {
+          "title": "AI制药公司英矽智能今起招股，募资至多23亿港元",
+          "url": "https://wallstreetcn.com/livenews/3022822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "ThaiSweet樱花舞MV",
@@ -995,13 +1054,35 @@
           "time_info": "[05时40分 ~ 06时45分]"
         },
         {
+          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
+          "url": "https://www.cls.cn/detail/2232914",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
           "url": "https://flash.jin10.com/detail/20251218063011323800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -1023,7 +1104,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -1039,6 +1120,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "字节宣布AI节省计划",
+          "url": "https://wallstreetcn.com/livenews/3022785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "营收指引远超预期，美光科技乘AI东风业绩“狂飙”",
           "url": "https://flash.jin10.com/detail/20251218051441855800",
           "source": "金十数据",
@@ -1048,12 +1140,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "马斯克新战书：xAI最早明年实现AGI",
+          "url": "https://www.toutiao.com/trending/7584818579814154278/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "华为Mate80为啥价格突崩",
@@ -1076,7 +1179,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -1102,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时39分]"
+        },
+        {
+          "title": "铂金年内价格翻倍，你该知道的都在这丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251218113002971800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "国际卡车司机兄弟会：反对目前版本的联合太平洋铁路公司与诺福克南方铁路公司拟议合并。此项潜在合并将损害工会工人利益、推高运费价格，并形成垄断。",
@@ -1193,6 +1307,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "火山引擎正式发布豆包大模型1.8",
+          "url": "https://wallstreetcn.com/livenews/3022769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T21:52:55.646417+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2025-12-18T22:53:08.088736+08:00",
+  "total_titles_processed": 1894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "甲骨文百亿美元数据中心融资受阻，Blue Owl退出，公司称交易仍按计划进行",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时44分 ~ 21时52分]"
+          "appearance_count": 18,
+          "time_info": "[06时44分 ~ 22时53分]"
         },
         {
           "title": "外交部回应美110亿美元对台军售",
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时42分 ~ 21时52分]"
+          "appearance_count": 10,
+          "time_info": "[15时42分 ~ 22时53分]"
         },
         {
           "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
@@ -58,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时49分 ~ 21时52分]"
+          "appearance_count": 13,
+          "time_info": "[13时49分 ~ 22时53分]"
         },
         {
           "title": "美光财报会实录：明年HBM订单排满 预计三年后潜在市场达千亿美元",
@@ -126,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "现货白银日内跌幅达1.5%，报65.22美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3023223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国参议院通过超9000亿美元国防授权法案",
@@ -630,13 +642,24 @@
           "time_info": "05时40分"
         },
         {
+          "title": "现货钯金日内涨超4.00%，现报1711.99美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251218223151248800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美国CPI数据低于预期，美元指数短线走低",
           "url": "https://wallstreetcn.com/livenews/3023173",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -669,7 +692,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -680,7 +703,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -713,7 +736,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -746,7 +769,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -790,7 +813,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -804,6 +827,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "英镑兑美元一个月波动性达到5.28%，创2014年以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3023195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "市场消息：康卡斯特在竞购华纳兄弟探索公司(WBD.O)时，对其媒体业务部门的估值为810亿美元。",
@@ -820,7 +854,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "金十图示：2025年12月18日（周四）富时中国A50指数成分股午盘收盘行情一览：银行、石油、煤炭板块走强，消费电子、汽车、电池、通信设备等板块走弱",
@@ -1035,13 +1069,24 @@
           "time_info": "05时40分"
         },
         {
+          "title": "纳斯达克金龙中国指数盘初涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3023213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美国12月费城联储制造业装船指数 3.2，前值-8.1。",
           "url": "https://flash.jin10.com/detail/20251218213309371800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1052,9 +1097,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "标普500指数高开56.63点，涨幅0.84%，报6778.06点； 道琼斯工业平均指数高开215.21点，涨幅0.45%，报48101.18点； 纳斯达克综合指数高开318.74点，涨幅1.40%，报23012.06点。",
+          "url": "https://wallstreetcn.com/livenews/3023210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国股指期货触及盘中新高，纳斯达克100指数合约上涨0.8%。",
@@ -1085,7 +1141,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1145,6 +1201,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "上海算力综合指数连续多年居全国前列，在用数据中心达136个",
+          "url": "https://wallstreetcn.com/livenews/3023199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "金十图示：2025年12月17日（周三）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20251218052112695800",
           "source": "金十数据",
@@ -1195,7 +1262,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1206,7 +1273,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1228,7 +1295,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1239,7 +1306,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1250,7 +1317,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1269,7 +1336,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
@@ -1341,6 +1408,17 @@
           "time_info": "[15时02分 ~ 17时54分]"
         },
         {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时53分]"
+        },
+        {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
           "url": "https://www.cls.cn/detail/2232894",
           "source": "财联社热门",
@@ -1352,6 +1430,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时51分 ~ 15时43分]"
+        },
+        {
+          "title": "AI上车教练下车 驾校生意变天了",
+          "url": "https://www.baidu.com/s?wd=AI%E4%B8%8A%E8%BD%A6%E6%95%99%E7%BB%83%E4%B8%8B%E8%BD%A6+%E9%A9%BE%E6%A0%A1%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 22时53分]"
+        },
+        {
+          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
+          "url": "https://www.zhihu.com/question/1984925319061267264",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 22时53分]"
         },
         {
           "title": "金十数据整理：科技巨头打响“AI军备赛”，钱都烧向了哪里？（一）",
@@ -1374,17 +1474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        },
-        {
-          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
-          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
         },
         {
           "title": "韩国计划孵化万家AI等硬科技初创企业",
@@ -1421,6 +1510,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时48分]"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时53分]"
         },
         {
           "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
@@ -1580,21 +1680,21 @@
           "time_info": "11时51分"
         },
         {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
+          "title": "欧洲央行行长拉加德：AI正影响（欧元区经济）增长。 现在判断AI影响是否会长期存在还言之过早。",
+          "url": "https://wallstreetcn.com/livenews/3023194",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时52分"
+          "time_info": "22时53分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "华为Mate80为啥价格突崩",
@@ -1633,6 +1733,18 @@
           "time_info": "13时50分"
         },
         {
+          "title": "飞天茅台价格暴跌黄牛损失惨重",
+          "url": "https://www.toutiao.com/trending/7585014210606923818/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时53分]"
+        },
+        {
           "title": "文件显示：英伟达(NVDA.O)董事Harvey Jones在12月15日以177.3美元的平均价格，在公开市场出售了25万股公司普通股股票。",
           "url": "https://flash.jin10.com/detail/20251218065520974800",
           "source": "金十数据",
@@ -1642,6 +1754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "Lululemon(LULU.O)股价上涨8.7%，创7月23日以来最高盘中价格。",
+          "url": "https://flash.jin10.com/detail/20251218223348988800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国最大的电网运营商PJM（宾夕法尼亚 - 新泽西 - 马里兰互联电网公司）电力拍卖价格333.44美元/MegaWatt-Day。",
@@ -1677,17 +1800,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时39分]"
-        },
-        {
-          "title": "飞天茅台价格暴跌黄牛损失惨重",
-          "url": "https://www.toutiao.com/trending/7585014210606923818/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
         },
         {
           "title": "土耳其央行会议纪要：11月通胀因食品价格下跌而走低。",
@@ -1740,7 +1852,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1847,7 +1959,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1859,8 +1971,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时44分 ~ 21时52分]"
+          "appearance_count": 18,
+          "time_info": "[06时44分 ~ 22时53分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -1886,6 +1998,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时51分 ~ 05时40分]"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3023222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
@@ -2071,12 +2194,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "AI热潮难再雨露均沾 摩根大通警示美股极端拥挤 并点名六只高风险个股",
+          "url": "https://wallstreetcn.com/livenews/3023201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -2135,6 +2269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：如果我们通过人工智能提高生产力，这将影响自然利率。",
+          "url": "https://flash.jin10.com/detail/20251218222957265800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-18）",
@@ -2212,8 +2357,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 21时52分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 22时53分]"
         },
         {
           "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T18:51:41.091531+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-12-19T19:35:05.713627+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "甲骨文百亿美元数据中心融资受阻，Blue Owl退出，公司称交易仍按计划进行",
@@ -86,7 +86,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -355,6 +355,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时36分]"
+        },
+        {
+          "title": "日央行加息引爆市场！10年期日债收益率飙破2%创18年新高，日元跌破157关口，纳指100期货上涨，黄金回落至4330美元",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "WTI 1月原油期货收涨0.21美元，涨幅0.38%，报56.15美元/桶。 布伦特2月原油期货收报59.82美元/桶。 中东Abu Dhabi Murban原油期货涨0.97%，报61.45美元/桶。 NYMEX 1月天然气期货收报3.9080美元/百万英热单位。 NYMEX 1月汽油期货收报1.7013美元/加仑，NYMEX 1月取暖油期货收报2.1316美元/加仑。",
@@ -790,7 +801,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -875,7 +886,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "飞天茅台价格暴跌黄牛损失惨重",
@@ -922,6 +933,18 @@
           "time_info": "[01时01分 ~ 11时54分]"
         },
         {
+          "title": "飞天茅台价格暴跌 黄牛损失惨重",
+          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C+%E9%BB%84%E7%89%9B%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 19时35分]"
+        },
+        {
           "title": "德国10年期国债期货价格日内下跌24个跳动点。",
           "url": "https://flash.jin10.com/detail/20251219133033457800",
           "source": "金十数据",
@@ -931,6 +954,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "市场消息：据知情人士透露，AbbVie、百时美施贵宝、吉利德、默克和其他制药商预计将在当地时间周五下午宣布与美国政府达成协议，降低某些处方药的价格。",
+          "url": "https://flash.jin10.com/detail/20251219192044434800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "日本央行行长植田和男：多位委员会成员提到，近期日元走软可能会对未来价格产生影响，值得予以关注。",
@@ -977,18 +1011,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时54分 ~ 15时41分]"
-        },
-        {
-          "title": "飞天茅台价格暴跌 黄牛损失惨重",
-          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C+%E9%BB%84%E7%89%9B%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 18时51分]"
         },
         {
           "title": "周四（12月18日），彭博电动汽车价格回报指数跌0.47%，报3377.67点。",
@@ -1115,6 +1137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "印象大红袍将香港IPO价格定在每股3.6港元，将通过香港IPO筹集1.2996亿港元，IPO公开发售部分获3397.48倍认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3023905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "日本央行：9:0一致投票通过政策决议。 若经济和物价前景实现，预计将继续加息。 将根据经济和价格改善情况加息。 宽松的货币政策环境将继续支持经济。 实现前景展望的可能性正在上升。",
@@ -1303,11 +1336,12 @@
           "ranks": [
             28,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时59分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 19时35分]"
         },
         {
           "title": "机构密集调研AI眼镜产业链公司",
@@ -1537,7 +1571,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1548,7 +1582,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1570,7 +1604,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1581,7 +1615,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1592,7 +1626,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1614,7 +1648,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1633,7 +1667,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "台湾证交所加权股价指数收高0.8%报27,696.35。",
@@ -1706,6 +1740,19 @@
           "time_info": "[01时01分 ~ 01时51分]"
         },
         {
+          "title": "【每日收评】三大指数震荡反弹小幅收红，海南概念股午后走强，多只高位股尾盘跳水",
+          "url": "https://www.cls.cn/detail/2234764",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 19时35分]"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.91%，报585.09点。 欧元区STOXX 50指数初步收涨1.06%，报5741.77点。 富时泛欧绩优300指数初步收涨0.90%，报2331.47点。",
           "url": "https://wallstreetcn.com/livenews/3023258",
           "source": "华尔街见闻-快讯",
@@ -1716,18 +1763,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时51分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡反弹小幅收红，海南概念股午后走强，多只高位股尾盘跳水",
-          "url": "https://www.cls.cn/detail/2234764",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 18时51分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.63%，报25675点。 恒生科技指数主连夜盘收涨0.59%，报5466点。",
@@ -1831,6 +1866,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "上期能源拟修订集运指数（欧线）期货标准合约",
+          "url": "https://wallstreetcn.com/livenews/3023904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "中东股市收盘播报｜周四（12月18日），沙特证交所全股指数收涨0.35%，报10450.27点，脱离2023年10月24日（收报10379.71点）以来最低收盘位10414.06点，本周（连续五个自然日）累计下跌2.48%。 沙特阿美（ARAMCO.AB）收涨0.21%，报23.65沙特里亚尔，本周累跌1.08%。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.87%，报11.58沙特里亚尔，本周累跌1.03%。",
           "url": "https://wallstreetcn.com/livenews/3023247",
           "source": "华尔街见闻-快讯",
@@ -1862,6 +1908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
+        },
+        {
+          "title": "英国12月CBI零售销售预期指数 -57，前值-24。",
+          "url": "https://flash.jin10.com/detail/20251219190045931800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.81%，报2100.46点，整体持续、平滑地震荡上行。",
@@ -2002,8 +2059,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 19时35分]"
         },
         {
           "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
@@ -2276,7 +2333,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -2458,8 +2515,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时59分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 19时35分]"
         },
         {
           "title": "北京人形机器人创新中心开源具身VLA大模型XR-1",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T16:50:59.716924+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2025-12-20T17:37:01.784811+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 16时50分]"
+          "appearance_count": 8,
+          "time_info": "[11时44分 ~ 17时37分]"
         },
         {
           "title": "解放军报详解美对台111亿美元军售案",
@@ -28,11 +29,40 @@
           "ranks": [
             2,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 17时37分]"
+        },
+        {
+          "title": "解放军报详解美对台111亿美元军售案",
+          "url": "https://www.toutiao.com/trending/7585459828026396202/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 17时37分]"
+        },
+        {
+          "title": "世界银行批准为巴基斯坦“公共资源促进包容性发展多阶段规划式方案”提供7亿美元融资，中期发展政策贷款将总共提供高达13.5亿美元的融资。",
+          "url": "https://flash.jin10.com/detail/20251220140026984800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 17时37分]"
         },
         {
           "title": "字节跳动全年利润500亿美元？知情人士回应",
@@ -48,19 +78,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时44分 ~ 16时50分]"
-        },
-        {
-          "title": "世界银行批准为巴基斯坦“公共资源促进包容性发展多阶段规划式方案”提供7亿美元融资，中期发展政策贷款将总共提供高达13.5亿美元的融资。",
-          "url": "https://flash.jin10.com/detail/20251220140026984800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 16时50分]"
         },
         {
           "title": "巴克莱银行：维持2026年布伦特原油每桶65美元的预测。",
@@ -83,19 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "解放军报详解美对台111亿美元军售案",
-          "url": "https://www.toutiao.com/trending/7585459828026396202/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时50分]"
         },
         {
           "title": "现货白银日内涨幅扩大至3%，创下67.32美元/盎司的历史新高。",
@@ -632,6 +636,20 @@
           "time_info": "[11时44分 ~ 16时50分]"
         },
         {
+          "title": "《互联网平台价格行为规则》印发：不得对同一商品或服务在同等条件下设置不同价格",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32218763",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 17时37分]"
+        },
+        {
           "title": "《互联网平台价格行为规则》印发：不得虚假、夸大宣传补贴金额和力度",
           "url": "https://wallstreetcn.com/livenews/3024220",
           "source": "华尔街见闻-快讯",
@@ -767,20 +785,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时59分]"
-        },
-        {
-          "title": "《互联网平台价格行为规则》印发：不得对同一商品或服务在同等条件下设置不同价格",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32218763",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时50分]"
         },
         {
           "title": "高盛小幅下调2026年10月底美国天然气库存水平的预期，基于当前远期价格曲线，将预测值下调450亿立方英尺，至3,544亿立方英尺。",
@@ -941,6 +945,321 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 11时44分]"
+        },
+        {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 11时44分]"
+        },
+        {
+          "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
+          "url": "https://flash.jin10.com/detail/20251220122308239800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            5,
+            9,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 17时37分]"
+        },
+        {
+          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
+          "url": "https://flash.jin10.com/detail/20251220123029184800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            8,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 17时37分]"
+        },
+        {
+          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
+          "url": "https://wallstreetcn.com/livenews/3024236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            11,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 17时37分]"
+        },
+        {
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时57分 ~ 17时37分]"
+        },
+        {
+          "title": "“四巫日”成交量创纪录，AI股助纳指收高，日元单日贬值超220点，白银新高破67",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时37分]"
+        },
+        {
+          "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
+          "url": "https://wallstreetcn.com/livenews/3024240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 17时37分]"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
+          "url": "https://wallstreetcn.com/livenews/3024262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
+          "url": "https://wallstreetcn.com/livenews/3024247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 17时37分]"
+        },
+        {
+          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
+          "url": "https://wallstreetcn.com/livenews/3024251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时37分]"
+        },
+        {
+          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
+          "url": "https://wallstreetcn.com/livenews/3024250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时37分]"
+        },
+        {
+          "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
+          "url": "https://wallstreetcn.com/articles/3761702",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时42分]"
+        },
+        {
+          "title": "回顾 2025 年，你与 AI 的关系是什么？",
+          "url": "https://www.zhihu.com/question/1984641612912030144",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时35分]"
+        },
+        {
+          "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
+          "url": "https://www.zhihu.com/question/1984644910364774911",
+          "source": "知乎",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 11时44分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
+          "url": "https://wallstreetcn.com/livenews/3024259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
+          "url": "https://wallstreetcn.com/livenews/3024191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
+          "url": "https://wallstreetcn.com/livenews/3024257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "UP主AI制作科学家传记电影",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E5%88%B6%E4%BD%9C%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BC%A0%E8%AE%B0%E7%94%B5%E5%BD%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
+          "url": "https://wallstreetcn.com/livenews/3024256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "AI大神：AI大模型正演变成新型智能",
+          "url": "https://www.toutiao.com/trending/7585796716025089590/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     },
@@ -1157,238 +1476,21 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 18,
+      "keyword_group": "美股",
+      "match_count": 12,
       "titles": [
         {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 11时44分]"
-        },
-        {
-          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 11时44分]"
-        },
-        {
-          "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
-          "url": "https://flash.jin10.com/detail/20251220122308239800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            5,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时50分]"
-        },
-        {
-          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
-          "url": "https://flash.jin10.com/detail/20251220123029184800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时50分]"
-        },
-        {
-          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
-          "url": "https://wallstreetcn.com/livenews/3024236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时50分]"
-        },
-        {
-          "title": "“四巫日”成交量创纪录，AI股助纳指收高，日元单日贬值超220点，白银新高破67",
+          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
           "url": "https://wallstreetcn.com/articles/3761704",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
+          "appearance_count": 8,
+          "time_info": "[11时44分 ~ 17时37分]"
         },
-        {
-          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
-          "url": "https://wallstreetcn.com/livenews/3024251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
-          "url": "https://wallstreetcn.com/livenews/3024250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
-          "url": "https://wallstreetcn.com/livenews/3024247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 16时50分]"
-        },
-        {
-          "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
-          "url": "https://wallstreetcn.com/livenews/3024240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时50分]"
-        },
-        {
-          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
-          "url": "https://wallstreetcn.com/articles/3761762",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 16时50分]"
-        },
-        {
-          "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
-          "url": "https://wallstreetcn.com/articles/3761702",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时42分]"
-        },
-        {
-          "title": "回顾 2025 年，你与 AI 的关系是什么？",
-          "url": "https://www.zhihu.com/question/1984641612912030144",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时35分]"
-        },
-        {
-          "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
-          "url": "https://www.zhihu.com/question/1984644910364774911",
-          "source": "知乎",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 11时44分]"
-        },
-        {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
-          "url": "https://wallstreetcn.com/livenews/3024191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "UP主AI制作科学家传记电影",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E5%88%B6%E4%BD%9C%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BC%A0%E8%AE%B0%E7%94%B5%E5%BD%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "AI大神：AI大模型正演变成新型智能",
-          "url": "https://www.toutiao.com/trending/7585796716025089590/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
           "url": "https://wallstreetcn.com/articles/3761711",
@@ -1417,16 +1519,19 @@
           "time_info": "[00时55分 ~ 06时43分]"
         },
         {
-          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            10,
+            7,
+            5,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[07时36分 ~ 17时37分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -1441,19 +1546,28 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            5,
-            6,
-            4
+            11,
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时36分 ~ 16时50分]"
+          "time_info": "[12时49分 ~ 17时37分]"
+        },
+        {
+          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
+          "url": "https://wallstreetcn.com/livenews/3024266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -1469,19 +1583,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时44分 ~ 16时50分]"
-        },
-        {
-          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
-          "url": "https://www.cls.cn/detail/2235373",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时50分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -1595,22 +1696,24 @@
           "ranks": [
             5,
             6,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时50分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 17时37分]"
         },
         {
           "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
           "url": "https://www.cls.cn/detail/2235451",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时37分]"
         }
       ]
     },

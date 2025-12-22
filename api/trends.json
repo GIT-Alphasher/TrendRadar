@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T04:44:49.888699+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-12-23T05:35:42.005755+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "WTI 2月原油期货收报58.01美元/桶。 NYMEX 1月天然气期货收报3.9650美元/百万英热单位。 NYMEX 1月汽油期货收报1.7422美元/加仑，NYMEX 1月取暖油期货收报2.1581美元/加仑。",
@@ -23,22 +23,38 @@
           "url": "https://wallstreetcn.com/livenews/3025114",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
-          "title": "美元指数跌0.3%",
-          "url": "https://wallstreetcn.com/livenews/3025112",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0368元，较上周五夜盘收盘涨40点。成交量230.25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3025103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4,
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时35分]"
+        },
+        {
+          "title": "富国银行(WFC.N)计划参与日交易量达3.9万亿美元的期权市场清算。",
+          "url": "https://flash.jin10.com/detail/20251223025611959800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时35分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -54,28 +70,16 @@
           "time_info": "[01时42分 ~ 03时32分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0368元，较上周五夜盘收盘涨40点。成交量230.25亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3025103",
+          "title": "美元指数跌0.3%",
+          "url": "https://wallstreetcn.com/livenews/3025112",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            10
+            3,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时44分]"
-        },
-        {
-          "title": "富国银行(WFC.N)计划参与日交易量达3.9万亿美元的期权市场清算。",
-          "url": "https://flash.jin10.com/detail/20251223025611959800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时44分]"
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "Alphabet将斥资47.5亿美元收购数据中心合作伙伴Intersect",
@@ -228,6 +232,28 @@
           "time_info": "[00时56分 ~ 01时42分]"
         },
         {
+          "title": "美元指数22日下跌",
+          "url": "https://flash.jin10.com/detail/20251223043216282800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "现货铂金升破2100美元/盎司关口，日内大涨6.6%",
+          "url": "https://flash.jin10.com/detail/20251223041536510800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
           "url": "https://wallstreetcn.com/livenews/3025037",
           "source": "华尔街见闻-快讯",
@@ -286,7 +312,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -296,8 +322,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时35分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251223050537188800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251223050534192800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "航空业ETF收涨1.6%，和生物科技ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3025133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "美股收盘：三大股指齐升 特朗普旗下公司跌超10%",
+          "url": "https://flash.jin10.com/detail/20251223050101214800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
@@ -348,8 +418,30 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "金十图示：2025年12月22日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251223050540781800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "加拿大标普/TSX综合指数收涨0.77%，报32000.10点，继续创收盘历史新高，最近三个交易日累计上涨2.40%。 小盘股指收涨1.45%，报1219.36点，也再创收盘历史新高。 周一（12月22日）北美尾盘，加拿大10年期基准国债收益率跌0.8个基点，报3.461%。",
+          "url": "https://wallstreetcn.com/livenews/3025134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
         {
           "title": "金十图示：2025年12月23日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251223004552919800",
@@ -368,11 +460,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时35分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报362.33点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted AS跌12.7%，在一众北欧个股里表现最差。",
@@ -399,6 +492,28 @@
           "time_info": "[00时56分 ~ 01时42分]"
         },
         {
+          "title": "纳斯达克金龙中国指数收涨0.58%，报7683.26点。 热门中概股里，阿特斯太阳能初步收涨10.7%，小马智行、携程、亚朵、晶科能源、名创优品、汽车之家涨超1%，阿里巴巴涨0.8%。 ETF中，中国科技指数ETF（CQQQ）收涨1.62%，中概互联网指数ETF（KWEB）收涨1.03%。 XtrackersHarvest中证50（ASHS）收涨1.15%，德银嘉实沪深300指数ETF（ASHR）收涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3025125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "标普500指数收涨43.99点，涨幅0.64%，报6878.49点。 道琼斯工业平均指数收涨227.78点，涨幅0.47%，报48362.68点。 纳斯达克综合指数（纳指）收涨121.209点，涨幅0.52%，报23428.829点。 纳斯达克100指数收涨115.525点，涨幅0.46%，报25461.702点。 纳斯达克生物科技指数收涨1.50%，报5824.16点。 费城半导体指数收涨1.10%，报7145.57点。 费城证交所KBW银行指数收涨1.24%，报167.41点。 道琼斯KBW地区银行指数收涨0.30%，报128.56点。",
+          "url": "https://wallstreetcn.com/livenews/3025123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "欧洲STOXX 600指数收跌0.13%，报586.75点。 欧元区STOXX 50指数收跌0.29%，报5743.69点。 富时泛欧绩优300指数收跌0.18%，报2338.05点。",
           "url": "https://wallstreetcn.com/livenews/3025059",
           "source": "华尔街见闻-快讯",
@@ -413,19 +528,8 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "美银CEO：人工智能的经济效益正加速显现",
-          "url": "https://flash.jin10.com/detail/20251223033826278800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
         {
           "title": "美国银行CEO莫伊尼汉：人工智能领域的支出持续增长，助力2026年经济增长。",
           "url": "https://flash.jin10.com/detail/20251223024157751800",
@@ -438,6 +542,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 04时44分]"
+        },
+        {
+          "title": "美银CEO：人工智能的经济效益正加速显现",
+          "url": "https://flash.jin10.com/detail/20251223033826278800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
+        },
+        {
+          "title": "美国银行CEO莫伊尼汉：从长远来看，人工智能将用于提高收入。",
+          "url": "https://flash.jin10.com/detail/20251223025241012800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时35分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -453,18 +582,6 @@
           "time_info": "[03时00分 ~ 04时44分]"
         },
         {
-          "title": "美国银行CEO莫伊尼汉：从长远来看，人工智能将用于提高收入。",
-          "url": "https://flash.jin10.com/detail/20251223025241012800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时44分]"
-        },
-        {
           "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
           "url": "https://wallstreetcn.com/livenews/3025094",
           "source": "华尔街见闻-快讯",
@@ -475,12 +592,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时44分]"
+        },
+        {
+          "title": "市场消息：美国国防部将利用xAI扩展人工智能武器库。",
+          "url": "https://flash.jin10.com/detail/20251223044006238800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -490,8 +618,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时35分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -503,8 +631,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 05时35分]"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时35分]"
         },
         {
           "title": "美国银行CEO Brian Moynihan：AI开支继续，那将给2026年经济增长带去帮助。",
@@ -518,18 +658,6 @@
           "time_info": "03时00分"
         },
         {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时44分]"
-        },
-        {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
           "url": "https://www.zhihu.com/question/1986466538639811812",
           "source": "知乎",
@@ -537,29 +665,30 @@
             14,
             12,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 05时35分]"
+        },
+        {
+          "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
+          "url": "https://wallstreetcn.com/livenews/3025118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "机构：金银价格再创新高，地缘风险外溢但后续动能存疑",
-          "url": "https://flash.jin10.com/detail/20251223040631646800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
         {
           "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
           "url": "https://wallstreetcn.com/articles/3761811",
@@ -568,8 +697,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时35分]"
+        },
+        {
+          "title": "周一（12月22日），彭博电动汽车价格回报指数涨0.82%，报3462.47点，亚太早盘显著上涨——北京时间09:29出现一波跳空上涨行情，后续高位震荡，美股开盘后，随着特斯拉股价创盘中历史最高、逼近500美元。 成分股EVgo、Lucid集团、微宏控股（MVST）涨超3领跑，小马智行涨约2.1%，特斯拉和沃尔沃涨超1%表现靠前。 “特斯拉劲敌”Rivian、禾赛科技、普拉格动力公司则跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3025129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "机构：金银价格再创新高，地缘风险外溢但后续动能存疑",
+          "url": "https://flash.jin10.com/detail/20251223040631646800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时35分]"
         },
         {
           "title": "纽约可可价格反弹，交易员关注指数再平衡带来的买盘",
@@ -586,7 +738,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "交易员大举押注10年期美债收益率数周内将重返4%",
@@ -613,6 +765,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 04时44分]"
+        },
+        {
+          "title": "2/10年期美债收益率涨超1.7个基点",
+          "url": "https://wallstreetcn.com/livenews/3025116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -627,7 +790,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         }

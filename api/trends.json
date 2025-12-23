@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T19:35:51.039361+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2025-12-23T21:51:21.811131+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 80,
+      "match_count": 91,
       "titles": [
         {
           "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时02分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时02分 ~ 21时51分]"
         },
         {
           "title": "黄金暴涨行情未完待续 小摩唱多：明年底有望触及5055美元",
@@ -99,6 +99,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "伦镍日内涨4.00%，现报15836.70美元/吨。",
+          "url": "https://flash.jin10.com/detail/20251223212140011800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD站上0.67，日内涨0.65%。",
+          "url": "https://flash.jin10.com/detail/20251223212055669800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.5%，报70.12美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3025615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
@@ -349,6 +382,18 @@
           "time_info": "[11时57分 ~ 13时03分]"
         },
         {
+          "title": "美元迈向2017年以来最大年度跌幅 期权市场显示还有进一步下跌空间",
+          "url": "https://wallstreetcn.com/livenews/3025568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时51分]"
+        },
+        {
           "title": "美元兑瑞典克朗下跌0.5%至9.1852，触及2022年2月以来最低。",
           "url": "https://wallstreetcn.com/livenews/3025543",
           "source": "华尔街见闻-快讯",
@@ -444,6 +489,17 @@
           "time_info": "17时50分"
         },
         {
+          "title": "融创中国：公司约96亿美元的现有境外债务已获全面解除及免除",
+          "url": "https://wallstreetcn.com/livenews/3025613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "美元兑日元USD/JPY失守156，日内跌幅0.58%。",
           "url": "https://flash.jin10.com/detail/20251223121353601800",
           "source": "金十数据",
@@ -475,17 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
-        },
-        {
-          "title": "美元迈向2017年以来最大年度跌幅 期权市场显示还有进一步下跌空间",
-          "url": "https://wallstreetcn.com/livenews/3025568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "美元/印度卢比1年期隐含收益率上升18个基点至3.26%，创2022年8月以来最高水平。",
@@ -532,6 +577,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "现货白银突破70美元",
+          "url": "https://flash.jin10.com/detail/20251223211244841800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "美国国防部：美国国务院批准向西班牙政府出售F-404发动机风扇，金额为2亿美元。",
           "url": "https://flash.jin10.com/detail/20251223060935552800",
           "source": "金十数据",
@@ -560,7 +616,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -582,7 +638,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -604,7 +660,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -648,9 +704,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "美元指数DXY跌破98，创5日新低。",
@@ -692,7 +759,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -703,7 +770,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -780,9 +847,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "美国天然气期货上涨近5%，至4.135美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20251223210323189800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "英镑兑美元上涨0.3%至1.3502，创10月2日以来最高水平。",
@@ -851,6 +929,17 @@
           "time_info": "11时57分"
         },
         {
+          "title": "美国黄金公司宣布完成3120万美元的定向增发。",
+          "url": "https://flash.jin10.com/detail/20251223210052945800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3025030",
           "source": "华尔街见闻-快讯",
@@ -906,6 +995,39 @@
           "time_info": "11时57分"
         },
         {
+          "title": "据美国财经媒体Semafor：KKR牵头的工厂融资约为5.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20251223205726771800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "机构：美元可能受到疲弱美国数据的影响",
+          "url": "https://flash.jin10.com/detail/20251223205539415800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：KKR正牵头对一座7.5亿美元的水处理厂进行再融资。",
+          "url": "https://flash.jin10.com/detail/20251223205539301800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "现货黄金向上触及4430美元/盎司，日内涨2.11%。",
           "url": "https://flash.jin10.com/detail/20251222234509712800",
           "source": "金十数据",
@@ -931,8 +1053,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "提醒：北京时间21:30，将公布美国三季度GDP修正值、美国三季度核心个人消费支出(PCE)物价指数修正值、美国10月耐用品订单初值、加拿大10月GDP数据。",
+          "url": "https://wallstreetcn.com/livenews/3025620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
         {
           "title": "欧洲斯托克600指数盘中创下588.45点的历史新高，最新上涨0.3%。",
           "url": "https://flash.jin10.com/detail/20251223162113325800",
@@ -1004,6 +1137,18 @@
           "time_info": "[15时02分 ~ 15时46分]"
         },
         {
+          "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
+          "url": "https://www.cls.cn/detail/2237713",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 21时51分]"
+        },
+        {
           "title": "上证指数早盘收报3930.87点，涨0.34%。 深证成指早盘收报13419.60点，涨0.65%。 创业板指早盘收报3217.02点，涨0.78%。 沪深300早盘收报4635.13点，涨0.51%。 科创50早盘收报1342.37点，涨0.53%。 中证500早盘收报7285.43点，涨0.41%。 中证1000早盘收报7427.70点，涨0.26%。",
           "url": "https://wallstreetcn.com/livenews/3025334",
           "source": "华尔街见闻-快讯",
@@ -1029,15 +1174,16 @@
           "time_info": "[03时32分 ~ 05时35分]"
         },
         {
-          "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
-          "url": "https://www.cls.cn/detail/2237713",
-          "source": "财联社热门",
+          "title": "金十图示：2025年12月23日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20251223151025095800",
+          "source": "金十数据",
           "ranks": [
-            10
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时35分]"
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 21时51分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报362.33点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted AS跌12.7%，在一众北欧个股里表现最差。",
@@ -1160,15 +1306,15 @@
           "time_info": "[16时59分 ~ 17时50分]"
         },
         {
-          "title": "金十图示：2025年12月23日（周二）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20251223151025095800",
+          "title": "美国10月耐用品订单月率、第三季度实际个人消费支出季率初值、实际GDP及核心PCE物价指数年化季率初值、加拿大10月GDP月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251223212000000800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "21时51分"
         },
         {
           "title": "三大指数集体翻绿，创业板指此前一度涨超1%，商业航天、旅游、房地产、数字货币等方向跌幅居前，沪深京三市下跌个股超4100只。",
@@ -1191,6 +1337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "波罗的海干散货指数跌4.55%，至1889点，为连续第五个交易日下跌。",
+          "url": "https://wallstreetcn.com/livenews/3025611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "欧洲STOXX 600指数收跌0.13%，报586.75点。 欧元区STOXX 50指数收跌0.29%，报5743.69点。 富时泛欧绩优300指数收跌0.18%，报2338.05点。",
@@ -1325,6 +1482,17 @@
           "time_info": "17时50分"
         },
         {
+          "title": "波罗的海干散货运价指数跌4.55%，至1889点。",
+          "url": "https://flash.jin10.com/detail/20251223210333680800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "金十图示：2025年12月22日（周一）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20251223051753410800",
           "source": "金十数据",
@@ -1411,6 +1579,214 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "AI定格|2025·强国脉动",
+          "url": "https://www.toutiao.com/trending/7586532944194502707/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时37分]"
+        },
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9,
+            4,
+            7,
+            12,
+            14,
+            13,
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时42分 ~ 21时51分]"
+        },
+        {
+          "title": "利用AI造谣“中国女篮”，两男子刑拘",
+          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 21时51分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 21时51分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.douyin.com/hot/2344497",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 21时51分]"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时37分]"
+        },
+        {
+          "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/1986466538639811812",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            11,
+            13,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 07时37分]"
+        },
+        {
+          "title": "美国银行CEO Brian Moynihan：AI开支继续，那将给2026年经济增长带去帮助。",
+          "url": "https://wallstreetcn.com/livenews/3025094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "用AI造谣中国女篮两男子被刑拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
+        },
+        {
+          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 16时59分]"
+        },
+        {
+          "title": "曝英伟达计划春节前对华交付AI芯片",
+          "url": "https://www.toutiao.com/trending/7586876449718685210/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
+          "url": "https://wallstreetcn.com/livenews/3025118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "春晚AI冠名落定：火山引擎将登台、豆包也会参与",
+          "url": "https://wallstreetcn.com/livenews/3025400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "报道：字节在海外上线AI办公App“AnyGen”",
+          "url": "https://wallstreetcn.com/livenews/3025558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "报道：阿里推出“千问智学”，加码AI教育",
+          "url": "https://wallstreetcn.com/livenews/3025557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "钉钉推出全球首个为AI打造的工作智能操作系统Agent OS",
+          "url": "https://wallstreetcn.com/livenews/3025584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "AI拍照能识别管理家庭药箱了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%8B%8D%E7%85%A7%E8%83%BD%E8%AF%86%E5%88%AB%E7%AE%A1%E7%90%86%E5%AE%B6%E5%BA%AD%E8%8D%AF%E7%AE%B1%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
@@ -1600,202 +1976,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "AI定格|2025·强国脉动",
-          "url": "https://www.toutiao.com/trending/7586532944194502707/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时37分]"
-        },
-        {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9,
-            4,
-            7,
-            12,
-            14,
-            13,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时42分 ~ 19时35分]"
-        },
-        {
-          "title": "利用AI造谣“中国女篮”，两男子刑拘",
-          "url": "https://www.toutiao.com/trending/7586636403350523428/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 19时35分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 19时35分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.douyin.com/hot/2344497",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 19时35分]"
-        },
-        {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时37分]"
-        },
-        {
-          "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/1986466538639811812",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            11,
-            13,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 07时37分]"
-        },
-        {
-          "title": "美国银行CEO Brian Moynihan：AI开支继续，那将给2026年经济增长带去帮助。",
-          "url": "https://wallstreetcn.com/livenews/3025094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "用AI造谣中国女篮两男子被刑拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时03分]"
-        },
-        {
-          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 16时59分]"
-        },
-        {
-          "title": "曝英伟达计划春节前对华交付AI芯片",
-          "url": "https://www.toutiao.com/trending/7586876449718685210/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
-          "url": "https://wallstreetcn.com/livenews/3025118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "春晚AI冠名落定：火山引擎将登台、豆包也会参与",
-          "url": "https://wallstreetcn.com/livenews/3025400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "报道：字节在海外上线AI办公App“AnyGen”",
-          "url": "https://wallstreetcn.com/livenews/3025558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "报道：阿里推出“千问智学”，加码AI教育",
-          "url": "https://wallstreetcn.com/livenews/3025557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "AI拍照能识别管理家庭药箱了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%8B%8D%E7%85%A7%E8%83%BD%E8%AF%86%E5%88%AB%E7%AE%A1%E7%90%86%E5%AE%B6%E5%BA%AD%E8%8D%AF%E7%AE%B1%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
         }
       ]
     },

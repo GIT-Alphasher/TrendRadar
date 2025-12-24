@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T06:43:29.008681+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2025-12-25T07:36:32.954966+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时36分]"
         },
         {
           "title": "美元恐创2003年以来“最惨一年”",
@@ -33,8 +33,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时36分]"
         },
         {
           "title": "WTI 2月原油期货收报58.35美元/桶。 NYMEX 1月天然气期货收报4.2420美元/百万英热单位。 NYMEX 1月汽油期货收报1.7471美元/加仑，NYMEX 1月取暖油期货收报2.1576美元/加仑。",
@@ -120,11 +120,25 @@
           "source": "金十数据",
           "ranks": [
             4,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时36分]"
+        },
+        {
+          "title": "美元指数24日基本收平",
+          "url": "https://flash.jin10.com/detail/20251225045209388800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时36分]"
         },
         {
           "title": "周三（12月24日），美联储隔夜逆回购协议（RRP）使用规模为48.03亿美元——交易对手八个，上个交易日报58.93亿美元。",
@@ -139,18 +153,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 05时36分]"
-        },
-        {
-          "title": "美元指数24日基本收平",
-          "url": "https://flash.jin10.com/detail/20251225045209388800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时43分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0160元，较周二夜盘收盘涨120点。成交量489.31亿美元。",
@@ -204,6 +206,30 @@
           "time_info": "[05时36分 ~ 06时43分]"
         },
         {
+          "title": "周三（12月24日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报7.0074元，较周二纽约尾盘涨119点，日内整体交投于7.0195-7.0015元区间。",
+          "url": "https://wallstreetcn.com/livenews/3026357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时36分]"
+        },
+        {
+          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://flash.jin10.com/detail/20251225051502192800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时36分]"
+        },
+        {
           "title": "市场消息：秘鲁央行在外汇市场买入1.37亿美元。",
           "url": "https://flash.jin10.com/detail/20251225010956243800",
           "source": "金十数据",
@@ -214,6 +240,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时31分]"
+        },
+        {
+          "title": "周三（12月24日）纽约尾盘，欧元兑美元跌0.13%，英镑兑美元跌0.09%，美元兑瑞郎涨0.05%。 商品货币对中，澳元兑美元涨0.05%，纽元兑美元跌0.11%，美元兑加元跌0.10%。 瑞典克朗兑美元大致持平，挪威克朗兑美元涨0.27%，丹麦克朗兑美元跌0.14%。 波兰兹罗提兑美元涨0.02%，匈牙利福林兑美元涨0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3026348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时36分]"
         },
         {
           "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
@@ -240,17 +278,6 @@
           "time_info": "[00时53分 ~ 01时39分]"
         },
         {
-          "title": "周三（12月24日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报7.0074元，较周二纽约尾盘涨119点，日内整体交投于7.0195-7.0015元区间。",
-          "url": "https://wallstreetcn.com/livenews/3026357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
           "title": "圣诞前夕交易清淡，标普500指数创新高，英特尔跌近4%，金属涨势暂缓，美元连跌三日",
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
@@ -260,28 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
-        },
-        {
-          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
-          "url": "https://flash.jin10.com/detail/20251225051502192800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "周三（12月24日）纽约尾盘，欧元兑美元跌0.13%，英镑兑美元跌0.09%，美元兑瑞郎涨0.05%。 商品货币对中，澳元兑美元涨0.05%，纽元兑美元跌0.11%，美元兑加元跌0.10%。 瑞典克朗兑美元大致持平，挪威克朗兑美元涨0.27%，丹麦克朗兑美元跌0.14%。 波兰兹罗提兑美元涨0.02%，匈牙利福林兑美元涨0.33%。",
-          "url": "https://wallstreetcn.com/livenews/3026348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
         },
         {
           "title": "现货黄金跌破4450美元",
@@ -312,7 +317,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         },
@@ -334,7 +339,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         }
@@ -342,7 +347,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
@@ -412,6 +417,18 @@
           "time_info": "[02时58分 ~ 04时43分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
+          "url": "https://www.cls.cn/detail/2239383",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时36分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
           "url": "https://wallstreetcn.com/livenews/3026332",
           "source": "华尔街见闻-快讯",
@@ -422,6 +439,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时43分]"
+        },
+        {
+          "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
+          "url": "https://wallstreetcn.com/livenews/3026354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时36分]"
         },
         {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
@@ -436,26 +465,15 @@
           "time_info": "[00时53分 ~ 01时39分]"
         },
         {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
-          "url": "https://wallstreetcn.com/livenews/3026354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "07时36分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
@@ -615,11 +633,12 @@
             18,
             13,
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时36分]"
         },
         {
           "title": "车厘子价格大跳水 有人欢喜有人愁",
@@ -633,8 +652,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时36分]"
         },
         {
           "title": "车厘子、蓝莓价格“跳水”迎热销",
@@ -646,11 +665,12 @@
             14,
             16,
             20,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时36分]"
         },
         {
           "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
@@ -681,18 +701,41 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
         {
           "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
           "url": "https://wallstreetcn.com/livenews/3026368",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时36分]"
         },
         {
           "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
@@ -711,11 +754,12 @@
           "url": "https://flash.jin10.com/detail/20251225053135051800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时36分]"
         }
       ]
     },
@@ -733,19 +777,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时36分]"
         },
         {
           "title": "美债收益率跌约3个基点，北美时段打破沉寂并逐步走低",
           "url": "https://wallstreetcn.com/livenews/3026345",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时36分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T11:54:53.698361+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2025-12-24T13:02:01.371280+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
@@ -93,11 +93,23 @@
           "url": "https://www.cls.cn/detail/2238199",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时02分]"
+        },
+        {
+          "title": "泰铢兑美元汇率短暂升值至31.00，随后回吐部分涨幅。",
+          "url": "https://flash.jin10.com/detail/20251224121504598800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时54分"
+          "time_info": "13时02分"
         },
         {
           "title": "纽约期银突破71美元/盎司，日内大涨3.55%。",
@@ -109,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "印度10年期国债收益率下跌5个基点，报6.5848%。印度卢比兑美元开盘报89.56，较前一交易日收盘上涨0.1%。",
-          "url": "https://flash.jin10.com/detail/20251224113155148800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
         },
         {
           "title": "秘鲁央行表示在即期市场买入1.4亿美元。",
@@ -196,6 +197,30 @@
           "time_info": "[04时43分 ~ 05时36分]"
         },
         {
+          "title": "印度10年期国债收益率下跌5个基点，报6.5848%。印度卢比兑美元开盘报89.56，较前一交易日收盘上涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20251224113155148800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 13时02分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0280元，较周一夜盘收盘涨88点。成交量410.19亿美元。",
           "url": "https://wallstreetcn.com/livenews/3025743",
           "source": "华尔街见闻-快讯",
@@ -233,6 +258,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时43分]"
+        },
+        {
+          "title": "什么信号？华尔街老兵大幅上调黄金目标价：明年将冲击6000美元大关！",
+          "url": "https://www.cls.cn/detail/2238315",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时02分]"
         },
         {
           "title": "周二（12月23日），美联储隔夜逆回购协议（RRP）使用规模为58.93万亿美元，上个交易日报15.23万亿美元。",
@@ -287,6 +324,18 @@
           "time_info": "[03时01分 ~ 04时43分]"
         },
         {
+          "title": "美新型战列舰造价或高达150亿美元",
+          "url": "https://www.toutiao.com/trending/7586457401441206323/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时02分]"
+        },
+        {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
           "url": "https://wallstreetcn.com/livenews/3025706",
           "source": "华尔街见闻-快讯",
@@ -309,18 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时36分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 11时54分]"
         },
         {
           "title": "纽约期银涨4.4%，创历史新高，逼近72美元，现货铂金涨超7%不断靠拢2008年所创历史最高位",
@@ -381,6 +418,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时44分]"
+        },
+        {
+          "title": "英国石油（BP）接近达成协议，向投资公司Stonepeak出售嘉实多65%股份，这一交易将令BP获得约60亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3025952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 13时02分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了14个对手方的58.93亿美元。",
@@ -452,17 +501,6 @@
           "time_info": "03时33分"
         },
         {
-          "title": "什么信号？华尔街老兵大幅上调黄金目标价：明年将冲击6000美元大关！",
-          "url": "https://www.cls.cn/detail/2238315",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
           "title": "市场消息：美国货币监理署批准提高大型投保国民银行的标准，将合并资产总额门槛提高至7000亿美元。",
           "url": "https://flash.jin10.com/detail/20251224034002841800",
           "source": "金十数据",
@@ -474,13 +512,24 @@
           "time_info": "04时43分"
         },
         {
+          "title": "泰铢兑美元一度升至31.00，随后涨幅收窄。",
+          "url": "https://wallstreetcn.com/livenews/3025986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "澳元兑美元AUD/USD升至自2024年10月以来的最高盘中水平，最新上涨0.1%至0.6707，此前一度触及0.6715。",
           "url": "https://flash.jin10.com/detail/20251224111927245800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -513,7 +562,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -527,17 +576,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        },
-        {
-          "title": "英国石油（BP）接近达成协议，向投资公司Stonepeak出售嘉实多65%股份，这一交易将令BP获得约60亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3025952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
         },
         {
           "title": "现货铂金涨幅超7%，触及2277.05美元/盎司的历史新高。 现货钯金涨幅扩大，最新上涨7%，报1881.43美元/盎司。",
@@ -557,7 +595,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -568,7 +606,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -590,7 +628,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -601,18 +639,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "美新型战列舰造价或高达150亿美元",
-          "url": "https://www.toutiao.com/trending/7586457401441206323/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -620,7 +647,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
@@ -633,8 +660,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 11时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 13时02分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
@@ -646,17 +673,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时57分 ~ 07时36分]"
-        },
-        {
-          "title": "金十图示：2025年12月24日（周三）富时中国A50指数成分股午盘收盘行情一览：银行板块涨少跌多，保险、酿酒板块全线走低",
-          "url": "https://flash.jin10.com/detail/20251224113421162800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨1.4%，创11月11日（收涨2.1%）以来最大单日涨幅，报367.15点。 在十个板块中，北欧医疗保健板块涨幅最大。 权重股诺和诺德涨9.2%，在一众北欧个股里领跑。",
@@ -694,6 +710,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时43分]"
+        },
+        {
+          "title": "金十图示：2025年12月24日（周三）富时中国A50指数成分股午盘收盘行情一览：银行板块涨少跌多，保险、酿酒板块全线走低",
+          "url": "https://flash.jin10.com/detail/20251224113421162800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 13时02分]"
         },
         {
           "title": "德国DAX 30指数初步收涨0.20%，报24332.19点。 法国股指初步收跌0.21%，意大利股指初步收涨0.09%、银行指数涨0.21%，英国股指初步收涨0.28%。",
@@ -745,6 +773,42 @@
           "time_info": "[05时36分 ~ 06时43分]"
         },
         {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。铂封涨停板，涨幅为7%，沪银、钯涨超6%，沪镍涨超4%，碳酸锂、乙二醇涨超3%。跌幅方面，多晶硅跌超2%，集运指数（欧线）、沪锡跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251224113049361800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 13时02分]"
+        },
+        {
+          "title": "上证指数早盘收报3929.25点，涨0.24%。 深证成指早盘收报13410.05点，涨0.31%。 创业板指早盘收报3207.59点，涨0.08%。 沪深300早盘收报4615.39点，跌0.12%。 科创50早盘收报1343.96点，涨0.29%。 中证500早盘收报7312.68点，涨0.77%。 中证1000早盘收报7475.16点，涨1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3025966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 13时02分]"
+        },
+        {
+          "title": "12月24日午间收评：三大指数小幅上涨，商业航天概念再度爆发",
+          "url": "https://wallstreetcn.com/livenews/3025965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 13时02分]"
+        },
+        {
           "title": "美国消费者信心指数连续第五个月下滑",
           "url": "https://wallstreetcn.com/livenews/3025683",
           "source": "华尔街见闻-快讯",
@@ -781,26 +845,15 @@
           "time_info": "[00时58分 ~ 01时44分]"
         },
         {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。铂封涨停板，涨幅为7%，沪银、钯涨超6%，沪镍涨超4%，碳酸锂、乙二醇涨超3%。跌幅方面，多晶硅跌超2%，集运指数（欧线）、沪锡跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251224113049361800",
+          "title": "印度Sensex指数开盘持平，报85533.11点。",
+          "url": "https://flash.jin10.com/detail/20251224115535663800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "上证指数早盘收报3929.25点，涨0.24%。 深证成指早盘收报13410.05点，涨0.31%。 创业板指早盘收报3207.59点，涨0.08%。 沪深300早盘收报4615.39点，跌0.12%。 科创50早盘收报1343.96点，涨0.29%。 中证500早盘收报7312.68点，涨0.77%。 中证1000早盘收报7475.16点，涨1.12%。",
-          "url": "https://wallstreetcn.com/livenews/3025966",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时54分"
+          "time_info": "13时02分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.5%。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。",
@@ -814,17 +867,6 @@
           "time_info": "05时36分"
         },
         {
-          "title": "12月24日午间收评：三大指数小幅上涨，商业航天概念再度爆发",
-          "url": "https://wallstreetcn.com/livenews/3025965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
           "title": "标普500指数初步收涨0.4%，电信板块涨1%，科技板块涨0.9%，能源板块涨0.6%，日用品板块跌0.5%。 纳斯达克100指数初步收涨0.5%，成分股中，迈威尔科技涨3.4%，英伟达涨2.8%，博通涨2.2%，亚马逊、谷歌A、华纳兄弟探索、谷歌A、谷歌C、Ferrovial、核电股CEG等至少涨约1%，星巴克跌2.7%，Idexx跌3.1%，Strategy（MSTR）跌3.9%。 摩根大通初步收涨0.9%，与英伟达、亚马逊领跑道指成分股，沃尔玛、麦当劳跌超1.5%。",
           "url": "https://wallstreetcn.com/livenews/3025764",
           "source": "华尔街见闻-快讯",
@@ -834,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "恒指收涨0.17%，报25818.93点。恒生科技指数涨0.19%。 今日港股因假期提前收市。",
+          "url": "https://wallstreetcn.com/livenews/3025981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "加拿大标普/TSX综合指数收涨0.18%，报32058.73点，继续创收盘历史新高。 小盘股指收涨0.27%，报1222.69点，也再创收盘历史新高。 周二（12月23日）北美尾盘，加拿大10年期基准国债收益率跌4.5个基点，报3.418%，北京时间22:06曾刷新日高至3.459%——短线形成冲高回落行情。 两年期加债收益率跌2.7个基点，报2.572%；五年期加债收益率跌3.6个基点，报2.945%。",
@@ -875,7 +928,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -928,8 +981,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 11时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 13时02分]"
         },
         {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
@@ -1034,7 +1087,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -1080,11 +1133,12 @@
           "url": "https://flash.jin10.com/detail/20251224114551569800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 13时02分]"
         },
         {
           "title": "白宫国家经济委员会主任哈塞特：贵金属价格“飙升”是有充分理由的。",
@@ -1142,7 +1196,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -1153,7 +1207,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -1164,7 +1218,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -1172,7 +1226,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -1230,6 +1284,17 @@
           "time_info": "[00时58分 ~ 01时44分]"
         },
         {
+          "title": "如何看待微软 Galen Hunt 宣称要用 AI+ 算法对所有 C/C++ 程序重新为 Rust 程序？",
+          "url": "https://www.zhihu.com/question/1986826913436680279",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
           "title": "业内人士：港股配置性价比较高，看好国产AI龙头等方向",
           "url": "https://wallstreetcn.com/livenews/3025805",
           "source": "华尔街见闻-快讯",
@@ -1239,6 +1304,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上海市新增9款已完成登记的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3025990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224115857022800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美国经济数据显示人工智能生产力正在蓬勃发展。",
+          "url": "https://flash.jin10.com/detail/20251224000430869800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
         }
       ]
     },
@@ -1253,9 +1357,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时02分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -1267,23 +1371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国经济数据显示人工智能生产力正在蓬勃发展。",
-          "url": "https://flash.jin10.com/detail/20251224000430869800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
         }
       ]
     }

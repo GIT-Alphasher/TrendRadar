@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T13:48:13.032491+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2025-12-26T15:01:29.025898+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
@@ -151,9 +151,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时01分]"
         },
         {
           "title": "今年，美国科技亿万富翁们的总净资产增加了超过5500亿美元，这得益于投资者对领先人工智能公司的狂热追捧。",
@@ -162,7 +174,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -178,18 +190,6 @@
           "time_info": "07时36分"
         },
         {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 13时48分]"
-        },
-        {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
           "url": "https://www.cls.cn/detail/2240534",
           "source": "财联社热门",
@@ -198,8 +198,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时01分]"
         },
         {
           "title": "离岸人民币兑美元升穿 7.0 关口，是什么在助推这波上涨，其叠加国际金属涨价潮，对哪些行业有较大影响？",
@@ -215,6 +215,18 @@
           "time_info": "[11时54分 ~ 13时48分]"
         },
         {
+          "title": "37%美国人拿不出400美元应急",
+          "url": "https://www.toutiao.com/trending/7587665279485329451/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时01分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0058元，较周三夜盘收盘涨228点。成交量359.43亿美元。",
           "url": "https://wallstreetcn.com/livenews/3026822",
           "source": "华尔街见闻-快讯",
@@ -226,17 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时36分 ~ 07时36分]"
-        },
-        {
-          "title": "37%美国人拿不出400美元应急",
-          "url": "https://www.toutiao.com/trending/7587665279485329451/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
           "title": "现货铂金上涨8%至每盎司2,413.62美元，创纪录新高。",
@@ -263,15 +264,48 @@
           "time_info": "[00时54分 ~ 01时45分]"
         },
         {
+          "title": "美元指数DXY向上触及98，日内涨0.04%。",
+          "url": "https://flash.jin10.com/detail/20251226143852951800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "分析师：多重因素助推贵金属史诗级行情 黄金白银明年或向5000与90美元迈进",
+          "url": "https://flash.jin10.com/detail/20251226141336569800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "英镑兑美元GBP/USD失守1.35，日内跌幅0.18%。",
           "url": "https://flash.jin10.com/detail/20251226125928412800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "现货铂金上涨8%，创下每盎司2,413.62美元的历史新高。",
@@ -283,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "两位参与季度定价谈判的消息人士表示，顶级铝生产商已将1-3月对日本买家的原铝溢价报价从最初的每吨190-203美元上调至每吨210-225美元。",
+          "url": "https://flash.jin10.com/detail/20251226133510381800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "韩元兑美元汇率升至11月4日以来最高水平。",
@@ -321,7 +366,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "新加坡富时海峡时报指数上涨0.1%，报4642.42点；此前曾触及4643.73点。",
@@ -330,20 +375,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
         {
-          "title": "台湾证交所加权股价指数收涨0.6%报28,556.02点。",
-          "url": "https://wallstreetcn.com/livenews/3027057",
+          "title": "越南VN指数跌3%，报1690.44点。",
+          "url": "https://wallstreetcn.com/livenews/3027042",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2,
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时01分]"
         },
         {
           "title": "上证指数早盘收报3952.09点，跌0.19%。 深证成指早盘收报13554.07点，涨0.17%。 创业板指早盘收报3234.63点，跌0.15%。 沪深300早盘收报4643.95点，涨0.03%。 科创50早盘收报1342.12点，跌0.51%。 中证500早盘收报7415.97点，涨0.07%。 中证1000早盘收报7570.90点，跌0.11%。",
@@ -385,16 +432,16 @@
           "time_info": "[11时54分 ~ 13时48分]"
         },
         {
-          "title": "越南VN指数跌3%，报1690.44点。",
-          "url": "https://wallstreetcn.com/livenews/3027042",
+          "title": "台湾证交所加权股价指数收涨0.6%报28,556.02点。",
+          "url": "https://wallstreetcn.com/livenews/3027057",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            10
+            4,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时48分]"
+          "time_info": "[13时48分 ~ 15时01分]"
         },
         {
           "title": "A股三大指数集体跳水翻绿。",
@@ -422,13 +469,24 @@
           "time_info": "[11时54分 ~ 13时01分]"
         },
         {
+          "title": "日经225指数收涨0.7%，报50750.39点。 日本东证指数收涨0.1%，报3423.06点。 韩国首尔综指收涨0.5%，报4129.68点。",
+          "url": "https://wallstreetcn.com/livenews/3027090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "新加坡11月季调后工业产出指数月率 -10.2%，预期-7.6%，前值由11.50%修正为11.2%。",
           "url": "https://flash.jin10.com/detail/20251226130002243800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -538,7 +596,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -549,108 +607,15 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI的“广告模式”已初具雏形",
-          "url": "https://wallstreetcn.com/articles/3762036",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时36分]"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            20,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 13时48分]"
-        },
-        {
-          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
-          "url": "https://www.cls.cn/detail/2240453",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 13时48分]"
-        },
-        {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 13时48分]"
-        },
-        {
-          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
-          "url": "https://wallstreetcn.com/livenews/3027011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时48分]"
-        },
-        {
-          "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
-          "url": "https://www.zhihu.com/question/1987780060753719586",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 13时48分]"
-        },
-        {
-          "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
-          "url": "https://flash.jin10.com/detail/20251226064520664800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
@@ -661,8 +626,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时01分]"
         },
         {
           "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
@@ -684,11 +649,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时01分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-26）",
@@ -727,6 +693,112 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 13时01分]"
+        },
+        {
+          "title": "工业和信息化部：今年人工智能核心产业规模超万亿元",
+          "url": "https://wallstreetcn.com/livenews/3027068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时36分]"
+        },
+        {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            20,
+            21,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 15时01分]"
+        },
+        {
+          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
+          "url": "https://www.cls.cn/detail/2240453",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 13时48分]"
+        },
+        {
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时01分]"
+        },
+        {
+          "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
+          "url": "https://www.zhihu.com/question/1987780060753719586",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 15时01分]"
+        },
+        {
+          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
+          "url": "https://wallstreetcn.com/livenews/3027011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时48分]"
+        },
+        {
+          "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
+          "url": "https://flash.jin10.com/detail/20251226064520664800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         }
       ]
     },

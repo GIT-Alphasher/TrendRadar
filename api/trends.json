@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T18:53:48.887599+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2025-12-26T19:39:59.380645+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 18时53分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 19时39分]"
         },
         {
           "title": "200亿美元买下Groq，英伟达图啥？",
@@ -182,7 +182,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -207,17 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
-        },
-        {
-          "title": "现货白银短线拉升，日内大涨5.00%，现报75.47美元/盎司，续创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251226182654736800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "英媒：人工智能热潮料正使美国科技界富豪的净资产增加5000亿美元",
@@ -265,6 +254,18 @@
           "time_info": "[17时43分 ~ 18时53分]"
         },
         {
+          "title": "现货白银短线拉升，日内大涨5.00%，现报75.47美元/盎司，续创历史新高。",
+          "url": "https://flash.jin10.com/detail/20251226182654736800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时39分]"
+        },
+        {
           "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
           "url": "https://www.cls.cn/detail/2240558",
           "source": "财联社热门",
@@ -310,8 +311,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时39分]"
+        },
+        {
+          "title": "现货钯金日内大涨8.00%，现报1830.81美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251226182016546800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时53分]"
+          "time_info": "[18时53分 ~ 19时39分]"
         },
         {
           "title": "现货铂金上涨8%至每盎司2,413.62美元，创纪录新高。",
@@ -347,17 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
-        },
-        {
-          "title": "现货钯金日内大涨8.00%，现报1830.81美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251226182016546800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "现货钯金上涨逾7%，至每盎司1809.82美元。",
@@ -479,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "现货白银日内涨幅达5.0%，报75.49美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3027268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
@@ -573,6 +586,18 @@
           "time_info": "[13时48分 ~ 15时01分]"
         },
         {
+          "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
+          "url": "https://wallstreetcn.com/articles/3762115",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时39分]"
+        },
+        {
           "title": "A股三大指数集体跳水翻绿。",
           "url": "https://wallstreetcn.com/livenews/3027015",
           "source": "华尔街见闻-快讯",
@@ -584,18 +609,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时54分 ~ 13时48分]"
-        },
-        {
-          "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
-          "url": "https://wallstreetcn.com/articles/3762115",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时53分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）富时中国A50指数成分股午盘收盘行情一览：银行板块多数走低，光伏设备、小金属板块大幅上扬",
@@ -633,6 +646,18 @@
           "time_info": "[16时56分 ~ 16时57分]"
         },
         {
+          "title": "金十图示：2025年12月26日（周五）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251226180301526800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时39分]"
+        },
+        {
           "title": "新加坡11月季调后工业产出指数月率 -10.2%，预期-7.6%，前值由11.50%修正为11.2%。",
           "url": "https://flash.jin10.com/detail/20251226130002243800",
           "source": "金十数据",
@@ -653,17 +678,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
-        },
-        {
-          "title": "金十图示：2025年12月26日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20251226180301526800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "A股三大指数集体收涨",
@@ -705,7 +719,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -727,7 +741,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -803,8 +817,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 18时53分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 19时39分]"
         },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -819,6 +833,20 @@
           "time_info": "[11时54分 ~ 13时48分]"
         },
         {
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时39分]"
+        },
+        {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
           "url": "https://www.zhihu.com/question/1987780060753719586",
           "source": "知乎",
@@ -829,19 +857,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时01分 ~ 15时41分]"
-        },
-        {
-          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
-          "url": "https://www.cls.cn/detail/2239926",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 18时53分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -1027,7 +1042,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
@@ -1043,6 +1058,17 @@
           "time_info": "[11时54分 ~ 18时53分]"
         },
         {
+          "title": "今年人工智能核心产业规模超万亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A0%B8%E5%BF%83%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E8%B6%85%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时39分]"
+        },
+        {
           "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
           "url": "https://flash.jin10.com/detail/20251226040528613800",
           "source": "金十数据",
@@ -1055,17 +1081,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时43分 ~ 07时36分]"
-        },
-        {
-          "title": "今年人工智能核心产业规模超万亿元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A0%B8%E5%BF%83%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E8%B6%85%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "报道：鸿海向日本政府寻求补贴 以在当地生产人工智能服务器",
@@ -1129,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时01分 ~ 15时41分]"
+        },
+        {
+          "title": "我国首部大模型国家标准实施，构建人工智能产业“标准基座”",
+          "url": "https://wallstreetcn.com/livenews/3027273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },

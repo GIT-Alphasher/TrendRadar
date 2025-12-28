@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T15:00:54.085796+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2025-12-28T15:38:21.201710+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "ranks": [
             17,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 15时00分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 15时38分]"
         },
         {
           "title": "为什么今年的赣南脐橙销不动，价格低也没市场？",
@@ -64,11 +65,12 @@
           "ranks": [
             19,
             16,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 15时00分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 15时38分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -80,8 +82,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 15时00分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时38分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -164,11 +166,12 @@
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 15时00分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 15时38分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
@@ -267,8 +270,56 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 15时00分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 15时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
+          "url": "https://www.cls.cn/detail/2241658",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时38分]"
+        },
+        {
+          "title": "价值40万美元龙虾运往Costco途中失窃，FBI介入调查",
+          "url": "https://flash.jin10.com/detail/20251228150719891800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     },
@@ -286,26 +337,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时55分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
-          "url": "https://www.cls.cn/detail/2241658",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 15时00分]"
         }
       ]
     }

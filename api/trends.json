@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-28T16:54:10.915935+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2025-12-28T17:40:28.002783+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "价格",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "为什么今年的赣南脐橙销不动，价格低也没市场？",
+          "url": "https://www.zhihu.com/question/1981100627191936043",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            13,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 17时40分]"
+        },
         {
           "title": "尚福林：提升资本市场的价格发现、资源配置和风险管理等功能",
           "url": "https://wallstreetcn.com/livenews/3027554",
@@ -29,21 +44,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 07时35分]"
-        },
-        {
-          "title": "为什么今年的赣南脐橙销不动，价格低也没市场？",
-          "url": "https://www.zhihu.com/question/1981100627191936043",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            13,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 16时54分]"
         },
         {
           "title": "白银价格暴涨 马斯克：这可不好",
@@ -74,6 +74,17 @@
           "time_info": "[00时55分 ~ 06时42分]"
         },
         {
+          "title": "原材料价格飙升传导至终端 动力电池产业链涨价潮起",
+          "url": "https://flash.jin10.com/detail/20251228172327030800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "白银价格狂飙，马斯克直言：这不好",
           "url": "https://wallstreetcn.com/livenews/3027589",
           "source": "华尔街见闻-快讯",
@@ -81,11 +92,34 @@
             9,
             17,
             21,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 17时40分]"
+        },
+        {
+          "title": "茅台董事长陈华：尽最大努力防止价格炒作，让产品价格跟随市场",
+          "url": "https://wallstreetcn.com/livenews/3027624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "分析人士警告：贵金属价格已站在“悬崖边缘”",
+          "url": "https://flash.jin10.com/detail/20251228170456738800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -119,12 +153,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "白银价格已暴涨170%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%B7%B2%E6%9A%B4%E6%B6%A8170%25%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -137,6 +182,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 07时35分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 17时40分]"
         },
         {
           "title": "原告出示证据 右下角写着“AI生成”",
@@ -164,28 +223,27 @@
           "time_info": "[06时42分 ~ 15时00分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 16时54分]"
-        },
-        {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
           "url": "https://wallstreetcn.com/livenews/3027613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时40分]"
+        },
+        {
+          "title": "对比互联网泡沫，AI现在走到“1998年”？",
+          "url": "https://wallstreetcn.com/articles/3762198",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时40分"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
@@ -224,7 +282,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
@@ -237,8 +295,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 16时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时55分 ~ 17时40分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -282,11 +340,23 @@
           "ranks": [
             2,
             6,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 17时40分]"
+        },
+        {
+          "title": "中国人民银行科技司司长李伟：积极稳妥、安全有序推进人工智能金融应用",
+          "url": "https://wallstreetcn.com/livenews/3027626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
@@ -331,11 +401,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 17时40分]"
         }
       ]
     },

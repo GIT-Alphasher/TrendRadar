@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T17:56:50.962999+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2025-12-29T18:53:19.392759+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时04分 ~ 15时05分]"
+        },
+        {
+          "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
+          "url": "https://wallstreetcn.com/articles/3762225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 18时53分]"
         },
         {
           "title": "现货黄金周一高开，现报4548美元/盎司，逼近新高。",
@@ -112,18 +125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
-        },
-        {
-          "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
-          "url": "https://wallstreetcn.com/articles/3762225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时04分 ~ 17时56分]"
         },
         {
           "title": "小米副董事长拟套现不超20亿美元，知情人士：他想成立投资基金",
@@ -291,6 +292,28 @@
           "time_info": "15时05分"
         },
         {
+          "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
+          "url": "https://wallstreetcn.com/articles/3762221",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "WTI原油持续走高，日内涨幅扩大至2%，现报58.13美元/桶。布伦特原油涨1.72%，现报61.95美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251229175652443800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "消息人士：印度向信实工业和英国石油公司索赔300亿美元，理由是天然气田产量不足。",
           "url": "https://flash.jin10.com/detail/20251229112904282800",
           "source": "金十数据",
@@ -330,9 +353,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "离岸人民币兑美元升破7，日内涨0.06%，现报6.9999。",
+          "url": "https://wallstreetcn.com/livenews/3028091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "现货钯金下跌近9%，至每盎司1,750.75美元。",
@@ -382,7 +416,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
@@ -392,11 +426,12 @@
             17,
             10,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[13时55分 ~ 18时53分]"
         },
         {
           "title": "上证指数收报3965.28点，涨0.04%。 深证成指收报13537.10点，跌0.49%。 创业板指收报3222.61点，跌0.66%。 沪深300收报4639.37点，跌0.38%。 科创50收报1346.32点，涨0.04%。 中证500收报7430.61点，跌0.38%。 中证1000收报7594.16点，跌0.15%。",
@@ -458,6 +493,18 @@
           "time_info": "[13时55分 ~ 15时05分]"
         },
         {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，沪指录得9连阳，商业航天持续爆发",
+          "url": "https://www.cls.cn/detail/2242902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时53分]"
+        },
+        {
           "title": "上证指数早盘收报3975.92点，涨0.31%。 深证成指早盘收报13607.39点，涨0.03%。 创业板指早盘收报3233.53点，跌0.32%。 沪深300早盘收报4660.90点，涨0.08%。 科创50早盘收报1358.01点，涨0.91%。 中证500早盘收报7473.69点，涨0.20%。 中证1000早盘收报7620.47点，涨0.20%。",
           "url": "https://wallstreetcn.com/livenews/3027872",
           "source": "华尔街见闻-快讯",
@@ -491,6 +538,28 @@
           "time_info": "12时21分"
         },
         {
+          "title": "俄乌和谈预期提振市场信心 俄罗斯MOEX指数创三个多月新高",
+          "url": "https://flash.jin10.com/detail/20251229180919151800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251229180410481800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "恒生指数午后转跌，此前一度涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3027905",
           "source": "华尔街见闻-快讯",
@@ -511,17 +580,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，沪指录得9连阳，商业航天持续爆发",
-          "url": "https://www.cls.cn/detail/2242902",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "金十图示：2025年12月29日（周一）全球股市指数-欧洲市场（盘初）",
@@ -670,7 +728,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "为什么今年的赣南脐橙销不动，价格低也没市场？",
@@ -749,17 +807,6 @@
           "time_info": "17时02分"
         },
         {
-          "title": "吉祥航空：拟购买25架空客A320系列飞机 交易价格为41亿美元",
-          "url": "https://wallstreetcn.com/livenews/3028073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "80美元！现货白银价格创下新记录",
           "url": "https://flash.jin10.com/detail/20251229070052122800",
           "source": "金十数据",
@@ -771,16 +818,40 @@
           "time_info": "07时37分"
         },
         {
+          "title": "进口GLP-1减肥药价格腰斩：司美格鲁肽、替尔泊肽集体降价",
+          "url": "https://wallstreetcn.com/livenews/3028119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "吉祥航空：拟购买25架空客A320系列飞机 交易价格为41亿美元",
+          "url": "https://wallstreetcn.com/livenews/3028073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时53分]"
+        },
+        {
           "title": "如何看待存储器价格暴涨，手机和电脑明年真会涨 1000 元以上吗？",
           "url": "https://www.zhihu.com/question/1987821073870395080",
           "source": "知乎",
           "ranks": [
             18,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 18时53分]"
         },
         {
           "title": "茅台董事长：想尽办法防止价格炒作",
@@ -810,11 +881,12 @@
           "url": "https://www.cls.cn/detail/2242491",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时53分]"
         },
         {
           "title": "国内金饰价格小幅回落8元/克",
@@ -845,7 +917,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -890,11 +962,12 @@
             23,
             27,
             22,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 17时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 18时53分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -990,7 +1063,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -1009,7 +1082,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1042,9 +1115,37 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
+          "url": "https://wallstreetcn.com/livenews/3028100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     },
@@ -1063,6 +1164,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时53分 ~ 12时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海：用好“算力券、模型券、语料券”等加大对消费类大模型的支持力度",
+          "url": "https://wallstreetcn.com/livenews/3028078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     },

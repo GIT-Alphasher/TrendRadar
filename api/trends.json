@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T07:37:19.371025+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-12-29T12:21:33.964296+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -43,7 +43,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -54,7 +54,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -65,9 +65,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "比特币涨幅扩大至近3%，重返9万美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3027879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "小米副董事长拟套现不超20亿美元，知情人士：他想成立投资基金",
@@ -107,6 +118,17 @@
           "time_info": "[06时44分 ~ 07时37分]"
         },
         {
+          "title": "金银跳水，白银从涨6%到跌2%，黄金跌破4500美元关口，伦铜飙升逾5%",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "2026年外汇前瞻——美元霸权能否谢幕？五大货币终极推演！丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20251228220255256800",
           "source": "金十数据",
@@ -116,12 +138,161 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "消息人士：印度向信实工业和英国石油公司索赔300亿美元，理由是天然气田产量不足。",
+          "url": "https://flash.jin10.com/detail/20251229112904282800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "小米副董事长拟套现不超20亿美元",
+          "url": "https://www.toutiao.com/trending/7588864399315173430/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "现货钯金下跌近9%，至每盎司1,750.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3027852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "现货钯金跌近9%，至1750.75美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251229110200455800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "现货黄金跌破4500美元",
+          "url": "https://www.toutiao.com/trending/7588839864020877322/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3975.92点，涨0.31%。 深证成指早盘收报13607.39点，涨0.03%。 创业板指早盘收报3233.53点，跌0.32%。 沪深300早盘收报4660.90点，涨0.08%。 科创50早盘收报1358.01点，涨0.91%。 中证500早盘收报7473.69点，涨0.20%。 中证1000早盘收报7620.47点，涨0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3027872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股多数走高、酿酒行业股悉数下跌",
+          "url": "https://flash.jin10.com/detail/20251229113615046800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "韩国保健福祉部称，得益于韩国首尔综合股价指数的强劲涨势，韩国国民年金公会今年的投资收益率预计将达到20%。",
+          "url": "https://wallstreetcn.com/livenews/3027859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "科创50指数涨超1%，寒武纪涨超7%，中芯国际、华虹涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3027854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "数据显示：得益于韩国综合股价指数的强劲涨势，韩国国民年金公会预计今年的投资收益率将达到 20%。",
+          "url": "https://flash.jin10.com/detail/20251229110943756800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "越南VN指数涨1%报1747.13点。",
+          "url": "https://wallstreetcn.com/livenews/3027843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "A股三大指数集体翻红，创业板指此前一度跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3027838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "日经225指数早盘收跌0.4%，日本东证指数收涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3027833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么今年的赣南脐橙销不动，价格低也没市场？",
@@ -160,9 +331,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "主要秋粮品种收购价格企稳回升",
+          "url": "https://www.douyin.com/hot/2350635",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "茅台董事长：想尽办法防止价格炒作",
@@ -174,13 +356,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 05时35分]"
+        },
+        {
+          "title": "白银价格又双叒叕创新高！马斯克疾呼：这可不是什么好事",
+          "url": "https://www.cls.cn/detail/2242324",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-29）",
+          "url": "https://flash.jin10.com/detail/20251229115348182800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
           "url": "https://wallstreetcn.com/livenews/3027650",
@@ -213,7 +417,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         }
@@ -231,11 +435,12 @@
             4,
             3,
             5,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 12时21分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -286,7 +491,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         }
@@ -301,11 +506,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 12时21分]"
         }
       ]
     },
@@ -318,11 +524,12 @@
           "url": "https://news.ifeng.com/c/8pTGEplZnSO",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 12时21分]"
         }
       ]
     }

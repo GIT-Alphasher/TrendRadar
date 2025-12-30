@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T15:49:24.150194+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2025-12-30T17:04:34.755937+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
@@ -76,6 +76,19 @@
           "time_info": "13时04分"
         },
         {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 17时04分]"
+        },
+        {
           "title": "现货黄金短线下挫超15美元，失守4330美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251230071915188800",
           "source": "金十数据",
@@ -115,7 +128,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -137,7 +150,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -166,19 +179,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 06时43分]"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 15时49分]"
         },
         {
           "title": "伊朗里亚尔 (Iranian Rial)兑美元跌至145万，创历史新低。",
@@ -569,6 +569,17 @@
           "time_info": "13时04分"
         },
         {
+          "title": "交易员：印度央行在外汇市场抛售美元以支撑卢比汇率",
+          "url": "https://wallstreetcn.com/livenews/3028664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "现货钯金跌破1600美元/盎司，日内跌2.22%。",
           "url": "https://flash.jin10.com/detail/20251230070518807800",
           "source": "金十数据",
@@ -589,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9901，较上一交易日官方收盘价涨197点，较上日夜盘收盘涨155点。",
+          "url": "https://wallstreetcn.com/livenews/3028658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "现货白银周二小幅高开，报72.21美元/盎司，昨日收跌逾8%。",
@@ -633,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "印度卢比兑美元上涨0.3%，报89.7350。",
+          "url": "https://wallstreetcn.com/livenews/3028650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "WTI原油期货回落至58美元/桶下方，日内跌0.15%。",
@@ -781,7 +814,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "日韩股市年度收官：KOSPI指数创26年最大涨幅 日经站稳5万点",
@@ -867,6 +900,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 13时04分]"
+        },
+        {
+          "title": "【午报】三大指数缩量整理涨跌不一，AI智能体、机器人概念双双走强",
+          "url": "https://www.cls.cn/detail/2243744",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 17时04分]"
         },
         {
           "title": "香港恒生指数涨1%，恒生科技指数涨2%。",
@@ -959,17 +1004,6 @@
           "time_info": "15时02分"
         },
         {
-          "title": "【午报】三大指数缩量整理涨跌不一，AI智能体、机器人概念双双走强",
-          "url": "https://www.cls.cn/detail/2243744",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "金十图示：2025年12月30日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251230004525879800",
           "source": "金十数据",
@@ -987,7 +1021,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -998,7 +1032,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1009,9 +1043,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "恒生指数收盘涨0.86%，半导体股涨幅居前",
+          "url": "https://wallstreetcn.com/livenews/3028645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "欧洲斯托克50指数开盘跌0.1%，德国DAX指数跌0.1%，英国富时100指数涨0.1%，法国CAC 40指数跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3028640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251230161617066800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "台湾证交所加权股价指数收跌0.4%报28,707.13点。",
@@ -1060,9 +1127,421 @@
       ]
     },
     {
+      "keyword_group": "价格",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "LABUBU二手价格崩了",
+          "url": "https://www.baidu.com/s?wd=LABUBU%E4%BA%8C%E6%89%8B%E4%BB%B7%E6%A0%BC%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "如何看待存储器价格暴涨，手机和电脑明年真会涨 1000 元以上吗？",
+          "url": "https://www.zhihu.com/question/1987821073870395080",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4,
+            6,
+            7,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "Labubu二手价格崩了",
+          "url": "https://s.weibo.com/weibo?q=%23Labubu%E4%BA%8C%E6%89%8B%E4%BB%B7%E6%A0%BC%E5%B4%A9%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            15,
+            14,
+            18,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20251230073419468800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "数据显示，支撑即期布伦特原油基准价格的五种北海原油品种的供应量在明年2月份平均为57.5万桶/日（明年1月份为56.5万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20251230163945546800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
+          "url": "https://www.zhihu.com/question/1989248950952288367",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 15时49分]"
+        },
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 17时04分]"
+        },
+        {
+          "title": "全国猪肉平均价格22.48元/公斤，比前一周下跌0.2%",
+          "url": "https://flash.jin10.com/detail/20251230142923564800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "周一（12月29日），彭博电动汽车价格回报指数跌0.44%，报3465.63点。 北京时间09:30之前，指数“跳空”反弹，刷新日高至3516.09点，后续逐步回落，22:30美股开盘时快速下挫。",
+          "url": "https://wallstreetcn.com/livenews/3028331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "平潭发展：公司股票短期内价格涨幅较大 已严重背离公司基本面",
+          "url": "https://wallstreetcn.com/livenews/3028657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "瑞典央行会议纪要：瑞典央行副行长邦吉表示，我们已经可以通过进口价格看到克朗升值对通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20251230163319224800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "LME三个月期铜基准价格涨超3%，至每吨12,594美元。",
+          "url": "https://flash.jin10.com/detail/20251230141214575800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "珀莱雅：拟以8000万元-1.5亿元回购股份，回购的价格不超过人民币100元/股。",
+          "url": "https://wallstreetcn.com/livenews/3028652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "国内金饰价格大幅下跌42元/克",
+          "url": "https://flash.jin10.com/detail/20251230110617759800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "全国农产品批发市场猪肉平均价格为17.73元/公斤，比昨天上升0.3%",
+          "url": "https://flash.jin10.com/detail/20251230150349239800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "燃料和休闲活动价格下降 西班牙12月通胀放缓",
+          "url": "https://flash.jin10.com/detail/20251230161925335800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "广期所钯主力合约盘中再次触及跌停，跌幅13%，报447.45元/克，此前合约一度打开跌停板，价格小幅反弹。",
+          "url": "https://wallstreetcn.com/livenews/3028565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            18,
+            8,
+            10,
+            29,
+            27,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 11时59分]"
+        },
+        {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 17时04分]"
+        },
+        {
+          "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
+          "url": "https://www.cls.cn/detail/2243297",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 17时04分]"
+        },
+        {
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            25,
+            30,
+            20,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 07时36分]"
+        },
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 17时04分]"
+        },
+        {
+          "title": "Meta收购Manus，从而加速AI创新。",
+          "url": "https://wallstreetcn.com/livenews/3028361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时36分]"
+        },
+        {
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时04分]"
+        },
+        {
+          "title": "泰柬与AI如何影响全球经济",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时04分]"
+        },
+        {
+          "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
+          "url": "https://www.zhihu.com/question/1987934900884637667",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "“AI教父”拉响警报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%95%99%E7%88%B6%E2%80%9D%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时36分]"
+        },
+        {
+          "title": "东部战区发布的AI视频意味深长",
+          "url": "https://www.toutiao.com/trending/7589159411391217700/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
+          "url": "https://www.cls.cn/detail/2243427",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "用AI打开原神同人动画",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E6%89%93%E5%BC%80%E5%8E%9F%E7%A5%9E%E5%90%8C%E4%BA%BA%E5%8A%A8%E7%94%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
+        {
+          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 17时04分]"
+        },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
           "url": "https://wallstreetcn.com/articles/3762238",
@@ -1073,17 +1552,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 05时36分]"
-        },
-        {
-          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 15时49分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -1158,6 +1626,18 @@
           "time_info": "[05时36分 ~ 06时43分]"
         },
         {
+          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
+          "url": "https://wallstreetcn.com/articles/3762263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 17时04分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
           "url": "https://wallstreetcn.com/livenews/3028344",
           "source": "华尔街见闻-快讯",
@@ -1168,17 +1648,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时36分]"
-        },
-        {
-          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
-          "url": "https://wallstreetcn.com/articles/3762263",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
         },
         {
           "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览（美股收盘）",
@@ -1227,338 +1696,6 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "2025最全AI成果盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            18,
-            8,
-            10,
-            29,
-            27,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 11时59分]"
-        },
-        {
-          "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
-          "url": "https://www.cls.cn/detail/2243297",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 15时49分]"
-        },
-        {
-          "title": "用一个字证明自己不是AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            25,
-            30,
-            20,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时58分 ~ 07时36分]"
-        },
-        {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 15时49分]"
-        },
-        {
-          "title": "Meta收购Manus，从而加速AI创新。",
-          "url": "https://wallstreetcn.com/livenews/3028361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时36分]"
-        },
-        {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时49分]"
-        },
-        {
-          "title": "泰柬与AI如何影响全球经济",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 13时04分]"
-        },
-        {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时49分]"
-        },
-        {
-          "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
-          "url": "https://www.zhihu.com/question/1987934900884637667",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
-        },
-        {
-          "title": "“AI教父”拉响警报",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%95%99%E7%88%B6%E2%80%9D%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "东部战区发布的AI视频意味深长",
-          "url": "https://www.toutiao.com/trending/7589159411391217700/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
-          "url": "https://www.cls.cn/detail/2243427",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "用AI打开原神同人动画",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E6%89%93%E5%BC%80%E5%8E%9F%E7%A5%9E%E5%90%8C%E4%BA%BA%E5%8A%A8%E7%94%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "LABUBU二手价格崩了",
-          "url": "https://www.baidu.com/s?wd=LABUBU%E4%BA%8C%E6%89%8B%E4%BB%B7%E6%A0%BC%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "如何看待存储器价格暴涨，手机和电脑明年真会涨 1000 元以上吗？",
-          "url": "https://www.zhihu.com/question/1987821073870395080",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            4,
-            6,
-            7,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "Labubu二手价格崩了",
-          "url": "https://s.weibo.com/weibo?q=%23Labubu%E4%BA%8C%E6%89%8B%E4%BB%B7%E6%A0%BC%E5%B4%A9%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            15,
-            14,
-            18,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20251230073419468800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
-          "url": "https://www.zhihu.com/question/1989248950952288367",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 15时49分]"
-        },
-        {
-          "title": "全国猪肉平均价格22.48元/公斤，比前一周下跌0.2%",
-          "url": "https://flash.jin10.com/detail/20251230142923564800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "周一（12月29日），彭博电动汽车价格回报指数跌0.44%，报3465.63点。 北京时间09:30之前，指数“跳空”反弹，刷新日高至3516.09点，后续逐步回落，22:30美股开盘时快速下挫。",
-          "url": "https://wallstreetcn.com/livenews/3028331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "如何看待黄金白银价格波动",
-          "url": "https://www.douyin.com/hot/2351661",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "LME三个月期铜基准价格涨超3%，至每吨12,594美元。",
-          "url": "https://flash.jin10.com/detail/20251230141214575800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "国内金饰价格大幅下跌42元/克",
-          "url": "https://flash.jin10.com/detail/20251230110617759800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "全国农产品批发市场猪肉平均价格为17.73元/公斤，比昨天上升0.3%",
-          "url": "https://flash.jin10.com/detail/20251230150349239800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "广期所钯主力合约盘中再次触及跌停，跌幅13%，报447.45元/克，此前合约一度打开跌停板，价格小幅反弹。",
-          "url": "https://wallstreetcn.com/livenews/3028565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
       "match_count": 4,
       "titles": [
@@ -1591,11 +1728,12 @@
           "url": "https://wallstreetcn.com/livenews/3028621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 17时04分]"
         },
         {
           "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T03:32:46.315254+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-01-02T04:46:20.240729+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -29,8 +29,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -51,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -65,8 +65,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -108,52 +108,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
-          "url": "https://wallstreetcn.com/articles/3762429",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            16,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "秘鲁计划将价值60亿美元的炼油厂从国家石油公司剥离",
@@ -166,8 +122,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
+        },
+        {
+          "title": "秘鲁拟从国有石油公司分拆价值60亿美元的炼油厂",
+          "url": "https://flash.jin10.com/detail/20260102035137069800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
@@ -177,8 +144,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
         },
         {
           "title": "2025年大涨后，人民币对美元汇率2026年如何走",
@@ -189,8 +156,53 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
+          "url": "https://wallstreetcn.com/articles/3762429",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            16,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
         }
       ]
     },
@@ -207,8 +219,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
         },
         {
           "title": "金饰价格继续下调",
@@ -235,8 +247,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时46分]"
         }
       ]
     },

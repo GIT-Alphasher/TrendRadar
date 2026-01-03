@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T16:55:47.988743+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-01-03T17:44:52.951764+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 16时55分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 17时44分]"
         },
         {
           "title": "【早报】中国“人造太阳”实验有新进展；纳斯达克中国金龙指数涨超4%",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时51分 ~ 16时55分]"
+          "appearance_count": 10,
+          "time_info": "[11时51分 ~ 17时44分]"
         },
         {
           "title": "金十图示：2026年01月03日（周六）全球股市指数-欧洲市场（收盘）",
@@ -156,6 +156,17 @@
           "time_info": "[07时35分 ~ 13时48分]"
         },
         {
+          "title": "商品基准指数“重置”在即，面临抛售风险，金银开年“冲高回落”",
+          "url": "https://wallstreetcn.com/articles/3762466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 17时44分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周五（1月2日），南非富时/JSE非洲领先40可交易指数收涨0.23%，至10.8万点上方，本周（四个交易日）累计下跌1.26%。",
           "url": "https://wallstreetcn.com/livenews/3029887",
           "source": "华尔街见闻-快讯",
@@ -219,17 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时52分 ~ 13时48分]"
-        },
-        {
-          "title": "商品基准指数“重置”在即，面临抛售风险，金银开年“冲高回落”",
-          "url": "https://wallstreetcn.com/articles/3762466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 16时55分]"
         },
         {
           "title": "欧洲斯托克航空航天与防务指数上涨3.2%，创下自2025年5月以来的最大单日涨幅。",
@@ -370,7 +370,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国爆发史上最大公共资金欺诈案「明尼苏达儿童福利院事件」，总损失或超 90 亿美元，怎么回事？如何评价？",
@@ -544,11 +544,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 16时55分]"
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 17时44分]"
         },
         {
           "title": "现货黄金转跌，最低至4315.28美元/盎司。",
@@ -669,6 +670,18 @@
           "time_info": "[11时51分 ~ 11时52分]"
         },
         {
+          "title": "威廉王子夫妇年薪曝光：3090万美元",
+          "url": "https://www.baidu.com/s?wd=%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E5%A4%AB%E5%A6%87%E5%B9%B4%E8%96%AA%E6%9B%9D%E5%85%89%EF%BC%9A3090%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时44分]"
+        },
+        {
           "title": "LME期铜跌0.29%，报12460美元/吨。 LME期铝涨.075%，报30195美元/吨。 LME期锌跌0.10%，报3123美元/吨。 LME期铅跌0.22%，报2001美元/吨。 LME期镍涨0.09%，报16765美元/吨。 LME期锡跌0.54%，报40250美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3029909",
           "source": "华尔街见闻-快讯",
@@ -680,15 +693,15 @@
           "time_info": "02时58分"
         },
         {
-          "title": "威廉王子夫妇年薪曝光：3090万美元",
-          "url": "https://www.baidu.com/s?wd=%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E5%A4%AB%E5%A6%87%E5%B9%B4%E8%96%AA%E6%9B%9D%E5%85%89%EF%BC%9A3090%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "威廉王子夫妇年薪3090万美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E5%A4%AB%E5%A6%87%E5%B9%B4%E8%96%AA3090%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时55分"
+          "time_info": "17时44分"
         },
         {
           "title": "沃旭能源就特朗普暂停50亿美元海上风电项目提起诉讼",
@@ -715,8 +728,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时35分 ~ 16时55分]"
+          "appearance_count": 11,
+          "time_info": "[07时35分 ~ 17时44分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -743,8 +756,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时58分 ~ 16时55分]"
+          "appearance_count": 17,
+          "time_info": "[02时58分 ~ 17时44分]"
+        },
+        {
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时51分 ~ 17时44分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -757,20 +782,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 16时55分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时51分 ~ 16时55分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 17时44分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -782,6 +795,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 06时46分]"
+        },
+        {
+          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
+          "url": "https://wallstreetcn.com/livenews/3029953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            11,
+            18,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 17时44分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -812,21 +841,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时41分 ~ 07时35分]"
-        },
-        {
-          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
-          "url": "https://wallstreetcn.com/livenews/3029953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            11,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 16时55分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -867,6 +881,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时52分 ~ 15时36分]"
+        },
+        {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时44分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -937,17 +962,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "美股盘初：纳指涨1%，中概指数涨近3%，百度涨约11%，特斯拉涨约2%",
@@ -1038,11 +1052,12 @@
             24,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 16时55分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 17时44分]"
         },
         {
           "title": "“高考AI押题命中率98%”系谣言",
@@ -1088,8 +1103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 17时44分]"
         },
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -1098,11 +1113,24 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 17时44分]"
+        },
+        {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时59分 ~ 16时55分]"
+          "time_info": "[15时36分 ~ 17时44分]"
         },
         {
           "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
@@ -1116,18 +1144,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 02时58分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 16时55分]"
         },
         {
           "title": "全球首款基于视觉的AI网球机器人，重新定义AI驱动的网球伙伴",
@@ -1180,8 +1196,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时51分 ~ 16时55分]"
+          "appearance_count": 10,
+          "time_info": "[11时51分 ~ 17时44分]"
         },
         {
           "title": "谁把车厘子价格打下来了",
@@ -1211,6 +1227,20 @@
           "time_info": "[11时51分 ~ 15时36分]"
         },
         {
+          "title": "宝马中国回应30多款车型降价：并非打价格战",
+          "url": "https://wallstreetcn.com/livenews/3029972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 17时44分]"
+        },
+        {
           "title": "周五（1月2日），彭博电动汽车价格回报指数涨1.09%，报3481.40点，本周累计上涨0.01%，整体呈现出平坦的V形走势。 成分股中，普拉格动力公司涨约13.9%，小马智行涨10.6%，MP材料涨9%表现第三，“特斯拉劲敌”Rivian则跌1.7%，特斯拉跌2.6%，智利化学矿业公司（SQM）跌2.6%。",
           "url": "https://wallstreetcn.com/livenews/3029936",
           "source": "华尔街见闻-快讯",
@@ -1224,19 +1254,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时31分 ~ 13时48分]"
-        },
-        {
-          "title": "宝马中国回应30多款车型降价：并非打价格战",
-          "url": "https://wallstreetcn.com/livenews/3029972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 16时55分]"
         },
         {
           "title": "全球粮食供应过剩导致谷物期货价格下跌",
@@ -1268,11 +1285,12 @@
             16,
             19,
             8,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 16时55分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 17时44分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",

@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-01-05T01:45:10.927966+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-01-05T03:01:37.838964+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
+          "url": "https://wallstreetcn.com/articles/3762490",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时01分]"
+        },
+        {
+          "title": "就在周四！黄金白银将迎新年“第一劫”：数十亿美元抛单已在路上",
+          "url": "https://www.cls.cn/detail/2246895",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时01分]"
+        },
+        {
+          "title": "迪士尼(DIS.N)：《阿凡达3》全球票房突破10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260105011959022800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "年度抽象AI作品Top10",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时01分]"
+        },
+        {
+          "title": "腾讯回应用户被元宝AI辱骂",
+          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时01分]"
+        },
+        {
+          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
+          "url": "https://wallstreetcn.com/articles/3762500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        }
+      ]
+    },
     {
       "keyword_group": "价格",
       "match_count": 2,
@@ -25,68 +106,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
-          "url": "https://wallstreetcn.com/articles/3762490",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
+            12,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时45分]"
-        },
-        {
-          "title": "就在周四！黄金白银将迎新年“第一劫”：数十亿美元抛单已在路上",
-          "url": "https://www.cls.cn/detail/2246895",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "年度抽象AI作品Top10",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时45分]"
-        },
-        {
-          "title": "腾讯回应用户被元宝AI辱骂",
-          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时45分]"
+          "time_info": "[00时56分 ~ 03时01分]"
         }
       ]
     }

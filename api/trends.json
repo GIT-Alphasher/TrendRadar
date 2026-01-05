@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T22:59:06.201707+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-01-05T23:53:30.308462+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 22时59分]"
+          "appearance_count": 9,
+          "time_info": "[17时03分 ~ 23时53分]"
         },
         {
           "title": "美元指数DXY在周一盘初小幅走强，现报98.55。",
@@ -66,15 +66,15 @@
           "time_info": "07时39分"
         },
         {
-          "title": "台积电股价涨3.4%，报330美元/股，再创历史新高，盘中市值1.7万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3030947",
-          "source": "华尔街见闻-快讯",
+          "title": "伦铝日内涨幅扩大至2.00%，现报3080.10美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260105232359739800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "23时53分"
         },
         {
           "title": "现货黄金周一跳空高开，报4352.08美元/盎司。",
@@ -182,6 +182,18 @@
           "time_info": "[21时59分 ~ 22时59分]"
         },
         {
+          "title": "台积电股价涨3.4%，报330美元/股，再创历史新高，盘中市值1.7万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3030947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时53分]"
+        },
+        {
           "title": "迪士尼(DIS.N)：《阿凡达3》全球票房突破10亿美元。",
           "url": "https://flash.jin10.com/detail/20260105011959022800",
           "source": "金十数据",
@@ -211,7 +223,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -227,6 +239,17 @@
           "time_info": "15时52分"
         },
         {
+          "title": "现货白银日内涨幅达6.0%，报77.02美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3030971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "伯恩斯坦：将沃尔玛百货(WMT.N)目标价从122美元上调至129美元。",
           "url": "https://flash.jin10.com/detail/20260105192150398800",
           "source": "金十数据",
@@ -236,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "纽约金日内涨幅达3.0%，报4461美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3030969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "高盛寻求为日本房地产基金融资5亿美元。（彭博）",
@@ -266,7 +300,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -343,7 +377,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -392,6 +426,17 @@
           "time_info": "15时52分"
         },
         {
+          "title": "LME锡主力合约涨幅扩大至6%，现报42750.0美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3030959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "高盛拟为日本房地产基金募集5亿美元",
           "url": "https://flash.jin10.com/detail/20260105125850731800",
           "source": "金十数据",
@@ -436,15 +481,48 @@
           "time_info": "21时59分"
         },
         {
+          "title": "告别多头平仓压力 美元对紧张局势敏感度回升",
+          "url": "https://flash.jin10.com/detail/20260105230350954800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "Okta(OKTA.O)涨超4%，此前宣布10亿美元股票回购计划。",
           "url": "https://flash.jin10.com/detail/20260105223346908800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
+        },
+        {
+          "title": "纽约期金日内大涨3.00%，现报4459.70美元/盎司；现货黄金站上4450美元/盎司，日内涨2.70%。",
+          "url": "https://flash.jin10.com/detail/20260105230341829800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "瑞银集团：将甲骨文(ORCL.N)目标价从325美元下调至280美元。",
+          "url": "https://flash.jin10.com/detail/20260105230155599800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美国天然气期货日内大跌6.00%，现报3.400美元/百万英热。",
@@ -472,7 +550,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 26,
+      "match_count": 36,
       "titles": [
         {
           "title": "日经225指数触及52,000点，创下自去年11月4日以来的最高水平。",
@@ -492,7 +570,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -503,7 +581,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -514,9 +592,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
+        },
+        {
+          "title": "道指涨穿4.9万点创盘中历史新高，生物科技指数跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3030978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "受人工智能相关上涨和日元疲软影响，日经225指数上涨3%。",
@@ -593,7 +682,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -631,6 +720,17 @@
           "time_info": "21时59分"
         },
         {
+          "title": "美国ISM制造业指数创一年最低点，工厂活动持续萎缩",
+          "url": "https://wallstreetcn.com/livenews/3030965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "金十图示：2026年01月05日（周一）投机情绪指数",
           "url": "https://flash.jin10.com/detail/20260105151222155800",
           "source": "金十数据",
@@ -653,6 +753,17 @@
           "time_info": "14时04分"
         },
         {
+          "title": "美国12月ISM制造业就业指数 44.9，前值 44。",
+          "url": "https://wallstreetcn.com/livenews/3030964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "A股三大指数集体高开",
           "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
           "source": "bilibili 热搜",
@@ -664,6 +775,39 @@
           "time_info": "12时43分"
         },
         {
+          "title": "美国12月ISM制造业物价支付指数 58.5，预期 58.7，前值 58.5。",
+          "url": "https://wallstreetcn.com/livenews/3030963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美国制造业深陷收缩区 ISM指数连降十月",
+          "url": "https://flash.jin10.com/detail/20260105230857162800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美国12月ISM制造业指数 47.9，预期 48.4，前值 48.2。",
+          "url": "https://wallstreetcn.com/livenews/3030962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "A股开门红！沪指涨1.38%重回4000点，中证A500指数创阶段新高，脑机接口概念掀涨停潮",
           "url": "https://wallstreetcn.com/livenews/3030644",
           "source": "华尔街见闻-快讯",
@@ -673,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "美国12月ISM制造业新订单指数 47.7，前值 47.4。",
+          "url": "https://wallstreetcn.com/livenews/3030961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）富时中国A50指数成分股今日收盘行情一览：保险、半导体股全天表现强势，银行、石油板块跌幅居前",
@@ -730,6 +885,17 @@
           "time_info": "12时43分"
         },
         {
+          "title": "道琼斯工业平均指数（道指）日内涨幅达1.0%，报48865.11点。 成分股雪佛龙涨3.4%，高盛涨3.2%，卡特彼勒涨2.8%，耐克涨2.5%，IBM、亚马逊涨超2.2%，苹果跌0.7%，可口可乐跌0.9%，安进跌1.3%，强生跌2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3030953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "上证指数早盘收报4011.45点，涨1.07%。 深证成指早盘收报13777.32点，涨1.87%。 创业板指早盘收报3272.07点，涨2.15%。 沪深300早盘收报4703.41点，涨1.59%。 科创50早盘收报1398.61点，涨4.05%。 中证500早盘收报7626.72点，涨2.16%。 中证1000早盘收报7719.81点，涨1.64%。",
           "url": "https://wallstreetcn.com/livenews/3030530",
           "source": "华尔街见闻-快讯",
@@ -739,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "金十图示：2026年01月05日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260105230114139800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "中证A500指数日内涨逾2%，创2022年1月以来新高。",
@@ -761,12 +938,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "美国12月ISM产出指数 51，前值51.4。",
+          "url": "https://flash.jin10.com/detail/20260105230033011800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -884,16 +1072,15 @@
           "time_info": "19时40分"
         },
         {
-          "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
-          "url": "https://wallstreetcn.com/livenews/3030815",
+          "title": "三星推出以AI为核心的电视和家电",
+          "url": "https://wallstreetcn.com/livenews/3030980",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            22
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -904,8 +1091,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时59分 ~ 22时59分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时53分]"
+        },
+        {
+          "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
+          "url": "https://wallstreetcn.com/livenews/3030815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时40分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -1024,7 +1223,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -1038,6 +1237,170 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3030982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美股三大股指期货周一小幅高开。",
+          "url": "https://flash.jin10.com/detail/20260105070122345800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "能源业ETF涨超3%，领跑美股行业ETF，此前美国掳走委内瑞拉总统，特朗普宣布投资委国石油",
+          "url": "https://wallstreetcn.com/livenews/3030945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "汇丰策略师对美股接近最大程度超配",
+          "url": "https://wallstreetcn.com/livenews/3030912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 22时59分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时53分]"
+        },
+        {
+          "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
+          "url": "https://wallstreetcn.com/livenews/3030899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260105223622162800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-05）",
+          "url": "https://flash.jin10.com/detail/20260105212007984800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3030921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "地缘风险预期升温 美股国防板块盘前集体上扬",
+          "url": "https://flash.jin10.com/detail/20260105190339497800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "美股开盘，道指涨0.19%，标普500指数涨0.48%，纳指涨0.93%。美国石油股走强，雪佛龙(CVX.N)涨6%。台积电(TSM.N)涨3.2%，高盛上调目标价35%。英特尔(INTC.O)涨5.9%，高通(QCOM.O)涨1.06%。",
+          "url": "https://flash.jin10.com/detail/20260105223030751800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美股无视委国变局领跑首周 市场静待非农就业数据",
+          "url": "https://flash.jin10.com/detail/20260105230128432800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
@@ -1200,136 +1563,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美股三大股指期货周一小幅高开。",
-          "url": "https://flash.jin10.com/detail/20260105070122345800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "能源业ETF涨超3%，领跑美股行业ETF，此前美国掳走委内瑞拉总统，特朗普宣布投资委国石油",
-          "url": "https://wallstreetcn.com/livenews/3030945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "汇丰策略师对美股接近最大程度超配",
-          "url": "https://wallstreetcn.com/livenews/3030912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时59分 ~ 22时59分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时59分 ~ 22时59分]"
-        },
-        {
-          "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
-          "url": "https://wallstreetcn.com/livenews/3030899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260105223622162800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-05）",
-          "url": "https://flash.jin10.com/detail/20260105212007984800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3030921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "地缘风险预期升温 美股国防板块盘前集体上扬",
-          "url": "https://flash.jin10.com/detail/20260105190339497800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美股开盘，道指涨0.19%，标普500指数涨0.48%，纳指涨0.93%。美国石油股走强，雪佛龙(CVX.N)涨6%。台积电(TSM.N)涨3.2%，高盛上调目标价35%。英特尔(INTC.O)涨5.9%，高通(QCOM.O)涨1.06%。",
-          "url": "https://flash.jin10.com/detail/20260105223030751800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
       "match_count": 9,
       "titles": [
@@ -1339,11 +1572,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时59分 ~ 22时59分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时53分]"
         },
         {
           "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。呼吁在美容产品、食品以及电影和音乐领域与中国开展合作。（韩联社）",
@@ -1397,7 +1631,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },

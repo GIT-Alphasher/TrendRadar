@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T19:35:28.663126+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-01-06T21:53:53.696658+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
@@ -48,6 +48,17 @@
           "time_info": "18时54分"
         },
         {
+          "title": "伦敦铜冲破13300美元",
+          "url": "https://www.toutiao.com/trending/7592183736104390190/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "BlueScope股价飙升15%。此前Steel Dynamics和SGH提议，按88亿美元收购BlueScope。",
           "url": "https://wallstreetcn.com/livenews/3031152",
           "source": "华尔街见闻-快讯",
@@ -87,7 +98,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -363,7 +374,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -432,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "LME镍主力合约涨幅扩大至5%，现报18160.0美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3031715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "伯恩斯坦：将雷神科技(RTX.N)目标价从185美元上调至189美元。",
@@ -715,7 +737,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -745,7 +767,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -772,8 +794,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 19时35分]"
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 21时53分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -1019,6 +1041,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "对冲基金新贵遇阻：Bobby Jain首年录得3.7%回报 远逊对手两位数战绩",
+          "url": "https://flash.jin10.com/detail/20260106212847005800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "英伟达(NVDA.O)：推出全新Clara AI模型，架起数字探索与现实医疗之间的桥梁。",
           "url": "https://flash.jin10.com/detail/20260106060052070800",
           "source": "金十数据",
@@ -1118,6 +1151,17 @@
           "time_info": "17时02分"
         },
         {
+          "title": "AI养生道",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "AI热潮抵消地缘政治担忧 欧元信用违约互换成本维持低位",
           "url": "https://flash.jin10.com/detail/20260106175355647800",
           "source": "金十数据",
@@ -1154,7 +1198,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美军披萨指数狂飙",
@@ -1421,6 +1465,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "波罗的海干散货指数跌1.13%，至1830点。",
+          "url": "https://wallstreetcn.com/livenews/3031698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "欧洲STOXX 600指数创盘中历史新高。",
           "url": "https://wallstreetcn.com/livenews/3030984",
           "source": "华尔街见闻-快讯",
@@ -1501,7 +1556,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -1511,8 +1566,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时39分 ~ 19时35分]"
+          "appearance_count": 15,
+          "time_info": "[07时39分 ~ 21时53分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -1623,6 +1678,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "美股收盘：道指创新高 雪佛龙涨5%",
           "url": "https://flash.jin10.com/detail/20260106050116385800",
           "source": "金十数据",
@@ -1692,7 +1758,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "合肥车厘子价格暴跌 一天卖出15吨",
@@ -1760,6 +1826,17 @@
           "time_info": "[17时01分 ~ 17时02分]"
         },
         {
+          "title": "消息人士表示，七国集团财长届时将讨论稀土价格下限等关键矿产议题。",
+          "url": "https://flash.jin10.com/detail/20260106212651199800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
           "url": "https://wallstreetcn.com/livenews/3031028",
           "source": "华尔街见闻-快讯",
@@ -1824,6 +1901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
+        },
+        {
+          "title": "矿端供应紧张的核心矛盾未改，预计沪锡价格将延续偏强震荡走势",
+          "url": "https://flash.jin10.com/detail/20260106211622896800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报132250元/吨，较上日16:30价格上涨7900元/吨。",
@@ -1927,7 +2015,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美债收益率普遍跌超2个基点",
@@ -1941,13 +2029,24 @@
           "time_info": "05时42分"
         },
         {
+          "title": "摩根大通美债客户调查显示多头占比降至2024年以来新低",
+          "url": "https://wallstreetcn.com/livenews/3031699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "美债收益率震荡回升 市场紧盯经济走软信号",
           "url": "https://flash.jin10.com/detail/20260106185806265800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }

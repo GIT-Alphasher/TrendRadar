@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-01-07T03:33:52.477658+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-01-07T04:47:24.111598+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
-          "title": "法国电信公司Orange SA计划实施2016年以来首次高评级美元债发行，拟融资60亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031866",
+          "title": "王者荣耀2025年营收超20亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802025%E5%B9%B4%E8%90%A5%E6%94%B6%E8%B6%8520%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22,
+            30,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时47分]"
+        },
+        {
+          "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
+          "url": "https://wallstreetcn.com/livenews/3031871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时33分"
+          "time_info": "04时47分"
         },
         {
           "title": "纽约期银站上81美元/盎司，日内涨5.67%。",
@@ -30,15 +45,15 @@
           "time_info": "01时51分"
         },
         {
-          "title": "WTI原油日内跌幅达2.0%，报57.15美元/桶。 布伦特原油日内跌幅达1.5%，报60.83美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3031863",
-          "source": "华尔街见闻-快讯",
+          "title": "xAI超额完成200亿美元融资 英伟达是战投之一",
+          "url": "https://flash.jin10.com/detail/20260107042526437800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时33分"
+          "time_info": "04时47分"
         },
         {
           "title": "英伟达(NVDA.O)首席财务官：需求较此前预测的5000亿美元有所增长。",
@@ -63,6 +78,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "WTI 2月原油期货收跌1.19美元，跌幅2.04%，报57.13美元/桶。 布伦特3月原油期货收跌1.06美元，跌幅1.772%，报60.70美元/桶。 NYMEX 2月天然气期货收报3.35美元/百万英热单位。 NYMEX 2月汽油期货收报1.7006美元/加仑，NYMEX 2月取暖油期货收报2.0830美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3031869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "英伟达CFO Kress：需求继续增长。 自从给出5000亿美元预测以来，需求已经增加。 绝对会在5000亿美元预测的基础上扩大。",
           "url": "https://wallstreetcn.com/livenews/3031802",
           "source": "华尔街见闻-快讯",
@@ -74,18 +100,28 @@
           "time_info": "01时02分"
         },
         {
-          "title": "王者荣耀2025年营收超20亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802025%E5%B9%B4%E8%90%A5%E6%94%B6%E8%B6%8520%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "法国电信公司Orange SA计划实施2016年以来首次高评级美元债发行，拟融资60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3031866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            22,
-            30,
-            26
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时33分]"
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时47分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达2.0%，报57.15美元/桶。 布伦特原油日内跌幅达1.5%，报60.83美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3031863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时47分]"
         },
         {
           "title": "现货白银站上81美元/盎司，日内涨5.76%。",
@@ -117,11 +153,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时47分]"
         },
         {
           "title": "阿根廷通过电厂私有化买入美元，总统米莱的政府即将在数日之后面临关键的债务偿还。",
@@ -129,11 +166,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时47分]"
         },
         {
           "title": "现货黄金日内涨幅达1.0%，报4493.47美元/盎司。",
@@ -141,11 +179,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时47分]"
         },
         {
           "title": "周二（1月6日），美联储隔夜逆回购协议（RRP）使用规模为25.82亿美元（交易对手10家），上个交易日报64.85亿美元。",
@@ -153,11 +192,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            23
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时47分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9830元，较周一夜盘收盘涨36点。成交量419.48亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3031855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时33分]"
+          "time_info": "[03时33分 ~ 04时47分]"
         },
         {
           "title": "现货白银日内涨幅达6.0%，报81.21美元/盎司。 纽约银日内涨幅达6.0%，报81.28美元/盎司。",
@@ -195,15 +247,26 @@
           "time_info": "01时51分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9830元，较周一夜盘收盘涨36点。成交量419.48亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031855",
-          "source": "华尔街见闻-快讯",
+          "title": "XAI：完成200亿美元的E轮融资。",
+          "url": "https://flash.jin10.com/detail/20260107040102162800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "当下商品交易两条主线——“去美元”买黄金，“强安全”买金属",
+          "url": "https://wallstreetcn.com/articles/3762649",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时33分"
+          "time_info": "04时47分"
         },
         {
           "title": "大摩预计今年第四季度金价升至4800美元",
@@ -215,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "马杜罗执政初期 委内瑞拉向瑞士运送了价值52亿美元的黄金",
+          "url": "https://flash.jin10.com/detail/20260107034009768800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
@@ -278,7 +352,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -303,12 +377,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "布伦特原油跌破61美元/桶，日内跌1.71%；WTI原油跌2%。消息面上，西方国家在美国为乌克兰提供安全保障方面的谈判取得进展。",
+          "url": "https://flash.jin10.com/detail/20260107031533360800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -319,8 +404,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时47分]"
+        },
+        {
+          "title": "美国参议院：参议院以52比48的投票结果确认了Sara Bailey担任国家毒品管制政策主任的提名。",
+          "url": "https://flash.jin10.com/detail/20260107042816684800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "为何说AI抢走了你的内存",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -351,11 +458,23 @@
           "url": "https://wallstreetcn.com/livenews/3031856",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时47分]"
+        },
+        {
+          "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
+          "url": "https://flash.jin10.com/detail/20260107040236649800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时33分"
+          "time_info": "04时47分"
         },
         {
           "title": "AMD(AMD.O)CEO苏姿丰：AI不是炒作。",
@@ -405,7 +524,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国人工智能技术正这样走向世界",
@@ -415,8 +534,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时47分]"
         },
         {
           "title": "百事公司宣布与西门子和英伟达开展业界首个人工智能和数字孪生合作。",
@@ -463,6 +582,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "苏姿丰：人工智能不会取代人类，但会改变招聘对象",
+          "url": "https://flash.jin10.com/detail/20260107034818041800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "AMD(AMD.O)CEO苏姿丰：我们正处于解锁人工智能的早期阶段。",
           "url": "https://flash.jin10.com/detail/20260107001056257800",
           "source": "金十数据",
@@ -487,8 +617,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时47分]"
         },
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -500,8 +630,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时47分]"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
@@ -512,8 +642,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时47分]"
         },
         {
           "title": "城堡证券：看好“一月效应”引发美股反弹",
@@ -538,11 +668,12 @@
           "url": "https://wallstreetcn.com/livenews/3031854",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时47分]"
         },
         {
           "title": "费城半导体指数创下历史新高，最新上涨2.5%。",
@@ -570,7 +701,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
@@ -583,6 +714,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时01分 ~ 03时33分]"
+        },
+        {
+          "title": "惠誉：如果委内瑞拉的原油供应突然大幅增加，加拿大原油出口可能会面临价格压力。",
+          "url": "https://flash.jin10.com/detail/20260107035228857800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     }

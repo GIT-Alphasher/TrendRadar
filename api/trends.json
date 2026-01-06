@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T12:02:13.043992+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-01-06T13:05:11.020106+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
@@ -45,15 +45,15 @@
           "time_info": "07时40分"
         },
         {
-          "title": "市场分析：全球美元债券发行量或将加速",
-          "url": "https://flash.jin10.com/detail/20260106114809004800",
+          "title": "白银涨势不停 突破79美元关口",
+          "url": "https://flash.jin10.com/detail/20260106121319016800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "13时05分"
         },
         {
           "title": "避险情绪升温！黄金重回4400美元，变盘或在路上？",
@@ -104,6 +104,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时48分]"
+        },
+        {
+          "title": "市场分析：全球美元债券发行量或将加速",
+          "url": "https://flash.jin10.com/detail/20260106114809004800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时05分]"
         },
         {
           "title": "微芯科技(MCHP.O)：预计第三季度销售额达11.9亿美元，正准备在三月扩大工厂产能以降低费用。",
@@ -338,9 +350,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "现货白银突破79美元/盎司，日内涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3031354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "韩国12月外汇储备 4280.5亿美元，前值4306.6亿美元。",
@@ -382,7 +405,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -426,7 +449,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -522,7 +545,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -530,11 +553,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 12时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 13时05分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -546,11 +570,12 @@
             18,
             22,
             28,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时02分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[03时02分 ~ 13时05分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -573,22 +598,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时39分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 13时05分]"
         },
         {
-          "title": "抖音：2025年AI兴趣用户增长翻倍",
-          "url": "https://wallstreetcn.com/livenews/3031344",
-          "source": "华尔街见闻-快讯",
+          "title": "AMD在CES展示多款企业级及消费级AI芯片",
+          "url": "https://flash.jin10.com/detail/20260106121524156800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "13时05分"
         },
         {
           "title": "黄仁勋：英伟达新款Rubin芯片进展顺利，助力加速AI进程",
@@ -601,6 +627,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时40分]"
+        },
+        {
+          "title": "抖音：2025年AI兴趣用户增长翻倍",
+          "url": "https://wallstreetcn.com/livenews/3031344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时05分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时05分]"
         },
         {
           "title": "三星今年将为8亿设备配备谷歌AI",
@@ -627,15 +677,15 @@
           "time_info": "[01时50分 ~ 03时02分]"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
           "ranks": [
-            9
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 13时05分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -662,6 +712,17 @@
           "time_info": "[06时48分 ~ 07时40分]"
         },
         {
+          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
+          "url": "https://www.zhihu.com/question/1991590957200716340",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
           "url": "https://wallstreetcn.com/livenews/3031121",
           "source": "华尔街见闻-快讯",
@@ -679,17 +740,6 @@
           "source": "微博",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -735,7 +785,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -746,7 +796,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -798,7 +848,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "美军披萨指数狂飙",
@@ -812,6 +862,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时02分 ~ 07时40分]"
+        },
+        {
+          "title": "韩国首尔综合指数突破4500点大关。SK海力士上涨3.3%，股价创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3031369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "台湾加权股价指数涨1.4%报30511.610点，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3031368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）华尔街恐惧与贪婪指数（美盘后）",
@@ -874,6 +946,42 @@
           "time_info": "[05时42分 ~ 06时48分]"
         },
         {
+          "title": "金十图示：2026年01月06日（周二）富时中国A50指数成分股午盘收盘行情一览：多数板块飘红，保险、半导体股延续昨日涨势，银行板块涨跌不一。",
+          "url": "https://flash.jin10.com/detail/20260106113352513800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时05分]"
+        },
+        {
+          "title": "上证指数早盘收报4069.38点，涨1.14%。 深证成指早盘收报13940.24点，涨0.81%。 创业板指早盘收报3293.18点，跌0.04%。 沪深300早盘收报4772.17点，涨1.15%。 科创50早盘收报1430.81点，涨1.95%。 中证500早盘收报7766.29点，涨1.50%。 中证1000早盘收报7821.96点，涨0.88%。",
+          "url": "https://wallstreetcn.com/livenews/3031332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时05分]"
+        },
+        {
+          "title": "美军“披萨指数”又激增了",
+          "url": "https://www.toutiao.com/trending/7591880165077024804/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
           "title": "巴西圣保罗证交所指数收涨0.82%，报16.2万点。",
           "url": "https://wallstreetcn.com/livenews/3031106",
           "source": "华尔街见闻-快讯",
@@ -883,17 +991,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        },
-        {
-          "title": "金十图示：2026年01月06日（周二）富时中国A50指数成分股午盘收盘行情一览：多数板块飘红，保险、半导体股延续昨日涨势，银行板块涨跌不一。",
-          "url": "https://flash.jin10.com/detail/20260106113352513800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "墨西哥综合指数收涨1.38%，报65026.95点。",
@@ -918,17 +1015,6 @@
           "time_info": "05时42分"
         },
         {
-          "title": "上证指数早盘收报4069.38点，涨1.14%。 深证成指早盘收报13940.24点，涨0.81%。 创业板指早盘收报3293.18点，跌0.04%。 沪深300早盘收报4772.17点，涨1.15%。 科创50早盘收报1430.81点，涨1.95%。 中证500早盘收报7766.29点，涨1.50%。 中证1000早盘收报7821.96点，涨0.88%。",
-          "url": "https://wallstreetcn.com/livenews/3031332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
           "title": "纳斯达克金龙中国指数收涨0.49%，报7898.24点。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨2.47%，中概互联网指数ETF（KWEB）收涨2.30%。 XtrackersHarvest中证50（ASHS）收涨1.57%，德银嘉实沪深300指数ETF（ASHR）收涨1.02%。",
           "url": "https://wallstreetcn.com/livenews/3031095",
           "source": "华尔街见闻-快讯",
@@ -949,6 +1035,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "MSCI亚太指数上涨1%至236.82点。",
+          "url": "https://wallstreetcn.com/livenews/3031352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "新加坡富时海峡时报指数触及盘中历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3031351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "欧洲STOXX 600指数创盘中历史新高。",
@@ -1013,19 +1121,6 @@
           "time_info": "[00时58分 ~ 05时42分]"
         },
         {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 12时02分]"
-        },
-        {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
@@ -1033,8 +1128,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时39分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 13时05分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 13时05分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -1046,8 +1155,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时48分 ~ 12时02分]"
+          "appearance_count": 7,
+          "time_info": "[06时48分 ~ 13时05分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，铜价新高",
@@ -1203,8 +1312,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 12时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 13时05分]"
         },
         {
           "title": "合肥车厘子价格暴跌 一天卖出15吨",
@@ -1249,7 +1358,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1271,7 +1380,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -1291,8 +1400,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 12时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 13时04分]"
         },
         {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
@@ -1310,11 +1419,12 @@
           "url": "https://flash.jin10.com/detail/20260106115423474800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时05分]"
         },
         {
           "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",

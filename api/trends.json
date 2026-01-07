@@ -1,22 +1,149 @@
 {
-  "generated_at": "2026-01-08T01:02:39.178382+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-08T02:46:06.519767+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "价格",
-      "match_count": 4,
+      "keyword_group": "美元",
+      "match_count": 10,
       "titles": [
         {
-          "title": "鲍鱼价格跌至10元3只",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B2%8D%E9%B1%BC%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%87%B310%E5%85%833%E5%8F%AA%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
+          "url": "https://wallstreetcn.com/livenews/3032613",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的45.82亿美元。",
+          "url": "https://flash.jin10.com/detail/20260108021644161800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "周三（1月7日），美联储隔夜逆回购协议（RRP）使用规模为45.82亿美元（交易对手8家），上个交易日报25.82亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3032644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "Anthropic计划融资100亿美元，对公司的估值为3500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260108020450644800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "Anthropic按3500亿美元估值融资100亿美元。 由GIC和Coatue Management领投。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3032639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "LME三个月期镍下跌5%，至每吨17,590美元。",
+          "url": "https://flash.jin10.com/detail/20260108015437723800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "两名巴基斯坦消息人士称，巴基斯坦和沙特正在就将约20亿美元的沙特贷款转化为购买战斗机的交易进行谈判。这是在两国去年签署共同防御协议数月后，双方军事合作进一步深化的举措。",
+          "url": "https://flash.jin10.com/detail/20260108015317410800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "LME期镍下跌5%，至每吨17,590美元。",
+          "url": "https://wallstreetcn.com/livenews/3032635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "美国天然气期货日内大涨6.00%，现报3.551美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260108015031736800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "周三（1月7日），韩元兑美元最终跌0.04%，报1448.0韩元。",
+          "url": "https://wallstreetcn.com/livenews/3032631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
+          "url": "https://flash.jin10.com/detail/20260108021838224800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
+          "url": "https://wallstreetcn.com/livenews/3032646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -26,15 +153,27 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时46分]"
         },
         {
           "title": "为什么低价格香烟涨价，高档香烟不涨价?",
           "url": "https://www.zhihu.com/question/8771054181",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时46分]"
+        },
+        {
+          "title": "鲍鱼价格跌至10元3只",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B2%8D%E9%B1%BC%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%87%B310%E5%85%833%E5%8F%AA%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -54,6 +193,68 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "直播电商新规强化AI内容监管",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 02时46分]"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时46分]"
+        },
+        {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时46分]"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时46分]"
+        },
+        {
+          "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
+          "url": "https://wallstreetcn.com/livenews/3032620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "指数",
       "match_count": 4,
       "titles": [
@@ -65,8 +266,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时46分]"
         },
         {
           "title": "德国DAX 30指数初步收涨0.85%，报25102.78点。 法国股指初步收涨0.05%，意大利股指初步收跌0.27%、银行指数跌0.75%，英国股指初步收跌0.79%。",
@@ -104,58 +305,30 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260108013221722800",
+          "source": "金十数据",
           "ranks": [
-            6
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时46分"
         },
         {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年01月07日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260108013216505800",
+          "source": "金十数据",
           "ranks": [
-            8
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
-          "url": "https://wallstreetcn.com/livenews/3032613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时46分"
         }
       ]
     },
@@ -171,8 +344,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时46分]"
         }
       ]
     }

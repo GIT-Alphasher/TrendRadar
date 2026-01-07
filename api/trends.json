@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-07T07:40:23.296394+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-01-07T11:59:21.074156+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "当下商品交易两条主线——“去美元”买黄金，“强安全”买金属",
+          "url": "https://wallstreetcn.com/articles/3762649",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时47分 ~ 11时59分]"
+        },
         {
           "title": "现货白银盘中最高涨至82.01美元/盎司，日内涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3031949",
@@ -14,7 +28,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -43,6 +57,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "报道：昆仑芯据悉计划通过香港IPO融资至多20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3032098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "纽约期银站上81美元/盎司，日内涨5.67%。",
@@ -87,19 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "当下商品交易两条主线——“去美元”买黄金，“强安全”买金属",
-          "url": "https://wallstreetcn.com/articles/3762649",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时47分 ~ 07时40分]"
         },
         {
           "title": "法国电信公司Orange SA计划实施2016年以来首次高评级美元债发行，拟融资60亿美元。",
@@ -341,7 +353,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -357,13 +369,24 @@
           "time_info": "06时49分"
         },
         {
+          "title": "摩根士丹利预测：黄金将在2026年四季度升至4800美元",
+          "url": "https://www.cls.cn/detail/2249883",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "现货白银站上82美元/盎司，日内涨0.94%。",
           "url": "https://flash.jin10.com/detail/20260107072049867800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -388,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
+          "url": "https://flash.jin10.com/detail/20260107111347667800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "周二（1月6日）纽约尾盘，欧元兑美元跌0.24%，英镑兑美元跌0.27%，美元兑瑞郎涨0.44%。 商品货币对中，澳元兑美元涨0.41%，纽元兑美元跌0.01%，美元兑加元涨0.23%。 瑞典克朗兑美元跌0.14%，挪威克朗兑美元跌0.09%，丹麦克朗兑美元跌0.26%。 波兰兹罗提兑美元跌0.16%，匈牙利福林兑美元跌0.41%。",
@@ -418,7 +452,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -440,7 +474,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -612,6 +646,242 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "为何说AI抢走了你的内存",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时47分 ~ 07时40分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "股份制银行AIC多元投资项目密集落地",
+          "url": "https://wallstreetcn.com/livenews/3031945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美国参议院：参议院以52比48的投票结果确认了Sara Bailey担任国家毒品管制政策主任的提名。",
+          "url": "https://flash.jin10.com/detail/20260107042816684800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3031804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时51分]"
+        },
+        {
+          "title": "吉利发布全域AI 2.0，千里浩瀚G-ASD今年将推送高速L3和低速L4功能",
+          "url": "https://wallstreetcn.com/livenews/3031921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时40分]"
+        },
+        {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 11时59分]"
+        },
+        {
+          "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
+          "url": "https://flash.jin10.com/detail/20260107040236649800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "AMD的CEO苏姿丰：所有人都应该明白，AI并非炒作。",
+          "url": "https://wallstreetcn.com/livenews/3031798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时51分]"
+        },
+        {
+          "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
+          "url": "https://wallstreetcn.com/livenews/3031856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时47分]"
+        },
+        {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "AMD的CEO苏姿丰：AI并非取代人类，而是改变招聘标准",
+          "url": "https://wallstreetcn.com/livenews/3031938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
+          "url": "https://www.zhihu.com/question/1991159352690762378",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：AI不是炒作。",
+          "url": "https://flash.jin10.com/detail/20260107002619282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3031787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
+          "url": "https://flash.jin10.com/detail/20260107010109299800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "王鹤棣GAI互为演唱会嘉宾",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3GAI%E4%BA%92%E4%B8%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
+          "url": "https://wallstreetcn.com/livenews/3031775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
@@ -656,11 +926,12 @@
           "url": "https://www.cls.cn/detail/2249896",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 11时59分]"
         },
         {
           "title": "Strategy美股盘后涨超6%。",
@@ -697,6 +968,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时49分]"
+        },
+        {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 11时59分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股收盘）",
@@ -746,17 +1029,6 @@
           "time_info": "05时42分"
         },
         {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
           "title": "（美股）费城金银指数收涨4.72%，报370.56点，时隔数日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数收涨4.02%，报2605.98点，亚太盘初至美股开盘这段时间维持微幅上涨状态——持稳于2510点附近，之后跳空走高并持续扩大涨幅。 （美股）原材料指数涨2.70%，报241.25点。 （美股）金属与矿业指数涨1.88%，报232.82点。",
           "url": "https://wallstreetcn.com/livenews/3031910",
           "source": "华尔街见闻-快讯",
@@ -792,189 +1064,20 @@
       ]
     },
     {
-      "keyword_group": "AI",
+      "keyword_group": "指数",
       "match_count": 15,
       "titles": [
         {
-          "title": "为何说AI抢走了你的内存",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时47分 ~ 07时40分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 05时42分]"
-        },
-        {
-          "title": "股份制银行AIC多元投资项目密集落地",
-          "url": "https://wallstreetcn.com/livenews/3031945",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年01月07日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、酿酒、半导体板块多数走弱，保险、通信设备股飘红",
+          "url": "https://flash.jin10.com/detail/20260107113230526800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "11时59分"
         },
-        {
-          "title": "美国参议院：参议院以52比48的投票结果确认了Sara Bailey担任国家毒品管制政策主任的提名。",
-          "url": "https://flash.jin10.com/detail/20260107042816684800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时42分]"
-        },
-        {
-          "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3031804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时51分]"
-        },
-        {
-          "title": "吉利发布全域AI 2.0，千里浩瀚G-ASD今年将推送高速L3和低速L4功能",
-          "url": "https://wallstreetcn.com/livenews/3031921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时40分]"
-        },
-        {
-          "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
-          "url": "https://flash.jin10.com/detail/20260107040236649800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时42分]"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时40分]"
-        },
-        {
-          "title": "AMD的CEO苏姿丰：所有人都应该明白，AI并非炒作。",
-          "url": "https://wallstreetcn.com/livenews/3031798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时51分]"
-        },
-        {
-          "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
-          "url": "https://wallstreetcn.com/livenews/3031856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时47分]"
-        },
-        {
-          "title": "AMD的CEO苏姿丰：AI并非取代人类，而是改变招聘标准",
-          "url": "https://wallstreetcn.com/livenews/3031938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO苏姿丰：AI不是炒作。",
-          "url": "https://flash.jin10.com/detail/20260107002619282800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3031787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
-          "url": "https://flash.jin10.com/detail/20260107010109299800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
-          "url": "https://wallstreetcn.com/livenews/3031775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 11,
-      "titles": [
         {
           "title": "金十图示：2026年01月06日（周二）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260107051714393800",
@@ -1034,6 +1137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 04时47分]"
+        },
+        {
+          "title": "上证指数早盘收报4095.54点，涨0.29%。 深证成指早盘收报14071.35点，涨0.35%。 创业板指早盘收报3332.74点，涨0.41%。 沪深300早盘收报4792.05点，涨0.03%。 科创50早盘收报1445.48点，涨1.13%。 中证500早盘收报7902.04点，涨1.13%。 中证1000早盘收报7930.24点，涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3032090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.8%。 热门中概股里，阿里巴巴初步收跌3.3%，小米跌2.9%，百度跌2.1%，理想跌2%，蔚来跌1.8%，新东方跌0.8%，腾讯跌0.1%，百胜中国涨1.6%，文远知行涨2.6%，拼多多涨3.3%，小马智行涨5.5%。",
@@ -1100,6 +1214,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "恒指跌超1%，恒生科技指数跌1.8%，阿里巴巴、快手、比亚迪股份跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "越南VN指数涨1%，至1834.77点。",
+          "url": "https://wallstreetcn.com/livenews/3032041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     },
@@ -1188,7 +1324,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "现货价格",
@@ -1197,9 +1333,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "内存条单价逼近5万元，一盒价格堪比上海一套房",
+          "url": "https://wallstreetcn.com/livenews/3032096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
@@ -1244,9 +1391,37 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "陈天桥代季峰团队实现 30B 参数跑出 1T 性能，这对大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1991902608064005627",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "微创机器人完成全球首例“大模型自主手术”动物实验",
+          "url": "https://wallstreetcn.com/livenews/3032047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     },

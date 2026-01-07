@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T02:46:06.519767+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-01-08T03:28:10.172632+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
@@ -19,26 +19,75 @@
           "time_info": "01时02分"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9917元，较周二夜盘收盘跌87点。成交量532.36亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3032658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的45.82亿美元。",
           "url": "https://flash.jin10.com/detail/20260108021644161800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时28分]"
         },
         {
           "title": "周三（1月7日），美联储隔夜逆回购协议（RRP）使用规模为45.82亿美元（交易对手8家），上个交易日报25.82亿美元。",
           "url": "https://wallstreetcn.com/livenews/3032644",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时28分]"
+        },
+        {
+          "title": "Anthropic按3500亿美元估值融资100亿美元。 由GIC和Coatue Management领投。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3032639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时28分]"
+        },
+        {
+          "title": "LME期镍下跌5%，至每吨17,590美元。",
+          "url": "https://wallstreetcn.com/livenews/3032635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时28分]"
+        },
+        {
+          "title": "周三（1月7日），韩元兑美元最终跌0.04%，报1448.0韩元。",
+          "url": "https://wallstreetcn.com/livenews/3032631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时28分]"
         },
         {
           "title": "Anthropic计划融资100亿美元，对公司的估值为3500亿美元。",
@@ -47,18 +96,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "Anthropic按3500亿美元估值融资100亿美元。 由GIC和Coatue Management领投。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3032639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -69,7 +107,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -80,20 +118,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
         {
-          "title": "LME期镍下跌5%，至每吨17,590美元。",
-          "url": "https://wallstreetcn.com/livenews/3032635",
-          "source": "华尔街见闻-快讯",
+          "title": "Anthropic计划以3500亿美元估值融资100亿美元",
+          "url": "https://flash.jin10.com/detail/20260108024901315800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时46分"
+          "time_info": "03时28分"
         },
         {
           "title": "美国天然气期货日内大涨6.00%，现报3.551美元/百万英热。",
@@ -102,18 +140,113 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
         {
-          "title": "周三（1月7日），韩元兑美元最终跌0.04%，报1448.0韩元。",
-          "url": "https://wallstreetcn.com/livenews/3032631",
-          "source": "华尔街见闻-快讯",
+          "title": "秘鲁中央银行表示在即期市场买入5300万美元。",
+          "url": "https://flash.jin10.com/detail/20260108023841344800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "直播电商新规强化AI内容监管",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时45分 ~ 03时28分]"
+        },
+        {
+          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
+          "url": "https://wallstreetcn.com/livenews/3032657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时28分]"
+        },
+        {
+          "title": "杨元庆：AI时代没有赢者通吃 联想要发挥特长开放合作",
+          "url": "https://wallstreetcn.com/livenews/3032655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时28分]"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时28分]"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
+          "url": "https://flash.jin10.com/detail/20260108030510490800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
+          "url": "https://wallstreetcn.com/livenews/3032620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         }
@@ -121,30 +254,8 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
-          "url": "https://flash.jin10.com/detail/20260108021838224800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
-          "url": "https://wallstreetcn.com/livenews/3032646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
           "url": "https://wallstreetcn.com/articles/3762734",
@@ -153,8 +264,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时28分]"
         },
         {
           "title": "为什么低价格香烟涨价，高档香烟不涨价?",
@@ -162,11 +273,36 @@
           "source": "知乎",
           "ranks": [
             20,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时28分]"
+        },
+        {
+          "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
+          "url": "https://flash.jin10.com/detail/20260108021838224800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时28分]"
+        },
+        {
+          "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
+          "url": "https://wallstreetcn.com/livenews/3032646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时28分]"
         },
         {
           "title": "鲍鱼价格跌至10元3只",
@@ -178,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "委内瑞拉国家石油公司董事会成员：如果美国想要获得委内瑞拉的石油供应，就必须按照国际价格支付货物费用。",
+          "url": "https://flash.jin10.com/detail/20260108025637881800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统采取了历史性的行动，以确保药品价格最低。",
@@ -193,70 +340,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "直播电商新规强化AI内容监管",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 02时46分]"
-        },
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时46分]"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时46分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时46分]"
-        },
-        {
-          "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
-          "url": "https://wallstreetcn.com/livenews/3032620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "指数",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贵金属集体跳水！关键大宗商品指数再平衡明日开启",
@@ -266,8 +351,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时28分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.47%，报26348点。 恒生科技指数主连夜盘收跌0.54%，报5723点。",
+          "url": "https://wallstreetcn.com/livenews/3032656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.85%，报25102.78点。 法国股指初步收涨0.05%，意大利股指初步收跌0.27%、银行指数跌0.75%，英国股指初步收跌0.79%。",
@@ -315,7 +411,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -326,7 +422,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         }
@@ -344,8 +440,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时28分]"
         }
       ]
     }

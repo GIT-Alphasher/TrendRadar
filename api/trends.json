@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T05:30:54.225453+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-01-08T06:31:14.292471+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 35,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
@@ -19,37 +19,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "埃克森美孚石油(XOM.N)：行业利润率变化将导致第四季度能源产品收益较第三季度减少3亿至7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260108051230144800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3032708",
+          "title": "维持1万亿美元军费？特朗普称2027年美军事预算应是1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3032738",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)：气价的变动将使第四季度上游业务收益与三季度相比减少1亿美元至3亿美元。",
-          "url": "https://flash.jin10.com/detail/20260108051148338800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时31分"
         },
         {
           "title": "美元指数涨0.1%",
@@ -87,6 +65,30 @@
           "time_info": "[02时46分 ~ 03时28分]"
         },
         {
+          "title": "埃克森美孚石油(XOM.N)：行业利润率变化将导致第四季度能源产品收益较第三季度减少3亿至7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260108051230144800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3032708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
           "title": "周三（1月7日），美联储隔夜逆回购协议（RRP）使用规模为45.82亿美元（交易对手8家），上个交易日报25.82亿美元。",
           "url": "https://wallstreetcn.com/livenews/3032644",
           "source": "华尔街见闻-快讯",
@@ -98,6 +100,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时35分]"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)：气价的变动将使第四季度上游业务收益与三季度相比减少1亿美元至3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260108051148338800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
         },
         {
           "title": "Anthropic按3500亿美元估值融资100亿美元。 由GIC和Coatue Management领投。（华尔街日报）",
@@ -171,6 +185,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "美国交通部：特朗普政府扣留了加州政府1.6亿美元资金，原因是该州未能撤销超过17,000张由外国人持有的商业驾照。",
+          "url": "https://flash.jin10.com/detail/20260108060318362800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "美国本周投资级债券发行量已达880亿美元，创2020年以来新高。",
           "url": "https://wallstreetcn.com/livenews/3032671",
           "source": "华尔街见闻-快讯",
@@ -237,6 +262,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "美元指数7日上涨",
+          "url": "https://flash.jin10.com/detail/20260108055003294800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "两名巴基斯坦消息人士称，巴基斯坦和沙特正在就将约20亿美元的沙特贷款转化为购买战斗机的交易进行谈判。这是在两国去年签署共同防御协议数月后，双方军事合作进一步深化的举措。",
           "url": "https://flash.jin10.com/detail/20260108015317410800",
           "source": "金十数据",
@@ -265,9 +301,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "周三（1月7日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9935元，较周二纽约尾盘跌130点，日内整体交投于6.9787-6.9936元区间。",
+          "url": "https://wallstreetcn.com/livenews/3032722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "土耳其实施2026年首次美元债融资，发行35亿美元债券。",
+          "url": "https://wallstreetcn.com/livenews/3032720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普：美国2027年的军费预算应提升至1.5万亿美元",
+          "url": "https://flash.jin10.com/detail/20260108053149928800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "周三（1月7日）纽约尾盘，美元兑日元涨0.08%，报156.77日元，日内交投区间为156.30-156.80日元，全天V形反转。 欧元兑日元涨0.02%，英镑兑日元跌0.20%。",
@@ -276,7 +345,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -287,9 +356,53 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260108051838195800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "周三（1月7日）纽约尾盘，现货黄金跌0.90%，报4454.32美元/盎司，北京时间23:17刷新日低至4423.61美元。 COMEX黄金期货跌0.73%，报4463.50美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3032714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "随着各类借款人纷纷利用投资者对风险的极度渴求，全球债券发行迎来了有史以来最繁忙的开年。 根据彭博社汇编的数据，截至1月7日，美国、欧洲和亚洲的公司及政府已通过多币种借入约2450亿美元，创下历史同期最高纪录。",
+          "url": "https://wallstreetcn.com/livenews/3032712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "匈牙利政府发行30亿欧元债券（折合35亿美元），认购金额大约100亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3032710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     },
@@ -308,8 +421,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时31分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -323,17 +436,6 @@
           "time_info": "[01时02分 ~ 04时35分]"
         },
         {
-          "title": "埃克森美孚：油价下跌造成公司四季度盈利遭受10亿美元冲击。 天然气价格恐造成四季度利润缩水3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3032709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
           "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
           "url": "https://flash.jin10.com/detail/20260108021838224800",
           "source": "金十数据",
@@ -344,6 +446,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时28分]"
+        },
+        {
+          "title": "埃克森美孚：油价下跌造成公司四季度盈利遭受10亿美元冲击。 天然气价格恐造成四季度利润缩水3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3032709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
         },
         {
           "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
@@ -359,6 +473,18 @@
           "time_info": "[02时46分 ~ 04时35分]"
         },
         {
+          "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
           "title": "高盛：伦敦库存紧张将导致白银价格持续波动",
           "url": "https://flash.jin10.com/detail/20260108035008783800",
           "source": "金十数据",
@@ -369,17 +495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时30分]"
-        },
-        {
-          "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 05时30分]"
         },
         {
           "title": "委内瑞拉国家石油公司董事会成员：如果美国想要获得委内瑞拉的石油供应，就必须按照国际价格支付货物费用。",
@@ -411,7 +526,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -429,6 +544,135 @@
       ]
     },
     {
+      "keyword_group": "指数",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "贵金属集体跳水！关键大宗商品指数再平衡明日开启",
+          "url": "https://wallstreetcn.com/articles/3762715",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时31分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.47%，报26348点。 恒生科技指数主连夜盘收跌0.54%，报5723点。",
+          "url": "https://wallstreetcn.com/livenews/3032656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260108050618678800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "阿根廷MERVAL指数收跌2.92%，报302.1万点，北京时间22:29-23:35显著下跌，过半时间低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3032703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨0.85%，报25102.78点。 法国股指初步收涨0.05%，意大利股指初步收跌0.27%、银行指数跌0.75%，英国股指初步收跌0.79%。",
+          "url": "https://wallstreetcn.com/livenews/3032604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.07%，报604.83点。 欧元区STOXX 50指数初步收跌0.08%，报5926.78点。 富时泛欧绩优300指数初步收跌0.13%，报2409.98点。",
+          "url": "https://wallstreetcn.com/livenews/3032603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.5%。 热门中概股里，新东方初步收涨0.4%，百度涨0.3%，蔚来涨0.1%，拼多多、小米、腾讯音乐、京东、美团跌超1%，阿里巴巴跌2.6%，网易跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3032690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "标普500指数初步收跌0.3%，公用事业板块跌2.3%，工业、预料、金融、房地产、能源、日用品板块至多跌超1.9%，科技板块持平，电信板块涨0.7%，保健板块涨1%。 纳斯达克100指数初步大致收平，成分股中，英特尔涨6.1%，CrowdStrike涨4.8%，再生元制药涨4.7%，派拓网络涨4.4%，MPWR跌4.9%，希捷科技跌6.6%，CSGP跌8%，西部数据跌8.9%。 卡特彼勒初步收跌4.2%，耐克跌3.1%，霍尼韦尔跌2.9%，领跌道指成分股，英伟达、微软、Salesforce、强生、再生元制药至少涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3032688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260108053517644800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收涨0.44%，报2163.88点。",
+          "url": "https://wallstreetcn.com/livenews/3032593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "周三（1月7日），降息赢家指数跌1.33%，报101.94点。 “特朗普关税输家”指数跌1.60%，报115.99点。 “特朗普金融指数”跌1.63%，报179.24点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.10%，报16.10点。",
+          "url": "https://wallstreetcn.com/livenews/3032719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 10,
       "titles": [
@@ -440,8 +684,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时45分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[02时45分 ~ 06时31分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -449,33 +693,36 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时31分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
           "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时31分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
           "url": "https://www.cls.cn/detail/2250745",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时31分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -550,114 +797,8 @@
       ]
     },
     {
-      "keyword_group": "指数",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "贵金属集体跳水！关键大宗商品指数再平衡明日开启",
-          "url": "https://wallstreetcn.com/articles/3762715",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时30分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.47%，报26348点。 恒生科技指数主连夜盘收跌0.54%，报5723点。",
-          "url": "https://wallstreetcn.com/livenews/3032656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时35分]"
-        },
-        {
-          "title": "金十图示：2026年01月07日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260108050618678800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "阿根廷MERVAL指数收跌2.92%，报302.1万点，北京时间22:29-23:35显著下跌，过半时间低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3032703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "德国DAX 30指数初步收涨0.85%，报25102.78点。 法国股指初步收涨0.05%，意大利股指初步收跌0.27%、银行指数跌0.75%，英国股指初步收跌0.79%。",
-          "url": "https://wallstreetcn.com/livenews/3032604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌0.07%，报604.83点。 欧元区STOXX 50指数初步收跌0.08%，报5926.78点。 富时泛欧绩优300指数初步收跌0.13%，报2409.98点。",
-          "url": "https://wallstreetcn.com/livenews/3032603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.5%。 热门中概股里，新东方初步收涨0.4%，百度涨0.3%，蔚来涨0.1%，拼多多、小米、腾讯音乐、京东、美团跌超1%，阿里巴巴跌2.6%，网易跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3032690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "标普500指数初步收跌0.3%，公用事业板块跌2.3%，工业、预料、金融、房地产、能源、日用品板块至多跌超1.9%，科技板块持平，电信板块涨0.7%，保健板块涨1%。 纳斯达克100指数初步大致收平，成分股中，英特尔涨6.1%，CrowdStrike涨4.8%，再生元制药涨4.7%，派拓网络涨4.4%，MPWR跌4.9%，希捷科技跌6.6%，CSGP跌8%，西部数据跌8.9%。 卡特彼勒初步收跌4.2%，耐克跌3.1%，霍尼韦尔跌2.9%，领跌道指成分股，英伟达、微软、Salesforce、强生、再生元制药至少涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3032688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收涨0.44%，报2163.88点。",
-          "url": "https://wallstreetcn.com/livenews/3032593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -666,7 +807,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -677,7 +818,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -688,7 +829,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -699,7 +840,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -710,7 +851,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -721,9 +862,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
+          "url": "https://wallstreetcn.com/livenews/3032715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股盘中）",
@@ -761,8 +913,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 06时31分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
@@ -799,7 +951,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         }

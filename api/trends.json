@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T03:28:10.172632+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-01-08T04:35:34.499534+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
@@ -19,15 +19,27 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美元指数涨0.1%",
+          "url": "https://wallstreetcn.com/livenews/3032675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9917元，较周二夜盘收盘跌87点。成交量532.36亿美元。",
           "url": "https://wallstreetcn.com/livenews/3032658",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的45.82亿美元。",
@@ -47,11 +59,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时35分]"
         },
         {
           "title": "Anthropic按3500亿美元估值融资100亿美元。 由GIC和Coatue Management领投。（华尔街日报）",
@@ -66,6 +79,18 @@
           "time_info": "[02时46分 ~ 03时28分]"
         },
         {
+          "title": "Anthropic计划以3500亿美元估值融资100亿美元",
+          "url": "https://flash.jin10.com/detail/20260108024901315800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
+        },
+        {
           "title": "LME期镍下跌5%，至每吨17,590美元。",
           "url": "https://wallstreetcn.com/livenews/3032635",
           "source": "华尔街见闻-快讯",
@@ -76,6 +101,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时28分]"
+        },
+        {
+          "title": "秘鲁中央银行表示在即期市场买入5300万美元。",
+          "url": "https://flash.jin10.com/detail/20260108023841344800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
         },
         {
           "title": "周三（1月7日），韩元兑美元最终跌0.04%，报1448.0韩元。",
@@ -90,6 +127,28 @@
           "time_info": "[02时46分 ~ 03时28分]"
         },
         {
+          "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
+          "url": "https://wallstreetcn.com/livenews/3032674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美国本周投资级债券发行量已达880亿美元，创2020年以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3032671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
           "title": "Anthropic计划融资100亿美元，对公司的估值为3500亿美元。",
           "url": "https://flash.jin10.com/detail/20260108020450644800",
           "source": "金十数据",
@@ -99,6 +158,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "艾伯维股价上涨5.9%。 华尔街日报报道称，该公司接近达成收购Revolution Medicine的协议，Revolut市值大约140亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3032672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "WTI 2月原油期货收跌2%，报55.99美元/桶。 布伦特3月原油期货收跌0.74美元，跌幅1.22%，报59.96美元/桶。 NYMEX 2月天然气期货收报3.525-美元/百万英热单位。 NYMEX 2月汽油期货收报1.6945美元/加仑，NYMEX 2月取暖油期货收报2.0567美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3032670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "LME三个月期镍下跌5%，至每吨17,590美元。",
@@ -112,6 +193,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
+          "url": "https://flash.jin10.com/detail/20260108031728568800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
           "title": "两名巴基斯坦消息人士称，巴基斯坦和沙特正在就将约20亿美元的沙特贷款转化为购买战斗机的交易进行谈判。这是在两国去年签署共同防御协议数月后，双方军事合作进一步深化的举措。",
           "url": "https://flash.jin10.com/detail/20260108015317410800",
           "source": "金十数据",
@@ -123,17 +215,6 @@
           "time_info": "02时46分"
         },
         {
-          "title": "Anthropic计划以3500亿美元估值融资100亿美元",
-          "url": "https://flash.jin10.com/detail/20260108024901315800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
           "title": "美国天然气期货日内大涨6.00%，现报3.551美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260108015031736800",
           "source": "金十数据",
@@ -143,23 +224,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "秘鲁中央银行表示在即期市场买入5300万美元。",
-          "url": "https://flash.jin10.com/detail/20260108023841344800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -169,19 +239,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时45分 ~ 03时28分]"
-        },
-        {
-          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
-          "url": "https://wallstreetcn.com/livenews/3032657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "appearance_count": 5,
+          "time_info": "[02时45分 ~ 04时35分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -192,19 +251,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时28分]"
-        },
-        {
-          "title": "杨元庆：AI时代没有赢者通吃 联想要发挥特长开放合作",
-          "url": "https://wallstreetcn.com/livenews/3032655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -214,8 +262,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
@@ -225,19 +273,66 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时35分]"
+        },
+        {
+          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
+          "url": "https://wallstreetcn.com/livenews/3032657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
+        },
+        {
+          "title": "杨元庆：AI时代没有赢者通吃 联想要发挥特长开放合作",
+          "url": "https://wallstreetcn.com/livenews/3032655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
         },
         {
           "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
           "url": "https://flash.jin10.com/detail/20260108030510490800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
+        },
+        {
+          "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
+          "url": "https://flash.jin10.com/detail/20260108034000250800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "04时35分"
+        },
+        {
+          "title": "Arm控股成立“Physical AI”部门，进军机器人领域。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3032673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
@@ -254,7 +349,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -264,8 +359,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "为什么低价格香烟涨价，高档香烟不涨价?",
@@ -274,11 +369,23 @@
           "ranks": [
             20,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时35分]"
+        },
+        {
+          "title": "高盛：伦敦库存紧张将导致白银价格持续波动",
+          "url": "https://flash.jin10.com/detail/20260108035008783800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
@@ -298,11 +405,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时35分]"
+        },
+        {
+          "title": "委内瑞拉国家石油公司董事会成员：如果美国想要获得委内瑞拉的石油供应，就必须按照国际价格支付货物费用。",
+          "url": "https://flash.jin10.com/detail/20260108025637881800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时28分]"
+          "time_info": "[03时28分 ~ 04时35分]"
         },
         {
           "title": "鲍鱼价格跌至10元3只",
@@ -314,17 +434,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "委内瑞拉国家石油公司董事会成员：如果美国想要获得委内瑞拉的石油供应，就必须按照国际价格支付货物费用。",
-          "url": "https://flash.jin10.com/detail/20260108025637881800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统采取了历史性的行动，以确保药品价格最低。",
@@ -351,19 +460,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.47%，报26348点。 恒生科技指数主连夜盘收跌0.54%，报5723点。",
           "url": "https://wallstreetcn.com/livenews/3032656",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时35分]"
         },
         {
           "title": "德国DAX 30指数初步收涨0.85%，报25102.78点。 法国股指初步收涨0.05%，意大利股指初步收跌0.27%、银行指数跌0.75%，英国股指初步收跌0.79%。",
@@ -401,6 +511,45 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "八部门联合发文，事关“人工智能+制造”",
+          "url": "https://www.cls.cn/detail/2250761",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时35分]"
+        },
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
+          "url": "https://flash.jin10.com/detail/20260108033311290800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -425,23 +574,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "八部门联合发文，事关“人工智能+制造”",
-          "url": "https://www.cls.cn/detail/2250761",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时28分]"
         }
       ]
     }

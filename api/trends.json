@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T22:34:19.089840+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2026-01-09T23:34:24.350328+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 87,
+      "match_count": 95,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -39,11 +39,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时06分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 23时34分]"
         },
         {
           "title": "据日本读卖新闻报道，日本首相高市早苗考虑解散众议院。 美元兑日元跌幅迅速扩大至0.66%，报157.95。",
@@ -52,9 +53,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "彭博美元指数涨幅扩大，刷新一个月高位。",
+          "url": "https://wallstreetcn.com/livenews/3034262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：特朗普称，他已指示代表购买价值2000亿美元的住房抵押贷款支持证券，以缩小抵押贷款利差并降低利率。实现这一目标的主要机制是通过房利美和房地美的自留投资组合，根据它们与美国财政部的现有协议，这两家公司（每家公司）持有的抵押贷款投资不得超过2250亿美元。截至2025年11月，两家公司在这些投资组合中各持有约1240亿美元，这意味着它们各自可以再购买1000亿美元的住房抵押贷款支持证券。",
@@ -118,7 +130,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -254,6 +266,18 @@
           "time_info": "[16时42分 ~ 17时37分]"
         },
         {
+          "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
+          "url": "https://news.ifeng.com/c/8pmH513Ylus",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 23时34分]"
+        },
+        {
           "title": "美国财长贝森特：纳税申报将于1月26日开始。 不会强迫那些投资了美国住房的企业出售（房产）。 大部分模型显示，美联储利率应该为2.5%-3.25%。 我不会为美联储列出具体的利率水平。 预计美国（预算）赤字在2025日历年下降3000亿-5000亿美元。",
           "url": "https://wallstreetcn.com/livenews/3033494",
           "source": "华尔街见闻-快讯",
@@ -276,18 +300,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时34分 ~ 16时42分]"
-        },
-        {
-          "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
-          "url": "https://news.ifeng.com/c/8pmH513Ylus",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 22时34分]"
         },
         {
           "title": "美国11月消费信贷 42.29亿美元，预期100亿美元，前值91.78亿美元。",
@@ -562,6 +574,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "现货黄金突破4510美元/盎司，日内涨0.73%。",
+          "url": "https://flash.jin10.com/detail/20260109232418628800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "布伦特原油日内涨幅达4.0%，报62.36美元/桶。 WTI原油日内涨幅达3.5%，报57.86美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3033527",
           "source": "华尔街见闻-快讯",
@@ -683,6 +706,17 @@
           "time_info": "15时34分"
         },
         {
+          "title": "独家|王健林“以时间换空间” 万达4亿美元债成功展期2年",
+          "url": "https://www.cls.cn/detail/2253497",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "市场消息：英伟达(NVDA.O)支持的数据中心公司Nscale预计将完成一轮20亿美元的融资。",
           "url": "https://flash.jin10.com/detail/20260109043256910800",
           "source": "金十数据",
@@ -733,7 +767,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -826,6 +860,17 @@
           "time_info": "21时03分"
         },
         {
+          "title": "美元兑日元涨穿158，为2025年1月以来首次，日内涨0.74%。 此前媒体报道称，日本首相企图解散议会众议院，从而为提前大选铺平道路。",
+          "url": "https://wallstreetcn.com/livenews/3034245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美国国会预算办公室（CBO）：奥巴马医改补贴延期三年将使赤字增加806亿美元。",
           "url": "https://flash.jin10.com/detail/20260108235317554800",
           "source": "金十数据",
@@ -837,6 +882,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "澳元兑美元AUD/USD日内跌超0.50%，现报0.6665。",
+          "url": "https://flash.jin10.com/detail/20260109231025667800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美国财长贝森特：我们预计今年的财政赤字将减少，在3000亿至5000亿美元之间。",
           "url": "https://flash.jin10.com/detail/20260109022009212800",
           "source": "金十数据",
@@ -846,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "现货黄金再次突破4500美元/盎司，日内涨0.51%。",
+          "url": "https://flash.jin10.com/detail/20260109231005481800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "周四（1月8日）纽约尾盘，美元兑日元涨0.13%，报156.97日元，日内交投区间为156.46-157.07日元。 欧元兑日元跌0.05%，英镑兑日元跌0.05%。",
@@ -903,6 +970,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "美国天然气期货日内走低3.00%，现报3.304美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260109230405415800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美元指数涨超0.2%",
           "url": "https://wallstreetcn.com/livenews/3033540",
           "source": "华尔街见闻-快讯",
@@ -923,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "纽约银日内涨幅达5.0%，报78.92美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3034237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "布伦特原油日内涨幅达2.00%，现报61.78美元/桶。",
@@ -1005,7 +1094,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "Nature 发布全球博士幸福指数调查，中国最低巴西最高，如何理解这一调查结果？",
@@ -1237,6 +1326,28 @@
           "time_info": "14时48分"
         },
         {
+          "title": "美国1月密歇根大学消费者预期指数初值 55，预期 55，前值 54.6。",
+          "url": "https://wallstreetcn.com/livenews/3034256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者信心指数初值 54，预期 53.5，前值 52.9。",
+          "url": "https://wallstreetcn.com/livenews/3034255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "港股收盘，恒生指数收涨0.32%，恒生科技指数收涨0.15%。MiniMax上市首日收涨约109%，智谱收涨超20%。山东黄金涨超6%，老铺黄金涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3033916",
           "source": "华尔街见闻-快讯",
@@ -1279,6 +1390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者现况指数初值 52.4，预期 52，前值 50.4。",
+          "url": "https://wallstreetcn.com/livenews/3034253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "韩国KOSPI指数扭转早盘跌势，最新上涨0.6%，报4581.43点。",
@@ -1369,6 +1491,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "美国消费者信心指数连续第二个月微升 创四个月新高",
+          "url": "https://flash.jin10.com/detail/20260109231322859800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.8%，创11月18日（收跌2.2%）以来最差单日表现，报380.01点。 在十个板块中，北欧工业板块跌幅最大。 Telefonaktiebolaget收跌4.4%，%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3033462",
           "source": "华尔街见闻-快讯",
@@ -1411,6 +1544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "标普综合1500中住宅建筑分类指数触及逾三周高位，最新涨幅达3.7%。",
+          "url": "https://flash.jin10.com/detail/20260109230710566800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.01%，报25123.91点。 法国股指初步收涨0.10%，意大利股指初步收涨0.20%、银行指数涨0.46%，英国股指初步收跌0.08%。",
@@ -1490,6 +1634,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "纳斯达克金龙中国指数盘初跌0.45%。 热门中概股小鹏、网易、阿里巴巴至少跌2.3%，理想、蔚来至多跌1.7%，百度涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3034234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.09%，报7796.71点。 热门中概股里，阿里巴巴初步收涨5.3%，新东方涨5.6%，小鹏涨3.1%，京东涨2.2%，小米、文远知行、百胜中国、小马智行至少涨0.7%，理想跌0.7%，腾讯跌0.8%，蔚来跌1%，美团跌2%，百度跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收涨1.13%，中国科技指数ETF（CQQQ）收涨0.67%。 XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收跌0.03%。",
           "url": "https://wallstreetcn.com/livenews/3033554",
           "source": "华尔街见闻-快讯",
@@ -1510,13 +1665,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "金十图示：2026年01月09日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260109230055909800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时33分 ~ 23时34分]"
+        },
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
           "url": "https://www.cls.cn/detail/2251902",
@@ -1529,17 +1706,6 @@
           "time_info": "[00时41分 ~ 03时28分]"
         },
         {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时33分 ~ 22时34分]"
-        },
-        {
           "title": "如何分辨AI音乐骗局",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
           "source": "bilibili 热搜",
@@ -1549,11 +1715,26 @@
             9,
             8,
             10,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时35分 ~ 21时03分]"
+          "appearance_count": 9,
+          "time_info": "[13时35分 ~ 23时34分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时33分 ~ 23时34分]"
         },
         {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
@@ -1569,18 +1750,17 @@
           "time_info": "[01时35分 ~ 06时31分]"
         },
         {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
+            5,
             6,
-            4,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时33分 ~ 22时34分]"
+          "appearance_count": 6,
+          "time_info": "[18时33分 ~ 23时34分]"
         },
         {
           "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
@@ -1597,19 +1777,6 @@
           "time_info": "[16时41分 ~ 21时03分]"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时33分 ~ 22时34分]"
-        },
-        {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
           "url": "https://www.cls.cn/detail/2253101",
           "source": "财联社热门",
@@ -1619,8 +1786,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时37分 ~ 22时34分]"
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 23时34分]"
         },
         {
           "title": "NAMI INSIGHT One亮相2026 CES：纳米盒（Namibox）领跑AI学习穿戴设备市场",
@@ -1629,7 +1796,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1721,6 +1888,41 @@
           "time_info": "[03时28分 ~ 04时35分]"
         },
         {
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时34分]"
+        },
+        {
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时34分]"
+        },
+        {
+          "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
+          "url": "https://flash.jin10.com/detail/20260109232712672800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
           "url": "https://wallstreetcn.com/livenews/3033598",
           "source": "华尔街见闻-快讯",
@@ -1776,17 +1978,6 @@
           "time_info": "15时34分"
         },
         {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
           "title": "机构：在AI与关税夹击下，美国12月非农就业增长料疲弱",
           "url": "https://flash.jin10.com/detail/20260109170031939800",
           "source": "金十数据",
@@ -1807,17 +1998,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
-        },
-        {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         },
         {
           "title": "Eleveight AI在亚美尼亚部署英伟达B300 Blackwell GPUs。",
@@ -1869,8 +2049,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时34分 ~ 22时34分]"
+          "appearance_count": 10,
+          "time_info": "[15时34分 ~ 23时34分]"
+        },
+        {
+          "title": "国务院反垄断反不正当竞争委员会：外卖平台服务行业拼补贴、拼价格、控流量等问题突出 决定开展调查、评估",
+          "url": "https://www.cls.cn/detail/2253152",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时33分 ~ 23时34分]"
         },
         {
           "title": "北方稀土：2026年第一季度稀土精矿交易价格调整为不含税26834元/吨",
@@ -1893,18 +2085,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
-        },
-        {
-          "title": "国务院反垄断反不正当竞争委员会：外卖平台服务行业拼补贴、拼价格、控流量等问题突出 决定开展调查、评估",
-          "url": "https://www.cls.cn/detail/2253152",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时33分 ~ 22时34分]"
         },
         {
           "title": "国内金饰价格继续下跌",
@@ -1961,7 +2141,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2071,7 +2251,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2090,7 +2270,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -2100,8 +2280,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时24分 ~ 22时34分]"
+          "appearance_count": 14,
+          "time_info": "[10时24分 ~ 23时34分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -2201,13 +2381,24 @@
           "time_info": "[06时31分 ~ 07时26分]"
         },
         {
+          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-09）",
           "url": "https://flash.jin10.com/detail/20260109220150497800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2218,7 +2409,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2284,9 +2475,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.88%，公用事业ETF涨1.67%，生物科技指数ETF涨0.92%，银行业ETF涨0.72%，半导体ETF、全球科技股指数ETF至多涨0.62%，网络股指数ETF则跌0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3034235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "生科ETF收跌超2.5%，半导体ETF跌约1.6%，领跌美股行业ETF，标普能源板块创4月以来最大单日涨幅",
@@ -2353,6 +2555,18 @@
           "time_info": "[12时06分 ~ 13时35分]"
         },
         {
+          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时34分]"
+        },
+        {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
           "url": "https://wallstreetcn.com/livenews/3033439",
           "source": "华尔街见闻-快讯",
@@ -2373,17 +2587,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
-        },
-        {
-          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         },
         {
           "title": "野村：人工智能需求上升利好亚洲多国经济",
@@ -2414,7 +2617,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -2482,8 +2685,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时24分 ~ 22时34分]"
+          "appearance_count": 14,
+          "time_info": "[10时24分 ~ 23时34分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",

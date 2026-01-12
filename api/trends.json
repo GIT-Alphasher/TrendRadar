@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-01-13T06:28:03.319725+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-01-13T07:25:01.025496+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
-          "title": "美、布两油短线小幅拉升0.3美元。",
-          "url": "https://flash.jin10.com/detail/20260113054904933800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "周一（1月12日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9680元，较上周五纽约尾盘涨80点，日内整体交投于6.9775-6.9628元区间。",
-          "url": "https://wallstreetcn.com/livenews/3035596",
+          "title": "Strategy 购入价值近12.5亿美元的比特币，这是该公司自7月以来对该数字资产的最大一笔购买。",
+          "url": "https://wallstreetcn.com/livenews/3035620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时25分"
+        },
+        {
+          "title": "现货白银跌1.4%跌破84美元/盎司，现货黄金跌0.36%报4580美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3035619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "美元指数跌约0.3%",
@@ -64,6 +64,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时35分]"
+        },
+        {
+          "title": "美、布两油短线小幅拉升0.3美元。",
+          "url": "https://flash.jin10.com/detail/20260113054904933800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
+        },
+        {
+          "title": "周一（1月12日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9680元，较上周五纽约尾盘涨80点，日内整体交投于6.9775-6.9628元区间。",
+          "url": "https://wallstreetcn.com/livenews/3035596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
         },
         {
           "title": "美元指数12日下跌",
@@ -208,6 +232,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "现货黄金周二小幅高开，现报4604美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260113070137376800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "沃尔玛涨约3.4%，刷新盘中历史高位至118.46美元，盘中市值超过9400亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035455",
           "source": "华尔街见闻-快讯",
@@ -247,7 +282,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -269,7 +304,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -291,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -409,18 +444,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
           "url": "https://wallstreetcn.com/articles/3763085",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -430,8 +466,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "张文宏：拒绝把AI引入医院病历系统",
@@ -441,8 +477,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -450,17 +498,6 @@
           "source": "财联社热门",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
-        },
-        {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -499,8 +536,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -510,8 +547,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -525,8 +562,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -541,8 +578,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -552,30 +589,43 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
-          "title": "从AI眼镜到脑机接口，智能终端升级大有可为",
-          "url": "https://wallstreetcn.com/livenews/3035598",
-          "source": "华尔街见闻-快讯",
+          "title": "张文宏称拒绝把AI引入医院病历系统",
+          "url": "https://www.toutiao.com/trending/7594611746107854346/",
+          "source": "今日头条",
           "ranks": [
-            3
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时35分 ~ 06时28分]"
+          "appearance_count": 6,
+          "time_info": "[04时35分 ~ 07时25分]"
+        },
+        {
+          "title": "从AI眼镜到脑机接口，智能终端升级大有可为",
+          "url": "https://wallstreetcn.com/livenews/3035598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -624,6 +674,28 @@
           "time_info": "05时31分"
         },
         {
+          "title": "电网基建与AIDC需求共振，变压器行业高景气延续",
+          "url": "https://wallstreetcn.com/livenews/3035608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "催化事件不断，AI应用从“可用”迈向“好用”",
+          "url": "https://wallstreetcn.com/livenews/3035605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
           "url": "https://wallstreetcn.com/livenews/3035441",
           "source": "华尔街见闻-快讯",
@@ -637,6 +709,184 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 05时31分]"
+        },
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
+        },
+        {
+          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2255324",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
+        },
+        {
+          "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 06时28分]"
+        },
+        {
+          "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260113013057440800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
+          "url": "https://wallstreetcn.com/livenews/3035583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
+          "url": "https://flash.jin10.com/detail/20260113050054548800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "日常消费品ETF收涨约1.2%，领跑美股行业ETF，银行业ETF跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3035579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
+          "url": "https://wallstreetcn.com/livenews/3035592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨3.73%，报388.50点，继续创历史新高，盘初迅速拉升，剩余时间持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.52%，报2711.76点，北京时间22:30美股开盘之前维持微幅上涨状态——持稳于2630点附近、随后“跳空”至2700点上方。 （美股）原材料指数涨1.57%，报249.00点。 （美股）金属与矿业指数涨1.79%，报235.72点。",
+          "url": "https://wallstreetcn.com/livenews/3035591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050522045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050512989800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "美股小盘股创七年来对大盘股最长连胜记录",
+          "url": "https://flash.jin10.com/detail/20260113060720442800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "指数",
       "match_count": 13,
       "titles": [
@@ -645,11 +895,12 @@
           "url": "https://www.zhihu.com/question/1993979124902019099",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.18%，报610.75点。 欧元区STOXX 50指数初步收涨0.25%，报6012.61点，继续创收盘历史新高。 富时泛欧绩优300指数初步收涨0.22%，报2436.06点。",
@@ -704,7 +955,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -726,7 +977,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -770,7 +1021,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -788,151 +1039,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时31分]"
-        },
-        {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
-        },
-        {
-          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2255324",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时28分]"
-        },
-        {
-          "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 06时28分]"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260113013057440800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
-          "url": "https://wallstreetcn.com/livenews/3035583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时28分]"
-        },
-        {
-          "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
-          "url": "https://flash.jin10.com/detail/20260113050054548800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时28分]"
-        },
-        {
-          "title": "日常消费品ETF收涨约1.2%，领跑美股行业ETF，银行业ETF跌超1.2%",
-          "url": "https://wallstreetcn.com/livenews/3035579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时28分]"
-        },
-        {
-          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
-          "url": "https://wallstreetcn.com/livenews/3035592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨3.73%，报388.50点，继续创历史新高，盘初迅速拉升，剩余时间持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.52%，报2711.76点，北京时间22:30美股开盘之前维持微幅上涨状态——持稳于2630点附近、随后“跳空”至2700点上方。 （美股）原材料指数涨1.57%，报249.00点。 （美股）金属与矿业指数涨1.79%，报235.72点。",
-          "url": "https://wallstreetcn.com/livenews/3035591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260113050522045800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260113050512989800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "诺和诺德(NVO.N)CEO：同意美国药品价格过高，欧洲药品价格过低，但欧洲各国政府持有不同观点。",
@@ -992,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时31分]"
+        },
+        {
+          "title": "碳酸锂价格突破15万元/吨，锂电池“抢货潮”预期高涨，产业景气度持续攀升",
+          "url": "https://wallstreetcn.com/livenews/3035602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -1017,7 +1136,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }

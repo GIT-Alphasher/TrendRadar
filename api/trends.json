@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T04:36:23.831473+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-01-14T05:31:15.179451+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -14,22 +14,12 @@
           "ranks": [
             9,
             5,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
-        },
-        {
-          "title": "美元指数涨约0.3%，美国CPI数据发布后强势V型反转",
-          "url": "https://wallstreetcn.com/livenews/3036389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
         },
         {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
@@ -43,15 +33,27 @@
           "time_info": "02时43分"
         },
         {
-          "title": "得益于关税收入激增，2025年美国财政赤字缩减至1.7万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3036386",
+          "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
+          "url": "https://wallstreetcn.com/livenews/3036406",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美元指数涨约0.3%，美国CPI数据发布后强势V型反转",
+          "url": "https://wallstreetcn.com/livenews/3036389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
         },
         {
           "title": "英伟达维持超过0.4%的涨幅，持稳于日高185.80美元附近。",
@@ -76,6 +78,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时28分]"
+        },
+        {
+          "title": "得益于关税收入激增，2025年美国财政赤字缩减至1.7万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3036386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9795元，较周一夜盘收盘跌62点。成交量403.81亿美元。",
@@ -150,6 +164,18 @@
           "time_info": "[02时43分 ~ 03时28分]"
         },
         {
+          "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
+          "url": "https://wallstreetcn.com/livenews/3036378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
           "title": "LME期铜收跌46美元，报13164美元/吨。 LME期铝收涨13美元，报3198美元/吨。 LME期锌收跌14美元，报3202美元/吨。 LME期铅收涨8美元，报2062美元/吨。 LME期镍收跌207美元，报17681美元/吨。 LME期锡收涨1561美元，报49528美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3036335",
           "source": "华尔街见闻-快讯",
@@ -197,6 +223,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "市场消息：人工智能芯片初创公司Etched融资5亿美元。在由Stripes领投的一轮融资中，Etched的估值达到50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260114045757642800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
           "title": "美国财政部：美国2025年12月预算赤字为1450亿美元，创当月历史新高，市场预期为1500亿美元，而2024年12月的赤字为870亿美元。",
           "url": "https://flash.jin10.com/detail/20260114030125896800",
           "source": "金十数据",
@@ -214,7 +251,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -263,17 +300,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
-          "url": "https://wallstreetcn.com/livenews/3036378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
           "title": "WTI原油期货日内上涨2.00美元，现报61.50美元/桶，涨幅3.36%。",
           "url": "https://flash.jin10.com/detail/20260114002546702800",
           "source": "金十数据",
@@ -313,9 +339,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "市场消息：哥伦比亚在大选前启动50亿美元债券发行。",
+          "url": "https://flash.jin10.com/detail/20260114043653242800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
@@ -338,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "据英国金融时报：美联储主席鲍威尔在作证后向参议员们发送了有关25亿美元美联储项目详情的资料。",
+          "url": "https://flash.jin10.com/detail/20260114043454954800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "澳元兑美元AUD/USD日内跌幅达0.50%，现报0.6675。",
@@ -373,6 +421,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美元指数13日上涨",
+          "url": "https://flash.jin10.com/detail/20260114043227096800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
           "title": "美元兑瑞郎USD/CHF日内涨幅扩大至0.50%，现报0.8010。",
           "url": "https://flash.jin10.com/detail/20260114001236459800",
           "source": "金十数据",
@@ -384,11 +443,176 @@
           "time_info": "00时43分"
         },
         {
+          "title": "消息人士：美国百货公司和商业地产控股公司Saks Global预计将“很快”申请破产，正接近在申请破产前敲定一项17.5亿美元的融资方案。即将与由Pentwater和Bracebridge牵头的放贷方财团达成融资协议。",
+          "url": "https://flash.jin10.com/detail/20260114041108913800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔做得并不好。 鲍威尔要么无能，要么腐败。 他超预算了几十亿美元，要么是无能，要么就是腐败。我不知道是哪一种，但显然他干得并不好。",
           "url": "https://wallstreetcn.com/livenews/3036283",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "韩国12月出口物价指数年率 5.5%，前值7.00%。",
+          "url": "https://flash.jin10.com/detail/20260114050002161800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "摩根大通收跌4.2%，费城银行指数跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3036404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "韩国12月进口物价指数年率 0.3%，前值2.20%。",
+          "url": "https://flash.jin10.com/detail/20260114050002137800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
+          "url": "https://wallstreetcn.com/livenews/3036313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时35分]"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨0.05%，报25417.30点。 法国股指初步收跌0.15%，意大利股指初步收跌0.41%、银行指数涨0.33%，英国股指初步收涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3036308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时35分]"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.08%，报610.44点。 欧元区STOXX 50指数初步收涨0.33%，报6029.35点。 富时泛欧绩优300指数初步收跌0.04%，报2435.88点。",
+          "url": "https://wallstreetcn.com/livenews/3036307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时35分]"
+        },
+        {
+          "title": "西太平洋银行：新西兰四季度雇佣信心指数上升3.9，至93.8，创2024年以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3036385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.21%，报26920点。 恒生科技指数主连夜盘收涨0.25%，报5900点。",
+          "url": "https://wallstreetcn.com/livenews/3036359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时36分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，小马智行跌9.6%，拼多多跌超5%，阿里涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3036402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。 纳斯达克生物科技指数收涨0.02%，报5775.48点。 费城半导体指数收涨0.95%，报7747.993点。 费城证交所KBW银行指数收跌1.26%，报166.87点，1月6日涨至172.98点创盘中历史新高以来逐步回撤。 道琼斯KBW地区银行指数收跌0.59%，报126.85点。",
+          "url": "https://wallstreetcn.com/livenews/3036399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "纳斯达克中国金龙指数跌幅扩大至2%，文远知行(WRD.O)跌近10%。",
+          "url": "https://flash.jin10.com/detail/20260114043642376800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260114004522433800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌幅扩大至1.97%——在周一大幅上涨之后回撤，跌幅目前已经显著收窄至1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3036284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -409,8 +633,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -420,8 +644,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -442,11 +666,12 @@
           "ranks": [
             10,
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -455,11 +680,12 @@
           "ranks": [
             17,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -470,11 +696,12 @@
             20,
             18,
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -488,8 +715,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -561,182 +788,8 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "暴涨近10倍 西红柿价格为何走高",
-          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A8%E8%BF%9110%E5%80%8D+%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E8%B5%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
-        },
-        {
-          "title": "美国能源信息署（EIA）短期能源展望报告（STEO）：预计2026年布伦特原油价格为56美元/桶，之前预计为55美元；预计2027年为54美元/桶。 EIA将于2月10日发布下一份STEO。",
-          "url": "https://wallstreetcn.com/livenews/3036319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时43分]"
-        },
-        {
-          "title": "美国劳工部：将于3月5日公布1月份的进出口价格数据以及第四季度的初步生产率数据。",
-          "url": "https://flash.jin10.com/detail/20260114003133216800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
-          "url": "https://wallstreetcn.com/livenews/3036380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普称赞汽油价格低廉。",
-          "url": "https://flash.jin10.com/detail/20260114033708246800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普赞赏汽油价格偏低。",
-          "url": "https://wallstreetcn.com/livenews/3036375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "金十图示：EIA短期能源展望报告重点一览——上调今年美、布两油价格预期。",
-          "url": "https://flash.jin10.com/detail/20260114012717388800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "西太平洋银行：新西兰四季度雇佣信心指数上升3.9，至93.8，创2024年以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3036385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
-          "url": "https://wallstreetcn.com/livenews/3036313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
-        },
-        {
-          "title": "德国DAX 30指数初步收涨0.05%，报25417.30点。 法国股指初步收跌0.15%，意大利股指初步收跌0.41%、银行指数涨0.33%，英国股指初步收涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3036308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌0.08%，报610.44点。 欧元区STOXX 50指数初步收涨0.33%，报6029.35点。 富时泛欧绩优300指数初步收跌0.04%，报2435.88点。",
-          "url": "https://wallstreetcn.com/livenews/3036307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时35分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.21%，报26920点。 恒生科技指数主连夜盘收涨0.25%，报5900点。",
-          "url": "https://wallstreetcn.com/livenews/3036359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时36分]"
-        },
-        {
-          "title": "金十图示：2026年01月14日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260114004522433800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌幅扩大至1.97%——在周一大幅上涨之后回撤，跌幅目前已经显著收窄至1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3036284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -746,8 +799,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -756,11 +809,45 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260114050526199800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260114050525340800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 英特尔涨7%",
+          "url": "https://flash.jin10.com/detail/20260114050057786800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "美国总统特朗普赞赏美股的表现。",
@@ -811,6 +898,106 @@
       ]
     },
     {
+      "keyword_group": "价格",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "暴涨近10倍 西红柿价格为何走高",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A8%E8%BF%9110%E5%80%8D+%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E8%B5%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
+        },
+        {
+          "title": "周二（1月13日），彭博电动汽车价格回报指数涨0.28%，报3619.10点，亚太早盘持续走高，北京时间13:00过后逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3036403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美国能源信息署（EIA）短期能源展望报告（STEO）：预计2026年布伦特原油价格为56美元/桶，之前预计为55美元；预计2027年为54美元/桶。 EIA将于2月10日发布下一份STEO。",
+          "url": "https://wallstreetcn.com/livenews/3036319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时43分]"
+        },
+        {
+          "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
+          "url": "https://wallstreetcn.com/livenews/3036380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏汽油价格偏低。",
+          "url": "https://wallstreetcn.com/livenews/3036375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "美国劳工部：将于3月5日公布1月份的进出口价格数据以及第四季度的初步生产率数据。",
+          "url": "https://flash.jin10.com/detail/20260114003133216800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "美国总统特朗普称赞汽油价格低廉。",
+          "url": "https://flash.jin10.com/detail/20260114033708246800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "金十图示：EIA短期能源展望报告重点一览——上调今年美、布两油价格预期。",
+          "url": "https://flash.jin10.com/detail/20260114012717388800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -823,8 +1010,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
+          "url": "https://wallstreetcn.com/livenews/3036390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T03:28:32.537879+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-01-14T04:36:23.831473+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -13,11 +13,23 @@
           "source": "今日头条",
           "ranks": [
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
+        },
+        {
+          "title": "美元指数涨约0.3%，美国CPI数据发布后强势V型反转",
+          "url": "https://wallstreetcn.com/livenews/3036389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
@@ -31,15 +43,15 @@
           "time_info": "02时43分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9795元，较周一夜盘收盘跌62点。成交量403.81亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3036362",
+          "title": "得益于关税收入激增，2025年美国财政赤字缩减至1.7万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3036386",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "04时36分"
         },
         {
           "title": "英伟达维持超过0.4%的涨幅，持稳于日高185.80美元附近。",
@@ -66,6 +78,18 @@
           "time_info": "[02时43分 ~ 03时28分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9795元，较周一夜盘收盘跌62点。成交量403.81亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3036362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时36分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨4.6%，刷新期内高位至4259点上方，北京时间12:00以来平滑地持续走高。 MarketVectorTM数字资产100中盘指数涨3.69%，刷新期内高位至3892点上方。 MarketVector数字资产100指数涨1.8%，报19415.75点。 目前，Solana涨2.31%，狗狗币涨4.25%，XRP涨2.23%。 此外，比特币涨3%，刷新日高至93720美元上方，以太坊涨超3.1%，持稳于日高3194.160美元附近。",
           "url": "https://wallstreetcn.com/livenews/3036317",
           "source": "华尔街见闻-快讯",
@@ -88,6 +112,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时28分]"
+        },
+        {
+          "title": "美国12月政府预算 -1447亿美元，预期 -1525亿美元，前值 -1733亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3036360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时36分]"
         },
         {
           "title": "L3Harris（LHX）一度涨约4%，美国国防部准备以10亿美元可转换优先证券的方式投资于L3Harris Technologies Inc.的导弹业务部门，从而进一步加强美国政府与这家大型国防承包商之间的直接联系。",
@@ -126,6 +162,18 @@
           "time_info": "[02时43分 ~ 03时28分]"
         },
         {
+          "title": "哥伦比亚本次在国际市场上的美元主权债发行规模接近50亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3036354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时36分]"
+        },
+        {
           "title": "Hudson River 2025年交易收入估计创纪录，达123亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3036332",
           "source": "华尔街见闻-快讯",
@@ -144,18 +192,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美国12月政府预算 -1447亿美元，预期 -1525亿美元，前值 -1733亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3036360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -166,9 +203,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美国总统特朗普称赞2000亿美元抵押贷款债券购买计划的巨大影响。",
+          "url": "https://flash.jin10.com/detail/20260114034226991800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "英伟达低位反弹，涨幅扩大至超过1%，刷新日高，逼近187美元。",
@@ -188,7 +236,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -210,9 +258,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
+          "url": "https://wallstreetcn.com/livenews/3036378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "WTI原油期货日内上涨2.00美元，现报61.50美元/桶，涨幅3.36%。",
@@ -237,26 +296,26 @@
           "time_info": "01时35分"
         },
         {
-          "title": "哥伦比亚本次在国际市场上的美元主权债发行规模接近50亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3036354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
           "title": "特朗普：会乐见油价在每桶53美元",
           "url": "https://wallstreetcn.com/livenews/3036351",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "WTI 2月原油期货收报61.15美元/桶。 布伦特3月原油期货收报65.47美元/桶。 NYMEX 2月天然气期货收报3.4190美元/百万英热单位。 NYMEX 2月汽油期货收报1.8265美元/加仑，NYMEX 2月取暖油期货收报2.2384美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3036372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
@@ -265,7 +324,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -276,7 +335,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -350,8 +409,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -361,19 +420,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
           "url": "https://www.cls.cn/detail/2256264",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -381,11 +441,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -397,8 +458,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -408,11 +469,12 @@
             22,
             20,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -422,11 +484,12 @@
             28,
             23,
             19,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -498,72 +561,85 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "价格",
+      "match_count": 7,
       "titles": [
         {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
+          "title": "暴涨近10倍 西红柿价格为何走高",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A8%E8%BF%9110%E5%80%8D+%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E8%B5%B0%E9%AB%98",
+          "source": "百度热搜",
           "ranks": [
-            2
+            18,
+            7,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
-          "title": "美国总统特朗普赞赏美股的表现。",
-          "url": "https://wallstreetcn.com/livenews/3036366",
+          "title": "美国能源信息署（EIA）短期能源展望报告（STEO）：预计2026年布伦特原油价格为56美元/桶，之前预计为55美元；预计2027年为54美元/桶。 EIA将于2月10日发布下一份STEO。",
+          "url": "https://wallstreetcn.com/livenews/3036319",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时43分]"
         },
         {
-          "title": "美国总统特朗普称赞美股走高。",
-          "url": "https://flash.jin10.com/detail/20260114030749568800",
+          "title": "美国劳工部：将于3月5日公布1月份的进出口价格数据以及第四季度的初步生产率数据。",
+          "url": "https://flash.jin10.com/detail/20260114003133216800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260114013126429800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "00时43分"
         },
         {
-          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260114013023358800",
+          "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
+          "url": "https://wallstreetcn.com/livenews/3036380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普称赞汽油价格低廉。",
+          "url": "https://flash.jin10.com/detail/20260114033708246800",
           "source": "金十数据",
           "ranks": [
-            25
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普赞赏汽油价格偏低。",
+          "url": "https://wallstreetcn.com/livenews/3036375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "金十图示：EIA短期能源展望报告重点一览——上调今年美、布两油价格预期。",
+          "url": "https://flash.jin10.com/detail/20260114012717388800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -573,8 +649,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "西太平洋银行：新西兰四季度雇佣信心指数上升3.9，至93.8，创2024年以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3036385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
           "url": "https://wallstreetcn.com/livenews/3036313",
@@ -616,11 +703,12 @@
           "url": "https://wallstreetcn.com/livenews/3036359",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时36分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）全球股市指数-欧洲市场（收盘）",
@@ -647,51 +735,74 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 6,
       "titles": [
         {
-          "title": "暴涨近10倍 西红柿价格为何走高",
-          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A8%E8%BF%9110%E5%80%8D+%E8%A5%BF%E7%BA%A2%E6%9F%BF%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E8%B5%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            7,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
-          "title": "美国能源信息署（EIA）短期能源展望报告（STEO）：预计2026年布伦特原油价格为56美元/桶，之前预计为55美元；预计2027年为54美元/桶。 EIA将于2月10日发布下一份STEO。",
-          "url": "https://wallstreetcn.com/livenews/3036319",
+          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏美股的表现。",
+          "url": "https://wallstreetcn.com/livenews/3036366",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            26
+            2,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时43分]"
+          "time_info": "[03时28分 ~ 04时36分]"
         },
         {
-          "title": "美国劳工部：将于3月5日公布1月份的进出口价格数据以及第四季度的初步生产率数据。",
-          "url": "https://flash.jin10.com/detail/20260114003133216800",
+          "title": "美国总统特朗普称赞美股走高。",
+          "url": "https://flash.jin10.com/detail/20260114030749568800",
           "source": "金十数据",
           "ranks": [
-            9
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时36分]"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260114013126429800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "02时43分"
         },
         {
-          "title": "金十图示：EIA短期能源展望报告重点一览——上调今年美、布两油价格预期。",
-          "url": "https://flash.jin10.com/detail/20260114012717388800",
+          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260114013023358800",
           "source": "金十数据",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -712,8 +823,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时36分]"
         }
       ]
     },

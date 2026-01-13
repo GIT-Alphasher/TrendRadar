@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T16:42:40.073930+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-01-13T17:37:42.471225+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 58,
+      "match_count": 64,
       "titles": [
         {
           "title": "美商务部长称台积电或在美投资加码至超2000亿美元",
@@ -16,19 +16,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 17时37分]"
         },
         {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.9765，较上一交易日官方收盘价跌23点，较上日夜盘收盘跌32点。",
-          "url": "https://wallstreetcn.com/livenews/3035967",
-          "source": "华尔街见闻-快讯",
+          "title": "布伦特原油日内涨幅达1.00%，现报64.93美元/桶。WTI原油日内涨幅达1.00%，现报60.37美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260113172517784800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时42分"
+          "time_info": "17时37分"
         },
         {
           "title": "WTI原油向上触及60美元/桶，为去年12月8日以来首次。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "LSEG数据：布伦特原油对迪拜原油的溢价收于1.97美元/桶，为自7月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260113171347378800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "Strategy 购入价值近12.5亿美元的比特币，这是该公司自7月以来对该数字资产的最大一笔购买。",
@@ -74,6 +85,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时31分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9765，较上一交易日官方收盘价跌23点，较上日夜盘收盘跌32点。",
+          "url": "https://wallstreetcn.com/livenews/3035967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
         },
         {
           "title": "巴克莱：将微软(MSFT.O)目标价从625.00美元/股下调至610.00美元/股，维持超配评级。",
@@ -279,6 +302,17 @@
           "time_info": "[04时35分 ~ 05时31分]"
         },
         {
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的34.02亿美元。",
           "url": "https://flash.jin10.com/detail/20260113022027617800",
           "source": "金十数据",
@@ -371,17 +405,6 @@
           "time_info": "07时25分"
         },
         {
-          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
-          "url": "https://www.cls.cn/detail/2255787",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "沃尔玛涨约3.4%，刷新盘中历史高位至118.46美元，盘中市值超过9400亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035455",
           "source": "华尔街见闻-快讯",
@@ -448,6 +471,17 @@
           "time_info": "13时34分"
         },
         {
+          "title": "美元兑日元USD/JPY站上159，为2024年7月以来首次。",
+          "url": "https://flash.jin10.com/detail/20260113165023945800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "澳元/美元日内涨幅达0.5%，报0.6718。",
           "url": "https://wallstreetcn.com/livenews/3035451",
           "source": "华尔街见闻-快讯",
@@ -481,6 +515,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "美元兑日元站上159，为2024年7月以来首次，日内涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3035979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "纽约期金涨约2.3%，一度刷新历史高位至4640美元上方",
           "url": "https://wallstreetcn.com/livenews/3035586",
           "source": "华尔街见闻-快讯",
@@ -490,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "港元兑美元汇率跌至7.8，触及交易区间中点。",
+          "url": "https://wallstreetcn.com/livenews/3035974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "纽约金日内涨幅达3.0%，报4636.1美元/盎司。",
@@ -534,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "现货白银站上86美元/盎司，日内涨1.95%。",
+          "url": "https://wallstreetcn.com/livenews/3035972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "1月9日当周，在美上市新兴市场股票ETFs获得39.6亿美元资金流入，连续第十二周录入。 其中，贝莱德集团IEMG流入21亿美元，创2021年以来最大单周流入。 该基金主要配置台积电、腾讯控股、三星电子、阿里巴巴。",
@@ -671,7 +738,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "1 月 12 日三大指数均涨超 1%，两市成交额 3.6 万亿元创历史新高，如何看待今日行情？",
@@ -692,9 +759,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "富时新加坡海峡时报指数收涨0.85%，报4807.13点。",
+          "url": "https://flash.jin10.com/detail/20260113172305261800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "日本12月经济观察家前景指数 50.5，预期50.2，前值50.3。",
@@ -789,6 +867,31 @@
           "time_info": "[03时28分 ~ 04时35分]"
         },
         {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 17时37分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.9%，恒生科技指数收涨0.11%， 药明康德涨超8%，阿里巴巴涨超3%，智谱跌超12%，MINIMAX跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3035951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
+        },
+        {
           "title": "A股开盘：三大指数集体高开",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
           "source": "百度热搜",
@@ -799,18 +902,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时21分 ~ 12时07分]"
-        },
-        {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时42分]"
         },
         {
           "title": "彭博指数服务公司：将于2026年年中就印度纳入事宜提供进一步更新，投资者反馈表明，印度政府债券最终被纳入全球投资级基准的可能性得到了广泛支持。",
@@ -833,17 +924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.9%，恒生科技指数收涨0.11%， 药明康德涨超8%，阿里巴巴涨超3%，智谱跌超12%，MINIMAX跌超8%。",
-          "url": "https://wallstreetcn.com/livenews/3035951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "标普500指数和纳斯达克综合指数转涨。",
@@ -1135,7 +1215,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -1171,8 +1251,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 16时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 17时37分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -1253,8 +1333,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 16时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 17时37分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -1279,11 +1359,12 @@
             23,
             21,
             19,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 16时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 17时37分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -1314,6 +1395,22 @@
           "time_info": "[07时24分 ~ 12时07分]"
         },
         {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16,
+            19,
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 17时37分]"
+        },
+        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -1341,30 +1438,26 @@
           "time_info": "[04时35分 ~ 07时25分]"
         },
         {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
           "url": "https://flash.jin10.com/detail/20260113161050388800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            16,
-            19,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 16时42分]"
         },
         {
           "title": "从AI眼镜到脑机接口，智能终端升级大有可为",
@@ -1379,6 +1472,19 @@
           "time_info": "[06时28分 ~ 07时25分]"
         },
         {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时48分 ~ 17时37分]"
+        },
+        {
           "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
           "url": "https://wallstreetcn.com/livenews/3035821",
           "source": "华尔街见闻-快讯",
@@ -1391,17 +1497,16 @@
           "time_info": "[13时34分 ~ 14时48分]"
         },
         {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
-          "source": "财联社热门",
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            11,
-            6
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时48分 ~ 16时42分]"
+          "time_info": "[15时33分 ~ 17时37分]"
         },
         {
           "title": "如何看待马斯克AI预言",
@@ -1429,16 +1534,16 @@
           "time_info": "[10时21分 ~ 13时34分]"
         },
         {
-          "title": "张文宏称拒绝将AI引入医院病历系统",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
+          "url": "https://www.cls.cn/detail/2255684",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时42分]"
+          "time_info": "[16时42分 ~ 17时37分]"
         },
         {
           "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
@@ -1486,17 +1591,6 @@
           "time_info": "05时31分"
         },
         {
-          "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
-          "url": "https://www.cls.cn/detail/2255684",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "电网基建与AIDC需求共振，变压器行业高景气延续",
           "url": "https://wallstreetcn.com/livenews/3035608",
           "source": "华尔街见闻-快讯",
@@ -1530,6 +1624,17 @@
           "time_info": "10时21分"
         },
         {
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
           "url": "https://wallstreetcn.com/livenews/3035759",
           "source": "华尔街见闻-快讯",
@@ -1558,7 +1663,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
@@ -1566,7 +1671,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "诺和诺德(NVO.N)CEO：同意美国药品价格过高，欧洲药品价格过低，但欧洲各国政府持有不同观点。",
@@ -1580,6 +1685,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "大摩：美国CPI报告或显示价格压力出现明显反弹",
+          "url": "https://flash.jin10.com/detail/20260113171209747800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "字节再次上调期权价格：较去年8月涨近13%，较2019年涨幅超4倍",
           "url": "https://wallstreetcn.com/livenews/3035867",
           "source": "华尔街见闻-快讯",
@@ -1589,6 +1705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "贵州茅台：构建“随行就市、相对平稳”的自营体系零售价格动态调整机制",
+          "url": "https://wallstreetcn.com/livenews/3035996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "1月13日：“农产品批发价格200指数”比昨天下降0.31个点",
@@ -1756,8 +1883,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 17时37分]"
+        },
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
           "url": "https://wallstreetcn.com/articles/3763053",
@@ -1768,17 +1907,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时38分 ~ 05时31分]"
-        },
-        {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 16时42分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -1911,6 +2039,28 @@
           "time_info": "[06时28分 ~ 07时25分]"
         },
         {
+          "title": "美股Q4财报季开启！高盛：标普500盈利预期“太保守”，本周银行股表现成关键风向标",
+          "url": "https://wallstreetcn.com/articles/3763105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3035989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260113050522045800",
           "source": "金十数据",
@@ -1979,22 +2129,24 @@
           "url": "https://www.cls.cn/detail/2256114",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
         },
         {
           "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
           "url": "https://wallstreetcn.com/livenews/3035939",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
         },
         {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
@@ -2014,7 +2166,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -2076,11 +2228,12 @@
           "url": "https://wallstreetcn.com/articles/3763151",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名论文",

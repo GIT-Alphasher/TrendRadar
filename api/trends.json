@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T12:14:47.566641+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-01-14T13:34:46.486415+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -30,18 +30,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "交易员称，印度央行已在外汇市场抛售美元以支撑卢比汇率。",
-          "url": "https://wallstreetcn.com/livenews/3036649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -74,18 +63,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "现货白银站上91美元/盎司，日内涨4.7%。",
-          "url": "https://wallstreetcn.com/livenews/3036647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -96,18 +74,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "现货钯金上涨3.1%报每盎司1,896.53美元。",
-          "url": "https://wallstreetcn.com/livenews/3036645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -122,6 +89,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "交易员称，印度央行已在外汇市场抛售美元以支撑卢比汇率。",
+          "url": "https://wallstreetcn.com/livenews/3036649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时34分]"
         },
         {
           "title": "英伟达维持超过0.4%的涨幅，持稳于日高185.80美元附近。",
@@ -148,6 +127,18 @@
           "time_info": "[05时31分 ~ 06时32分]"
         },
         {
+          "title": "现货白银站上91美元/盎司，日内涨4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3036647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时34分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的32.77亿美元。",
           "url": "https://flash.jin10.com/detail/20260114021656288800",
           "source": "金十数据",
@@ -170,6 +161,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "现货钯金上涨3.1%报每盎司1,896.53美元。",
+          "url": "https://wallstreetcn.com/livenews/3036645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时34分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9795元，较周一夜盘收盘跌62点。成交量403.81亿美元。",
@@ -388,9 +391,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "现货黄金日内大涨50美元，再创纪录新高",
+          "url": "https://flash.jin10.com/detail/20260114130323139800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "美国1月EIA当年布伦特原油均价预期 55.87美元/千立方英尺，前值68.91美元/千立方英尺。",
@@ -435,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "摩根大通将阿斯麦控股目标股价从1275美元上调至1518美元。",
+          "url": "https://wallstreetcn.com/livenews/3036660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "现货白银逼近90美元大关",
@@ -575,7 +600,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -586,7 +611,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -635,6 +660,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "国际银价首次突破每盎司90美元",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%93%B6%E4%BB%B7%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B4%E6%AF%8F%E7%9B%8E%E5%8F%B890%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0120，下调17点；上一交易日中间价7.0103，上一交易日官方收盘价6.9765，上日夜盘报收6.9795。",
           "url": "https://wallstreetcn.com/livenews/3036527",
           "source": "华尔街见闻-快讯",
@@ -649,8 +685,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "A股三大指数集体跳水翻绿，沪指此前一度涨超1%，创业板指、深成指一度涨超2%，全市场超3000家个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3036677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
         {
           "title": "韩国12月出口物价指数年率 5.5%，前值7.00%。",
           "url": "https://flash.jin10.com/detail/20260114050002161800",
@@ -680,7 +727,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -757,6 +804,18 @@
           "time_info": "[03时28分 ~ 04时36分]"
         },
         {
+          "title": "日本东证指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3036637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时34分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，小马智行跌9.6%，拼多多跌超5%，阿里涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3036402",
           "source": "华尔街见闻-快讯",
@@ -790,15 +849,15 @@
           "time_info": "10时29分"
         },
         {
-          "title": "日本东证指数日内涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3036637",
+          "title": "A股三大指数涨幅午后收窄，沪指涨幅收窄至0.6%，深成指和创业板指涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3036667",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时34分"
         },
         {
           "title": "日本1月路透短观非制造业景气判断指数 32，前值33。",
@@ -829,7 +888,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -840,7 +899,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -884,7 +943,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -898,6 +957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "花旗上调陆港股市基准指数目标位 看好盈利前景改善",
+          "url": "https://wallstreetcn.com/livenews/3036650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）全球股市指数-欧洲市场（收盘）",
@@ -950,7 +1020,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -991,7 +1061,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1013,11 +1083,12 @@
             1,
             25,
             22,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 13时34分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -1034,8 +1105,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 13时34分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -1103,11 +1174,38 @@
           "url": "https://www.zhihu.com/question/1994009798958657948",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 13时34分]"
+        },
+        {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 13时34分]"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 13时34分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1121,30 +1219,6 @@
           "time_info": "[00时43分 ~ 03时28分]"
         },
         {
-          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
-          "url": "https://www.cls.cn/detail/2256809",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时14分]"
-        },
-        {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时14分]"
-        },
-        {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
           "url": "https://wallstreetcn.com/livenews/3036304",
           "source": "华尔街见闻-快讯",
@@ -1155,6 +1229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时35分]"
+        },
+        {
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时34分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -1185,7 +1271,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1196,7 +1282,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1207,18 +1293,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1256,6 +1331,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "“末日博士”鲁比尼：AI繁荣正抵消包括美国总统和地缘政治在内的一系列风险。 AI将开创“美国例外论”的新篇章。",
           "url": "https://wallstreetcn.com/livenews/3036285",
           "source": "华尔街见闻-快讯",
@@ -1270,7 +1356,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "暴涨近10倍 西红柿价格为何走高",
@@ -1336,6 +1422,18 @@
           "time_info": "[06时32分 ~ 07时27分]"
         },
         {
+          "title": "又一快运龙头拟退市 行权价格19元/股 较停牌前溢价35.3%",
+          "url": "https://www.cls.cn/detail/2256765",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时34分]"
+        },
+        {
           "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
           "url": "https://wallstreetcn.com/livenews/3036380",
           "source": "华尔街见闻-快讯",
@@ -1371,17 +1469,6 @@
           "time_info": "[04时36分 ~ 05时31分]"
         },
         {
-          "title": "又一快运龙头拟退市 行权价格19元/股 较停牌前溢价35.3%",
-          "url": "https://www.cls.cn/detail/2256765",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "美国劳工部：将于3月5日公布1月份的进出口价格数据以及第四季度的初步生产率数据。",
           "url": "https://flash.jin10.com/detail/20260114003133216800",
           "source": "金十数据",
@@ -1399,7 +1486,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1437,6 +1524,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "整套马钞价格已被炒到2000元",
+          "url": "https://www.toutiao.com/trending/7593986996536623158/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "市场担忧日本财政健康状况 日债价格下跌",
           "url": "https://flash.jin10.com/detail/20260114095030943800",
           "source": "金十数据",
@@ -1454,7 +1552,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1506,11 +1604,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 13时34分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1520,8 +1619,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 13时34分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -1648,11 +1747,12 @@
           "url": "https://wallstreetcn.com/livenews/3036640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时34分]"
         }
       ]
     },

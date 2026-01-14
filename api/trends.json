@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T16:43:06.372985+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-01-14T17:38:34.096318+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -35,17 +35,6 @@
           "time_info": "12时14分"
         },
         {
-          "title": "美元兑日元回落至159下方，日内跌0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3036830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3036351",
           "source": "华尔街见闻-快讯",
@@ -55,6 +44,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：注意到外汇市场出现令人担忧的单边、突然波动。 不会排除任何外汇应对手段，外汇波动并未反映经济基本面。 将针对投机性波动采取适当应对措施。 市场过度波动是最糟糕的情况。 不仅关注美元兑日元，还关注多种货币。 日元强弱各有利弊，日元走弱可能影响进口商和物价。 对近期外汇波动深感担忧。",
+          "url": "https://wallstreetcn.com/livenews/3036875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "现货铂金上涨逾3%，至每盎司2407.90美元。",
@@ -112,6 +112,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 13时34分]"
+        },
+        {
+          "title": "美元兑日元回落至159下方，日内跌0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3036830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时38分]"
         },
         {
           "title": "英伟达维持超过0.4%的涨幅，持稳于日高185.80美元附近。",
@@ -347,7 +359,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -490,7 +502,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -793,7 +805,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -848,7 +860,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -913,6 +925,18 @@
           "time_info": "[04时36分 ~ 05时31分]"
         },
         {
+          "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
+          "url": "https://www.zhihu.com/question/1994763870120670029",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时38分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.21%，报26920点。 恒生科技指数主连夜盘收涨0.25%，报5900点。",
           "url": "https://wallstreetcn.com/livenews/3036359",
           "source": "华尔街见闻-快讯",
@@ -935,17 +959,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 13时34分]"
-        },
-        {
-          "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
-          "url": "https://www.zhihu.com/question/1994763870120670029",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，小马智行跌9.6%，拼多多跌超5%，阿里涨0.4%。",
@@ -1108,7 +1121,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1281,7 +1294,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1311,6 +1324,19 @@
           "time_info": "[00时43分 ~ 13时34分]"
         },
         {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 17时38分]"
+        },
+        {
           "title": "UP主分析AI将如何影响电竞行业",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -1324,11 +1350,12 @@
             26,
             30,
             21,
-            29
+            29,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时43分 ~ 16时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 17时38分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -1366,19 +1393,6 @@
           "time_info": "[00时43分 ~ 10时29分]"
         },
         {
-          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
-          "url": "https://www.zhihu.com/question/1994009798958657948",
-          "source": "知乎",
-          "ranks": [
-            4,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 16时43分]"
-        },
-        {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
           "url": "https://www.cls.cn/detail/2256264",
           "source": "财联社热门",
@@ -1389,6 +1403,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时43分 ~ 04时36分]"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 17时38分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -1406,20 +1434,6 @@
           "time_info": "[00时43分 ~ 07时27分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 16时43分]"
-        },
-        {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
           "url": "https://www.zhihu.com/question/1994088546865284778",
           "source": "知乎",
@@ -1428,11 +1442,12 @@
             13,
             5,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 17时38分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -1442,8 +1457,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时38分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 17时38分]"
         },
         {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
@@ -1457,20 +1486,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时28分 ~ 14时50分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 16时43分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1488,11 +1503,24 @@
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时38分]"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时38分]"
         },
         {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
@@ -1512,17 +1540,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1560,6 +1577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "1月14日午间收评：创业板指半日涨超2%，AI应用方向持续爆发",
@@ -1606,13 +1634,24 @@
           "time_info": "10时29分"
         },
         {
+          "title": "星环科技：公司并不实际开展商业航天业务且与上海星环聚能科技有限公司无关。公司目前正就AI数据库等相关技术开展前期研发与联合调优，上述工作尚处于初期探索阶段，相关技术方案、应用场景及市场效益均存在不确定性，暂未对公司业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3036838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "报道：SK海力士停产消费级存储器 资源转向B2B与AI服务器市场",
           "url": "https://wallstreetcn.com/livenews/3036802",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1642,7 +1681,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "暴涨近10倍 西红柿价格为何走高",
@@ -1660,15 +1699,15 @@
           "time_info": "[00时43分 ~ 10时29分]"
         },
         {
-          "title": "境内金饰价格突破1435元/克关口",
-          "url": "https://wallstreetcn.com/livenews/3036828",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲央行管委维勒鲁瓦：价格下行的风险至少与上行的风险一样高。",
+          "url": "https://flash.jin10.com/detail/20260114171954253800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "17时38分"
         },
         {
           "title": "整套马钞价格已被炒到2000元",
@@ -1683,15 +1722,16 @@
           "time_info": "[10时28分 ~ 12时14分]"
         },
         {
-          "title": "光伏组件成交价格开始上调",
-          "url": "https://wallstreetcn.com/livenews/3036826",
+          "title": "境内金饰价格突破1435元/克关口",
+          "url": "https://wallstreetcn.com/livenews/3036828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时38分]"
         },
         {
           "title": "美国能源信息署（EIA）短期能源展望报告（STEO）：预计2026年布伦特原油价格为56美元/桶，之前预计为55美元；预计2027年为54美元/桶。 EIA将于2月10日发布下一份STEO。",
@@ -1718,17 +1758,30 @@
           "time_info": "[05时31分 ~ 06时32分]"
         },
         {
+          "title": "光伏组件成交价格开始上调",
+          "url": "https://wallstreetcn.com/livenews/3036826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时38分]"
+        },
+        {
           "title": "整套马钞价格已被炒到2000元",
           "url": "https://www.toutiao.com/trending/7593986996536623158/",
           "source": "今日头条",
           "ranks": [
             16,
             15,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 17时38分]"
         },
         {
           "title": "美联储巴尔金：与2025年第一季度不同，我没有听到企业强烈相信会通过价格上涨来降低成本。",
@@ -1790,6 +1843,17 @@
           "time_info": "[04时36分 ~ 05时31分]"
         },
         {
+          "title": "法国日前现货基载电力价格下跌15.6%，报91欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260114170344724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "1月14日：“农产品批发价格200指数”比昨天上升0.01个点",
           "url": "https://flash.jin10.com/detail/20260114143127781800",
           "source": "金十数据",
@@ -1799,6 +1863,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "上纬新材：如未来股票价格进一步上涨，公司将进一步申请停牌核查",
+          "url": "https://wallstreetcn.com/livenews/3036863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "美国劳工部：将于3月5日公布1月份的进出口价格数据以及第四季度的初步生产率数据。",
@@ -1840,7 +1915,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1900,6 +1975,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "包头稀交所：今日稀土主流产品价格大幅上涨",
+          "url": "https://wallstreetcn.com/livenews/3036836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "金十图示：EIA短期能源展望报告重点一览——上调今年美、布两油价格预期。",
           "url": "https://flash.jin10.com/detail/20260114012717388800",
           "source": "金十数据",
@@ -1925,7 +2011,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1935,8 +2021,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 17时38分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -2046,6 +2132,28 @@
           "time_info": "[06时32分 ~ 07时27分]"
         },
         {
+          "title": "携程(TCOM.O)美股盘前下跌7.3%。",
+          "url": "https://flash.jin10.com/detail/20260114170230347800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "携程美股盘前下跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3036845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "金融业ETF收跌超1.9%，领跌美股行业ETF，标普能源板块涨超1.5%",
           "url": "https://wallstreetcn.com/livenews/3036413",
           "source": "华尔街见闻-快讯",
@@ -2148,7 +2256,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         }
@@ -2179,7 +2287,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         }

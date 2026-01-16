@@ -1,33 +1,34 @@
 {
-  "generated_at": "2026-01-17T02:45:59.525341+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-01-17T03:26:35.429264+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "秘鲁央行表示在即期市场买入1.95亿美元。",
           "url": "https://flash.jin10.com/detail/20260117023944787800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
         },
         {
-          "title": "周五（1月16日），美联储隔夜逆回购协议（RRP）使用规模为12.22亿美元（交易对手6家），上个交易日报20.03亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3038972",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9720元，较周四夜盘收盘跌40点。成交量442.92亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038979",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "03时26分"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -38,8 +39,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时26分]"
+        },
+        {
+          "title": "周五（1月16日），美联储隔夜逆回购协议（RRP）使用规模为12.22亿美元（交易对手6家），上个交易日报20.03亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
         },
         {
           "title": "摩根士丹利上调美元兑日元汇率预期",
@@ -94,22 +107,48 @@
           "url": "https://wallstreetcn.com/livenews/3038964",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
         },
         {
           "title": "LME期铜收跌303美元，报12803美元/吨。 LME期铝收跌34美元，报3134美元/吨。 LME期锌收跌106美元，报3209美元/吨。 LME期铅收跌56美元，报2044美元/吨。 LME期镍收跌991美元，报17578美元/吨。 LME期锡收跌4049美元，报47982美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3038962",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
+          "url": "https://flash.jin10.com/detail/20260117020212481800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
+        },
+        {
+          "title": "周五（1月16日），韩元兑美元最终跌0.34%，报1473.61韩元。 本周，韩元累计下跌0.99%，整体低位震荡，特朗普的美国财长贝森特的谈话曾在1月14日带来一波短线反弹行情。",
+          "url": "https://wallstreetcn.com/livenews/3038957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
         },
         {
           "title": "交易商Mercuria Energy Asset Management BV对13亿美元利润纳税0.08%。",
@@ -121,28 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
-          "url": "https://flash.jin10.com/detail/20260117020212481800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "周五（1月16日），韩元兑美元最终跌0.34%，报1473.61韩元。 本周，韩元累计下跌0.99%，整体低位震荡，特朗普的美国财长贝森特的谈话曾在1月14日带来一波短线反弹行情。",
-          "url": "https://wallstreetcn.com/livenews/3038957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
         },
         {
           "title": "摩根士丹利上调美元兑日元汇率预期。",
@@ -162,7 +179,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         }
@@ -170,7 +187,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年01月17日（周六）全球股市指数-欧洲市场（收盘）",
@@ -182,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.70%，报26640点。 恒生科技指数主连夜盘收跌0.70%，报5780点。",
+          "url": "https://wallstreetcn.com/livenews/3038978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，连续第八个交易日走高，报391.59点，创3月份以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 Kongsberg Gruppen ASA涨9.5%，在一众北欧个股里领跑。",
@@ -286,8 +314,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -298,8 +326,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -309,41 +337,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
           "url": "https://flash.jin10.com/detail/20260117021136642800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
           "url": "https://flash.jin10.com/detail/20260117020334950800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
         },
         {
           "title": "OpenAI：计划很快在美国开始对免费版的广告以及ChatGPT Go进行测试。",
           "url": "https://flash.jin10.com/detail/20260117020324542800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时26分]"
         },
         {
           "title": "美国制裁Barash Aviation、Sama Airline、以及油轮Albarraq Z。",
@@ -363,23 +394,35 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
+          "url": "https://wallstreetcn.com/articles/3763450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时26分]"
+        },
+        {
+          "title": "内存价格暴涨电脑组装涨价一至两千元",
+          "url": "https://www.toutiao.com/trending/7594815915368579091/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 03时26分]"
+        },
+        {
           "title": "美国马里兰州长Wes Moore：电网运营商PJM必须在电力价格拍卖之外采取更多行动。",
           "url": "https://wallstreetcn.com/livenews/3038943",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 02时45分]"
-        },
-        {
-          "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
-          "url": "https://wallstreetcn.com/articles/3763450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -406,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "内存价格暴涨电脑组装涨价一至两千元",
-          "url": "https://www.toutiao.com/trending/7594815915368579091/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
         }
       ]
     },
@@ -432,8 +464,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时26分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -443,8 +475,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时26分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T06:31:32.311312+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-01-17T07:29:41.995408+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -16,8 +16,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时29分]"
+        },
+        {
+          "title": "国防企业York Space Systems寻求通过美国IPO融资5.44亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3039051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "秘鲁央行表示在即期市场买入1.95亿美元。",
@@ -31,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时31分]"
+        },
+        {
+          "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银横盘，铜价下挫",
+          "url": "https://wallstreetcn.com/articles/3763450",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "周五（1月16日），美联储隔夜逆回购协议（RRP）使用规模为12.22亿美元（交易对手6家），上个交易日报20.03亿美元。",
@@ -110,6 +132,17 @@
           "time_info": "[02时45分 ~ 04时31分]"
         },
         {
+          "title": "美元指数16日上涨",
+          "url": "https://flash.jin10.com/detail/20260117043039247800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时29分]"
+        },
+        {
           "title": "摩根士丹利上调美元兑日元汇率预期",
           "url": "https://wallstreetcn.com/livenews/3038923",
           "source": "华尔街见闻-快讯",
@@ -158,6 +191,18 @@
           "time_info": "[00时41分 ~ 01时32分]"
         },
         {
+          "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
+          "url": "https://wallstreetcn.com/livenews/3039034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
           "title": "欧元兑美元刷新日低至1.1585，特朗普扬言要在格陵兰问题上对那些“不配合”的国家加征关税。",
           "url": "https://wallstreetcn.com/livenews/3038919",
           "source": "华尔街见闻-快讯",
@@ -170,26 +215,27 @@
           "time_info": "[00时41分 ~ 01时32分]"
         },
         {
-          "title": "美元指数16日上涨",
-          "url": "https://flash.jin10.com/detail/20260117043039247800",
-          "source": "金十数据",
+          "title": "美国财长贝森特：预计将对美国工薪阶层返还1000亿-1500亿美元。 关税通胀是没曾叫唤的狗。 相信最高法院将支持总统特朗普的标志性（关税）政策。",
+          "url": "https://wallstreetcn.com/livenews/3039027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            16,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
+          "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
-          "url": "https://wallstreetcn.com/livenews/3039034",
+          "title": "周五（1月16日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9678元，较周四纽约尾盘跌46点，日内整体交投于6.9611-6.9703元区间。",
+          "url": "https://wallstreetcn.com/livenews/3039044",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时29分"
         },
         {
           "title": "AI初创公司ElevenLabs洽谈按110亿美元估值融资。（英国金融时报）",
@@ -212,17 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "美国财长贝森特：预计将对美国工薪阶层返还1000亿-1500亿美元。 关税通胀是没曾叫唤的狗。 相信最高法院将支持总统特朗普的标志性（关税）政策。",
-          "url": "https://wallstreetcn.com/livenews/3039027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         },
         {
           "title": "摩根士丹利上调美元兑日元汇率预期。",
@@ -271,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时29分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）全球股市指数-美洲市场（收盘）",
@@ -282,8 +317,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时29分]"
         },
         {
           "title": "金十图示：2026年01月17日（周六）全球股市指数-欧洲市场（收盘）",
@@ -307,6 +342,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时31分]"
+        },
+        {
+          "title": "本周，降息赢家指数累计上涨0.22%，周五（1月16日）报107.51点。 “特朗普关税输家”指数累跌0.75%，报118.52点。 “特朗普金融指数”累跌1.78%，报176.06点。 散户抱团概念股指数/迷因股（meme stock）指数累跌3.15%，报16.14点。",
+          "url": "https://wallstreetcn.com/livenews/3039029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "阿根廷MERVAL指数收涨0.28%，报293.5万点，本周累计下跌5.00%，1月12-15日持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3039022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，连续第八个交易日走高，报391.59点，创3月份以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 Kongsberg Gruppen ASA涨9.5%，在一众北欧个股里领跑。",
@@ -353,17 +412,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "本周，降息赢家指数累计上涨0.22%，周五（1月16日）报107.51点。 “特朗普关税输家”指数累跌0.75%，报118.52点。 “特朗普金融指数”累跌1.78%，报176.06点。 散户抱团概念股指数/迷因股（meme stock）指数累跌3.15%，报16.14点。",
-          "url": "https://wallstreetcn.com/livenews/3039029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌1.1%，本周累涨0.4%，整体“高开”低走。 热门中概股里，小米初步收跌3.5%，阿里跌3%，美团跌2%，腾讯、京东、理想跌超1%，拼多多跌0.6%，网易涨1.3%，蔚来涨1.4%，文远知行涨1.5%，华住涨1.9%，小马智行涨2.4%。",
           "url": "https://wallstreetcn.com/livenews/3039004",
           "source": "华尔街见闻-快讯",
@@ -395,17 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "阿根廷MERVAL指数收涨0.28%，报293.5万点，本周累计下跌5.00%，1月12-15日持续走低。",
-          "url": "https://wallstreetcn.com/livenews/3039022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         },
         {
           "title": "纳斯达克100指数转跌。",
@@ -443,6 +480,116 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时29分]"
+        },
+        {
+          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2260838",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时29分]"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260117050528991800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时29分]"
+        },
+        {
+          "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
+          "url": "https://wallstreetcn.com/livenews/3039017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
+          "url": "https://wallstreetcn.com/livenews/3039039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260117050524828800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美股三大指数小幅收跌 美光收涨近8%",
+          "url": "https://flash.jin10.com/detail/20260117050027802800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3039026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 9,
       "titles": [
@@ -455,8 +602,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时29分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -467,8 +614,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时29分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -540,8 +687,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时29分]"
         },
         {
           "title": "美国制裁Barash Aviation、Sama Airline、以及油轮Albarraq Z。",
@@ -553,103 +700,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时31分]"
-        },
-        {
-          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2260838",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050528991800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
-          "url": "https://wallstreetcn.com/livenews/3039039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
-          "url": "https://wallstreetcn.com/livenews/3039017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050524828800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "美股三大指数小幅收跌 美光收涨近8%",
-          "url": "https://flash.jin10.com/detail/20260117050027802800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3039026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         }
       ]
     },

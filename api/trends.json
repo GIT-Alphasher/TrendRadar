@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:37:19.680904+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-01-17T17:29:45.572043+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时11分 ~ 16时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时11分 ~ 17时29分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时11分 ~ 16时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时11分 ~ 17时29分]"
         },
         {
           "title": "秘鲁央行表示在即期市场买入1.95亿美元。",
@@ -84,6 +84,20 @@
           "time_info": "[07时29分 ~ 12时41分]"
         },
         {
+          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
+          "url": "https://flash.jin10.com/detail/20260117140618013800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 17时29分]"
+        },
+        {
           "title": "周五（1月16日），美联储隔夜逆回购协议（RRP）使用规模为12.22亿美元（交易对手6家），上个交易日报20.03亿美元。",
           "url": "https://wallstreetcn.com/livenews/3038972",
           "source": "华尔街见闻-快讯",
@@ -95,19 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时31分]"
-        },
-        {
-          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
-          "url": "https://flash.jin10.com/detail/20260117140618013800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 16时37分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9720元，较周四夜盘收盘跌40点。成交量442.92亿美元。",
@@ -363,7 +364,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "金十图示：2026年01月16日（周五）华尔街恐惧与贪婪指数（美盘后）",
@@ -401,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "本周宽基指数ETF遭主力抛售逾2000亿",
+          "url": "https://wallstreetcn.com/livenews/3039101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.70%，报26640点。 恒生科技指数主连夜盘收跌0.70%，报5780点。",
@@ -579,7 +591,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
@@ -588,11 +600,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时11分 ~ 16时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时11分 ~ 17时29分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -735,6 +748,17 @@
           "time_info": "[05时31分 ~ 07时29分]"
         },
         {
+          "title": "Anthropic刚发布了一份「AI抢饭碗报告」：学历越高越「被抢」",
+          "url": "https://wallstreetcn.com/articles/3763484",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "美国制裁Barash Aviation、Sama Airline、以及油轮Albarraq Z。",
           "url": "https://wallstreetcn.com/livenews/3038900",
           "source": "华尔街见闻-快讯",
@@ -748,126 +772,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时29分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 16时37分]"
-        },
-        {
-          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2260838",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 16时37分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050528991800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时31分 ~ 10时12分]"
-        },
-        {
-          "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
-          "url": "https://wallstreetcn.com/livenews/3039017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050524828800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时31分 ~ 10时12分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
-          "url": "https://wallstreetcn.com/livenews/3039039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "美股三大指数小幅收跌 美光收涨近8%",
-          "url": "https://flash.jin10.com/detail/20260117050027802800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时31分 ~ 10时12分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3039026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "价格",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "酒价内参1月17日价格发布 核心产品显著下跌均价再创两月新低",
@@ -967,6 +873,135 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "建议这种面包价格全国统一",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E8%BF%99%E7%A7%8D%E9%9D%A2%E5%8C%85%E4%BB%B7%E6%A0%BC%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时29分]"
+        },
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 17时29分]"
+        },
+        {
+          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2260838",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 17时29分]"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260117050528991800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 10时12分]"
+        },
+        {
+          "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
+          "url": "https://wallstreetcn.com/livenews/3039017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260117050524828800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 10时12分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
+          "url": "https://wallstreetcn.com/livenews/3039039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "美股三大指数小幅收跌 美光收涨近8%",
+          "url": "https://flash.jin10.com/detail/20260117050027802800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 10时12分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3039026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
         }
       ]
     },
@@ -1023,8 +1058,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时29分]"
         },
         {
           "title": "ChatGPT将加入广告",

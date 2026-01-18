@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:27:37.867376+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-01-18T23:28:34.766029+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             10,
             13,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 22时27分]"
+          "appearance_count": 27,
+          "time_info": "[00时33分 ~ 23时28分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -220,8 +221,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时32分 ~ 22时27分]"
+          "appearance_count": 12,
+          "time_info": "[13时32分 ~ 23时28分]"
         },
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -235,8 +236,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 22时27分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 23时28分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -310,11 +311,12 @@
           "ranks": [
             4,
             12,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 22时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 23时28分]"
         },
         {
           "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
@@ -417,11 +419,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时28分]"
         },
         {
           "title": "4寸蛋糕价格普遍在50元以上",
@@ -495,9 +498,51 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 10时33分]"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ChatGPT",
       "match_count": 2,
       "titles": [
+        {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时43分 ~ 23时28分]"
+        },
         {
           "title": "解读ChatGPT加入广告背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
@@ -509,19 +554,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时28分]"
-        },
-        {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时43分 ~ 22时27分]"
         }
       ]
     },
@@ -538,26 +570,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 22时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 10时33分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 23时28分]"
         }
       ]
     },

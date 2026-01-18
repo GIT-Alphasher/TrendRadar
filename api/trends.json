@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T20:57:00.077864+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-01-18T21:36:54.555976+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,24 @@
             9,
             8,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 20时56分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 21时36分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时32分 ~ 21时36分]"
         },
         {
           "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时33分 ~ 18时31分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时32分 ~ 20时56分]"
         },
         {
           "title": "特朗普开价：永久席位10亿美元",
@@ -127,6 +128,30 @@
           "time_info": "[19时24分 ~ 20时56分]"
         },
         {
+          "title": "文件显示，特朗普的和平委员会章程规定，成员任期为三年，但那些捐赠10亿美元资金的成员除外。",
+          "url": "https://flash.jin10.com/detail/20260118191109864800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时36分]"
+        },
+        {
+          "title": "英媒：Anthropic拟筹资250亿美元或更多 红杉资本将参与融资",
+          "url": "https://flash.jin10.com/detail/20260118190940868800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时36分]"
+        },
+        {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
           "url": "https://wallstreetcn.com/articles/3763519",
           "source": "华尔街见闻",
@@ -136,6 +161,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "中国与中亚国家货物贸易额首破千亿美元",
+          "url": "https://wallstreetcn.com/livenews/3039244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时36分]"
+        },
+        {
+          "title": "报道：Anthropic拟筹资250亿美元或更多 红杉资本将参与融资",
+          "url": "https://wallstreetcn.com/livenews/3039242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时36分]"
         },
         {
           "title": "印度最大航司因取消4500趟航班被罚245万美元",
@@ -148,50 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时37分 ~ 17时31分]"
-        },
-        {
-          "title": "文件显示，特朗普的和平委员会章程规定，成员任期为三年，但那些捐赠10亿美元资金的成员除外。",
-          "url": "https://flash.jin10.com/detail/20260118191109864800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "英媒：Anthropic拟筹资250亿美元或更多 红杉资本将参与融资",
-          "url": "https://flash.jin10.com/detail/20260118190940868800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "中国与中亚国家货物贸易额首破千亿美元",
-          "url": "https://wallstreetcn.com/livenews/3039244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "报道：Anthropic拟筹资250亿美元或更多 红杉资本将参与融资",
-          "url": "https://wallstreetcn.com/livenews/3039242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         }
       ]
     },
@@ -210,8 +215,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时32分 ~ 20时56分]"
+          "appearance_count": 10,
+          "time_info": "[13时32分 ~ 21时36分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -267,6 +272,21 @@
           "time_info": "[12时12分 ~ 18时31分]"
         },
         {
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 21时36分]"
+        },
+        {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
           "url": "https://wallstreetcn.com/livenews/3039127",
           "source": "华尔街见闻-快讯",
@@ -279,29 +299,17 @@
           "time_info": "[00时33分 ~ 06时28分]"
         },
         {
-          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
-          "url": "https://wallstreetcn.com/livenews/3039251",
+          "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
+          "url": "https://wallstreetcn.com/livenews/3039234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
-          "url": "https://wallstreetcn.com/articles/3763530",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            4
+            5,
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时56分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时36分]"
         },
         {
           "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
@@ -316,16 +324,16 @@
           "time_info": "[10时32分 ~ 12时12分]"
         },
         {
-          "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
-          "url": "https://wallstreetcn.com/livenews/3039234",
+          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
+          "url": "https://wallstreetcn.com/livenews/3039251",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            19
+            4,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时56分]"
+          "time_info": "[20时56分 ~ 21时36分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -365,7 +373,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "机构路演：存储行业正转向“高利润、稳价格、弱周期”的运营模式",
@@ -396,6 +404,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时33分 ~ 18时31分]"
+        },
+        {
+          "title": "贾国龙再发声：西贝冷冻西蓝花价格比市面普通产品高80%至120%，“从来不存在两岁的西蓝花”",
+          "url": "https://wallstreetcn.com/livenews/3039263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "4寸蛋糕价格普遍在50元以上",
@@ -494,8 +513,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 20时56分]"
+          "appearance_count": 8,
+          "time_info": "[14时43分 ~ 21时36分]"
         }
       ]
     },
@@ -512,8 +531,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时56分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时36分]"
         }
       ]
     },

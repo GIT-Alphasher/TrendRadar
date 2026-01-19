@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-01-19T13:39:55.978638+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-01-19T14:53:29.634436+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "指数",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "澳大利亚S&P/ASX 200指数收盘下跌0.3%至8874.5点。",
           "url": "https://wallstreetcn.com/livenews/3039538",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时53分]"
         },
         {
           "title": "韩国首尔综合指数首次突破4900点，日内涨1.3%。",
           "url": "https://wallstreetcn.com/livenews/3039531",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时53分]"
+        },
+        {
+          "title": "日经225指数收跌0.7%，报53583.57点。 日本东证指数收跌0.1%，报3656.40点。 韩国首尔综指收涨1.3%，报4904.66点。",
+          "url": "https://wallstreetcn.com/livenews/3039573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "14时53分"
         },
         {
           "title": "金十图示：2026年01月19日（周一）富时中国A50指数成分股午盘收盘行情一览：家电行业走强，银行板块涨跌不一",
@@ -47,7 +60,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -58,7 +71,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -91,7 +104,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -102,7 +115,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -113,7 +126,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -124,9 +137,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收涨0.7%报31,639.29点。",
+          "url": "https://wallstreetcn.com/livenews/3039545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "日本11月设备利用指数月率 -5.3%，前值3.30%。",
@@ -135,7 +159,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -146,7 +170,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -187,7 +211,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "3美元吃饱饭,美高官神论挨骂",
@@ -197,11 +221,12 @@
             17,
             18,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 14时53分]"
         },
         {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
@@ -335,15 +360,48 @@
           "time_info": "[03时23分 ~ 06时29分]"
         },
         {
+          "title": "消息人士：印尼新成立的主权财富基金Danantara计划在上半年通过新一轮“爱国债券”筹集20万亿印尼盾（12亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260119143412356800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "加皇银行：将高盛(GS.N)目标价从900美元上调至1030美元。",
+          "url": "https://flash.jin10.com/detail/20260119143127276800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "分析师：市场对“TACO”的预期或将支撑美元",
           "url": "https://flash.jin10.com/detail/20260119125409149800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "美国天然气期货日内暴涨9.00%，现报3.383美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260119140937839800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "印度制药商太阳药业正考虑以100亿美元收购Organon。（印度经济时报）",
@@ -360,7 +418,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -371,8 +429,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 14时53分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -394,8 +452,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时53分]"
+        },
+        {
+          "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
+          "url": "https://wallstreetcn.com/livenews/3039528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时53分]"
         },
         {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
@@ -409,26 +479,15 @@
           "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
-          "url": "https://wallstreetcn.com/livenews/3039528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
           "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
           "url": "https://www.cls.cn/detail/2261597",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时53分]"
         },
         {
           "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
@@ -437,9 +496,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
+          "url": "https://wallstreetcn.com/livenews/3039556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
@@ -478,7 +548,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "高盛：按当前远期价格计算，截至2026年3月底的库存估计已大幅降至16%满仓，而此前为28%满仓。",
@@ -487,7 +557,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -498,7 +568,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -509,7 +579,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -531,11 +601,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32413860",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时53分]"
+        },
+        {
+          "title": "上周国内组件价格继续上涨 企业指导价不断突破新高",
+          "url": "https://wallstreetcn.com/livenews/3039570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "14时53分"
         },
         {
           "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
@@ -544,7 +626,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -555,7 +637,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         }
@@ -605,7 +687,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -624,7 +706,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -649,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     },
@@ -666,8 +759,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 14时53分]"
         }
       ]
     },

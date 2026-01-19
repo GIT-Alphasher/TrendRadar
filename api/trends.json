@@ -1,22 +1,108 @@
 {
-  "generated_at": "2026-01-20T00:40:52.851048+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-20T01:32:06.324835+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "指数",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "法国CAC 40指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3039853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收涨0.48%，报2256.32点，逼近2010年1月11日收盘位2315.31点和2009年10月15日顶部2932.45点。",
+          "url": "https://wallstreetcn.com/livenews/3039850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260120004534576800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌2.0%，创11月18日（收跌2.2%）以来最差单日表现，报383.82点。 在十个板块中，北欧工业板块跌幅最大。 Genmab A/S跌6.5%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3039864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌1.22%，报24989.45点。 法国股指初步收跌1.81%，意大利股指初步收跌1.26%、银行指数跌0.93%，英国股指初步收跌0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3039861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌1.16%，报607.24点，持稳于日低附近。 欧元区STOXX 50指数初步收跌1.61%，报5932.12点，持稳于日低附近。 富时泛欧绩优300指数初步收跌1.19%，报2421.46点。",
+          "url": "https://wallstreetcn.com/livenews/3039860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "法国CAC40指数日内跌幅达2.00%。",
+          "url": "https://flash.jin10.com/detail/20260119235652467800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金银价格再创新高",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
@@ -26,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "场内价格突破前高！白银LOF溢价重返30%，年内高涨基金扫描，这些方向扎堆聚集",
@@ -37,8 +123,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "决定黄金价格的三大属性",
+          "url": "https://www.toutiao.com/trending/7597064696004349450/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "上海新房价格独涨 二手房成交井喷",
@@ -52,11 +150,85 @@
           "time_info": "00时40分"
         },
         {
-          "title": "决定黄金价格的三大属性",
-          "url": "https://www.toutiao.com/trending/7597064696004349450/",
-          "source": "今日头条",
+          "title": "周一（1月19日）欧市尾盘，ICE英国天然气期货跌5.42%，报91.510便士/千卡，北京时间16:16曾刷新日低至86.150便士，随后逐步收复失地。 TTF基准荷兰天然气期货跌2.453%，报35.177欧元/兆瓦时，16:19刷新日低至33.148欧元。 ICE欧盟碳排放交易许可（期货价格）跌4.23%，报86.54欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3039868",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "澳元/美元日内涨幅达0.5%，报0.6714。",
+          "url": "https://wallstreetcn.com/livenews/3039857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3039846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3039870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "现货白银日内大涨5.00%，现报94.58美元/盎司，将历史新高刷新至94.6美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260120005435256800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3039869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "ADNOC Gas：与HPCL签订30亿美元、10年期液化天然气（LNG）协议。",
+          "url": "https://wallstreetcn.com/livenews/3039844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -76,8 +248,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "贺峻霖力证不是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8A%9B%E8%AF%81%E4%B8%8D%E6%98%AFAI%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -102,98 +286,9 @@
           "time_info": "00时40分"
         },
         {
-          "title": "贺峻霖力证不是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8A%9B%E8%AF%81%E4%B8%8D%E6%98%AFAI%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
           "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
           "url": "https://wallstreetcn.com/livenews/3039833",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "澳元/美元日内涨幅达0.5%，报0.6714。",
-          "url": "https://wallstreetcn.com/livenews/3039857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3039846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "ADNOC Gas：与HPCL签订30亿美元、10年期液化天然气（LNG）协议。",
-          "url": "https://wallstreetcn.com/livenews/3039844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "法国CAC 40指数跌幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3039853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收涨0.48%，报2256.32点，逼近2010年1月11日收盘位2315.31点和2009年10月15日顶部2932.45点。",
-          "url": "https://wallstreetcn.com/livenews/3039850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "法国CAC40指数日内跌幅达2.00%。",
-          "url": "https://flash.jin10.com/detail/20260119235652467800",
-          "source": "金十数据",
           "ranks": [
             23
           ],
@@ -215,8 +310,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时32分]"
         }
       ]
     },
@@ -232,8 +327,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时32分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T22:38:04.557928+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2026-01-19T23:36:52.018601+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "3美元吃饱饭,美高官神论挨骂",
@@ -80,7 +80,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -214,6 +214,18 @@
           "time_info": "[03时23分 ~ 06时29分]"
         },
         {
+          "title": "印度外交部官员Vikram Misri：印度、阿联酋将致力于防务合作伙伴关系。 两国达成液化天然气（LNG）供应协议。 阿联酋将在Dholera投资修建基础设施。 阿联酋每年将向印度供应50万吨LNG。 两国同意衔接国家支付平台。 将联合探索高级民用核技术。 两国到2032年将把（双边）贸易规模提高至2000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3039811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时36分]"
+        },
+        {
           "title": "消息人士：印尼新成立的主权财富基金Danantara计划在上半年通过新一轮“爱国债券”筹集20万亿印尼盾（12亿美元）。",
           "url": "https://flash.jin10.com/detail/20260119143412356800",
           "source": "金十数据",
@@ -286,18 +298,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "印度外交部官员Vikram Misri：印度、阿联酋将致力于防务合作伙伴关系。 两国达成液化天然气（LNG）供应协议。 阿联酋将在Dholera投资修建基础设施。 阿联酋每年将向印度供应50万吨LNG。 两国同意衔接国家支付平台。 将联合探索高级民用核技术。 两国到2032年将把（双边）贸易规模提高至2000亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3039811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -311,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "人工智能芯片初创公司FuriOSAI计划在上市前完成5亿美元融资。",
+          "url": "https://flash.jin10.com/detail/20260119232001802800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "Chris Hohn旗下对冲基金去年大赚189亿美元 打破此前城堡投资的纪录",
@@ -363,7 +375,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -385,7 +397,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -437,7 +449,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "【每日收评】三大指数涨跌互现，单日成交额萎缩近3200亿，电网设备股持续爆发",
@@ -699,6 +711,17 @@
           "time_info": "13时39分"
         },
         {
+          "title": "金十图示：2026年01月19日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260119231918610800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "日本11月设备利用指数环比 -5.3%，前值 3.3%。",
           "url": "https://wallstreetcn.com/livenews/3039519",
           "source": "华尔街见闻-快讯",
@@ -834,7 +857,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -873,6 +896,28 @@
           "time_info": "[00时35分 ~ 10时31分]"
         },
         {
+          "title": "OpenAI计划2026年发布第一款设备。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3039842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "世界经济论坛公布“AI应用之星” 近半案例来自中国",
+          "url": "https://wallstreetcn.com/livenews/3039840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
           "url": "https://www.zhihu.com/question/1995464531351135851",
           "source": "知乎",
@@ -902,11 +947,12 @@
           "url": "https://www.cls.cn/detail/2262334",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时08分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 23时36分]"
         },
         {
           "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
@@ -977,6 +1023,17 @@
           "time_info": "17时45分"
         },
         {
+          "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
+          "url": "https://wallstreetcn.com/livenews/3039833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
           "url": "https://flash.jin10.com/detail/20260119125355949800",
           "source": "金十数据",
@@ -1021,6 +1078,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "美媒：OpenAI计划于2026年推出首款产品",
+          "url": "https://flash.jin10.com/detail/20260119231031345800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "美光科技称AI热潮驱动“前所未见”的内存短缺",
           "url": "https://wallstreetcn.com/livenews/3039654",
           "source": "华尔街见闻-快讯",
@@ -1041,6 +1109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
+        },
+        {
+          "title": "据AXIOS：OpenAI计划于2026年推出首款设备。",
+          "url": "https://flash.jin10.com/detail/20260119230504546800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "UP主手搓可食用的AI海洋方块",
@@ -1065,6 +1144,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "贺峻霖力证不是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8A%9B%E8%AF%81%E4%B8%8D%E6%98%AFAI%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
@@ -1079,7 +1169,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
@@ -1092,8 +1182,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时39分 ~ 22时38分]"
+          "appearance_count": 12,
+          "time_info": "[13时39分 ~ 23时36分]"
         },
         {
           "title": "场内价格突破前高！白银LOF溢价重返30%，年内高涨基金扫描，这些方向扎堆聚集",
@@ -1105,8 +1195,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时39分 ~ 22时38分]"
+          "appearance_count": 7,
+          "time_info": "[18时39分 ~ 23时36分]"
         },
         {
           "title": "高盛：按当前远期价格计算，截至2026年3月底的库存估计已大幅降至16%满仓，而此前为28%满仓。",
@@ -1179,6 +1269,17 @@
           "time_info": "[14时53分 ~ 15时38分]"
         },
         {
+          "title": "加拿大央行季度调查：更少企业将关税相关成本视为价格上涨压力的来源。",
+          "url": "https://flash.jin10.com/detail/20260119233031414800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
           "url": "https://wallstreetcn.com/livenews/3039527",
           "source": "华尔街见闻-快讯",
@@ -1229,7 +1330,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         }
@@ -1237,7 +1338,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
@@ -1274,6 +1375,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 05时27分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
@@ -1323,7 +1435,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-19）",
@@ -1390,6 +1502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "巴西财长Haddad：希望在2026年在国会批准人工智能监管。",
+          "url": "https://flash.jin10.com/detail/20260119230901963800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     },
@@ -1425,8 +1548,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时36分]"
         }
       ]
     },

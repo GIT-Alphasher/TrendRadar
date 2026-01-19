@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T07:28:41.669752+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-01-19T10:31:28.167788+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "3美元吃饱饭,美高官神论挨骂",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时31分]"
         },
         {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
@@ -51,9 +52,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "印尼盾兑美元跌至1美元兑16,905印尼盾，为自2025年4月初以来首次。",
+          "url": "https://flash.jin10.com/detail/20260119101208441800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "日元兑美元走高，日内涨幅扩大至0.3%。",
@@ -62,9 +74,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "印尼卢比兑美元跌至16,905，为2025年4月初以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3039459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -116,12 +139,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时23分 ~ 06时29分]"
+        },
+        {
+          "title": "印度制药商太阳药业正考虑以100亿美元收购Organon。（印度经济时报）",
+          "url": "https://wallstreetcn.com/livenews/3039417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -131,8 +165,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时31分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -142,8 +176,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 10时31分]"
+        },
+        {
+          "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
+          "url": "https://www.cls.cn/detail/2261328",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
@@ -152,7 +197,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -204,9 +249,37 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国首尔综合指数一度上涨0.4%，触及4,860.84点纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3039411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "A股三大指数集体翻红，电网设备、贵金属、汽车整车、美容护理等方向领涨，沪深京三市上涨个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3039409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
@@ -223,8 +296,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时31分]"
         }
       ]
     },
@@ -276,8 +349,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时31分]"
         }
       ]
     }

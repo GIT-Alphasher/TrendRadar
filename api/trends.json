@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T10:31:28.167788+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-01-19T12:18:06.654476+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "3美元吃饱饭,美高官神论挨骂",
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             18,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 10时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 12时18分]"
         },
         {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
@@ -63,7 +64,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -85,7 +86,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -102,6 +103,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时32分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普：明尼苏达州存在190亿美元索马里诈骗",
+          "url": "https://flash.jin10.com/detail/20260119114952164800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "布莱尔与特朗普“和平委员会”10亿美元成员费划清界限",
@@ -147,7 +159,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         }
@@ -155,18 +167,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 10时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 12时18分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -178,6 +191,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 10时31分]"
+        },
+        {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
@@ -226,6 +250,128 @@
       ]
     },
     {
+      "keyword_group": "指数",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月19日（周一）富时中国A50指数成分股午盘收盘行情一览：家电行业走强，银行板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260119113219849800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "上证指数早盘收报4107.18点，涨0.13%。 深证成指早盘收报14280.05点，跌0.01%。 创业板指早盘收报3339.56点，跌0.64%。 沪深300早盘收报4721.07点，跌0.23%。 科创50早盘收报1505.01点，跌0.60%。 中证500早盘收报8289.58点，涨0.69%。 中证1000早盘收报8263.47点，涨0.37%。",
+          "url": "https://wallstreetcn.com/livenews/3039496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。沪银涨超2%，低硫燃料油（LU）、沪金、纯苯涨超1%。跌幅方面，沪锡跌超5%，碳酸锂跌近4%，铁矿石、玻璃、丁二烯橡胶、集运指数（欧线）、菜粕、沪铅跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260119113056146800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "日经225指数早盘收跌1%，报53412.88点。日本东证指数早盘收跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3039471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "韩国首尔综合指数一度上涨0.4%，触及4,860.84点纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3039411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "A股三大指数集体翻红，电网设备、贵金属、汽车整车、美容护理等方向领涨，沪深京三市上涨个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3039409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-19）",
+          "url": "https://flash.jin10.com/detail/20260119115731413800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
+          "url": "https://www.zhihu.com/question/659369541",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时23分]"
+        },
+        {
+          "title": "韩国青瓦台：韩国与意大利签署芯片产业合作谅解备忘录，涵盖人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20260119114123064800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "胡润发布中国人工智能50强，寒武纪以6300亿元价值居首",
+          "url": "https://wallstreetcn.com/livenews/3039492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -256,34 +402,6 @@
       ]
     },
     {
-      "keyword_group": "指数",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国首尔综合指数一度上涨0.4%，触及4,860.84点纪录新高。",
-          "url": "https://wallstreetcn.com/livenews/3039411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "A股三大指数集体翻红，电网设备、贵金属、汽车整车、美容护理等方向领涨，沪深京三市上涨个股近2700只。",
-          "url": "https://wallstreetcn.com/livenews/3039409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -293,11 +411,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 10时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 12时18分]"
         }
       ]
     },
@@ -317,23 +436,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 02时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
-          "url": "https://www.zhihu.com/question/659369541",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时23分]"
         }
       ]
     },

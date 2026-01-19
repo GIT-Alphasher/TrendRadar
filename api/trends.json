@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-19T19:31:39.173865+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-01-19T21:08:58.736159+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "指数",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "波罗的海干散货指数涨5.3%，至1650点。",
+          "url": "https://wallstreetcn.com/livenews/3039785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
         {
           "title": "欧洲斯托克50指数波动率跳升至19.1%，创下去年11月底以来的最高水平。",
           "url": "https://flash.jin10.com/detail/20260119163719601800",
@@ -19,16 +30,26 @@
           "time_info": "16时45分"
         },
         {
-          "title": "澳大利亚S&P/ASX 200指数收盘下跌0.3%至8874.5点。",
-          "url": "https://wallstreetcn.com/livenews/3039538",
-          "source": "华尔街见闻-快讯",
+          "title": "波罗的海干散货指数涨5.3%，至1650点。",
+          "url": "https://flash.jin10.com/detail/20260119210126011800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            23
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 14时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "加拿大至1月16日全国经济信心指数 50.2，前值50.1。",
+          "url": "https://flash.jin10.com/detail/20260119210023216800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "【每日收评】三大指数涨跌互现，单日成交额萎缩近3200亿，电网设备股持续爆发",
@@ -39,8 +60,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 21时08分]"
+        },
+        {
+          "title": "澳大利亚S&P/ASX 200指数收盘下跌0.3%至8874.5点。",
+          "url": "https://wallstreetcn.com/livenews/3039538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时53分]"
         },
         {
           "title": "日经225指数收跌0.7%，报53583.57点。 日本东证指数收跌0.1%，报3656.40点。 韩国首尔综指收涨1.3%，报4904.66点。",
@@ -294,7 +327,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -368,7 +401,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "3美元吃饱饭,美高官神论挨骂",
@@ -577,6 +610,17 @@
           "time_info": "14时53分"
         },
         {
+          "title": "俄罗斯至1月9日当周央行黄金和外汇储备 7525亿美元，前值7525亿美元。",
+          "url": "https://flash.jin10.com/detail/20260119210003492800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "加皇银行：将高盛(GS.N)目标价从900美元上调至1030美元。",
           "url": "https://flash.jin10.com/detail/20260119143127276800",
           "source": "金十数据",
@@ -627,7 +671,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -734,7 +778,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -821,6 +865,17 @@
           "time_info": "[10时30分 ~ 10时31分]"
         },
         {
+          "title": "荣耀Magic 8 Pro Air 售价4999元起",
+          "url": "https://wallstreetcn.com/livenews/3039775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "AI算力竞赛的关键是什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E7%AB%9E%E8%B5%9B%E7%9A%84%E5%85%B3%E9%94%AE%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -830,6 +885,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
@@ -887,6 +964,17 @@
           "time_info": "17时45分"
         },
         {
+          "title": "Air手机界来了个真Pro",
+          "url": "https://s.weibo.com/weibo?q=%23Air%E6%89%8B%E6%9C%BA%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AA%E7%9C%9FPro%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "UP主手搓可食用的AI海洋方块",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E5%8F%AF%E9%A3%9F%E7%94%A8%E7%9A%84AI%E6%B5%B7%E6%B4%8B%E6%96%B9%E5%9D%97",
           "source": "bilibili 热搜",
@@ -936,8 +1024,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时39分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[13时39分 ~ 21时08分]"
         },
         {
           "title": "高盛：按当前远期价格计算，截至2026年3月底的库存估计已大幅降至16%满仓，而此前为28%满仓。",
@@ -989,11 +1077,12 @@
           "url": "https://www.cls.cn/detail/2262323",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 21时08分]"
         },
         {
           "title": "贾国龙再发声：西贝冷冻西蓝花价格比市面普通产品高80%至120%，“从来不存在两岁的西蓝花”",
@@ -1068,7 +1157,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
@@ -1115,6 +1204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "美股期货低开，标普500指数期货跌0.8%，纳指期货跌1.1%。 美国10年期国债期货上涨5个点，30年期国债期货亦上涨5个点。 现货黄金涨超0.9%，现货白银涨1.4%重返91美元上方。",

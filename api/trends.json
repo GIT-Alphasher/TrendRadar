@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T10:25:25.761573+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-01-20T12:13:07.019812+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "现货白银冲高后快速走低，短线下跌幅度接近1美元，现报94.05美元/盎司。",
@@ -92,6 +92,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时44分 ~ 04时34分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时13分]"
         },
         {
           "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
@@ -222,7 +234,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -233,7 +245,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -244,18 +256,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -266,7 +267,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -282,13 +283,35 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美元指数DXY跌破99，日内跌0.05%。",
+          "url": "https://flash.jin10.com/detail/20260120112111284800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "现货钯金下跌约3%，至每盎司1,783.50美元。",
+          "url": "https://flash.jin10.com/detail/20260120111404706800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "人民币兑美元中间价续创逾32个月新高",
           "url": "https://wallstreetcn.com/livenews/3040008",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
@@ -296,7 +319,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "恒生科技指数日内跌1%。百度跌3.8%，华虹半导体跌近3%。",
@@ -305,7 +328,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -395,6 +418,50 @@
           "time_info": "[01时32分 ~ 02时44分]"
         },
         {
+          "title": "泰国股指SET指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3040116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "泰国股指SET指数日内涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20260120113830833800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "上证指数早盘收报4101.62点，跌0.30%。 深证成指早盘收报14119.95点，跌1.22%。 创业板指早盘收报3276.64点，跌1.83%。 沪深300早盘收报4712.18点，跌0.47%。 科创50早盘收报1488.44点，跌1.22%。 中证500早盘收报8198.78点，跌1.08%。 中证1000早盘收报8159.07点，跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3040112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、石油等板块走强，通信设备股回调",
+          "url": "https://flash.jin10.com/detail/20260120113239322800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌1.16%，报607.24点，持稳于日低附近。 欧元区STOXX 50指数初步收跌1.61%，报5932.12点，持稳于日低附近。 富时泛欧绩优300指数初步收跌1.19%，报2421.46点。",
           "url": "https://wallstreetcn.com/livenews/3039860",
           "source": "华尔街见闻-快讯",
@@ -423,7 +490,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -434,7 +501,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -445,7 +512,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -467,7 +534,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
@@ -475,7 +542,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "2025年年报业绩预告进入加速披露期，40余家上市公司净利翻番，AI成业绩增长强大驱动力",
@@ -513,6 +580,18 @@
           "time_info": "[04时34分 ~ 06时31分]"
         },
         {
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时13分]"
+        },
+        {
           "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
           "url": "https://wallstreetcn.com/livenews/3039907",
           "source": "华尔街见闻-快讯",
@@ -524,6 +603,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时31分]"
+        },
+        {
+          "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2262717",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时13分]"
         },
         {
           "title": "贺峻霖力证不是AI",
@@ -549,26 +640,26 @@
           "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
-          "url": "https://www.cls.cn/detail/2262848",
+          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
+          "url": "https://www.cls.cn/detail/2262811",
           "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
-          "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2262717",
-          "source": "财联社热门",
+          "title": "千问 App 接入淘宝、闪购测试 AI 购物，将如何影响消费习惯？",
+          "url": "https://www.zhihu.com/question/1995084390166988443",
+          "source": "知乎",
           "ranks": [
-            12
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -610,7 +701,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -621,7 +712,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -643,15 +734,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "中国中车旗下八维通与宇树科技战略合作 深度布局“机器人+AI+行业场景”",
+          "url": "https://wallstreetcn.com/livenews/3040091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
@@ -711,6 +813,17 @@
           "time_info": "[00时40分 ~ 07时30分]"
         },
         {
+          "title": "国内金饰价格大致持稳",
+          "url": "https://flash.jin10.com/detail/20260120120234658800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "上海新房价格独涨 二手房成交井喷",
           "url": "https://www.toutiao.com/trending/7596355846687965225/",
           "source": "今日头条",
@@ -733,6 +846,80 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时44分]"
+        },
+        {
+          "title": "车企官方APP售价162元两瓶的制动液在4S店卖560元？4S店客服：线上线下价格不相通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32416755",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "发改委：将强化市场优胜劣汰机制，理顺价格关系",
+          "url": "https://wallstreetcn.com/livenews/3040078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
+          "url": "https://wallstreetcn.com/livenews/3039880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时34分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-20）",
+          "url": "https://flash.jin10.com/detail/20260120115005476800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "上海浦东新区：推进张江人工智能创新小镇建设 到2027年集聚人工智能垂类大模型应用企业超800家",
+          "url": "https://wallstreetcn.com/livenews/3040042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "普华永道全球主席：人工智能定义CEO成败",
+          "url": "https://wallstreetcn.com/livenews/3039942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         }
       ]
     },
@@ -759,8 +946,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 10时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 12时13分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
@@ -776,47 +963,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
-          "url": "https://wallstreetcn.com/livenews/3039880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 04时34分]"
-        },
-        {
-          "title": "上海浦东新区：推进张江人工智能创新小镇建设 到2027年集聚人工智能垂类大模型应用企业超800家",
-          "url": "https://wallstreetcn.com/livenews/3040042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "普华永道全球主席：人工智能定义CEO成败",
-          "url": "https://wallstreetcn.com/livenews/3039942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型",
       "match_count": 2,
       "titles": [
@@ -826,11 +972,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 10时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 12时13分]"
         },
         {
           "title": "人均95后的大模型公司上了新闻联播",
@@ -839,7 +986,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         }

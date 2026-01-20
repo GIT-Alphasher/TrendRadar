@@ -1,12 +1,151 @@
 {
-  "generated_at": "2026-01-21T01:38:59.799692+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-01-21T02:59:32.369173+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "指数",
-      "match_count": 6,
+      "keyword_group": "美元",
+      "match_count": 10,
       "titles": [
+        {
+          "title": "英伟达向人工智能推理初创公司Baseten投资1.5亿美元",
+          "url": "https://flash.jin10.com/detail/20260121022907796800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌4.95%，刷新期内低点至3633.07点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌2.51%，报3436.59点。 MarketVector数字资产100指数跌4.12%，报18401.44点。 目前，Solana跌5.73%，狗狗币跌4.84%，XRP跌4.65%。 比特币跌3.30%，暂报90034美元；以太坊跌6.62%，暂报3003.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3040609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时59分]"
+        },
+        {
+          "title": "现货黄金突破4700美元",
+          "url": "https://www.toutiao.com/trending/7597306294105673225/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了16个对手方的35.06亿美元。",
+          "url": "https://flash.jin10.com/detail/20260121021738323800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "周二（1月20日），美联储隔夜逆回购协议（RRP）使用规模为35.06亿美元（交易对手16家），上个交易日报12.22亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3040633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "现货黄金涨幅扩大至2.00%，报4765.25美元/盎司，继续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3040632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "LME期铜收跌212美元，报12754美元/吨。 LME期铝收跌51美元，报3108美元/吨。 LME期锌收跌48美元，报3173美元/吨。 LME期铅收跌32美元，报2028美元/吨。 LME期镍收跌519美元，报17614美元/吨。 LME期锡收涨154美元，报49412美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3040627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "周二（1月20日），韩元兑美元最终跌0.38%，报1478.58韩元。",
+          "url": "https://wallstreetcn.com/livenews/3040623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "现货黄金突破4760美元/盎司，续刷历史新高，日内涨1.91%。",
+          "url": "https://flash.jin10.com/detail/20260121015610889800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "纳斯达克综合指数日内跌幅达2.0%，报23045.29点。",
+          "url": "https://wallstreetcn.com/livenews/3040641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1.8%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3040639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报384.64点，周一重挫2.0%。 在十个板块中，北欧医疗保健板块涨幅最大。 蓝筹股诺和诺德涨3.2%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3040598",
@@ -50,7 +189,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -100,7 +239,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -111,7 +250,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -122,7 +261,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -140,9 +279,82 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时59分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时59分]"
+        },
+        {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时59分]"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260121015850758800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260121015752975800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3040614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时59分]"
+        },
         {
           "title": "上海中小学开设AI课程",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
@@ -161,20 +373,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
         {
-          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
-          "url": "https://wallstreetcn.com/livenews/3040614",
-          "source": "华尔街见闻-快讯",
+          "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
+          "url": "https://flash.jin10.com/detail/20260121014844232800",
+          "source": "金十数据",
           "ranks": [
-            6
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "02时59分"
         },
         {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
@@ -190,45 +402,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时38分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时38分]"
-        },
-        {
-          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2264127",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -240,8 +413,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时59分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -251,36 +424,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时59分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "人工智能",
       "match_count": 2,
       "titles": [
         {
-          "title": "现货黄金突破4700美元",
-          "url": "https://www.toutiao.com/trending/7597306294105673225/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌4.95%，刷新期内低点至3633.07点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌2.51%，报3436.59点。 MarketVector数字资产100指数跌4.12%，报18401.44点。 目前，Solana跌5.73%，狗狗币跌4.84%，XRP跌4.65%。 比特币跌3.30%，暂报90034美元；以太坊跌6.62%，暂报3003.75美元。",
-          "url": "https://wallstreetcn.com/livenews/3040609",
-          "source": "华尔街见闻-快讯",
+          "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
+          "url": "https://flash.jin10.com/detail/20260121005712780800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic首席执行官表示，政府应帮助确保人工智能的经济红利得到共享。",
+          "url": "https://flash.jin10.com/detail/20260121013547745800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
@@ -310,23 +483,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
-          "url": "https://flash.jin10.com/detail/20260121005712780800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时38分"
         }
       ]
     }

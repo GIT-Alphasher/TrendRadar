@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T14:51:24.463949+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-01-20T15:37:54.053532+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时25分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时37分]"
         },
         {
           "title": "现货白银冲高后快速走低，短线下跌幅度接近1美元，现报94.05美元/盎司。",
@@ -38,9 +38,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "英镑兑美元汇率持续上涨，涨幅达0.3%至1.3469，创一周新高。",
+          "url": "https://wallstreetcn.com/livenews/3040272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "月之暗面估值据悉上涨5亿美元至48亿美元",
@@ -118,6 +129,17 @@
           "time_info": "[02时44分 ~ 04时34分]"
         },
         {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 15时37分]"
+        },
+        {
           "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3039870",
           "source": "华尔街见闻-快讯",
@@ -142,17 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时27分 ~ 05时29分]"
-        },
-        {
-          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
-          "url": "https://www.cls.cn/detail/2263060",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 14时51分]"
         },
         {
           "title": "秘鲁央行表示在即期市场买入2.61亿美元。",
@@ -215,6 +226,18 @@
           "time_info": "[06时31分 ~ 07时30分]"
         },
         {
+          "title": "现货黄金突破4700美元",
+          "url": "https://www.toutiao.com/trending/7597306294105673225/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时37分]"
+        },
+        {
           "title": "美元指数19日下跌",
           "url": "https://flash.jin10.com/detail/20260120043735126800",
           "source": "金十数据",
@@ -251,13 +274,24 @@
           "time_info": "[06时31分 ~ 07时30分]"
         },
         {
+          "title": "韩元兑美元跌破1480，为自2025年12月24日以来首次。",
+          "url": "https://flash.jin10.com/detail/20260120151809729800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "商务部：2025年对外非金融类直接投资1456.6亿美元，同比增长1.3%",
           "url": "https://wallstreetcn.com/livenews/3040204",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -328,6 +362,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "现货黄金日内涨幅达1.00%，现报4717.58美元/盎司，续创新高。",
+          "url": "https://flash.jin10.com/detail/20260120151551381800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "现货钯金回落至1800美元/盎司下方，日内跌2.27%。",
           "url": "https://flash.jin10.com/detail/20260120095632116800",
           "source": "金十数据",
@@ -372,17 +417,6 @@
           "time_info": "13时38分"
         },
         {
-          "title": "现货黄金突破4700美元",
-          "url": "https://www.toutiao.com/trending/7597306294105673225/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
           "title": "印度卢比兑美元跌破91，为去年12月17日以来首次。",
           "url": "https://wallstreetcn.com/livenews/3040142",
           "source": "华尔街见闻-快讯",
@@ -400,7 +434,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -455,7 +489,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -469,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "葛兰素史克(GSK.N)：将以每股58美元收购Rapt，股权价值为22亿美元。预计前期投入资金为19亿美元。",
+          "url": "https://flash.jin10.com/detail/20260120150616627800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "现货钯金下跌约3%，至每盎司1,783.50美元。",
@@ -488,7 +533,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -529,7 +574,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "恒生科技指数日内跌1%。百度跌3.8%，华虹半导体跌近3%。",
@@ -701,7 +746,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -717,15 +762,37 @@
           "time_info": "01时32分"
         },
         {
+          "title": "金十图示：2026年01月20日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260120151023037800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "科创50指数跌超2%，天合光能跌超9%领跌成分股。",
           "url": "https://wallstreetcn.com/livenews/3040188",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）富时中国A50指数成分股今日收盘行情一览：银行、保险股普涨，消费电子股偏软。",
+          "url": "https://flash.jin10.com/detail/20260120150248602800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "法国CAC40指数日内跌幅达2.00%。",
@@ -783,6 +850,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "上证指数收报4113.65点，跌0.01%。 深证成指收报14155.63点，跌0.97%。 创业板指收报3277.98点，跌1.79%。 沪深300收报4718.88点，跌0.33%。 科创50收报1482.99点，跌1.58%。 中证500收报8247.80点，跌0.48%。 中证1000收报8182.75点，跌1.00%。",
+          "url": "https://wallstreetcn.com/livenews/3040231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "欧洲STOXX 600指数收跌1.19%，报607.06点，跳空低开之后低位震荡。 欧元区STOXX 50指数收跌1.72%，报5925.82点，跳空低开之后低位震荡。 富时泛欧绩优300指数收跌1.22%，报2420.61点。",
           "url": "https://wallstreetcn.com/livenews/3039860",
           "source": "华尔街见闻-快讯",
@@ -811,15 +889,16 @@
       "match_count": 21,
       "titles": [
         {
-          "title": "医生给1岁娃开小众药被AI提醒慎用",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
           "ranks": [
-            2
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时37分]"
         },
         {
           "title": "2025年年报业绩预告进入加速披露期，40余家上市公司净利翻番，AI成业绩增长强大驱动力",
@@ -833,16 +912,16 @@
           "time_info": "07时30分"
         },
         {
-          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
-          "url": "https://www.cls.cn/detail/2262848",
-          "source": "财联社热门",
+          "title": "医生给1岁娃开小众药被AI提醒慎用",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            6
+            2,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时25分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 15时37分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -946,7 +1025,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1053,7 +1132,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
@@ -1130,7 +1209,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1170,13 +1249,35 @@
           "time_info": "[12时12分 ~ 12时13分]"
         },
         {
+          "title": "道达尔能源：第四季度平均天然气价格为每百万英热单位5.11美元，去年同期为每百万英热单位6.26美元。",
+          "url": "https://flash.jin10.com/detail/20260120151738333800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "道达尔能源：第四季度布伦特原油平均价格为每桶63.7美元，而去年同期为每桶74.7美元。",
+          "url": "https://flash.jin10.com/detail/20260120151728287800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "韩国10年期国债期货价格跌至2024年4月以来的最低点。",
           "url": "https://wallstreetcn.com/livenews/3040185",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1187,9 +1288,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "葛兰素史克公司同意以每股58美元的价格收购RAPT Therapeutics。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3040239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "发改委：将强化市场优胜劣汰机制，理顺价格关系",
@@ -1206,8 +1318,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国银行全球基金经理调查：地缘政治冲突自2024年10月以来首次成为最大的尾部风险，人工智能泡沫位居第二。",
+          "url": "https://flash.jin10.com/detail/20260120151947887800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
         {
           "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
           "url": "https://wallstreetcn.com/livenews/3039880",
@@ -1272,6 +1395,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 15时37分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -1281,17 +1416,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 05时29分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 14时51分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
@@ -1311,7 +1435,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -1352,7 +1476,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }

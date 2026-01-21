@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T05:37:18.807775+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-01-22T06:36:09.595190+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "Anthropic的收入在2025年年底超过90亿美元。",
@@ -23,11 +23,24 @@
           "url": "https://wallstreetcn.com/livenews/3041527",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260122045020837800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
         },
         {
           "title": "俄罗斯总统普京：可以从冻结资产中拿出10亿美元给特朗普，用于和平委员会。",
@@ -52,6 +65,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时36分]"
+        },
+        {
+          "title": "NYMEX天然气期货涨至5美元，为12月份以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3041514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
         },
         {
           "title": "美元指数短线拉升，特朗普称与北约就“未来格陵兰协议”达成框架",
@@ -138,26 +163,15 @@
           "time_info": "[02时56分 ~ 03时36分]"
         },
         {
-          "title": "美元指数21日上涨",
-          "url": "https://flash.jin10.com/detail/20260122045020837800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "NYMEX天然气期货涨至5美元，为12月份以来首次。",
-          "url": "https://wallstreetcn.com/livenews/3041514",
+          "title": "周三（1月21日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9600元，较周二纽约尾盘跌43点，日内整体交投于6.9535-6.9639元区间。",
+          "url": "https://wallstreetcn.com/livenews/3041539",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "06时36分"
         },
         {
           "title": "周三（1月21日）纽约尾盘，美元兑日元涨0.16%，报158.41日元，日内交投区间为157.75-158.53日元，特朗普宣称与北约就“未来格陵兰协议”达成框架之后，出现一波显著的短线拉升行情。 欧元兑日元跌0.19%，英镑兑日元持平。",
@@ -166,9 +180,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "白银跌约1.6%，一度逼近90美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3041534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         },
         {
           "title": "索尼推出230美元耳夹式耳机，加入开放式音频热潮",
@@ -228,8 +253,178 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 06时36分]"
+        },
+        {
+          "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 06时36分]"
+        },
+        {
+          "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3041528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260122050522975800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260122050514062800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "美股收盘：特朗普助力 三大股指涨超1%",
+          "url": "https://flash.jin10.com/detail/20260122050202493800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "美股集体高开 百度涨5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A85%25",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时36分 ~ 05时37分]"
+        },
+        {
+          "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3041520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "美股涨幅大幅收窄，数字货币大跌",
+          "url": "https://wallstreetcn.com/livenews/3041446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时36分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌1.22%，报410.57点。 （全球时段）纽约证交所ARCA金矿开采商指数跌0.55%，报2896.08点。 （美股）原材料指数收涨1.52%，（美股）金属与矿业指数收涨2.33%。",
+          "url": "https://wallstreetcn.com/livenews/3041537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
+          "url": "https://wallstreetcn.com/livenews/3041529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰“协议框架”，2月1日不加关税，美股涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3041483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260122014817463800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260122014724780800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -237,11 +432,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 06时36分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -251,8 +447,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 06时36分]"
         },
         {
           "title": "咻咻满COS翻唱icantwait",
@@ -263,11 +459,12 @@
             13,
             15,
             9,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 06时36分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -278,8 +475,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 06时36分]"
+        },
+        {
+          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
+          "url": "https://wallstreetcn.com/articles/3763773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时09分 ~ 05时37分]"
+          "time_info": "[02时55分 ~ 06时36分]"
         },
         {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
@@ -293,17 +501,6 @@
           "time_info": "01时10分"
         },
         {
-          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
-          "url": "https://wallstreetcn.com/articles/3763773",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时55分 ~ 05时37分]"
-        },
-        {
           "title": "UP主带你玩转全球顶级AI现场",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -315,6 +512,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时55分 ~ 04时41分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 06时36分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -386,286 +594,33 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 05时37分]"
-        },
-        {
-          "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3041528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260122050522975800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260122050514062800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美股收盘：特朗普助力 三大股指涨超1%",
-          "url": "https://flash.jin10.com/detail/20260122050202493800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美股集体高开 百度涨5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A85%25",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时36分 ~ 05时37分]"
-        },
-        {
-          "title": "美股涨幅大幅收窄，数字货币大跌",
-          "url": "https://wallstreetcn.com/livenews/3041446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时36分]"
-        },
-        {
-          "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3041520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰“协议框架”，2月1日不加关税，美股涨幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3041483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260122014817463800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260122014724780800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 05时37分]"
-        },
-        {
-          "title": "价格涨三成 欧美还在疯抢中国变压器",
-          "url": "https://www.toutiao.com/trending/7596866301546463286/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20,
-            19,
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 05时37分]"
-        },
-        {
-          "title": "美国天然气期货价格自去年12月以来首次升至5美元。",
-          "url": "https://flash.jin10.com/detail/20260122045834135800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "钻石价格大跌",
-          "url": "https://www.douyin.com/hot/2374704",
-          "source": "抖音",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时36分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈格陵兰岛）可能会看到一个合理的价格。",
-          "url": "https://flash.jin10.com/detail/20260122022607054800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时36分]"
-        },
-        {
-          "title": "周三（1月21日），彭博电动汽车价格回报指数涨1.18%，报3623.41点，全天持续走高。 成分股Lucid集团涨超17%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3041522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "基准荷兰近月天然气批发价格上涨14%至每兆瓦时40欧元。",
-          "url": "https://flash.jin10.com/detail/20260122005336960800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "美国总统特朗普：将按市场价格出售从委内瑞拉攫取的石油，并保留一部分。",
-          "url": "https://wallstreetcn.com/livenews/3041509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "爱丽舍宫否认马克龙提高药品价格的消息",
-          "url": "https://flash.jin10.com/detail/20260122004221414800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "指数",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "金十图示：2026年01月21日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260122050534372800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
         {
           "title": "巴西基准股指Bovespa指数上涨逾3%。",
           "url": "https://flash.jin10.com/detail/20260122043721727800",
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时36分]"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260122050534372800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时37分]"
+          "time_info": "[05时37分 ~ 06时36分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.17%，报26616点。 恒生科技指数主连夜盘收涨0.03%，报5752点。",
@@ -684,11 +639,24 @@
           "url": "https://wallstreetcn.com/livenews/3041521",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨2.21%，报7776.15点。 热门中概股里，百度初步收涨8%，世纪互联涨7.4%，万国数据涨6.1%，金山云涨4.6%，文远知行涨4.3%，阿里巴巴涨3.9%，百胜中国涨2.7%，拼多多涨1.4%。 ETF中，中国科技指数ETF（CQQQ）收涨3.40%，中概互联网指数ETF（KWEB）收涨1.74%。 XtrackersHarvest中证50（ASHS）收涨2.06%，德银嘉实沪深300指数ETF（ASHR）收涨0.75%。",
+          "url": "https://wallstreetcn.com/livenews/3041515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
         },
         {
           "title": "标普500指数收涨78.76点，涨幅1.16%，报6875.62点。 道琼斯工业平均指数收涨588.64点，涨幅1.21%，报49077.23点。 纳斯达克综合指数（纳指）收涨270.502点，涨幅1.18%，报23224.825点。 纳斯达克100指数收涨339.015点，涨幅1.36%，报25326.581点。 纳斯达克生物科技指数收涨2.43%，报5925.59点。 费城半导体指数收涨3.18%，报8042.07点。 费城证交所KBW银行指数收涨1.77%，报167.86点。",
@@ -697,20 +665,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨2.21%，报7776.15点。 热门中概股里，百度初步收涨8%，世纪互联涨7.4%，万国数据涨6.1%，金山云涨4.6%，文远知行涨4.3%，阿里巴巴涨3.9%，百胜中国涨2.7%，拼多多涨1.4%。 ETF中，中国科技指数ETF（CQQQ）收涨3.40%，中概互联网指数ETF（KWEB）收涨1.74%。 XtrackersHarvest中证50（ASHS）收涨2.06%，德银嘉实沪深300指数ETF（ASHR）收涨0.75%。",
-          "url": "https://wallstreetcn.com/livenews/3041515",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年01月21日（周三）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260122052128298800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "06时36分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，刷新日高。",
@@ -735,11 +703,148 @@
           "time_info": "01时10分"
         },
         {
+          "title": "标普500指数收涨78.76点，涨幅1.16%，报6875.62点。 道琼斯工业平均指数收涨588.64点，涨幅1.21%，报49077.23点。 纳斯达克综合指数（纳指）收涨270.502点，涨幅1.18%，报23224.825点。 纳斯达克100指数收涨339.015点，涨幅1.36%，报25326.581点。 纳斯达克科技市值加权指数收涨1.33%，报2337.9761点。",
+          "url": "https://wallstreetcn.com/livenews/3041517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
           "title": "标普500指数涨超1%，能源板块涨2.2%，原材料、工业、可选消费、科技、电信等板块涨超1%。 道指涨超1%，纳指涨约1.1%，半导体指数涨幅扩大至3.2%，银行指数涨超2.1%。",
           "url": "https://wallstreetcn.com/livenews/3041398",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 06时36分]"
+        },
+        {
+          "title": "价格涨三成 欧美还在疯抢中国变压器",
+          "url": "https://www.toutiao.com/trending/7596866301546463286/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            20,
+            19,
+            22,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 06时36分]"
+        },
+        {
+          "title": "债券交易员抄底获利：格陵兰岛“框架协议”消息助推美债价格反弹",
+          "url": "https://wallstreetcn.com/livenews/3041543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "钻石价格大跌",
+          "url": "https://www.douyin.com/hot/2374704",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 03时36分]"
+        },
+        {
+          "title": "美国天然气期货价格自去年12月以来首次升至5美元。",
+          "url": "https://flash.jin10.com/detail/20260122045834135800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "周三（1月21日），彭博电动汽车价格回报指数涨1.18%，报3623.41点，全天持续走高。 成分股Lucid集团涨超17%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3041522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈格陵兰岛）可能会看到一个合理的价格。",
+          "url": "https://flash.jin10.com/detail/20260122022607054800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时36分]"
+        },
+        {
+          "title": "基准荷兰近月天然气批发价格上涨14%至每兆瓦时40欧元。",
+          "url": "https://flash.jin10.com/detail/20260122005336960800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "美国总统特朗普：将按市场价格出售从委内瑞拉攫取的石油，并保留一部分。",
+          "url": "https://wallstreetcn.com/livenews/3041509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "爱丽舍宫否认马克龙提高药品价格的消息",
+          "url": "https://flash.jin10.com/detail/20260122004221414800",
+          "source": "金十数据",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -758,7 +863,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -790,8 +895,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 06时36分]"
         }
       ]
     },
@@ -806,7 +911,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }

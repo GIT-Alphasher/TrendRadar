@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T12:15:48.568327+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-01-22T13:38:11.677428+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "美国正式退出世卫组织，仍欠2.6亿美元会费",
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 13时38分]"
+        },
+        {
+          "title": "美国退出世卫组织，仍欠 2.6 亿美元会费，世卫组织能要回这笔钱吗？美国退出对公共卫生体系有哪些影响？",
+          "url": "https://www.zhihu.com/question/1997579003989553651",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时29分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 13时38分]"
         },
         {
           "title": "Anthropic的收入在2025年年底超过90亿美元。",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "美国退出世卫组织，仍欠 2.6 亿美元会费，世卫组织能要回这笔钱吗？美国退出对公共卫生体系有哪些影响？",
-          "url": "https://www.zhihu.com/question/1997579003989553651",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "韩国Korea Zinc：计划将一座废旧的美国冶炼厂转型为一家巨型关键矿物综合设施。 预计能从那里的废料堆里处理价值大约30亿美元的金属。 公司将投资74亿美元。",
@@ -259,7 +260,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -314,7 +315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -325,7 +326,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -374,6 +375,28 @@
           "time_info": "10时30分"
         },
         {
+          "title": "韩国财长：不会推迟首笔200亿美元对美投资承诺",
+          "url": "https://wallstreetcn.com/livenews/3041755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "花旗：韩国或将推出68亿美元的新一轮经济刺激计划",
+          "url": "https://flash.jin10.com/detail/20260122123148950800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "普京将与到访的美总统特使会晤 愿用10亿美元被冻资产“入会”",
           "url": "https://flash.jin10.com/detail/20260122041404825800",
           "source": "金十数据",
@@ -402,7 +425,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -446,7 +469,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
@@ -454,8 +477,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "台湾证交所加权股价指数收涨1.6%报31,746.08点。",
+          "url": "https://wallstreetcn.com/livenews/3041782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
         {
           "title": "金十图示：2026年01月22日（周四）富时中国A50指数成分股午盘收盘行情一览：保险、半导体板块下跌，石油、煤炭板块走强",
           "url": "https://flash.jin10.com/detail/20260122113231842800",
@@ -463,7 +497,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -541,6 +575,17 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
+          "title": "澳大利亚S&P/ASX 200指数收盘上涨0.7%至8848.70点。",
+          "url": "https://wallstreetcn.com/livenews/3041771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "标普500指数收涨78.76点，涨幅1.16%，报6875.62点。 道琼斯工业平均指数收涨588.64点，涨幅1.21%，报49077.23点。 纳斯达克综合指数（纳指）收涨270.502点，涨幅1.18%，报23224.825点。 纳斯达克100指数收涨339.015点，涨幅1.36%，报25326.581点。 纳斯达克生物科技指数收涨2.43%，报5925.59点。 费城半导体指数收涨3.18%，报8042.07点。 费城证交所KBW银行指数收涨1.77%，报167.86点。",
           "url": "https://wallstreetcn.com/livenews/3041517",
           "source": "华尔街见闻-快讯",
@@ -602,7 +647,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -613,9 +658,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "印度NIFTY中盘100指数上涨1.6%，NIFTY小盘100指数上涨1%。",
+          "url": "https://flash.jin10.com/detail/20260122124353004800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，刷新日高。",
@@ -629,13 +685,24 @@
           "time_info": "04时41分"
         },
         {
+          "title": "印度NIFTY IT指数上涨1.2%。",
+          "url": "https://flash.jin10.com/detail/20260122124258150800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "越南股指VN指数日内涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3041715",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -684,6 +751,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "印度Sensex指数、印度Nifty指数双双涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3041746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "标普500指数涨超1%，能源板块涨2.2%，原材料、工业、可选消费、科技、电信等板块涨超1%。 道指涨超1%，纳指涨约1.1%，半导体指数涨幅扩大至3.2%，银行指数涨超2.1%。",
           "url": "https://wallstreetcn.com/livenews/3041398",
           "source": "华尔街见闻-快讯",
@@ -693,12 +771,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "日经225指数涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3041745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -711,8 +800,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时09分 ~ 12时15分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 13时38分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -738,11 +827,12 @@
             16,
             18,
             24,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时09分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[01时09分 ~ 13时38分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -756,6 +846,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时09分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时35分 ~ 13时38分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -783,28 +886,27 @@
           "time_info": "[02时55分 ~ 07时34分]"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时35分 ~ 12时15分]"
-        },
-        {
           "title": "黄仁勋谈AI如何改变经济",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 13时38分]"
+        },
+        {
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 13时38分]"
         },
         {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
@@ -818,16 +920,16 @@
           "time_info": "01时10分"
         },
         {
-          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
-          "url": "https://www.cls.cn/detail/2265674",
-          "source": "财联社热门",
+          "title": "xAI工程师因泄密被马斯克解雇",
+          "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
+          "source": "bilibili 热搜",
           "ranks": [
             6,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时29分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 13时38分]"
         },
         {
           "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
@@ -840,6 +942,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时29分 ~ 12时15分]"
+        },
+        {
+          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
+          "url": "https://www.cls.cn/detail/2265956",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -865,26 +978,26 @@
           "time_info": "[02时56分 ~ 03时36分]"
         },
         {
-          "title": "xAI工程师因泄密被马斯克解雇",
-          "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "黄仁勋：AI发展将带来大规模基建投资潮",
           "url": "https://wallstreetcn.com/livenews/3041732",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "Grok AI引发争议后 马来西亚考虑修改社交媒体规则",
+          "url": "https://flash.jin10.com/detail/20260122130616187800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -969,8 +1082,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 12时15分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 13时38分]"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 13时38分]"
         },
         {
           "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
@@ -1020,17 +1145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 12时15分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -1130,7 +1244,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
@@ -1161,6 +1275,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时09分 ~ 07时34分]"
+        },
+        {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 13时38分]"
         },
         {
           "title": "钻石价格大跌",
@@ -1199,15 +1324,16 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
-          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
-          "url": "https://wallstreetcn.com/articles/3763828",
-          "source": "华尔街见闻",
+          "title": "黄金价格会崩吗",
+          "url": "https://www.toutiao.com/trending/7597976651418308122/",
+          "source": "今日头条",
           "ranks": [
-            10
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时29分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 13时38分]"
         },
         {
           "title": "周三（1月21日），彭博电动汽车价格回报指数涨1.18%，报3623.41点，全天持续走高。 成分股Lucid集团涨超17%领跑。",
@@ -1234,6 +1360,17 @@
           "time_info": "[02时56分 ~ 03时36分]"
         },
         {
+          "title": "实探宝马5系价格",
+          "url": "https://www.toutiao.com/trending/7597382859276238854/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
           "title": "基准荷兰近月天然气批发价格上涨14%至每兆瓦时40欧元。",
           "url": "https://flash.jin10.com/detail/20260122005336960800",
           "source": "金十数据",
@@ -1243,17 +1380,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "黄金价格会崩吗",
-          "url": "https://www.toutiao.com/trending/7597976651418308122/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "美国总统特朗普：将按市场价格出售从委内瑞拉攫取的石油，并保留一部分。",
@@ -1284,7 +1410,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
@@ -1302,8 +1428,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 13时38分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -1362,7 +1488,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
@@ -1382,11 +1508,12 @@
             9,
             3,
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时09分 ~ 12时15分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 13时38分]"
         }
       ]
     },
@@ -1399,11 +1526,12 @@
           "url": "https://wallstreetcn.com/livenews/3041744",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时38分]"
         }
       ]
     }

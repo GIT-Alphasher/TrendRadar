@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:37:48.721022+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-01-23T14:49:57.836545+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 80,
+      "match_count": 83,
       "titles": [
         {
           "title": "强劲数据提振风险偏好，Mag 7普涨，小盘股指再新高，美元跌至98，金银铂齐新高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时37分]"
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 14时49分]"
         },
         {
           "title": "专家：普京豪掷10亿美元藏着阳谋",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时48分 ~ 07时31分]"
+        },
+        {
+          "title": "拼多多股价连跌 7 日，市值跌破 1500 亿美元，如何解读？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1997236511712764938",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 14时49分]"
         },
         {
           "title": "纽约期金站上4950美元/盎司，日内涨0.74%。",
@@ -128,7 +142,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -144,19 +158,6 @@
           "time_info": "10时25分"
         },
         {
-          "title": "拼多多股价连跌 7 日，市值跌破 1500 亿美元，如何解读？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1997236511712764938",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时37分]"
-        },
-        {
           "title": "强劲数据提振风险偏好，科技七巨头普涨，美元跌至98，金银铂齐创新高",
           "url": "https://wallstreetcn.com/articles/3763892",
           "source": "华尔街见闻",
@@ -166,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "美元兑日元USD/JPY小幅走低，现报158.58。",
+          "url": "https://flash.jin10.com/detail/20260123143724562800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "纽约期金涨至4900美元/盎司整数位心理关口，日内涨1.29%。",
@@ -307,11 +319,12 @@
           "url": "https://wallstreetcn.com/articles/3763970",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时49分]"
         },
         {
           "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率1.940%（11月20日为1.843%），投标倍数2.38（前次为2.41）。",
@@ -425,6 +438,18 @@
           "time_info": "[02时48分 ~ 03时33分]"
         },
         {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时49分]"
+        },
+        {
           "title": "特朗普起诉美最大银行索赔50亿美元",
           "url": "https://www.toutiao.com/trending/7598255637491466246/",
           "source": "今日头条",
@@ -457,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "美元兑日元短线拉升逾10点，现报158.72，日本央行行长植田和男正在发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3042640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "英特尔(INTC.O)2025年Q4营收136.7亿美元，市场预期133.7亿美元，上年同期142.6亿美元。",
@@ -569,17 +605,6 @@
           "time_info": "05时32分"
         },
         {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "现货黄金日内涨超1.00%，现报4877.51美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260123001951098800",
           "source": "金十数据",
@@ -644,6 +669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "如何看待俄罗斯斥资 1.28 亿美元，为打造《使命召唤》级别竞品？",
+          "url": "https://www.zhihu.com/question/1997668363657315633",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "现货黄金涨势未停，将历史纪录推高至4910美元/盎司，日内涨1.70%。",
@@ -924,7 +960,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "金十图示：2026年01月22日（周四）全球股市指数-美洲市场（收盘）",
@@ -944,7 +980,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -1045,7 +1081,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -1059,6 +1095,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "美联储最青睐通胀指标符合预期，美11月PCE物价指数同比2.8%，消费支出稳健",
+          "url": "https://wallstreetcn.com/articles/3763958",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "日经225指数收涨0.3%，报53846.87点。 日本东证指数收涨0.4%，报3629.70点。 韩国首尔综指收涨0.8%，报4990.07点。",
+          "url": "https://wallstreetcn.com/livenews/3042631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "中证转债指数高开0.44%。睿创转债涨近20%，利扬转债涨8.7%，宙邦转债涨7%，大参转债、塞力转债涨超4%。首华转债跌1.2%，华正转债跌近1%。",
@@ -1089,7 +1147,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -1138,6 +1196,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "富时中国A50指数期货短线走低，一度跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "美国1月堪萨斯联储制造业综合指数 0，预期 4，前值 1。",
           "url": "https://wallstreetcn.com/livenews/3042188",
           "source": "华尔街见闻-快讯",
@@ -1147,6 +1216,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "菲律宾股市指数下跌1%，至6333.92 点。",
+          "url": "https://wallstreetcn.com/livenews/3042618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "东证指数股息收益率20年来首次低于十年期日债收益率",
+          "url": "https://flash.jin10.com/detail/20260123143241962800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "日经225指数期货在日本央行决议后延续涨势，现上涨0.4%。",
@@ -1169,6 +1260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收涨0.7%报31,961.51点。",
+          "url": "https://wallstreetcn.com/livenews/3042594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "美国1月堪萨斯联储制造业产出指数 -2，前值-3。",
@@ -1230,8 +1332,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时37分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 14时49分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -1427,163 +1529,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
-          "url": "https://www.cls.cn/detail/2266641",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时31分]"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时31分]"
-        },
-        {
-          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763967",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时37分]"
-        },
-        {
-          "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
-          "url": "https://wallstreetcn.com/livenews/3042270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 05时32分]"
-        },
-        {
-          "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
-          "url": "https://wallstreetcn.com/livenews/3042264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时38分]"
-        },
-        {
-          "title": "OpenAI拟从客户AI辅助研发成果中分成",
-          "url": "https://flash.jin10.com/detail/20260123024532109800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "韩国在全球率先施行涉AI指导性法律，相关细节引发国内业界担忧",
-          "url": "https://wallstreetcn.com/livenews/3042354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
-          "url": "https://www.cls.cn/detail/2267470",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "头号重仓股易主，公募持续掘金AI主线",
-          "url": "https://wallstreetcn.com/livenews/3042350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
-          "url": "https://wallstreetcn.com/livenews/3042190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
-          "url": "https://wallstreetcn.com/livenews/3042186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
-          "url": "https://flash.jin10.com/detail/20260123000407972800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "价格",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
@@ -1597,6 +1544,30 @@
           "time_info": "07时31分"
         },
         {
+          "title": "日本央行行长植田和男：汇率受多种因素影响。 对日元汇率具体水平不予置评。 将密切关注汇率对价格趋势的影响。",
+          "url": "https://wallstreetcn.com/livenews/3042641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 14时49分]"
+        },
+        {
           "title": "特斯拉CEO马斯克表示，随着功能提升，完全自动驾驶（FSD）订阅价格将会上涨。",
           "url": "https://wallstreetcn.com/livenews/3042546",
           "source": "华尔街见闻-快讯",
@@ -1607,18 +1578,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时10分 ~ 13时37分]"
-        },
-        {
-          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时37分]"
         },
         {
           "title": "马斯克意外亮相达沃斯 冬季风暴继续推高天然气价格 | 今夜看点",
@@ -1644,6 +1603,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "日本央行行长植田和男：工资-价格机制预计将继续发挥作用。",
+          "url": "https://flash.jin10.com/detail/20260123143535173800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "日本央行：近期食品价格（如米价）的上涨，很大程度上反映了暂时的供应侧因素。 全球经济前景仍存在不确定性，例如贸易政策的影响，这可能导致供应侧驱动的进口价格上涨。 迄今为止宣布的贸易政策可能会拖累全球经济。 关于美国经济，需要关注的因素包括关税通过恶化企业利润对就业和收入形成产生的影响。 如果进口价格大幅上涨，家庭对支出的防御性心态可能会进一步加强。 迄今为止宣布的贸易政策可能会引发全球化趋势的改变。",
           "url": "https://wallstreetcn.com/livenews/3042539",
           "source": "华尔街见闻-快讯",
@@ -1653,6 +1623,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "日本央行行长植田和男：潜在通胀将继续温和上升。 日本央行委员高田创和田村直树提议修改展望报告的措辞。 若经济形势如预期般发展，我们将继续提高利率。 与日本央行利率挂钩的贷款利率已在上升。 12月加息后，市场环境依然宽松。 加息步伐将取决于经济形势。 央行独立性是实现价格目标的关键。 美联储的政策制定属于美国国内事务。",
+          "url": "https://wallstreetcn.com/livenews/3042633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "日本央行行长植田和男：潜在通胀和核心CPI涨幅可能会逐步上升，在预测期的下半年达到与价格目标相符的水平。",
+          "url": "https://flash.jin10.com/detail/20260123143417087800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "英特尔：存储芯片价格上涨，可能会在2026年伤害到个人电脑（PC）市场。",
@@ -1705,7 +1697,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -1719,6 +1711,195 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "金银价格再创新高 对美国资产的信心恐遭永久性动摇",
+          "url": "https://flash.jin10.com/detail/20260123142125706800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
+        },
+        {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
+        },
+        {
+          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763967",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 14时49分]"
+        },
+        {
+          "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
+          "url": "https://wallstreetcn.com/livenews/3042270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时32分]"
+        },
+        {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时49分]"
+        },
+        {
+          "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
+          "url": "https://wallstreetcn.com/livenews/3042264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时38分]"
+        },
+        {
+          "title": "OpenAI拟从客户AI辅助研发成果中分成",
+          "url": "https://flash.jin10.com/detail/20260123024532109800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "韩国在全球率先施行涉AI指导性法律，相关细节引发国内业界担忧",
+          "url": "https://wallstreetcn.com/livenews/3042354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "头号重仓股易主，公募持续掘金AI主线",
+          "url": "https://wallstreetcn.com/livenews/3042350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
+          "url": "https://www.zhihu.com/question/1997937872972505781",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
+          "url": "https://wallstreetcn.com/livenews/3042190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
+          "url": "https://wallstreetcn.com/livenews/3042186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
+          "url": "https://flash.jin10.com/detail/20260123000407972800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "郑钦文的网友们人均用上了AI助理",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E7%BD%91%E5%8F%8B%E4%BB%AC%E4%BA%BA%E5%9D%87%E7%94%A8%E4%B8%8A%E4%BA%86AI%E5%8A%A9%E7%90%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         }
       ]
     },

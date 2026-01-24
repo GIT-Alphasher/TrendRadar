@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:29:11.841258+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-01-24T23:29:32.719442+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时21分 ~ 22时29分]"
+          "appearance_count": 17,
+          "time_info": "[10时21分 ~ 23时29分]"
         },
         {
           "title": "强劲数据提振风险偏好，Mag 7普涨，小盘股指再新高，美元跌至98，金银铂齐新高",
@@ -65,11 +65,12 @@
             13,
             12,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时03分 ~ 22时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时03分 ~ 23时29分]"
         },
         {
           "title": "美国证交会：高盛CEO所罗门2025年薪酬定为4700万美元。",
@@ -435,6 +436,18 @@
           "time_info": "[00时42分 ~ 01时33分]"
         },
         {
+          "title": "市场消息：美国联邦住房金融局决定让房利美和房地美继续持有价值400亿美元的抵押债券。",
+          "url": "https://flash.jin10.com/detail/20260124213632166800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时29分]"
+        },
+        {
           "title": "纽约银日内涨幅达6.5%，报102.64美元/盎司。 现货白银日内涨幅达6.5%，报102.41美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3043117",
           "source": "华尔街见闻-快讯",
@@ -601,17 +614,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时32分]"
-        },
-        {
-          "title": "市场消息：美国联邦住房金融局决定让房利美和房地美继续持有价值400亿美元的抵押债券。",
-          "url": "https://flash.jin10.com/detail/20260124213632166800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         },
         {
           "title": "英镑兑美元涨0.5%，刷新9月份以来高位至1.3569。",
@@ -827,8 +829,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时03分 ~ 22时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时03分 ~ 23时29分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -843,11 +845,12 @@
             5,
             4,
             24,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 13时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 23时29分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -891,19 +894,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时25分 ~ 22时29分]"
-        },
-        {
-          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
-          "url": "https://flash.jin10.com/detail/20260124215336107800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
+          "appearance_count": 8,
+          "time_info": "[19时25分 ~ 23时29分]"
         },
         {
           "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
@@ -981,6 +973,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时48分]"
+        },
+        {
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时29分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -1331,6 +1335,168 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[07时31分 ~ 23时29分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[07时31分 ~ 23时29分]"
+        },
+        {
+          "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 04时36分]"
+        },
+        {
+          "title": "Sable Offshore（SOC）美股下跌13%。",
+          "url": "https://flash.jin10.com/detail/20260124023319046800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时48分 ~ 07时31分]"
+        },
+        {
+          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
+          "url": "https://flash.jin10.com/detail/20260124222616668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
+          "url": "https://wallstreetcn.com/livenews/3043162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.97%，报434.46点，本周累上涨9.99%，整体持续走高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.38%，报3039.09点，本周累涨10.09%。 （美股）原材料指数收涨1.26%，报265.28点，本周累涨5.18%。 （美股）金属与矿业指数收涨1.91%，报252.45点，本周累涨4.36%。",
+          "url": "https://wallstreetcn.com/livenews/3043146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时31分]"
+        },
+        {
+          "title": "布油基金收涨约2.8%，领跑美股大类资产类ETF，美元指数ETF则跌约0.9%",
+          "url": "https://wallstreetcn.com/livenews/3043142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时31分]"
+        },
+        {
+          "title": "日常消费品ETF收涨约0.8%，领跑美股行业ETF，半导体ETF跌约0.7%，银行业ETF跌超3.1%",
+          "url": "https://wallstreetcn.com/livenews/3043140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时31分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收涨约3.3%，亚马逊涨2%",
+          "url": "https://wallstreetcn.com/livenews/3043132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时31分]"
+        },
+        {
+          "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260124014021908800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时32分]"
+        },
+        {
+          "title": "金十图示：2026年01月23日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260124013833184800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时32分]"
+        },
+        {
+          "title": "美股银矿股上涨，Hecla Mining上涨1.3%，Coeur Mining上涨0.3%，ABRDN实物白银股票ETF上涨4%，Global X白银矿业ETF上涨1.8%，iShares白银信托上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260124001040870800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
       "match_count": 12,
       "titles": [
@@ -1344,11 +1510,27 @@
             13,
             18,
             21,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时37分 ~ 22时29分]"
+          "appearance_count": 12,
+          "time_info": "[16时37分 ~ 23时29分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.toutiao.com/trending/7598387695761588278/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            14,
+            21,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 23时29分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -1362,20 +1544,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时28分 ~ 19时26分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.toutiao.com/trending/7598387695761588278/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            14,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 17时31分]"
         },
         {
           "title": "白银价格持续上涨，工厂加班赶制投资银条",
@@ -1489,159 +1657,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时31分 ~ 22时29分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时31分 ~ 22时29分]"
-        },
-        {
-          "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 04时36分]"
-        },
-        {
-          "title": "Sable Offshore（SOC）美股下跌13%。",
-          "url": "https://flash.jin10.com/detail/20260124023319046800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时48分 ~ 07时31分]"
-        },
-        {
-          "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
-          "url": "https://wallstreetcn.com/livenews/3043162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.97%，报434.46点，本周累上涨9.99%，整体持续走高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.38%，报3039.09点，本周累涨10.09%。 （美股）原材料指数收涨1.26%，报265.28点，本周累涨5.18%。 （美股）金属与矿业指数收涨1.91%，报252.45点，本周累涨4.36%。",
-          "url": "https://wallstreetcn.com/livenews/3043146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时31分]"
-        },
-        {
-          "title": "布油基金收涨约2.8%，领跑美股大类资产类ETF，美元指数ETF则跌约0.9%",
-          "url": "https://wallstreetcn.com/livenews/3043142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时31分]"
-        },
-        {
-          "title": "日常消费品ETF收涨约0.8%，领跑美股行业ETF，半导体ETF跌约0.7%，银行业ETF跌超3.1%",
-          "url": "https://wallstreetcn.com/livenews/3043140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时31分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜微软收涨约3.3%，亚马逊涨2%",
-          "url": "https://wallstreetcn.com/livenews/3043132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时31分]"
-        },
-        {
-          "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260124014021908800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时32分]"
-        },
-        {
-          "title": "金十图示：2026年01月23日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260124013833184800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时32分]"
-        },
-        {
-          "title": "美股银矿股上涨，Hecla Mining上涨1.3%，Coeur Mining上涨0.3%，ABRDN实物白银股票ETF上涨4%，Global X白银矿业ETF上涨1.8%，iShares白银信托上涨4%。",
-          "url": "https://flash.jin10.com/detail/20260124001040870800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -1654,8 +1671,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时37分 ~ 22时29分]"
+          "appearance_count": 12,
+          "time_info": "[16时37分 ~ 23时29分]"
+        },
+        {
+          "title": "中国和东盟专家探讨人工智能发展与治理",
+          "url": "https://wallstreetcn.com/livenews/3043302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",

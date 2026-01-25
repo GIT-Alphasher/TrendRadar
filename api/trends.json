@@ -1,8 +1,152 @@
 {
-  "generated_at": "2026-01-25T16:38:21.361491+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-01-25T17:31:47.731979+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "价格",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "存储疯狂紧缺！韩媒：三星电子将一季度NAND价格上调100%，而此前DRAM上调了70%",
+          "url": "https://wallstreetcn.com/articles/3764089",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 17时31分]"
+        },
+        {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 17时31分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14,
+            16,
+            13,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 07时28分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.toutiao.com/trending/7598387695761588278/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            18,
+            21,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时28分]"
+        },
+        {
+          "title": "韩媒：三星电子将一季度NAND价格上调100%",
+          "url": "https://wallstreetcn.com/livenews/3043353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 17时31分]"
+        },
+        {
+          "title": "砂糖橘批发价近腰斩 奶油草莓价格跌到1字头",
+          "url": "https://flash.jin10.com/detail/20260125154251436800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时31分]"
+        },
+        {
+          "title": "小米二手车价格崩盘了吗",
+          "url": "https://www.toutiao.com/trending/7598336200080654390/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 05时27分]"
+        },
+        {
+          "title": "韩媒：三星电子将一季度NAND价格上调100%",
+          "url": "https://flash.jin10.com/detail/20260125122615950800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            11,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 17时31分]"
+        },
+        {
+          "title": "湖南白银：股票交易严重异常波动，经自查，公司不存在违反信息公平披露的情形。近期国际银价出现较大涨幅，公司白银产品未来市场价格能否继续上涨或维持高位存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3043371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
+          "url": "https://wallstreetcn.com/livenews/3043358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时31分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美元",
       "match_count": 10,
@@ -66,11 +210,27 @@
             15,
             18,
             19,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时37分 ~ 16时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时37分 ~ 17时31分]"
+        },
+        {
+          "title": "据英国金融时报：先锋领航在美国以外资产规模突破1万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260125130256206800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            10,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 17时31分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -84,31 +244,18 @@
           "time_info": "[00时35分 ~ 05时27分]"
         },
         {
-          "title": "据英国金融时报：先锋领航在美国以外资产规模突破1万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260125130256206800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 16时38分]"
-        },
-        {
           "title": "科技媒体：iPhone用户开始收到Siri隐私和解案赔偿金 总额9500万美元",
           "url": "https://flash.jin10.com/detail/20260125132457272800",
           "source": "金十数据",
           "ranks": [
             6,
             8,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 16时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时45分 ~ 17时31分]"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -138,137 +285,8 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "存储疯狂紧缺！韩媒：三星电子将一季度NAND价格上调100%，而此前DRAM上调了70%",
-          "url": "https://wallstreetcn.com/articles/3764089",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 16时38分]"
-        },
-        {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            2,
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 16时38分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            14,
-            16,
-            13,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时28分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.toutiao.com/trending/7598387695761588278/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            18,
-            21,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 07时28分]"
-        },
-        {
-          "title": "韩媒：三星电子将一季度NAND价格上调100%",
-          "url": "https://wallstreetcn.com/livenews/3043353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 16时38分]"
-        },
-        {
-          "title": "小米二手车价格崩盘了吗",
-          "url": "https://www.toutiao.com/trending/7598336200080654390/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时27分]"
-        },
-        {
-          "title": "砂糖橘批发价近腰斩 奶油草莓价格跌到1字头",
-          "url": "https://flash.jin10.com/detail/20260125154251436800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
-          "url": "https://wallstreetcn.com/livenews/3043358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "韩媒：三星电子将一季度NAND价格上调100%",
-          "url": "https://flash.jin10.com/detail/20260125122615950800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 16时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -279,8 +297,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 16时38分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 17时31分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -297,6 +315,18 @@
           "time_info": "[00时35分 ~ 10时37分]"
         },
         {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 17时31分]"
+        },
+        {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
@@ -309,18 +339,6 @@
           "time_info": "[00时35分 ~ 10时37分]"
         },
         {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 16时38分]"
-        },
-        {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
           "url": "https://wallstreetcn.com/articles/3764092",
           "source": "华尔街见闻",
@@ -330,8 +348,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时44分 ~ 16时38分]"
+          "appearance_count": 6,
+          "time_info": "[14时44分 ~ 17时31分]"
+        },
+        {
+          "title": "帅弟弟逐渐量产 AI霸总围猎姐姐们",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%85%E5%BC%9F%E5%BC%9F%E9%80%90%E6%B8%90%E9%87%8F%E4%BA%A7+AI%E9%9C%B8%E6%80%BB%E5%9B%B4%E7%8C%8E%E5%A7%90%E5%A7%90%E4%BB%AC",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -365,9 +394,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "警惕大事小情习惯“问问AI”",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%E5%A4%A7%E4%BA%8B%E5%B0%8F%E6%83%85%E4%B9%A0%E6%83%AF%E2%80%9C%E9%97%AE%E9%97%AEAI%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
@@ -410,8 +450,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 16时38分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 17时31分]"
         },
         {
           "title": "警惕美股波动性卷土重来",
@@ -420,7 +460,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
@@ -465,11 +505,12 @@
             9,
             12,
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时37分 ~ 16时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时37分 ~ 17时31分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -480,11 +521,12 @@
             10,
             13,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时37分 ~ 16时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时37分 ~ 17时31分]"
         }
       ]
     }

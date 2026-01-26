@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T05:34:09.453016+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-01-27T06:33:01.957781+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
         {
           "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
@@ -15,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
+        },
+        {
+          "title": "黄金逼近5100美元！一图看懂金银加速上涨",
+          "url": "https://www.cls.cn/detail/2269870",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -28,28 +39,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 05时34分]"
-        },
-        {
-          "title": "黄金逼近5100美元！一图看懂金银加速上涨",
-          "url": "https://www.cls.cn/detail/2269870",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
-        },
-        {
-          "title": "倒V型走势 白银创下新高后下跌超12美元",
-          "url": "https://flash.jin10.com/detail/20260127051949584800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
         },
         {
           "title": "现货白银突破113美元/盎司 日内暴涨10美元",
@@ -109,6 +98,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时37分]"
+        },
+        {
+          "title": "倒V型走势 白银创下新高后下跌超12美元",
+          "url": "https://flash.jin10.com/detail/20260127051949584800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
           "title": "现货白银日内暴涨10.00%，现报113.55美元/盎司。纽约期银日内暴涨12.00%，现报113.57美元/盎司。",
@@ -309,6 +310,17 @@
           "time_info": "[04时37分 ~ 05时34分]"
         },
         {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
+        },
+        {
           "title": "WTI原油日内跌幅达1.0%，报60.45美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3044112",
           "source": "华尔街见闻-快讯",
@@ -319,6 +331,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时38分]"
+        },
+        {
+          "title": "美元指数DXY失守97，日内跌幅0.48%。",
+          "url": "https://flash.jin10.com/detail/20260127050513890800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9540元，较上周五夜盘收盘涨90点。成交量511.21亿美元。",
@@ -404,15 +428,15 @@
           "time_info": "00时46分"
         },
         {
-          "title": "美元指数DXY失守97，日内跌幅0.48%。",
-          "url": "https://flash.jin10.com/detail/20260127050513890800",
-          "source": "金十数据",
+          "title": "周一（1月26日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9488元，较上周五纽约尾盘涨6点，日内整体交投于6.9565-6.9441元区间。",
+          "url": "https://wallstreetcn.com/livenews/3044216",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时33分"
         },
         {
           "title": "周一（1月26日）纽约尾盘，欧元兑美元涨0.44%，英镑兑美元涨0.27%，美元兑瑞郎跌0.39%。 商品货币对中，澳元兑美元涨0.32%，纽元兑美元涨0.46%，美元兑加元涨0.12%。 瑞典克朗兑美元涨0.07%，挪威克朗兑美元大致持平，丹麦克朗兑美元涨0.46%。 波兰兹罗提兑美元涨0.55%，匈牙利福林兑美元涨0.73%。",
@@ -421,7 +445,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -459,6 +483,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "超微电脑有意向将设施扩建规模增至20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "现货白银涨势不止，突破114美元/盎司，日内涨10.45%。",
           "url": "https://flash.jin10.com/detail/20260127005024460800",
           "source": "金十数据",
@@ -481,6 +516,28 @@
           "time_info": "02时51分"
         },
         {
+          "title": "超微电脑(SMCI.O)有意向将设施扩建规模增至20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127054926238800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "白银在纽约中午刷新历史高位至接近118美元的水平，随后快速回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3044209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美国天然气期货突破7美元/百万英热",
           "url": "https://flash.jin10.com/detail/20260127013347479800",
           "source": "金十数据",
@@ -490,6 +547,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "现货铂金大跌逾6%，下破2600美元/盎司，早前创下新高至2919美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127054708562800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "现货黄金涨超0.2%，亚太尾盘刷新历史高位至5110美元上方，纽约中午以来显著回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3044208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "现货白银突破115美元",
@@ -503,15 +582,37 @@
           "time_info": "02时51分"
         },
         {
+          "title": "现货金银走低，现货黄金跌破5000美元关口，现货白银一度跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260127053726943800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美元指数26日下跌",
           "url": "https://flash.jin10.com/detail/20260127044040593800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "纽柯钢铁(NUE.N)盘后跌超4%，公司第四季度销售额为76.9亿美元，而IBES的预测为78.68亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127053254477800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "美元指数跌约0.6%，一度创逾四个月新低",
@@ -520,7 +621,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -542,7 +643,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -572,7 +673,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "【每日收评】三大指数集体收跌，两市成交额连续2日突破3万亿，商业航天再陷整理",
@@ -582,41 +683,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
-        },
-        {
-          "title": "富时罗素拟简化海外公司加入伦敦蓝筹股指数的流程",
-          "url": "https://wallstreetcn.com/livenews/3044196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "阿根廷MERVAL指数收涨1.15%，报312.9万点。",
-          "url": "https://wallstreetcn.com/livenews/3044194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "富时罗素拟简化海外公司加入伦敦蓝筹股指数的流程",
-          "url": "https://flash.jin10.com/detail/20260127050702822800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.50%，报26883点。 恒生科技指数主连夜盘收涨0.30%，报5741点。",
@@ -632,6 +700,18 @@
           "time_info": "[03时32分 ~ 05时34分]"
         },
         {
+          "title": "富时罗素拟简化海外公司加入伦敦蓝筹股指数的流程",
+          "url": "https://wallstreetcn.com/livenews/3044196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
           "title": "德国DAX 30指数初步收涨0.23%，报24957.94点。 法国股指初步收跌0.14%，意大利股指初步收涨0.30%、银行指数涨0.83%，英国股指初步收涨0.15%。 丹麦股指收涨0.14%，哥本哈根25指数涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3044116",
           "source": "华尔街见闻-快讯",
@@ -644,6 +724,18 @@
           "time_info": "[00时46分 ~ 01时38分]"
         },
         {
+          "title": "阿根廷MERVAL指数收涨1.15%，报312.9万点。",
+          "url": "https://wallstreetcn.com/livenews/3044194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.25%，报609.86点，成分股彪马涨17%，波兰铜业集团公司涨超8%表现第二。 欧元区STOXX 50指数初步收涨0.21%，报5960.91点。 富时泛欧绩优300指数初步收涨0.27%，报2429.88点。",
           "url": "https://wallstreetcn.com/livenews/3044115",
           "source": "华尔街见闻-快讯",
@@ -654,6 +746,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时38分]"
+        },
+        {
+          "title": "富时罗素拟简化海外公司加入伦敦蓝筹股指数的流程",
+          "url": "https://flash.jin10.com/detail/20260127050702822800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050542615800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（收盘）",
@@ -692,24 +808,13 @@
           "time_info": "[01时38分 ~ 02时51分]"
         },
         {
-          "title": "金十图示：2026年01月26日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260127050542615800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小马智行初步收跌5.9%，再鼎医药跌3.7%，新东方跌3.4%，百度跌3.4%，小鹏跌2.3%，文远知行跌1.9%，携程涨1.7%，亚朵涨2.1%，世纪互联涨2.7%，金山云涨8.2%，万国数据涨8.5%。",
           "url": "https://wallstreetcn.com/livenews/3044189",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -720,7 +825,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -731,9 +836,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "周一（1月26日），降息赢家指数跌0.25%，报104.45点。 “特朗普关税输家”指数跌1.04%，报115.08点。 “特朗普金融指数”涨0.47%，报172.37点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.20%，报15.35点。",
+          "url": "https://wallstreetcn.com/livenews/3044205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260127052119268800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨0.64%，报2279.70点，重新逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。 2026年迄今，希腊股市已经累计上涨7.50%。",
@@ -793,6 +920,160 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 05时34分]"
+        },
+        {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
+        },
+        {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
+          "url": "https://wallstreetcn.com/livenews/3044129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时32分]"
+        },
+        {
+          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3044195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050540534800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050519889800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
+          "url": "https://flash.jin10.com/detail/20260127060902912800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普突然宣布将韩国商品的关税提高至25%，称韩国国会尚未通过与美国的贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3044219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 苹果涨近3%",
+          "url": "https://flash.jin10.com/detail/20260127050110831800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
+          "url": "https://wallstreetcn.com/livenews/3044207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
+          "url": "https://wallstreetcn.com/livenews/3044203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果收涨将近3%，Meta涨2%，特斯拉跌约3.1%",
+          "url": "https://wallstreetcn.com/livenews/3044197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
       "match_count": 11,
       "titles": [
@@ -804,19 +1085,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
-        },
-        {
-          "title": "周一（1月26日），彭博电动汽车价格回报指数跌0.36%，报3695.94点。",
-          "url": "https://wallstreetcn.com/livenews/3044193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
         },
         {
           "title": "分析师：按通胀算白银价格只到历史峰值约一半 但不会贸然追逐涨势",
@@ -829,6 +1099,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时37分]"
+        },
+        {
+          "title": "周一（1月26日），彭博电动汽车价格回报指数跌0.36%，报3695.94点。",
+          "url": "https://wallstreetcn.com/livenews/3044193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
           "title": "美国天然气价格突破7美元大关 部分现货突破200美元",
@@ -908,7 +1190,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -926,91 +1208,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
-        },
-        {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
-        },
-        {
-          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3044195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
-          "url": "https://wallstreetcn.com/livenews/3044129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时32分]"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260127050540534800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260127050519889800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 苹果涨近3%",
-          "url": "https://flash.jin10.com/detail/20260127050110831800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
       "match_count": 7,
       "titles": [
@@ -1022,8 +1219,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -1033,8 +1230,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -1044,8 +1241,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -1056,8 +1253,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
         },
         {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
@@ -1068,8 +1265,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时33分]"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",

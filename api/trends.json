@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T14:50:53.875501+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-01-27T15:37:14.526965+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
@@ -16,8 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 14时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 15时37分]"
+        },
+        {
+          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
+          "url": "https://wallstreetcn.com/articles/3764206",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 15时37分]"
         },
         {
           "title": "【早报】高台跳水！白银14%涨幅蒸发、黄金下破5000美元；白银基金明起暂停申购",
@@ -43,16 +55,31 @@
           "time_info": "[00时46分 ~ 07时32分]"
         },
         {
-          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
-          "url": "https://wallstreetcn.com/articles/3764206",
+          "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
+          "url": "https://wallstreetcn.com/articles/3764173",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            10,
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 15时37分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 15时37分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -64,32 +91,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 05时34分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时50分]"
-        },
-        {
-          "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
-          "url": "https://wallstreetcn.com/articles/3764173",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时50分]"
         },
         {
           "title": "WTI原油日内跌幅达1.00%，现报60.29美元/桶。",
@@ -123,17 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        },
-        {
-          "title": "新台币兑美元上涨0.3%至31.413。",
-          "url": "https://wallstreetcn.com/livenews/3044509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "现货白银突破113美元/盎司 日内暴涨10美元",
@@ -251,6 +241,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时34分]"
+        },
+        {
+          "title": "新台币兑美元上涨0.3%至31.413。",
+          "url": "https://wallstreetcn.com/livenews/3044509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 15时37分]"
         },
         {
           "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
@@ -510,6 +512,17 @@
           "time_info": "[00时46分 ~ 01时38分]"
         },
         {
+          "title": "英伟达20亿美元投资AI云服务厂商 算力紧缺推动云计算定价逻辑转变",
+          "url": "https://www.cls.cn/detail/2270515",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 15时37分]"
+        },
+        {
           "title": "秘鲁央行表示在现货市场购入2.29亿美元。",
           "url": "https://flash.jin10.com/detail/20260127024051172800",
           "source": "金十数据",
@@ -627,6 +640,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "银行家们表示，土耳其央行上周的储备总额预计增加逾100亿美元，达到2155亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127151529710800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "受印度央行外汇掉期影响，美元/印度卢比1年期远期溢价一度下跌10个基点。",
           "url": "https://wallstreetcn.com/livenews/3044430",
           "source": "华尔街见闻-快讯",
@@ -647,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "银行家们表示，土耳其央行上周买入了近20亿美元，其中约65亿美元的增幅源于金价变动。",
+          "url": "https://flash.jin10.com/detail/20260127151448862800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "周一（1月26日）纽约尾盘，欧元兑美元涨0.44%，英镑兑美元涨0.27%，美元兑瑞郎跌0.39%。 商品货币对中，澳元兑美元涨0.32%，纽元兑美元涨0.46%，美元兑加元涨0.12%。 瑞典克朗兑美元涨0.07%，挪威克朗兑美元大致持平，丹麦克朗兑美元涨0.46%。 波兰兹罗提兑美元涨0.55%，匈牙利福林兑美元涨0.73%。",
@@ -688,7 +723,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -864,7 +899,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -941,7 +976,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -949,7 +984,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "【每日收评】三大指数集体收跌，两市成交额连续2日突破3万亿，商业航天再陷整理",
@@ -983,17 +1018,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "日经225指数收涨0.8%，报53333.54点。 日本东证指数收涨0.3%，报3563.59点。 韩国首尔综指收涨2.7%，报5084.85点。",
-          "url": "https://wallstreetcn.com/livenews/3044507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.50%，报26883点。 恒生科技指数主连夜盘收涨0.30%，报5741点。",
@@ -1081,6 +1105,18 @@
           "time_info": "[05时34分 ~ 06时33分]"
         },
         {
+          "title": "日经225指数收涨0.8%，报53333.54点。 日本东证指数收涨0.3%，报3563.59点。 韩国首尔综指收涨2.7%，报5084.85点。",
+          "url": "https://wallstreetcn.com/livenews/3044507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 15时37分]"
+        },
+        {
           "title": "金十图示：2026年01月26日（周一）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260127050542615800",
           "source": "金十数据",
@@ -1151,6 +1187,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "金十图示：2026年01月27日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260127151026702800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "金十图示：2026年01月27日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、半导体等板块普涨，酿酒、煤炭等板块表现低迷",
           "url": "https://flash.jin10.com/detail/20260127113511899800",
           "source": "金十数据",
@@ -1195,6 +1242,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "上证指数收报4139.90点，涨0.18%。 深证成指收报14329.91点，涨0.09%。 创业板指收报3342.60点，涨0.71%。 沪深300收报4705.69点，跌0.03%。 科创50收报1555.98点，涨1.51%。 中证500收报8548.93点，涨0.50%。 中证1000收报8382.15点，涨0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3044525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "马来西亚KLCI指数日内涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3044415",
           "source": "华尔街见闻-快讯",
@@ -1212,7 +1270,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1261,6 +1319,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "金十图示：2026年01月27日（周二）富时中国A50指数成分股今日收盘行情一览：午后盘面整体走弱，煤炭、酿酒板块跌幅居前",
+          "url": "https://flash.jin10.com/detail/20260127150356246800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "中证转债指数低开0.02%。鼎龙转债涨超4%，龙大转债涨近3%，煜邦转债、鼎捷转债、神通转债等涨超2%；运机转债跌超4%，浙矿转债跌近4%。",
           "url": "https://wallstreetcn.com/livenews/3044315",
           "source": "华尔街见闻-快讯",
@@ -1278,7 +1347,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1322,7 +1391,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1344,7 +1413,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1374,7 +1443,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -1404,17 +1473,43 @@
           "time_info": "[00时46分 ~ 13时37分]"
         },
         {
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时37分]"
+        },
+        {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
           "url": "https://wallstreetcn.com/articles/3764149",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 14时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 15时37分]"
+        },
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 15时37分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -1442,31 +1537,6 @@
           "time_info": "[00时46分 ~ 07时32分]"
         },
         {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时50分]"
-        },
-        {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 14时50分]"
-        },
-        {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
           "source": "澎湃新闻",
@@ -1475,19 +1545,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 14时50分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 15时37分]"
         },
         {
-          "title": "港股AIGC概念股持续拉升，Minimax-WP涨超21%，金山云涨近10%，智谱涨4.5%，阿里巴巴涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3044512",
-          "source": "华尔街见闻-快讯",
+          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
+          "url": "https://www.cls.cn/detail/2270597",
+          "source": "财联社热门",
           "ranks": [
-            2
+            10,
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时37分]"
         },
         {
           "title": "报道称，OpenAI副总裁奈特即将离职。",
@@ -1513,6 +1585,18 @@
           "time_info": "[07时32分 ~ 12时13分]"
         },
         {
+          "title": "港股AIGC概念股持续拉升，Minimax-WP涨超21%，金山云涨近10%，智谱涨4.5%，阿里巴巴涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3044512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 15时37分]"
+        },
+        {
           "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
           "url": "https://www.zhihu.com/question/1998804557132690728",
           "source": "知乎",
@@ -1524,18 +1608,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时31分 ~ 13时37分]"
-        },
-        {
-          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
-          "url": "https://www.cls.cn/detail/2270597",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时50分]"
         },
         {
           "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
@@ -1582,6 +1654,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 13时37分]"
+        },
+        {
+          "title": "AI承诺内容有误赔偿10万 用户起诉",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 15时37分]"
         },
         {
           "title": "腾讯搜狗输入法正式宣布全面AI化",
@@ -1645,7 +1728,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1664,7 +1747,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1678,17 +1761,6 @@
           "time_info": "[00时46分 ~ 07时32分]"
         },
         {
-          "title": "业内人士：棉花价格大涨 是供需、成本和市场预期等多重因素叠加共振的结果",
-          "url": "https://wallstreetcn.com/livenews/3044513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
           "title": "分析师：按通胀算白银价格只到历史峰值约一半 但不会贸然追逐涨势",
           "url": "https://flash.jin10.com/detail/20260127031750492800",
           "source": "金十数据",
@@ -1699,6 +1771,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时37分]"
+        },
+        {
+          "title": "业内人士：棉花价格大涨 是供需、成本和市场预期等多重因素叠加共振的结果",
+          "url": "https://wallstreetcn.com/livenews/3044513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 15时37分]"
         },
         {
           "title": "周一（1月26日），彭博电动汽车价格回报指数跌0.36%，报3695.94点。",
@@ -1761,6 +1845,17 @@
           "time_info": "[02时51分 ~ 04时37分]"
         },
         {
+          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
+          "url": "https://www.zhihu.com/question/1999391504246990744",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 15时37分]"
+        },
+        {
           "title": "【白银创2021年以来最大涨幅，避险需求推动金属价格走高】现货白银日内涨幅达10.5%，报114.1美元/盎司。 纽约银日内涨幅达12.5%，报114.04美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3044124",
           "source": "华尔街见闻-快讯",
@@ -1779,7 +1874,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1845,6 +1940,17 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时32分 ~ 15时37分]"
+        },
+        {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
@@ -1854,17 +1960,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 05时34分]"
-        },
-        {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时32分 ~ 14时50分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -2087,7 +2182,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -2104,9 +2199,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 15时37分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -2115,7 +2210,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -2166,11 +2261,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 15时37分]"
         }
       ]
     }

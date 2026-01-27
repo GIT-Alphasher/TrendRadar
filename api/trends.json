@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T06:31:56.130813+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-01-28T07:32:17.960637+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时32分]"
         },
         {
           "title": "专家：银价或跌回90美元之下",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时32分]"
         },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -63,22 +63,23 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时53分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[02时53分 ~ 07时32分]"
         },
         {
-          "title": "Qorvo第三财季调整后营收9.93亿美元，分析师预期9.858亿美元。 预计第四财季营收7.75亿-8.25亿美元，分析师预期9.038亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3045013",
-          "source": "华尔街见闻-快讯",
+          "title": "现货白银盘初跌超1.00%，现报111.18美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260128070135024800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时32分"
         },
         {
           "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
@@ -103,15 +104,27 @@
           "time_info": "05时28分"
         },
         {
-          "title": "临近收盘，现货黄金刷新新高至5190美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260128055015193800",
+          "title": "现货黄金周三低开3美元，报5177.1美元/盎司；现货白银小幅低开，回落至112美元/盎司下方，日内跌0.29%。",
+          "url": "https://flash.jin10.com/detail/20260128070106851800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时32分"
+        },
+        {
+          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时32分]"
         },
         {
           "title": "现货钯金日内跌幅达4.00%，现报1874.98美元/盎司。",
@@ -162,6 +175,18 @@
           "time_info": "[05时28分 ~ 06时31分]"
         },
         {
+          "title": "Qorvo第三财季调整后营收9.93亿美元，分析师预期9.858亿美元。 预计第四财季营收7.75亿-8.25亿美元，分析师预期9.038亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
           "title": "WTI原油站上62美元/桶，日内涨1.77%。",
           "url": "https://flash.jin10.com/detail/20260128002824435800",
           "source": "金十数据",
@@ -184,6 +209,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时53分]"
+        },
+        {
+          "title": "临近收盘，现货黄金刷新新高至5190美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260128055015193800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时32分]"
         },
         {
           "title": "布伦特原油日内涨幅达2.0%，报66.13美元/桶。",
@@ -272,6 +309,30 @@
           "time_info": "[00时43分 ~ 01时37分]"
         },
         {
+          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
+          "url": "https://wallstreetcn.com/livenews/3045007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
+          "title": "德州仪器(TXN.O)首席执行官：2025年数据中心收入为15亿美元，同比增长64%。",
+          "url": "https://flash.jin10.com/detail/20260128054716414800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
           "url": "https://flash.jin10.com/detail/20260128020246054800",
           "source": "金十数据",
@@ -332,17 +393,6 @@
           "time_info": "[02时53分 ~ 03时35分]"
         },
         {
-          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "德州仪器(TXN.O)预计第一季度营收43.2亿美元至46.8亿美元；FactSet预计为44.1亿美元。",
           "url": "https://flash.jin10.com/detail/20260128050216741800",
           "source": "金十数据",
@@ -387,17 +437,6 @@
           "time_info": "01时37分"
         },
         {
-          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
-          "url": "https://wallstreetcn.com/livenews/3045007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
           "url": "https://flash.jin10.com/detail/20260128045028664800",
           "source": "金十数据",
@@ -418,17 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "德州仪器(TXN.O)首席执行官：2025年数据中心收入为15亿美元，同比增长64%。",
-          "url": "https://flash.jin10.com/detail/20260128054716414800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         },
         {
           "title": "欧元兑美元上涨1.3%，报1.2081，创2021年6月以来新高。",
@@ -519,6 +547,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "国际货币基金组织：为赞比亚解冻1.9亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260128061613131800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
           "title": "美元指数DXY日内跌幅达1%，跌破96关口，创2022年2月以来新低。",
           "url": "https://flash.jin10.com/detail/20260128044641548800",
           "source": "金十数据",
@@ -536,7 +575,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -687,7 +726,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金十图示：2026年01月27日（周二）全球股市指数-美洲市场（收盘）",
@@ -807,6 +846,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3045027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
           "title": "金十图示：2026年01月27日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260128004834899800",
           "source": "金十数据",
@@ -857,7 +907,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -865,7 +915,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -924,6 +974,18 @@
           "time_info": "[05时28分 ~ 06时31分]"
         },
         {
+          "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3045008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
           "url": "https://wallstreetcn.com/livenews/3044921",
           "source": "华尔街见闻-快讯",
@@ -936,26 +998,26 @@
           "time_info": "[02时53分 ~ 03时35分]"
         },
         {
-          "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3045008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
           "url": "https://wallstreetcn.com/livenews/3045005",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
+          "url": "https://www.cls.cn/detail/2271921",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -964,7 +1026,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -986,7 +1048,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -1008,7 +1070,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -1016,7 +1078,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -1027,8 +1089,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时32分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -1039,8 +1101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 07时32分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -1051,8 +1113,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 07时32分]"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -1124,6 +1186,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
           "title": "OpenAI推出面向科学家的全新工具Prism",
           "url": "https://flash.jin10.com/detail/20260128043059691800",
           "source": "金十数据",
@@ -1153,8 +1226,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时32分]"
         },
         {
           "title": "“最大客户”都让步了！韩媒称三星、海力士一季度向苹果供DRAM价格较上季度翻倍",
@@ -1165,8 +1238,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时32分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -1233,18 +1306,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时31分]"
-        },
-        {
           "title": "详解DeepSeek新模型OCR2",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
@@ -1252,8 +1313,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时32分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1264,8 +1325,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时32分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            2,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时32分]"
         }
       ]
     },

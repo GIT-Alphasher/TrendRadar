@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:32:17.960637+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-01-28T10:28:11.991749+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 62,
+      "match_count": 74,
       "titles": [
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -26,11 +26,26 @@
             12,
             14,
             11,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时28分]"
+        },
+        {
+          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+          "url": "https://wallstreetcn.com/articles/3764255",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时53分 ~ 10时28分]"
         },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -57,18 +72,28 @@
           "time_info": "[00时42分 ~ 06时31分]"
         },
         {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
+          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
+          "url": "https://wallstreetcn.com/articles/3764253",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            6,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时53分 ~ 07时32分]"
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 10时28分]"
+        },
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
           "title": "现货白银盘初跌超1.00%，现报111.18美元/盎司。",
@@ -77,7 +102,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -110,21 +135,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
         {
-          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
+          "title": "泰铢兑美元一度升至30.845，创2021年3月中以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260128100637135800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "现货钯金日内跌幅达4.00%，现报1874.98美元/盎司。",
@@ -285,6 +309,17 @@
           "time_info": "[02时53分 ~ 04时33分]"
         },
         {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
           "title": "Anthropic将按3500亿美元估值融资大约200亿美元。 这一融资规模将是原计划的两倍。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3044944",
           "source": "华尔街见闻-快讯",
@@ -381,6 +416,17 @@
           "time_info": "[00时43分 ~ 01时37分]"
         },
         {
+          "title": "现货黄金首次突破5200美元",
+          "url": "https://www.toutiao.com/trending/7600214221992775177/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
           "title": "LME期铜收跌192美元，报13006美元/吨。 LME期铝收涨18美元，报3207美元/吨。 LME期锌收涨8美元，报3351美元/吨。 LME期铅收跌18美元，报2020美元/吨。 LME期镍收跌353美元，报18169美元/吨。 LME期锡收涨646美元，报54878美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3044920",
           "source": "华尔街见闻-快讯",
@@ -391,6 +437,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时35分]"
+        },
+        {
+          "title": "美元兑日元USD/JPY站上153，日内涨0.51%。",
+          "url": "https://flash.jin10.com/detail/20260128100357762800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "德州仪器(TXN.O)预计第一季度营收43.2亿美元至46.8亿美元；FactSet预计为44.1亿美元。",
@@ -413,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD失守1.38，日内跌幅0.35%。",
+          "url": "https://flash.jin10.com/detail/20260128095714611800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "现货黄金向上触及5170美元/盎司，日内涨3.23%。",
@@ -459,6 +527,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "现货黄金延续涨势，向上触及5220美元/盎司，日内涨0.78%。",
+          "url": "https://flash.jin10.com/detail/20260128094543837800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "欧元兑美元上涨1.3%，报1.2081，创2021年6月以来新高。",
           "url": "https://wallstreetcn.com/livenews/3044979",
           "source": "华尔街见闻-快讯",
@@ -470,6 +549,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "泰铢兑美元一度升至 30.845，创2021年3月中以来最高。 印尼盾兑美元升至16,715，为2026年1月5日以来最高。",
+          "url": "https://wallstreetcn.com/livenews/3045148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "特朗普：我不认为美元贬值太多。",
           "url": "https://flash.jin10.com/detail/20260128044932917800",
           "source": "金十数据",
@@ -479,6 +569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "分析师：政治与政策双重施压，美元走弱势头料将延续",
+          "url": "https://flash.jin10.com/detail/20260128094419386800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
@@ -547,13 +648,24 @@
           "time_info": "05时28分"
         },
         {
+          "title": "现货黄金站上5210美元/盎司，日内涨0.60%。",
+          "url": "https://flash.jin10.com/detail/20260128094125401800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "国际货币基金组织：为赞比亚解冻1.9亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260128061613131800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -578,6 +690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260128093741134800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "周二（1月27日）纽约尾盘，美元兑日元跌1.06%，报152.54日元，日内交投区间为154.88-152.52日元，北京时间17:52出现一波跳水行情，随后持续走低。 欧元兑日元跌0.13%，报182.94日元，17:51出现一波显著的跳水行情、刷新日低至182.13日元；英镑兑日元跌0.25%，报210.393日元，在一波跳水行情中、于17:53刷新日低至210.015日元。",
@@ -690,6 +813,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "韩国股市市值达到3.25万亿美元，超过德国。",
+          "url": "https://wallstreetcn.com/livenews/3045115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "美元指数27日下跌",
           "url": "https://flash.jin10.com/detail/20260128042630091800",
           "source": "金十数据",
@@ -726,7 +860,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "金十图示：2026年01月27日（周二）全球股市指数-美洲市场（收盘）",
@@ -738,6 +872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "印尼股市下跌7%，MSCI暂停指数调整。",
+          "url": "https://flash.jin10.com/detail/20260128100824621800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
@@ -852,7 +997,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -890,6 +1035,28 @@
           "time_info": "05时28分"
         },
         {
+          "title": "MSCI暂停印尼指数调整 指其存在根本性可投资问题",
+          "url": "https://flash.jin10.com/detail/20260128093820733800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "印尼股指大跌7%，此前MSCI对印尼股票指数调整实施临时冻结。",
+          "url": "https://wallstreetcn.com/livenews/3045135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收涨1.49%，报2313.62点，继续逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。",
           "url": "https://wallstreetcn.com/livenews/3044867",
           "source": "华尔街见闻-快讯",
@@ -901,6 +1068,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "A股三大指数全线翻绿。",
+          "url": "https://wallstreetcn.com/livenews/3045126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.48%，报7866.61点。 热门中概股里，虎牙初步收涨19.9%，金山云收涨8.4%，世纪互联涨4.1%，百胜中国涨3.2%，腾讯、百度涨超1%，阿里涨0.7%。 ETF中，CQQQ涨1.2%，KWEB涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3044983",
           "source": "华尔街见闻-快讯",
@@ -910,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "中证转债指数高开0.16%。N联瑞转涨30%触发临停，信服转债、华懋转债涨超6%，奥飞转债涨超4%；山石转债、兴发转债、声迅转债、奥维转债跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3045108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
@@ -949,6 +1138,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
+          "url": "https://www.cls.cn/detail/2271921",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 10时28分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
@@ -1009,17 +1210,6 @@
           "time_info": "06时31分"
         },
         {
-          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
-          "url": "https://www.cls.cn/detail/2271921",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
           "url": "https://wallstreetcn.com/livenews/3045000",
           "source": "华尔街见闻-快讯",
@@ -1078,7 +1268,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -1086,11 +1276,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时28分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -1117,6 +1308,39 @@
           "time_info": "[00时42分 ~ 07时32分]"
         },
         {
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "AI与机器人热潮助推，韩国股市市值超越德国",
+          "url": "https://flash.jin10.com/detail/20260128100829783800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "据The Information：C3.AI正与初创公司Automation Anywhere洽谈合并，若这笔交易最终达成，Automation Anywhere将收购C3.AI，并由此实现上市。",
+          "url": "https://flash.jin10.com/detail/20260128100804980800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
           "url": "https://wallstreetcn.com/livenews/3044891",
           "source": "华尔街见闻-快讯",
@@ -1127,6 +1351,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时37分]"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 10时28分]"
         },
         {
           "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
@@ -1186,17 +1422,6 @@
           "time_info": "00时43分"
         },
         {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
           "title": "OpenAI推出面向科学家的全新工具Prism",
           "url": "https://flash.jin10.com/detail/20260128043059691800",
           "source": "金十数据",
@@ -1211,7 +1436,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
@@ -1238,8 +1463,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时28分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -1250,8 +1475,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时28分]"
         },
         {
           "title": "市场消息：随着金属价格创下历史新高，城堡证券（Citadel）也加入了金属交易热潮。",
@@ -1289,6 +1514,17 @@
           "time_info": "[00时43分 ~ 01时37分]"
         },
         {
+          "title": "飞天茅台价格全线上涨，25年飞天原箱批价报1600元/瓶",
+          "url": "https://wallstreetcn.com/livenews/3045144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "世界大型企业联合会首席经济学家Dana Peterson表示，美国消费者在此次调查的自由填写回答中经常提到油价和食品杂货价格。 她还称，提及政治、劳动力市场和医疗保险的次数也上升。",
           "url": "https://wallstreetcn.com/livenews/3044873",
           "source": "华尔街见闻-快讯",
@@ -1306,17 +1542,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时32分]"
-        },
-        {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
@@ -1325,8 +1550,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时28分]"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时28分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:54:35.831813+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2026-01-29T17:55:21.972848+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 115,
+      "match_count": 119,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -97,11 +97,27 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 16时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 17时55分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 17时55分]"
         },
         {
           "title": "现货黄金短线走低超20美元，现报5280.94美元/盎司。",
@@ -165,9 +181,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "伦锌日内大涨4.00%，现报3515.56美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129173247192800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "澳元兑美元上涨0.63%，至0.70855美元。",
@@ -214,6 +241,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "布伦特原油期货涨至每桶70美元，为去年9月以来首次。",
+          "url": "https://flash.jin10.com/detail/20260129173246810800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "德国总理默茨：我一直在密切关注美元下跌现象。 担心德国出口主导型经济将承受更大的负担。 如果欧洲竞争力提高，将能够应对美元走软问题。",
           "url": "https://wallstreetcn.com/livenews/3045770",
           "source": "华尔街见闻-快讯",
@@ -258,6 +296,17 @@
           "time_info": "12时46分"
         },
         {
+          "title": "市场分析：市场抛售美元，而非抛售美国",
+          "url": "https://flash.jin10.com/detail/20260129173204056800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "伦锡日内涨超2%，现报57250.00美元/吨。 沪锡主力合约日内涨幅达2%，现报453780.00元/吨。",
           "url": "https://wallstreetcn.com/livenews/3046140",
           "source": "华尔街见闻-快讯",
@@ -267,20 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 16时54分]"
         },
         {
           "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
@@ -337,11 +372,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 17时55分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -426,6 +462,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时37分]"
+        },
+        {
+          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
+          "url": "https://wallstreetcn.com/articles/3764398",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
         },
         {
           "title": "欧元/美元日内跌幅达1.0%，创7月份以来最大盘中跌幅，报1.192。",
@@ -591,9 +638,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "MSCI可投资性警告重创印尼股市 顶级富豪身家一日蒸发50亿美元",
@@ -627,17 +685,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
-        },
-        {
-          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
-          "url": "https://wallstreetcn.com/articles/3764398",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -690,7 +737,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1196,7 +1243,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1303,7 +1350,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
@@ -1317,6 +1364,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 07时35分]"
+        },
+        {
+          "title": "富时罗素：有关指数处理的决定将根据我们的治理框架予以审议，并在适当时候予以公布。",
+          "url": "https://flash.jin10.com/detail/20260129173504234800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "印度NIFTY 50指数延续跌势，跌幅达0.5%。",
@@ -1484,7 +1542,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1616,7 +1674,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1682,7 +1740,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1693,7 +1751,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1824,6 +1882,18 @@
           "time_info": "[00时51分 ~ 10时45分]"
         },
         {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 17时55分]"
+        },
+        {
           "title": "马云谈AI时代教育",
           "url": "https://www.toutiao.com/trending/7600274916425351187/",
           "source": "今日头条",
@@ -1859,17 +1929,6 @@
           "time_info": "[00时51分 ~ 06时37分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 16时54分]"
-        },
-        {
           "title": "人类基因密码被谷歌AI破解",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
@@ -1881,6 +1940,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时45分 ~ 15时02分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 17时55分]"
         },
         {
           "title": "中国科学家研发出“能屈能伸”的柔性AI芯片",
@@ -1916,19 +1989,6 @@
           "time_info": "02时50分"
         },
         {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 16时54分]"
-        },
-        {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
           "url": "https://www.cls.cn/detail/2273507",
           "source": "财联社热门",
@@ -1940,6 +2000,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时53分 ~ 16时54分]"
+        },
+        {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
+        },
+        {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
         },
         {
           "title": "AI应用板块爆发",
@@ -1960,7 +2044,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1998,24 +2082,13 @@
           "time_info": "06时37分"
         },
         {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
           "url": "https://wallstreetcn.com/livenews/3046285",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -2029,17 +2102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
-        },
-        {
-          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2000172562634790267",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "光明村村民领京东AI手机",
@@ -2088,8 +2150,276 @@
       ]
     },
     {
+      "keyword_group": "价格",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 17时55分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 15时02分]"
+        },
+        {
+          "title": "飞天茅台价格全线上涨",
+          "url": "https://www.toutiao.com/trending/7599450620412166154/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时50分]"
+        },
+        {
+          "title": "金十期货1月29日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌5350元/吨，中间价报163900元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129103246284800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "国内成品油价格将迎调整",
+          "url": "https://www.toutiao.com/trending/7600439068136128553/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 15时02分]"
+        },
+        {
+          "title": "西部黄金：公司关注到目前黄金市场热度较高，黄金产品的市场价格累计涨幅较大，敬请广大投资者理性投资、审慎决策，注意投资风险。",
+          "url": "https://wallstreetcn.com/livenews/3046359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "鲍威尔：若无新的关税上调，不预计价格会显著走高",
+          "url": "https://flash.jin10.com/detail/20260129041250049800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国财长贝森特：委内瑞拉原油供应增加意味着汽油价格下降。",
+          "url": "https://flash.jin10.com/detail/20260129055415702800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "消息人士：美国放弃为关键矿产产品设定价格下限",
+          "url": "https://flash.jin10.com/detail/20260129071249688800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "印度金银价格延续涨势，再创历史新高",
+          "url": "https://flash.jin10.com/detail/20260129115249762800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "匈牙利总理助理古亚什：政府1月份对家庭能源价格的补贴将耗资500亿福林。",
+          "url": "https://flash.jin10.com/detail/20260129172039495800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "微软高管：内存价格上涨将影响资本支出。",
+          "url": "https://flash.jin10.com/detail/20260129070818969800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "飞天茅台价格节前连续上涨 整箱批价突破1600元",
+          "url": "https://wallstreetcn.com/livenews/3046129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "布伦特原油价格自9月以来首次触及每桶70美元。",
+          "url": "https://wallstreetcn.com/livenews/3046345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "Meta Platforms(META.O)首席财务官：广告效果提升推动了更高的广告需求和平均广告价格。",
+          "url": "https://flash.jin10.com/detail/20260129054635543800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "微软高管：由于内存芯片价格上涨可能对个人电脑市场产生影响，Windows OEM收入预计将下降约10%。",
+          "url": "https://flash.jin10.com/detail/20260129070728608800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "贝莱德集团Jeff Rosenberg：美联储的反应机制（相比针对价格稳定性）更侧重于劳动力一端。",
+          "url": "https://wallstreetcn.com/livenews/3045821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
+          "url": "https://www.zhihu.com/question/1999391504246990744",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3045820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "羽绒服价格飞涨竟然是猪惹的祸",
+          "url": "https://www.toutiao.com/trending/7599922902503161897/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "章源钨业：1月29日起调整焊接机夹刀片价格",
+          "url": "https://wallstreetcn.com/livenews/3046003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3046327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -2187,6 +2517,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "IBM(IBM.N)美股盘前涨7.9%，四季度业绩超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129171935659800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260129050547411800",
           "source": "金十数据",
@@ -2218,6 +2559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "IBM(IBM.N)美股盘前上涨7.9%，其第四季度业绩超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129171701650800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
@@ -2299,209 +2651,8 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 15时02分]"
-        },
-        {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 15时02分]"
-        },
-        {
-          "title": "飞天茅台价格全线上涨",
-          "url": "https://www.toutiao.com/trending/7599450620412166154/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 02时50分]"
-        },
-        {
-          "title": "金十期货1月29日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌5350元/吨，中间价报163900元/吨。",
-          "url": "https://flash.jin10.com/detail/20260129103246284800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "国内成品油价格将迎调整",
-          "url": "https://www.toutiao.com/trending/7600439068136128553/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 15时02分]"
-        },
-        {
-          "title": "鲍威尔：若无新的关税上调，不预计价格会显著走高",
-          "url": "https://flash.jin10.com/detail/20260129041250049800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "美国财长贝森特：委内瑞拉原油供应增加意味着汽油价格下降。",
-          "url": "https://flash.jin10.com/detail/20260129055415702800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "消息人士：美国放弃为关键矿产产品设定价格下限",
-          "url": "https://flash.jin10.com/detail/20260129071249688800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "印度金银价格延续涨势，再创历史新高",
-          "url": "https://flash.jin10.com/detail/20260129115249762800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "微软高管：内存价格上涨将影响资本支出。",
-          "url": "https://flash.jin10.com/detail/20260129070818969800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "飞天茅台价格节前连续上涨 整箱批价突破1600元",
-          "url": "https://wallstreetcn.com/livenews/3046129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "Meta Platforms(META.O)首席财务官：广告效果提升推动了更高的广告需求和平均广告价格。",
-          "url": "https://flash.jin10.com/detail/20260129054635543800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "微软高管：由于内存芯片价格上涨可能对个人电脑市场产生影响，Windows OEM收入预计将下降约10%。",
-          "url": "https://flash.jin10.com/detail/20260129070728608800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "贝莱德集团Jeff Rosenberg：美联储的反应机制（相比针对价格稳定性）更侧重于劳动力一端。",
-          "url": "https://wallstreetcn.com/livenews/3045821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
-          "url": "https://www.zhihu.com/question/1999391504246990744",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
-          "url": "https://wallstreetcn.com/livenews/3045820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "章源钨业：1月29日起调整焊接机夹刀片价格",
-          "url": "https://wallstreetcn.com/livenews/3046003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -2515,6 +2666,18 @@
           "time_info": "05时39分"
         },
         {
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://www.cls.cn/detail/2273653",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
+        },
+        {
           "title": "Meta Platforms CEO扎克伯格：人工智能眼镜销量去年增长逾两倍。",
           "url": "https://flash.jin10.com/detail/20260129055602518800",
           "source": "金十数据",
@@ -2524,6 +2687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "挪威主权财富基金CEO：应该担心全球分裂、主权债务水平，并意识到基金的大量价值与人工智能股票息息相关。",
+          "url": "https://flash.jin10.com/detail/20260129173112375800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-29）",
@@ -2557,17 +2731,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
-          "url": "https://www.cls.cn/detail/2273653",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",

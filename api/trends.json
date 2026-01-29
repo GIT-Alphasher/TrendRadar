@@ -1,33 +1,48 @@
 {
-  "generated_at": "2026-01-30T04:41:56.494654+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-01-30T05:37:24.696433+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 26,
+      "match_count": 42,
       "titles": [
         {
-          "title": "美国国会预算办公室：国民警卫队今年或耗资11亿美元",
-          "url": "https://wallstreetcn.com/livenews/3046672",
-          "source": "华尔街见闻-快讯",
+          "title": "1美元vs10亿美元前沿科技",
+          "url": "https://search.bilibili.com/all?keyword=1%E7%BE%8E%E5%85%83vs10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            18,
+            30,
+            10,
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
-          "title": "美国国防部批准向西班牙出售价值17亿美元的F-100护卫舰中期升级项目。",
-          "url": "https://flash.jin10.com/detail/20260130040742155800",
+          "title": "芝商所将COMEX铜期货保证金上调20%，至1.2万美元。",
+          "url": "https://flash.jin10.com/detail/20260130052600832800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时37分"
+        },
+        {
+          "title": "苹果公司第一财季营收1437.6亿美元，分析师预期1384亿美元。 第一财季每股收益（EPS）为2.84美元，创历史新高，分析师预期2.68美元。 第一财季产品营收1137.4亿美元，分析师预期1076.9亿美元。 第一财季iPhone收入852.7亿美元，分析师预期783.1亿美元。 第一财季iPad收入86亿美元，分析师预期81.8亿美元。 第一财季Mac收入83.9亿美元，分析师预期91.3亿美元。 第一财季服务收入300.1亿美元，分析师预期300.2亿美元。 第一财季美国营收585.3亿美元，分析师预期590.6亿美元。 第一财季大中华区营收255.3亿美元，分析师预期218.2亿美元。 第一财季总体运营开支183.8亿美元，分析师预期181.8亿美元。 苹果盘后跌0.72%，随后转而上涨2.91%。",
+          "url": "https://wallstreetcn.com/livenews/3046702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。（英国金融时报）",
@@ -39,20 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
-        },
-        {
-          "title": "1美元vs10亿美元前沿科技",
-          "url": "https://search.bilibili.com/all?keyword=1%E7%BE%8E%E5%85%83vs10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            30,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时41分]"
         },
         {
           "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
@@ -67,6 +68,18 @@
           "time_info": "[01时46分 ~ 03时01分]"
         },
         {
+          "title": "美国国会预算办公室：国民警卫队今年或耗资11亿美元",
+          "url": "https://wallstreetcn.com/livenews/3046672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时37分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的28.52亿美元。",
           "url": "https://flash.jin10.com/detail/20260130021821693800",
           "source": "金十数据",
@@ -78,6 +91,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时41分]"
+        },
+        {
+          "title": "美国国防部批准向西班牙出售价值17亿美元的F-100护卫舰中期升级项目。",
+          "url": "https://flash.jin10.com/detail/20260130040742155800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时37分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9506元，较周三夜盘收盘跌31点。成交量526.12亿美元。",
@@ -183,6 +208,30 @@
           "time_info": "[03时01分 ~ 04时41分]"
         },
         {
+          "title": "伦交所-理柏（LSEG Lipper）：1月28日当周，美国高评级债券 基金资金流入创最近五年来最大。 短期、中期投资级债券基金流入54亿美元，创2021年2月份以来最大，之前一周流入30.9亿美元。 高收益率债券基金流入2.327亿美元，美国国债基金流入5.009亿美元，美国杠杆贷款基金流入2.342亿美元，抵押贷款相关基金流入2.131亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时37分]"
+        },
+        {
+          "title": "美国高评级债券销量突破2000亿美元，创历史最佳年度开局",
+          "url": "https://wallstreetcn.com/livenews/3046663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时37分]"
+        },
+        {
           "title": "特朗普讲话不到一小时，现货黄金反弹100美元",
           "url": "https://flash.jin10.com/detail/20260130014047592800",
           "source": "金十数据",
@@ -219,15 +268,15 @@
           "time_info": "[03时01分 ~ 03时39分]"
         },
         {
-          "title": "伦交所-理柏（LSEG Lipper）：1月28日当周，美国高评级债券 基金资金流入创最近五年来最大。 短期、中期投资级债券基金流入54亿美元，创2021年2月份以来最大，之前一周流入30.9亿美元。 高收益率债券基金流入2.327亿美元，美国国债基金流入5.009亿美元，美国杠杆贷款基金流入2.342亿美元，抵押贷款相关基金流入2.131亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3046665",
-          "source": "华尔街见闻-快讯",
+          "title": "西部数据(WDC.O)第三季度营收展望为32亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130050819796800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时37分"
         },
         {
           "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
@@ -236,9 +285,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "闪迪(SNDK.O)第二季度营收为30.25亿美元，而IBES预估为26.38亿美元。闪迪公司第三季度营收展望为44亿至48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130050753165800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "1月29日，美国投资级债券市场迎来六家发行人，使得2026年迄今累计供应量逼近2000亿美元。 其中，AT&T出售五种到期时间的债券，9月已经募集50亿美元； IBM也发行五种到期时间债券，募集至多35亿欧元债券，上次融资47.5亿美元债券和35亿欧元债券； 摩根士丹利于两周前融资80亿美元之后再次出售债券。",
@@ -252,15 +312,26 @@
           "time_info": "00时55分"
         },
         {
-          "title": "美国高评级债券销量突破2000亿美元，创历史最佳年度开局",
-          "url": "https://wallstreetcn.com/livenews/3046663",
+          "title": "西部数据第二财季营收30.2亿美元，分析师预期29.6亿美元。 预计第三财季营收31亿-33亿美元，预计资本开支3.8亿-3.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046690",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时37分"
+        },
+        {
+          "title": "科磊第二财季营收33亿美元，分析师预期32.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "瑞银维持黄金看涨立场 上调目标价至6200美元",
@@ -272,6 +343,116 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "Visa(V.N)2026财年Q1营收109亿美元，市场预期106.8亿美元，去年同期95.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130050323026800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "Visa第一财季净营收109亿美元，分析师预期106.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "现货白银收复10美元的日内跌幅",
+          "url": "https://flash.jin10.com/detail/20260130045127362800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.71万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模升至7.71万亿美元，三周以来首次增长。",
+          "url": "https://flash.jin10.com/detail/20260130044857283800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "周四（1月29日））纽约尾盘，ICE美元指数跌0.21%，报96.245点，日内交投区间为96.656-96.016点，大部分时间低位震荡，北京时间23:00曾开启一波短暂的冲高回落行情。 彭博美元指数跌0.12%，报1178.02点，日内交投区间为1182.97-1175.40点。",
+          "url": "https://wallstreetcn.com/livenews/3046676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20260130044452824800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3046674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "高级监管官员：美国加州将于下周公布该州针对新电动汽车提供的2亿美元税收抵免的详细信息。",
+          "url": "https://flash.jin10.com/detail/20260130043536940800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130043431786800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "商品货币澳元/美元日内跌幅达1.0%，报0.6967。",
@@ -320,8 +501,158 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260130013122983800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时39分]"
+        },
+        {
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050645865800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050643601800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "Robinhood(HOOD.O)美股盘后涨3%。",
+          "url": "https://flash.jin10.com/detail/20260130050229767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（1月29日）），美国科技股七巨头（Magnificent 7）指数跌0.90%，报207.72点，美股盘初持续下跌，北京时间23:55刷新日低至202.72点，随后逐步收复失地。 “超大”市值科技股指数跌0.58%，报396.22点。 成分股Meta收涨10%，创7月以来最大单日涨幅，微软重挫10%，市值蒸发3570亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国考虑利用美股经纪商Robinhood为儿童设立“特朗普账户”。",
+          "url": "https://flash.jin10.com/detail/20260130050156352800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 微软跌近10%",
+          "url": "https://flash.jin10.com/detail/20260130050123427800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "加密货币市场在美股开盘前后加速下跌",
+          "url": "https://wallstreetcn.com/livenews/3046613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260130013040868800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3046585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -331,8 +662,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -342,8 +673,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -354,8 +685,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -366,8 +697,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -377,8 +708,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
+        },
+        {
+          "title": "铠侠（Kioxia）与Sandisk将Yokkaichi合资协议延长至2034年。",
+          "url": "https://wallstreetcn.com/livenews/3046700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
@@ -446,6 +788,17 @@
           "time_info": "[01时46分 ~ 03时39分]"
         },
         {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
           "title": "黑石总裁：AI颠覆传统产业是当前最大的风险",
           "url": "https://wallstreetcn.com/livenews/3046598",
           "source": "华尔街见闻-快讯",
@@ -460,7 +813,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "标普500指数维持下跌1%的状态，道指跌0.2%，纳指跌1.8%，半导体指数跌1.5%。 1月29日临近纽约中午，美国总统特朗普赞扬股市上涨。",
@@ -509,6 +862,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时46分]"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050649746800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.35%，报7919.48点。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收跌0.81%。 中概互联网指数ETF（KWEB）收涨0.55%，中国科技指数ETF（CQQQ）收跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3046683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "标普500指数收跌9.02点，跌幅0.13%，报6969.01点。 道琼斯工业平均指数收涨55.96点，涨幅0.11%，报49071.56点。 纳斯达克综合指数（纳指）收跌172.327点，跌幅0.72%，报23685.12点。 纳斯达克100指数收跌138.495点，跌幅0.53%，报25884.296点。 纳斯达克生物科技指数收涨0.28%，报5911.69点。 费城半导体指数收涨0.15%，报8320.39点，勉强连续第三个交易日创收盘历史新高。 费城证交所KBW银行指数收涨1.37%，报167.93点。 道琼斯KBW地区银行指数收涨1.78%，报133.17点。",
+          "url": "https://wallstreetcn.com/livenews/3046681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
@@ -568,81 +954,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
-        },
-        {
-          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2274635",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260130013122983800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时39分]"
-        },
-        {
-          "title": "加密货币市场在美股开盘前后加速下跌",
-          "url": "https://wallstreetcn.com/livenews/3046613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260130013040868800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/3046585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "价格",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金价格为何一路猛涨",
@@ -653,8 +966,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
+        },
+        {
+          "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3046680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "英国国债价格涨幅扩大，10年期英债收益率跌5个基点，报4.49%。",
@@ -666,6 +990,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260130051543942800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "苹果(AAPL.O)收购以色列人工智能初创公司Q.ai。",
+          "url": "https://flash.jin10.com/detail/20260130050039950800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2/10年期美债收益率至多跌超1.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3046679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     },
@@ -684,8 +1053,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         }
       ]
     }

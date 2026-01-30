@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:56:52.494189+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-01-30T15:03:11.840512+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "1美元vs10亿美元前沿科技",
@@ -34,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 13时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时03分]"
         },
         {
           "title": "芝商所将COMEX铜期货保证金上调20%，至1.2万美元。",
@@ -66,7 +66,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -82,15 +82,15 @@
           "time_info": "05时37分"
         },
         {
-          "title": "美元兑日元升破154，日内涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3047016",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金大幅跳水后再反弹，重新突破 5400 美元大关，为什么会出现如此大的震荡？",
+          "url": "https://www.zhihu.com/question/2000353838817882383",
+          "source": "知乎",
           "ranks": [
-            1
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时03分]"
         },
         {
           "title": "现货白银日内重挫4.01美元，现报111.46美元/盎司，跌幅3.47%。",
@@ -110,7 +110,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -158,6 +158,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 03时01分]"
+        },
+        {
+          "title": "美元兑日元升破154，日内涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3047016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时03分]"
+        },
+        {
+          "title": "无惧史诗级巨震！瑞银大幅上调黄金目标价 未来数月上看6200美元",
+          "url": "https://www.cls.cn/detail/2275208",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 15时03分]"
         },
         {
           "title": "美国国会预算办公室：国民警卫队今年或耗资11亿美元",
@@ -219,17 +243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时48分 ~ 13时56分]"
-        },
-        {
-          "title": "现货黄金大幅跳水后再反弹，重新突破 5400 美元大关，为什么会出现如此大的震荡？",
-          "url": "https://www.zhihu.com/question/2000353838817882383",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 13时56分]"
         },
         {
           "title": "周四（1月29日），韩元兑美元最终涨0.12%，报1434.09韩元，跳空高开之后，北京时间14:00之前开始持续回吐涨幅。",
@@ -321,18 +334,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时41分]"
-        },
-        {
-          "title": "无惧史诗级巨震！瑞银大幅上调黄金目标价 未来数月上看6200美元",
-          "url": "https://www.cls.cn/detail/2275208",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时56分]"
         },
         {
           "title": "伦交所-理柏（LSEG Lipper）：1月28日当周，美国高评级债券 基金资金流入创最近五年来最大。 短期、中期投资级债券基金流入54亿美元，创2021年2月份以来最大，之前一周流入30.9亿美元。 高收益率债券基金流入2.327亿美元，美国国债基金流入5.009亿美元，美国杠杆贷款基金流入2.342亿美元，抵押贷款相关基金流入2.131亿美元。",
@@ -434,7 +435,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -857,6 +858,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "新台币兑美元下跌0.3%至31.422。",
+          "url": "https://wallstreetcn.com/livenews/3047021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "高级监管官员：美国加州将于下周公布该州针对新电动汽车提供的2亿美元税收抵免的详细信息。",
           "url": "https://flash.jin10.com/detail/20260130043536940800",
           "source": "金十数据",
@@ -989,6 +1001,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "Melius研究：将苹果(AAPL.O)目标价从345美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20260130142712436800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "苹果被问及第一财季（含假日销售季）和当前季度的关税（成本）、以及整体利润。 CFO称，公司利润率高度喜人。 苹果的关税成本的确处于14亿美元影响区间之中，就像之前预料的那样。",
           "url": "https://wallstreetcn.com/livenews/3046734",
           "source": "华尔街见闻-快讯",
@@ -1014,7 +1037,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "巴基斯坦KSE-100指数上涨1%，至184,312。",
@@ -1023,18 +1046,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "巴基斯坦卡拉奇证交所KSE 100指数涨1%报184312点。",
-          "url": "https://wallstreetcn.com/livenews/3047012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -1050,15 +1062,15 @@
           "time_info": "10时46分"
         },
         {
-          "title": "台湾证交所加权股价指数收跌1.5%报32,063.75点。",
-          "url": "https://wallstreetcn.com/livenews/3047011",
+          "title": "日经225指数收跌0.1%，报53322.85点。 日本东证指数收涨0.6%，报3566.32点。 韩国首尔综指收盘几无变动，报5221.36点。1月累计上涨24%，创1998年12月以来最大单月涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3047042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "15时03分"
         },
         {
           "title": "标普500指数维持下跌1%的状态，道指跌0.2%，纳指跌1.8%，半导体指数跌1.5%。 1月29日临近纽约中午，美国总统特朗普赞扬股市上涨。",
@@ -1083,6 +1095,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时41分]"
+        },
+        {
+          "title": "巴基斯坦卡拉奇证交所KSE 100指数涨1%报184312点。",
+          "url": "https://wallstreetcn.com/livenews/3047012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时03分]"
+        },
+        {
+          "title": "台湾证交所加权股价指数收跌1.5%报32,063.75点。",
+          "url": "https://wallstreetcn.com/livenews/3047011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时03分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，连续第二个交易日走低，报388.16点。 在十个板块中，北欧医疗保健板块跌幅最大。 诺基亚跌9.4%，在一众北欧个股里表现最差。",
@@ -1176,6 +1212,17 @@
           "time_info": "12时48分"
         },
         {
+          "title": "恒生指数跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3047031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.35%，报7919.48点。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收跌0.81%。 中概互联网指数ETF（KWEB）收涨0.55%，中国科技指数ETF（CQQQ）收跌1.49%。",
           "url": "https://wallstreetcn.com/livenews/3046683",
           "source": "华尔街见闻-快讯",
@@ -1251,6 +1298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "韩国KOSPI指数1月累计上涨24%，创1998年12月以来最大单月涨幅。",
+          "url": "https://flash.jin10.com/detail/20260130143408561800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
@@ -1333,7 +1391,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -1360,8 +1418,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 13时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 15时03分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -1370,11 +1428,12 @@
           "ranks": [
             3,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 13时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 15时03分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -1399,6 +1458,33 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 06时38分]"
+        },
+        {
+          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
+          "url": "https://www.cls.cn/detail/2274899",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时03分]"
+        },
+        {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时03分]"
         },
         {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
@@ -1465,29 +1551,17 @@
           "time_info": "[05时37分 ~ 06时38分]"
         },
         {
-          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
-          "url": "https://www.cls.cn/detail/2274899",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 13时56分]"
-        },
-        {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            15,
-            14
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时45分 ~ 13时56分]"
+          "time_info": "[12时48分 ~ 15时03分]"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
@@ -1503,16 +1577,27 @@
           "time_info": "[01时46分 ~ 03时39分]"
         },
         {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
+          "title": "SpaceX被曝拟合并xAI",
+          "url": "https://www.douyin.com/hot/2383918",
+          "source": "抖音",
           "ranks": [
-            10,
-            8
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时03分]"
+        },
+        {
+          "title": "AI公司为何盯上游戏",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%8F%B8%E4%B8%BA%E4%BD%95%E7%9B%AF%E4%B8%8A%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时56分]"
+          "time_info": "[15时02分 ~ 15时03分]"
         },
         {
           "title": "苹果公司：要不是Airpods（供应）短缺的话，可穿戴设备本来应该实现增长的。",
@@ -1581,17 +1666,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "SpaceX被曝拟合并xAI",
-          "url": "https://www.douyin.com/hot/2383918",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
           "title": "【报道：OpenAI计划在第四季度进行IPO】消息人士称，OpenAI正努力争取在第四季度进行IPO。OpenAI已与华尔街银行就IPO事宜进行非正式洽商。消息人士称，OpenAI已聘请新的高管协助筹备IPO。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3046751",
           "source": "华尔街见闻-快讯",
@@ -1653,6 +1727,17 @@
           "time_info": "[00时54分 ~ 06时38分]"
         },
         {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时03分]"
+        },
+        {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2274635",
           "source": "财联社热门",
@@ -1666,17 +1751,6 @@
           "time_info": "[00时54分 ~ 10时46分]"
         },
         {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 13时56分]"
-        },
-        {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
           "url": "https://www.cls.cn/detail/2274922",
           "source": "财联社热门",
@@ -1685,8 +1759,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 13时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时03分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
@@ -1847,19 +1921,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 13时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 15时03分]"
         },
         {
           "title": "黄金价格回调开始了吗",
           "url": "https://www.toutiao.com/trending/7600951694344405055/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时03分]"
         },
         {
           "title": "1 月 29 日现货黄金价格跌幅一度超过 5%，失守 5200 美元关口，为什么会突然出现下跌？",
@@ -1879,7 +1954,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -1892,8 +1967,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 15时03分]"
         },
         {
           "title": "分析师：美联储新任主席人选几近确认 长期美债价格承压",
@@ -1957,7 +2032,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -1979,17 +2054,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260130051543942800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
           "url": "https://wallstreetcn.com/articles/3764501",
           "source": "华尔街见闻",
@@ -1999,8 +2063,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时03分]"
+        },
+        {
+          "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260130051543942800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "苹果(AAPL.O)收购以色列人工智能初创公司Q.ai。",

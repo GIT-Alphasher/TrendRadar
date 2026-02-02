@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T01:50:10.326845+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-02-03T07:38:24.633290+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 23,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
           "title": "美元兑印度卢比一个月NDF下跌1%，报90.94。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -36,9 +36,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.00%，现报80.83美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260203070312943800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "现货黄金突破4700美元/盎司，日内涨0.84%。",
+          "url": "https://flash.jin10.com/detail/20260203070237210800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "中金：黄金超过5500美元是一个重要分水岭",
@@ -76,15 +98,103 @@
           "time_info": "[00时54分 ~ 01时50分]"
         },
         {
+          "title": "现货白银向上触及80美元/盎司，日内涨1.07%。",
+          "url": "https://flash.jin10.com/detail/20260203070111990800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "现货黄金周二高开，现报4680美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260203070045906800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "金银暴跌也不足为惧？摩根大通坚持上调黄金预期：年底上看6300美元！",
+          "url": "https://www.cls.cn/detail/2278009",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
           "url": "https://flash.jin10.com/detail/20260203010335671800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "据纽约时报：特朗普放弃向哈佛大学追讨2亿美元款项的要求。",
+          "url": "https://flash.jin10.com/detail/20260203061528553800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "美国加利福尼亚州政府表示，拟推出的2亿美元电动汽车激励计划将仅面向首次购车者，并要求参与的汽车制造商提供配套资金。",
+          "url": "https://flash.jin10.com/detail/20260203060828726800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "美国总统特朗普撤销向哈佛大学索要2亿美元的要求。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3048566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "市场消息：Alphabet(GOOG.O)旗下自动驾驶公司Waymo融资160亿美元，投后估值达1260亿美元。",
+          "url": "https://flash.jin10.com/detail/20260203060135693800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "周一（2月2日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9426元，较上周五纽约尾盘涨158点，日内整体交投于6.9630-6.9380元区间。",
+          "url": "https://wallstreetcn.com/livenews/3048564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "据知情人士透露，甲骨文寻求发行50亿美元强制可转换债券。（彭博）",
@@ -98,6 +208,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "Waymo按1260亿美元估值融资160亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3048563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "美元兑瑞郎涨1%，报0.7808。",
           "url": "https://wallstreetcn.com/livenews/3048441",
           "source": "华尔街见闻-快讯",
@@ -109,6 +230,28 @@
           "time_info": "00时54分"
         },
         {
+          "title": "周一（2月2日）纽约尾盘，现货白银跌6.73%，报79.4438美元/盎司。 COMEX白银期货涨1.56%，报79.760美元/盎司。 COMEX铜期货跌1.49%，报5.8345美元/磅，北京时间14:40曾跌至5.5640美元。 现货铂金跌2.93%，现货钯金涨0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3048559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "周一（2月2日）纽约尾盘，现货黄金跌4.54%，报4671.58美元/盎司，全天处于下跌状态，北京时间14:38跌至4402.95美元。日线图上，金价连续三个交易日下跌，逼近12月31日底部4319.37美元，一度跌穿50日均线、逼近100日均线（这两个技术指标目前分别报4483.43美元和4228.16美元）。 COMEX黄金期货跌0.90%，报4702.60美元/盎司，14:38也曾跌至4423.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3048558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "彭博汇编数据显示，加密货币交易所交易产品（ETPs）最近一周资金外流16.1亿美元。 投资者最近一个月累计赎回8.766亿美元。 最近一年累计流入396亿美元。 当前，加密货币ETP资产规模为1603亿美元。",
           "url": "https://wallstreetcn.com/livenews/3048439",
           "source": "华尔街见闻-快讯",
@@ -118,6 +261,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时50分]"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "AES（美国弗吉尼亚州电力巨头）美股盘后涨9%。",
+          "url": "https://wallstreetcn.com/livenews/3048588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
+          "url": "https://www.cls.cn/detail/2278170",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 07时38分]"
+        },
+        {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 07时38分]"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
+          "url": "https://wallstreetcn.com/livenews/3048580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3048560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     },
@@ -180,7 +420,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -210,7 +450,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
@@ -220,8 +460,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
           "title": "Vanguard对旗下多只基金启动新一轮降费，进一步升级行业价格战",
@@ -230,7 +470,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -242,54 +482,36 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
-          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
-          "url": "https://www.cls.cn/detail/2278170",
-          "source": "财联社热门",
+          "title": "根据SEC备案文件披露，伯克希尔哈撒韦(BRK.A.N、BRK.B.N)于1月29日以每股约120.55美元的价格在公开市场出售了1,658,480股德维特公司（DaVita）普通股。",
+          "url": "https://flash.jin10.com/detail/20260203063750975800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11
+            16
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
-          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2278222",
-          "source": "财联社热门",
+          "title": "黄金价格创新高后暴跌背后的逻辑",
+          "url": "https://www.toutiao.com/trending/7602407740257865279/",
+          "source": "今日头条",
           "ranks": [
-            12
+            19
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -297,22 +519,74 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 07时38分]"
+        },
+        {
+          "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
+          "url": "https://wallstreetcn.com/livenews/3048579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
+          "url": "https://flash.jin10.com/detail/20260203063954637800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3048556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
+          "url": "https://wallstreetcn.com/livenews/3048577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     }

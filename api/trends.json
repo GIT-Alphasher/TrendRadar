@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T12:55:42.044767+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-02-03T13:59:16.409266+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 12时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时59分]"
         },
         {
           "title": "美元兑印度卢比一个月NDF下跌1%，报90.94。",
@@ -53,6 +53,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
+          "url": "https://flash.jin10.com/detail/20260203133008885800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "现货黄金突破4700美元/盎司，日内涨0.84%。",
           "url": "https://flash.jin10.com/detail/20260203070237210800",
           "source": "金十数据",
@@ -75,6 +86,43 @@
           "time_info": "10时51分"
         },
         {
+          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
+          "url": "https://www.cls.cn/detail/2278518",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时59分]"
+        },
+        {
+          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
+          "url": "https://www.zhihu.com/question/2001947312226848988",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时59分]"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 13时59分]"
+        },
+        {
           "title": "中金：黄金超过5500美元是一个重要分水岭",
           "url": "https://wallstreetcn.com/articles/3764710",
           "source": "华尔街见闻",
@@ -86,16 +134,16 @@
           "time_info": "[00时54分 ~ 01时50分]"
         },
         {
-          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2278428",
-          "source": "财联社热门",
+          "title": "特朗普威胁要向哈佛大学索赔10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3048804",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            10
+            6,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时51分 ~ 12时55分]"
+          "time_info": "[12时55分 ~ 13时59分]"
         },
         {
           "title": "市场消息：洛克希德·马丁公司获得了一份价值3.285亿美元的合同，用于交付“军团”-ES系统。",
@@ -133,28 +181,6 @@
           "time_info": "07时38分"
         },
         {
-          "title": "特朗普威胁要向哈佛大学索赔10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3048804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
-          "url": "https://www.cls.cn/detail/2278518",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
           "title": "现货黄金周二高开，现报4680美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260203070045906800",
           "source": "金十数据",
@@ -164,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "亚太市场大反弹，韩股领涨5%触发熔断，三星上涨10%，黄金站上4800美元",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "金银暴跌也不足为惧？摩根大通坚持上调黄金预期：年底上看6300美元！",
@@ -205,20 +242,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
         {
-          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
-          "url": "https://www.zhihu.com/question/2001947312226848988",
-          "source": "知乎",
+          "title": "据几位知情人士透露，日本方面和美国至少达成了三项协议，有望最终落实日本对美国的5500亿美元投资承诺，这些协议预计将在2月8日大选结束后公布。",
+          "url": "https://flash.jin10.com/detail/20260203132224858800",
+          "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "13时59分"
         },
         {
           "title": "WTI原油日内跌幅达1.00%，现报61.75美元/桶。",
@@ -238,7 +275,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -260,7 +297,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -271,7 +308,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -304,7 +341,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -348,7 +385,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -444,7 +481,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "恒生科技指数日内跌幅扩大至3.1%。快手跌超7%，哔哩哔哩、百度、腾讯控股跌超6%，阿里巴巴跌近5%。",
@@ -456,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "韩国KOSPI指数涨幅扩大至6%。",
+          "url": "https://flash.jin10.com/detail/20260203132927990800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "富时中国A50指数期货跌幅扩大至1%。",
@@ -505,6 +553,18 @@
           "time_info": "[00时54分 ~ 01时50分]"
         },
         {
+          "title": "日经225指数创盘中新高，日内涨约3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3048797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时59分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周一（2月2日），南非富时/JSE非洲领先40可交易指数收跌1.16%，报11.1万点，跳空低开之后、迅速在北京时间15:08跌至10.5万点下方刷新日低，随后逐步收复失地。",
           "url": "https://wallstreetcn.com/livenews/3048449",
           "source": "华尔街见闻-快讯",
@@ -539,15 +599,15 @@
           "time_info": "10时51分"
         },
         {
-          "title": "日经225指数创盘中新高，日内涨约3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3048797",
+          "title": "日经225指数日内大涨4%，现报54,769.57点。",
+          "url": "https://wallstreetcn.com/livenews/3048823",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "13时59分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1.1%。百度、哔哩哔哩、快手跌超4%。",
@@ -567,7 +627,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -605,6 +665,17 @@
           "time_info": "10时51分"
         },
         {
+          "title": "日本东证指数日内涨幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/3048812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "恒生科技指数转跌。",
           "url": "https://wallstreetcn.com/livenews/3048721",
           "source": "华尔街见闻-快讯",
@@ -614,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "韩国KOSPI指数最新报5237.56点，涨幅5.8%。",
+          "url": "https://flash.jin10.com/detail/20260203130500418800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "希腊雅典证交所综合指数收涨1.38%，报2346.72点。",
@@ -633,7 +715,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -663,8 +745,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "SpaceX官宣收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 13时59分]"
+        },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
           "url": "https://www.cls.cn/detail/2278216",
@@ -680,27 +773,17 @@
           "time_info": "[00时54分 ~ 10时51分]"
         },
         {
-          "title": "SpaceX官宣收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 12时55分]"
-        },
-        {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
           "url": "https://www.cls.cn/detail/2278467",
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 13时59分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -720,11 +803,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 13时59分]"
         },
         {
           "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
@@ -732,11 +816,35 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 13时59分]"
+        },
+        {
+          "title": "又一位AI亿万富豪诞生了",
+          "url": "https://www.toutiao.com/trending/7602226721282457650/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时51分 ~ 12时55分]"
+          "time_info": "[12时55分 ~ 13时59分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时59分]"
         },
         {
           "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
@@ -750,15 +858,15 @@
           "time_info": "07时38分"
         },
         {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
+          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
+          "url": "https://www.cls.cn/detail/2278753",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "13时59分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
@@ -783,17 +891,6 @@
           "time_info": "10时51分"
         },
         {
-          "title": "又一位AI亿万富豪诞生了",
-          "url": "https://www.toutiao.com/trending/7602226721282457650/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
           "title": "上海今年新增就业60万人以上，将构建AI对就业影响的研判应对机制",
           "url": "https://wallstreetcn.com/livenews/3048724",
           "source": "华尔街见闻-快讯",
@@ -805,15 +902,37 @@
           "time_info": "10时51分"
         },
         {
+          "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
+          "url": "https://flash.jin10.com/detail/20260203130436001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "AI只是在“省钱”而非“造饭碗”，蓝领岗位增长或跑赢科技浪潮",
           "url": "https://flash.jin10.com/detail/20260203121309957800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "OpenAI战略大转舵 全速冲刺ChatGPT商业化",
+          "url": "https://flash.jin10.com/detail/20260203130348456800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "消息人士称，XAI与SpaceX已将股份交换比例定为0.1433。",
@@ -844,7 +963,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -852,7 +971,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
@@ -896,8 +1015,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 13时59分]"
+        },
+        {
+          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时51分 ~ 12时55分]"
+          "time_info": "[12时55分 ~ 13时59分]"
         },
         {
           "title": "各大银行/品牌金条价格排行一览",
@@ -911,6 +1041,17 @@
           "time_info": "10时51分"
         },
         {
+          "title": "澳洲联储主席Bullock：告诉政府应如何制定财政政策并非我的职责。 澳元是政策传导机制的一部分。 澳元若持续升值将有助于降低进口价格。 不知道当前政策是否处于收紧周期。 不能排除任何可能性，也不能确定未来的政策行动。",
+          "url": "https://wallstreetcn.com/livenews/3048822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "金银价格大跌 有回收商1天亏百万",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%9B%9E%E6%94%B6%E5%95%861%E5%A4%A9%E4%BA%8F%E7%99%BE%E4%B8%87",
           "source": "百度热搜",
@@ -920,17 +1061,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
-        },
-        {
-          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
         },
         {
           "title": "金十期货2月3日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨5050元/吨，中间价报146600元/吨。",
@@ -975,6 +1105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：若澳元持续走高，将有助于降低进口价格。",
+          "url": "https://flash.jin10.com/detail/20260203130208644800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     },
@@ -982,6 +1123,17 @@
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 13时59分]"
+        },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
           "url": "https://wallstreetcn.com/articles/3764730",
@@ -994,15 +1146,16 @@
           "time_info": "[00时54分 ~ 01时50分]"
         },
         {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时59分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -1025,18 +1178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
-          "url": "https://www.cls.cn/detail/2278378",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时38分 ~ 12时55分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -1091,8 +1232,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "亚洲厂商人工智能应用前景占优 西方抵触情绪或成发展瓶颈",
+          "url": "https://flash.jin10.com/detail/20260203132725508800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
         {
           "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
           "url": "https://wallstreetcn.com/livenews/3048577",
@@ -1111,9 +1263,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股大模型概念股午后持续走强，MINIMAX-WP涨超13%再创上市来新高，智谱涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3048839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     }

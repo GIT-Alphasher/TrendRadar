@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T15:06:17.798449+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-02-03T16:52:45.465317+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -20,13 +20,25 @@
           "time_info": "[00时54分 ~ 15时06分]"
         },
         {
+          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
+          "url": "https://www.cls.cn/detail/2278518",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 16时52分]"
+        },
+        {
           "title": "现货钯金日内大涨6.00%，现报1789.17美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260203150423282800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -81,7 +93,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -95,18 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
-          "url": "https://www.cls.cn/detail/2278518",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时06分]"
         },
         {
           "title": "xAI与SpaceX已将股份交换比例定为0.1433。 xAI投资者每持有1股xAI股票可获得0.1433股SpaceX股票。 xAI高管也可选择现金，每股xAI股票可获得75.46美元的现金。（路透）",
@@ -215,6 +215,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9362，较上一交易日官方收盘价涨151点，较上日夜盘收盘涨86点。",
+          "url": "https://wallstreetcn.com/livenews/3048976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "亚太市场大反弹，韩股领涨5%触发熔断，三星上涨10%，黄金站上4800美元",
           "url": "https://wallstreetcn.com/articles/3764793",
           "source": "华尔街见闻",
@@ -226,15 +237,37 @@
           "time_info": "13时59分"
         },
         {
+          "title": "现货黄金突破4940美元/盎司，日内涨5.99%。",
+          "url": "https://flash.jin10.com/detail/20260203161905003800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "现货黄金向上触及4870美元/盎司，日内涨4.49%。 纽约期金突破4890美元/盎司，日内涨5.10％。",
           "url": "https://wallstreetcn.com/livenews/3048874",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "甲骨文盘前大跌5%，银行不借钱、股价腰斩，计划再融资500亿美元“续命”！",
+          "url": "https://wallstreetcn.com/articles/3764739",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "金银暴跌也不足为惧？摩根大通坚持上调黄金预期：年底上看6300美元！",
@@ -276,9 +309,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "现货白银日内暴涨10.00%，现报87.21美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260203161513068800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "澳元兑美元涨超1%，受澳洲联储鹰派加息提振。",
@@ -303,6 +347,17 @@
           "time_info": "13时59分"
         },
         {
+          "title": "现货白银站上87美元/盎司，日内涨9.80%。",
+          "url": "https://flash.jin10.com/detail/20260203161257046800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "WTI原油日内跌幅达1.00%，现报61.75美元/桶。",
           "url": "https://flash.jin10.com/detail/20260203102956211800",
           "source": "金十数据",
@@ -320,9 +375,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "现货黄金突破4940美元/盎司，日内涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3048965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "特朗普：向哈佛索赔10亿美元 今后再无瓜葛",
@@ -334,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "现货白银站上87美元/盎司，日内涨超10%，现报87.02美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3048962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "据纽约时报：特朗普放弃向哈佛大学追讨2亿美元款项的要求。",
@@ -375,7 +452,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -402,13 +479,24 @@
           "time_info": "07时38分"
         },
         {
+          "title": "现货黄金重回4900美元/盎司",
+          "url": "https://www.toutiao.com/trending/7602537659117866532/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "现货黄金突破4880美元/盎司，日内涨4.70%。",
           "url": "https://flash.jin10.com/detail/20260203144055653800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -496,7 +584,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -507,7 +595,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -581,7 +669,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "恒生科技指数日内跌幅扩大至3.1%。快手跌超7%，哔哩哔哩、百度、腾讯控股跌超6%，阿里巴巴跌近5%。",
@@ -683,7 +771,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -694,9 +782,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "意大利富时MIB指数日内涨幅达2.00%。",
+          "url": "https://flash.jin10.com/detail/20260203162352902800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "截至早盘收盘，日经225指数涨2.9%，东证指数涨2.5%。",
@@ -760,7 +859,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -787,6 +886,28 @@
           "time_info": "01时50分"
         },
         {
+          "title": "金十图示：2026年02月03日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260203161128685800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "意大利富时MIB指数日内涨幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260203161113497800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "富时中国A50指数期货转跌。",
           "url": "https://wallstreetcn.com/livenews/3048727",
           "source": "华尔街见闻-快讯",
@@ -796,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "德国DAX指数日内涨幅达1.00%，突破25000点。",
+          "url": "https://flash.jin10.com/detail/20260203161106296800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "日本东证指数日内涨幅扩大至3%。",
@@ -820,6 +952,17 @@
           "time_info": "10时51分"
         },
         {
+          "title": "德国DAX指数日内涨幅达1%，突破25000点。",
+          "url": "https://wallstreetcn.com/livenews/3048961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "韩国KOSPI指数最新报5237.56点，涨幅5.8%。",
           "url": "https://flash.jin10.com/detail/20260203130500418800",
           "source": "金十数据",
@@ -842,13 +985,24 @@
           "time_info": "00时54分"
         },
         {
+          "title": "港股收盘：恒生指数震荡收涨0.22%，黄金股反弹",
+          "url": "https://wallstreetcn.com/livenews/3048957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "中国台湾证交所加权股价指数收高1.8%报32,195.36点。",
           "url": "https://wallstreetcn.com/livenews/3048843",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -889,8 +1043,22 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 16时52分]"
+        },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
           "url": "https://www.cls.cn/detail/2278216",
@@ -906,17 +1074,18 @@
           "time_info": "[00时54分 ~ 10时51分]"
         },
         {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            5,
-            4
+            10,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 15时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 16时52分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -931,30 +1100,44 @@
           "time_info": "[10时51分 ~ 15时06分]"
         },
         {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 15时06分]"
-        },
-        {
           "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
           "url": "https://www.cls.cn/detail/2278442",
           "source": "财联社热门",
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 16时52分]"
+        },
+        {
+          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
+          "url": "https://www.cls.cn/detail/2278753",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 16时52分]"
+        },
+        {
+          "title": "又一位AI亿万富豪诞生了",
+          "url": "https://www.toutiao.com/trending/7602226721282457650/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            10,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时51分 ~ 15时06分]"
+          "time_info": "[12时55分 ~ 16时52分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -969,18 +1152,6 @@
           "time_info": "[00时54分 ~ 07时38分]"
         },
         {
-          "title": "又一位AI亿万富豪诞生了",
-          "url": "https://www.toutiao.com/trending/7602226721282457650/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时06分]"
-        },
-        {
           "title": "解读SpaceX收购xAI",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
           "source": "bilibili 热搜",
@@ -988,20 +1159,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 16时52分]"
         },
         {
-          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
-          "url": "https://www.cls.cn/detail/2278753",
-          "source": "财联社热门",
+          "title": "王楚然工作室AI剧宣",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            8
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
@@ -1021,7 +1191,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -1128,7 +1298,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
@@ -1159,9 +1329,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "黄金两日暴跌后强势回升 分析师：当前价格回归合理区间",
+          "url": "https://flash.jin10.com/detail/20260203163759847800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 16时52分]"
         },
         {
           "title": "Vanguard对旗下多只基金启动新一轮降费，进一步升级行业价格战",
@@ -1187,16 +1381,15 @@
           "time_info": "[10时51分 ~ 15时06分]"
         },
         {
-          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
-          "source": "澎湃新闻",
+          "title": "万丰股份：公司注意到，近期受分散染料核心中间体还原物及部分分散染料价格上涨影响，公司市场关注度有所提高。需特别说明的是，上述产品价格未来预计变动幅度及其持续性仍存在不确定性，能够为公司带来的预期收益仍存在不确定性。公司主营业务和基本面未发生重大变化。",
+          "url": "https://wallstreetcn.com/livenews/3048974",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            7
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "各大银行/品牌金条价格排行一览",
@@ -1238,7 +1431,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -1311,8 +1504,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 15时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 16时52分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -1411,6 +1604,56 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美债收益率亚洲盘微升 沃什提名驱动曲线陡峭化",
+          "url": "https://flash.jin10.com/detail/20260203145757767800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
+          "url": "https://flash.jin10.com/detail/20260203161832959800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "欧元区债市静候央行决议 收益率随美债窄幅波动",
+          "url": "https://flash.jin10.com/detail/20260203161619392800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "市场静待美国周三“再融资大考”，美债拍卖规模通常“按部就班”",
+          "url": "https://flash.jin10.com/detail/20260203144424298800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
       "match_count": 3,
       "titles": [
@@ -1450,30 +1693,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美债收益率亚洲盘微升 沃什提名驱动曲线陡峭化",
-          "url": "https://flash.jin10.com/detail/20260203145757767800",
-          "source": "金十数据",
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "市场静待美国周三“再融资大考”，美债拍卖规模通常“按部就班”",
-          "url": "https://flash.jin10.com/detail/20260203144424298800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
+          "time_info": "16时52分"
         }
       ]
     },

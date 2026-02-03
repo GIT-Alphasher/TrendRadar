@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-04T05:44:14.390958+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-02-04T06:40:35.746500+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
+          "url": "https://wallstreetcn.com/articles/3764858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
+        },
         {
           "title": "高盛：将2026年镍价预测上调至平均每吨17,200美元，此前预测为每吨14,800美元。",
           "url": "https://flash.jin10.com/detail/20260204030039864800",
@@ -25,9 +37,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
         },
         {
           "title": "现货黄金日内涨幅达7.0%，报4984.69美元/盎司。",
@@ -47,33 +71,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
-        },
-        {
-          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
-          "url": "https://wallstreetcn.com/articles/3764858",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
         },
         {
           "title": "彭博美元指数跌约0.3%",
@@ -112,6 +112,17 @@
           "time_info": "[03时08分 ~ 04时50分]"
         },
         {
+          "title": "Lumen Technologies Inc.（LUMN）四季度营收30.4亿美元，分析师预期30.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "城堡投资创始人格里芬：美元在去年已失去部分光彩",
           "url": "https://flash.jin10.com/detail/20260204025238881800",
           "source": "金十数据",
@@ -123,13 +134,24 @@
           "time_info": "03时08分"
         },
         {
+          "title": "AMD：预计2027年AI收入将达到“数百亿美元”规模。",
+          "url": "https://wallstreetcn.com/livenews/3049362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "AMD(AMD.O)2025年Q4净利润15.11亿美元，市场预期13.8亿美元，去年同期4.82亿美元。",
           "url": "https://flash.jin10.com/detail/20260204051707504800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -140,9 +162,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：预计到2027年将把人工智能业务规模扩大到每年数百亿美元的销售额。",
+          "url": "https://flash.jin10.com/detail/20260204061458712800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 布伦特4月原油期货收报67.33美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
@@ -156,15 +189,37 @@
           "time_info": "04时50分"
         },
         {
+          "title": "Cirrus Logic Inc.（CRUS）第三财季净销售5.806亿美元，分析师预期5.30亿美元。 预计第四财季营收4.10亿-4.70亿美元，分析师预期3.843亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "AMD(AMD.O)2025年Q4营收103亿美元，市场预期96.65亿美元，去年同期76.58亿美元。",
           "url": "https://flash.jin10.com/detail/20260204051607142800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "思佳讯（Skyworks）第一财季营收10.4亿美元，同比下降3.1%。 第一财季调整后每股收益（EPS）为1.54美元，上年同期1.60美元。 第一财季调整后运营利润2.521亿美元，分析师预期2.30亿美元。 预计第二财季营收8.75亿美元，分析师预期9.25亿美元。 预计第二财季调整后EPS为1.54美元。",
+          "url": "https://wallstreetcn.com/livenews/3049359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "纽约金日内涨幅达7.5%，报5001.8美元/盎司。",
@@ -206,7 +261,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -228,9 +283,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9351元，较周一纽约尾盘涨75点，日内整体交投于6.9437-6.9309元区间。",
+          "url": "https://wallstreetcn.com/livenews/3049355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "比特币跌穿7.3万美元，跌幅扩大至将近7%，北京时间00:00之前大致持稳于7.8万美元附近，之后加速下跌。",
@@ -242,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美元指数3日下跌",
+          "url": "https://flash.jin10.com/detail/20260204060820348800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "据知情人士透露，甲骨文50亿美元强制性可转债销售获得数倍超额认购。（彭博）",
@@ -272,7 +349,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -288,6 +365,28 @@
           "time_info": "03时08分"
         },
         {
+          "title": "周二（2月3日）纽约尾盘，现货白银涨7.36%，报85.0929美元/盎司，北京时间21:46刷新日高至89.1655美元。 COMEX白银期货涨11.05%，报85.505美元/盎司，21:46刷新日高至89.100美元。 COMEX铜期货涨4.47%，报6.0960美元/磅，14:00出现一波显著的拉升行情——之前持续低位震荡、之后持续高位震荡。 现货铂金涨4.08%，现货钯金涨1.82%。",
+          "url": "https://wallstreetcn.com/livenews/3049349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。 COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3049348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "Axiom按15亿美元估值融资超过1亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3049215",
           "source": "华尔街见闻-快讯",
@@ -297,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "光伏逆变器供应商Enphase Energy Inc.四季度营收3.433亿美元，分析师预期3.365亿美元。 四季度电池发货量150.1 MWH，分析师预期151.08 MWH。 一季度为APP推出AI助理。 一季度是2026年需求的“低点”。 预计将在荷兰获得20亿美元电池机会。 预计将在2026年四季度启动新款电池的发货。 公司接近发布第五代电池。",
+          "url": "https://wallstreetcn.com/livenews/3049344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "现货黄金站上4990美元/盎司，日内涨7.07%。",
@@ -354,6 +464,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "威瑞斯克分析公司：更新后的美国冬季风暴模型早期结果显示，从得克萨斯州到马萨诸塞州的14个州，每个州的保险损失可能均超过5,000万美元。",
           "url": "https://flash.jin10.com/detail/20260204033207306800",
           "source": "金十数据",
@@ -371,7 +492,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -390,7 +511,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -400,8 +521,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -414,8 +535,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -426,8 +547,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
         },
         {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
@@ -438,8 +559,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -449,8 +570,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
         },
         {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
@@ -486,6 +607,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时44分]"
+        },
+        {
+          "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20260204062113821800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "CenterView高管Blair Effron：在（并购/M&A）交易方面，我们的确面临大量的尾部风险。 经济、受抑的需求、监管都帮助推进并购。",
@@ -527,7 +659,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -549,7 +681,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -574,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：Dylan Scandinaro加盟本公司，担任Preparedness（筹备）部门主管。",
+          "url": "https://wallstreetcn.com/livenews/3049343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "OpenAI拟运用AI助力药企研发并从中获利",
@@ -604,7 +747,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -615,7 +758,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -626,7 +769,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
@@ -634,7 +777,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -644,8 +787,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -655,8 +798,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -674,34 +829,24 @@
           "url": "https://wallstreetcn.com/livenews/3049338",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时40分]"
         },
         {
           "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
           "url": "https://wallstreetcn.com/livenews/3049337",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
+            3,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时40分]"
         },
         {
           "title": "AMD(AMD.O)美股盘后跌超4.5%。",
@@ -710,7 +855,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -721,7 +866,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -732,7 +877,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -748,13 +893,24 @@
           "time_info": "04时50分"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
+          "url": "https://www.cls.cn/detail/2279710",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "金十图示：2026年02月03日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260204050616128800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -765,9 +921,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
+          "url": "https://wallstreetcn.com/livenews/3049352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "美股收盘：纳指跌超1% PayPal大跌20%",
@@ -776,9 +943,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
+          "url": "https://wallstreetcn.com/livenews/3049350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（2月3日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报203.68点，日内主要低位震荡。 “超大”市值科技股指数跌1.90%，报387.08点，日内大部分时间也低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3049340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "美股延续跌势，纳指下跌2.00%。",
@@ -795,7 +984,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "金十图示：2026年02月03日（周二）华尔街恐惧与贪婪指数（美盘后）",
@@ -804,7 +993,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -838,7 +1027,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -849,7 +1038,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -871,7 +1060,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -882,7 +1071,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -920,6 +1109,28 @@
           "time_info": "01时07分"
         },
         {
+          "title": "澳大利亚12月AIG/PWC制造业表现指数 -19.4，前值-18。",
+          "url": "https://flash.jin10.com/detail/20260204060002235800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "澳大利亚12月AIG建筑业表现指数 5.2，前值-18.7。",
+          "url": "https://flash.jin10.com/detail/20260204060002188800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "纳斯达克中国金龙指数跌幅扩大至2%，文远知行(WRD.O)、哔哩哔哩(BILI.O)跌超5%，阿里巴巴(BABA.N)、爱奇艺(IQ.O)跌超4%。",
           "url": "https://flash.jin10.com/detail/20260204021929360800",
           "source": "金十数据",
@@ -955,59 +1166,8 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时44分]"
-        },
-        {
-          "title": "美国银行：价格暴跌后金银的波动性仍将持续",
-          "url": "https://wallstreetcn.com/livenews/3049286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时50分]"
-        },
-        {
-          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
-          "url": "https://wallstreetcn.com/livenews/3049320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "金银矿股大幅回升，受贵金属价格反弹带动",
-          "url": "https://wallstreetcn.com/livenews/3049213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "城堡投资创始人格里芬：人工智能不会成为本次选举的主要议题。",
@@ -1019,6 +1179,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "AMD的CEO苏姿丰：服务器CPU需求“非常强劲”。 AI业务正在加速。 十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。 超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。 数据中心、游戏和个人电脑领域的需求加速增长。",
+          "url": "https://wallstreetcn.com/livenews/3049358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。",
+          "url": "https://flash.jin10.com/detail/20260204061102814800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。",
+          "url": "https://flash.jin10.com/detail/20260204061021722800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "英伟达CEO：人工智能的广泛应用最终将降低能源成本",
@@ -1041,6 +1234,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时40分]"
+        },
+        {
+          "title": "美国银行：价格暴跌后金银的波动性仍将持续",
+          "url": "https://wallstreetcn.com/livenews/3049286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时50分]"
+        },
+        {
+          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3049320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "金银矿股大幅回升，受贵金属价格反弹带动",
+          "url": "https://wallstreetcn.com/livenews/3049213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T04:46:45.785888+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-02-05T05:42:44.453170+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 38,
       "titles": [
         {
           "title": "中美元首通话全文公布",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -26,19 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
-        },
-        {
-          "title": "周三（2月4日）纽约尾盘，ICE美元指数涨0.21%，报97.640点，日内交投区间为97.309-97.730点，北京时间16:00-01:00持续上扬。 彭博美元指数涨0.33%，报1191.55点，日内交投区间为1187.30-1192.37点，16:00以来也持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3050085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "现货白银较日高回落近7美元 此前一度站上92美元",
@@ -52,38 +41,98 @@
           "time_info": "01时01分"
         },
         {
+          "title": "Arm控股第三财季总体营收12.4亿美元，分析师预期12.3亿美元。 第三财季年化合同价值16.2亿美元，分析师预期15.2亿美元。 第三财季使用费收入7.37亿美元，分析师预期7.101亿美元。 第三财季许可和其他收入5.05亿美元，分析师预期5.201亿美元。 预计第四财季营收14.2亿-15.2亿美元，分析师预期14.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "中美元首通电话",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
+          "url": "https://flash.jin10.com/detail/20260205050807413800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：Q4谷歌服务营收增长了14%，达到959亿美元，主要由Google搜索及其他业务（增长17%）、订阅与平台设备业务（增长17%）及YouTube广告业务（增长9%）驱动。",
+          "url": "https://flash.jin10.com/detail/20260205050719759800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "周三（2月4日）纽约尾盘，ICE美元指数涨0.21%，报97.640点，日内交投区间为97.309-97.730点，北京时间16:00-01:00持续上扬。 彭博美元指数涨0.33%，报1191.55点，日内交投区间为1187.30-1192.37点，16:00以来也持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3050085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时42分]"
         },
         {
           "title": "美国联邦住房金融局局长Bill Pulte：如果两房（房利美+房地美）公开上市，可能会出售2.5%-5%的股份。 两房已经准备好上市，具体取决于总统特朗普。 在我看来，两房价值5000亿-750亿美元。",
           "url": "https://wallstreetcn.com/livenews/3050081",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时42分]"
         },
         {
           "title": "WTI 3月原油期货收涨3.05%，报65.14美元/桶。 ICE布伦特4月原油期货收报69.46美元/桶。 NYMEX 3月天然气期货收报3.4650美元/百万英热单位。 NYMEX 3月汽油期货收报1.9652美元/加仑，NYMEX 3月取暖油期货收报2.47美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3050080",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时42分]"
+        },
+        {
+          "title": "美、布两油短线下跌1美元。",
+          "url": "https://flash.jin10.com/detail/20260205034856845800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时42分]"
         },
         {
           "title": "周三（2月4日），美联储隔夜逆回购协议（RRP）使用规模为24.14亿美元（交易对手18家），上个交易日报17.85亿美元。",
@@ -122,15 +171,26 @@
           "time_info": "[03时02分 ~ 04时46分]"
         },
         {
-          "title": "美、布两油短线下跌1美元。",
-          "url": "https://flash.jin10.com/detail/20260205034856845800",
+          "title": "Alphabet(GOOGL.O)：2026年资本支出预计为1750亿至1850亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050639901800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "05时42分"
+        },
+        {
+          "title": "Wolfspeed第二财季净营收1.685亿美元，同比下滑6.6%。 预计第三财季营收1.40亿-1.60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "现货黄金加速回落，跌破4850美元/盎司，日内跌1.96%；纽约期金日内走低1.00%，现报4885.00美元/盎司。",
@@ -177,6 +237,28 @@
           "time_info": "01时01分"
         },
         {
+          "title": "Alphabet(GOOGL.O)2025年Q4净利润344.55亿美元，市场预期317.58亿美元，上年同期265.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050443026800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "高通第一财季调整后营收122.5亿美元，分析师预期122亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "货币市场数据分析公司iMoneyNet：截至2月3日当周，美国货币市场基金资产增加了403.2亿美元。",
           "url": "https://flash.jin10.com/detail/20260205022918706800",
           "source": "金十数据",
@@ -205,9 +287,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)2025年Q4谷歌广告收入822.84亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050350375800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9450元，较周二夜盘收盘跌53点。成交量442.71亿美元。",
@@ -216,9 +309,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)2025年Q4谷歌云收入176.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050325162800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的24.14亿美元。",
@@ -232,6 +336,28 @@
           "time_info": "03时02分"
         },
         {
+          "title": "Alphabet(GOOGL.O)2025年Q4营收1138.28亿美元，市场预期1113.75亿美元，上年同期964.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050245228800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "周三（2月4日）纽约尾盘，欧元兑美元跌0.12%，英镑兑美元跌0.33%，美元兑瑞郎涨0.24%。 商品货币对中，澳元兑美元跌0.33%，纽元兑美元跌0.70%，美元兑加元涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3050095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "美国财长贝森特：重申我始终支持强势美元政策。",
           "url": "https://flash.jin10.com/detail/20260205003858537800",
           "source": "金十数据",
@@ -241,6 +367,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "高通(QCOM.O)2026财年第二季度营收展望为102-110亿美元，市场预期111.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050118583800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "高通(QCOM.O)2026财年Q1营收122.5亿美元，市场预期121.65亿美元，上年同期116.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050033498800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "Cerebras Systems完成H轮融资，按大约230亿美元估值募集10亿美元。 本轮投资由Tiger Global领投，Benchmark、Fidelity Management & Research Company、Atreides Management、Alpha Wave Global、Altimeter、AMD、Coatue、以及1789 Capital等参与。",
@@ -289,8 +437,171 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "Arm(ARM.O)美股盘后跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260205051229076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
+          "url": "https://wallstreetcn.com/livenews/3050110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260205050532468800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
+          "url": "https://wallstreetcn.com/livenews/3050105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260205050531884800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后跌超6%。",
+          "url": "https://flash.jin10.com/detail/20260205050408864800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。",
+          "url": "https://wallstreetcn.com/livenews/3050099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股收盘：纳指跌1.5% AMD大跌17%",
+          "url": "https://flash.jin10.com/detail/20260205050057305800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
+          "url": "https://wallstreetcn.com/livenews/3050002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "指数",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "纳斯达克100指数跌幅扩大至2%。成分股AMD跌16.8%，Applovin跌14.2%，Palantir跌12.1%，美光科技跌9.9%、西部数据跌9.3%，应用材料、Strategy跌约7.3%，核电股CEG跌6.5%，星巴克目前涨4%，特许通讯涨5.6%，GEHC涨6.4%，ODFL涨6.6%，安进涨7.3%。 标普500指数跌0.7%，道指涨205点、涨幅0.4%，纳指跌418点跌幅1.8%。 费城半导体指数跌4.8%，银行指数涨1.3%，罗素2000指数跌0.9%。",
@@ -302,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260205050538146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）全球股市指数-欧洲市场（收盘）",
@@ -332,9 +654,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "标普500指数初步收跌0.5%，科技板块跌1.8%，电信板块跌1.7%，可选消费板块跌1.2%，保健、房地产、原材料板块涨超1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.7%，成分股中，AMD初步收跌16.6%，Applovin跌16%，Palantir跌11.6%，美光科技、西部数据、核电股CEG、应用材料、希捷科技至少跌6%，Diamondback Energy则涨3.6%，安进涨8%。 耐克涨5.3%，3M涨5%，迪士尼涨3.1%，苹果涨2.7%，和安静领跑道指成分股，英伟达跌3.3%表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3050097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
@@ -394,83 +727,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
-        },
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            3,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
-        },
-        {
-          "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
-          "url": "https://wallstreetcn.com/livenews/3050002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时42分]"
+        },
         {
           "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
           "url": "https://wallstreetcn.com/articles/3764985",
@@ -483,17 +753,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
-          "url": "https://wallstreetcn.com/articles/3764985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
           "title": "美国财长贝森特：美联储双重职责（维持价格稳定+实现充分就业）是一个“非常微妙的平衡”。 美联储在货币政策方面应该保持独立性。 当美联储涉足其他领域时，就会损害到自身的独立性。",
           "url": "https://wallstreetcn.com/livenews/3050011",
           "source": "华尔街见闻-快讯",
@@ -503,12 +762,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
+          "url": "https://wallstreetcn.com/livenews/3050096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -519,8 +789,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -530,8 +800,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -541,14 +811,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "德国财政部长：AI中心将增强数字主权",
+          "url": "https://wallstreetcn.com/livenews/3050094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
@@ -560,6 +841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "长端美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3050086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     }

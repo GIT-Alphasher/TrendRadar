@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-05T15:55:26.184680+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-02-05T16:58:02.093601+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 91,
+      "match_count": 98,
       "titles": [
+        {
+          "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2002497105818825469",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 16时58分]"
+        },
         {
           "title": "中美元首通话全文公布",
           "url": "https://www.toutiao.com/trending/7603003215299149878/",
@@ -41,15 +52,18 @@
           "time_info": "[10时48分 ~ 15时55分]"
         },
         {
-          "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2002497105818825469",
-          "source": "知乎",
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            7,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 15时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 16时58分]"
         },
         {
           "title": "中美元首通电话",
@@ -72,7 +86,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -94,9 +108,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "现货黄金跌破4800美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 16时58分]"
         },
         {
           "title": "现货白银较日高回落近7美元 此前一度站上92美元",
@@ -164,19 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 14时04分]"
-        },
-        {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 15时55分]"
         },
         {
           "title": "现货黄金再度回到5000美元之上",
@@ -274,19 +288,6 @@
           "time_info": "[04时46分 ~ 05时42分]"
         },
         {
-          "title": "现货黄金跌破4800美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时55分]"
-        },
-        {
           "title": "美、布两油短线下跌1美元。",
           "url": "https://flash.jin10.com/detail/20260205034856845800",
           "source": "金十数据",
@@ -357,6 +358,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
           "title": "高通(QCOM.O)CFO：预计第二财季手机芯片收入约为60亿美元。",
@@ -548,7 +560,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -573,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "机构：全球智能手机单季度平均售价首次突破400美元关口",
+          "url": "https://wallstreetcn.com/livenews/3050519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "货币市场数据分析公司iMoneyNet：截至2月3日当周，美国货币市场基金资产增加了403.2亿美元。",
@@ -603,9 +626,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "复星医药：控股子公司复宏汉霖与Eisai签订《许可协议》，由复宏汉霖授予Eisai于许可区域（即日本）及领域（即用于肿瘤适应症治疗）开发、生产及商业化斯鲁利单抗注射液的权利。根据约定，Eisai应就许可产品向复宏汉霖支付至多1.55亿美元不可退还的首付款、监管里程碑款项。",
+          "url": "https://wallstreetcn.com/livenews/3050517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "澳元兑美元AUD/USD日内走低0.50%，现报0.6984。",
@@ -685,6 +719,17 @@
           "time_info": "12时57分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9408，较上一交易日官方收盘价跌32点，较上日夜盘收盘涨42点。",
+          "url": "https://wallstreetcn.com/livenews/3050514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的24.14亿美元。",
           "url": "https://flash.jin10.com/detail/20260205021741852800",
           "source": "金十数据",
@@ -716,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "中国台湾1月外汇存底 6044.57亿美元，前值6025.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205162002149800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "现货白银跌破85美元关口，日内跌超3.6%。",
@@ -757,7 +813,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -782,6 +838,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "分析师：贵金属波动仍将持续 反弹取决于美元走势等因素",
+          "url": "https://flash.jin10.com/detail/20260205161655335800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "现货白银跌破86美元关口，日内跌2.6%。",
@@ -839,13 +906,24 @@
           "time_info": "01时01分"
         },
         {
+          "title": "欧元兑美元抹去0.2%的跌幅，基本持平于1.1806。",
+          "url": "https://wallstreetcn.com/livenews/3050505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "外国投资者净卖出34亿美元韩股 规模创纪录新高",
           "url": "https://wallstreetcn.com/livenews/3050426",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -922,7 +1000,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -1040,7 +1118,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "纳斯达克100指数跌幅扩大至2%。成分股AMD跌16.8%，Applovin跌14.2%，Palantir跌12.1%，美光科技跌9.9%、西部数据跌9.3%，应用材料、Strategy跌约7.3%，核电股CEG跌6.5%，星巴克目前涨4%，特许通讯涨5.6%，GEHC涨6.4%，ODFL涨6.6%，安进涨7.3%。 标普500指数跌0.7%，道指涨205点、涨幅0.4%，纳指跌418点跌幅1.8%。 费城半导体指数跌4.8%，银行指数涨1.3%，罗素2000指数跌0.9%。",
@@ -1071,7 +1149,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -1282,7 +1360,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -1331,6 +1409,17 @@
           "time_info": "12时57分"
         },
         {
+          "title": "金十图示：2026年02月05日（周四）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260205161131891800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "标普500指数下跌1%，科技板块跌超3%，电信板块跌2%。 道指涨幅收窄至0.1%，纳指跌2.29%，纳斯达克100指数跌2.44%，半导体指数重挫超6%。",
           "url": "https://wallstreetcn.com/livenews/3050044",
           "source": "华尔街见闻-快讯",
@@ -1353,6 +1442,17 @@
           "time_info": "12时57分"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.14%，恒生科技指数收涨0.74%",
+          "url": "https://wallstreetcn.com/livenews/3050500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "金十图示：2026年02月04日（周三）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260205053045407800",
           "source": "金十数据",
@@ -1370,7 +1470,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -1381,7 +1481,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -1422,7 +1522,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1559,6 +1659,17 @@
           "time_info": "[05时42分 ~ 06时39分]"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260205050532468800",
           "source": "金十数据",
@@ -1661,8 +1772,30 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时37分 ~ 16时58分]"
+        },
+        {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 16时58分]"
+        },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
           "url": "https://wallstreetcn.com/articles/3764960",
@@ -1675,30 +1808,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 15时55分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 16时58分]"
         },
         {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时37分 ~ 15时55分]"
-        },
-        {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
+            11,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 15时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 16时58分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -1724,16 +1848,28 @@
           "time_info": "[01时01分 ~ 07时37分]"
         },
         {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
           "source": "财联社热门",
           "ranks": [
-            11,
-            6
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 15时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 16时58分]"
+        },
+        {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 16时58分]"
         },
         {
           "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
@@ -1746,17 +1882,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时37分]"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时55分]"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -1783,6 +1908,17 @@
           "time_info": "[06时39分 ~ 07时37分]"
         },
         {
+          "title": "你如何看待中国AI在冬奥会应用",
+          "url": "https://www.toutiao.com/trending/7603226653370875930/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
           "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
           "source": "澎湃新闻",
@@ -1805,17 +1941,6 @@
           "time_info": "10时48分"
         },
         {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
           "title": "德国财政部长：AI中心将增强数字主权",
           "url": "https://wallstreetcn.com/livenews/3050094",
           "source": "华尔街见闻-快讯",
@@ -1825,6 +1950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "腾讯游戏：开始灰度测试成长守护平台AI相关功能",
+          "url": "https://wallstreetcn.com/livenews/3050511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：自AI模式推出以来，观察到每位用户的每日AI模式查询量翻倍。",
@@ -1876,8 +2012,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时46分 ~ 15时55分]"
+          "appearance_count": 11,
+          "time_info": "[04时46分 ~ 16时58分]"
         },
         {
           "title": "2026年1月我国大宗商品价格指数创三年半新高",
@@ -1975,7 +2111,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -1986,7 +2122,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         }
@@ -1994,8 +2130,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "工信部等八部门：运用人工智能、大数据等新一代信息技术 构建特色方剂知识图谱和图神经网络",
+          "url": "https://wallstreetcn.com/livenews/3050530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
         {
           "title": "Alphabet(GOOG.O)高管：将继续在人工智能和云服务等关键投资领域招聘人员。",
           "url": "https://flash.jin10.com/detail/20260205060749357800",
@@ -2097,11 +2244,12 @@
           "url": "https://www.cls.cn/detail/2281407",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 16时58分]"
         }
       ]
     }

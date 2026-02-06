@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T12:55:53.422646+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-02-06T14:01:59.188454+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 78,
+      "match_count": 91,
       "titles": [
         {
           "title": "美团拟豪掷7.17亿美元收购叮咚买菜",
@@ -57,8 +57,41 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时01分 ~ 10时49分]"
+          "appearance_count": 9,
+          "time_info": "[03时01分 ~ 14时01分]"
+        },
+        {
+          "title": "中俄中美元首极为罕见同日互动有何意味？",
+          "url": "https://news.ifeng.com/c/8qW4yLx4nLS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时01分]"
+        },
+        {
+          "title": "美驻华大使：中美元首通话具有建设性，富有成效",
+          "url": "https://news.ifeng.com/c/8qVgMCZEmTu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时01分]"
+        },
+        {
+          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
+          "url": "https://wallstreetcn.com/articles/3765079",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时01分]"
         },
         {
           "title": "专家：中俄中美元首同日互动实属罕见",
@@ -77,39 +110,6 @@
           "time_info": "[01时01分 ~ 07时33分]"
         },
         {
-          "title": "中俄中美元首极为罕见同日互动有何意味？",
-          "url": "https://news.ifeng.com/c/8qW4yLx4nLS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 12时55分]"
-        },
-        {
-          "title": "美驻华大使：中美元首通话具有建设性，富有成效",
-          "url": "https://news.ifeng.com/c/8qVgMCZEmTu",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 12时55分]"
-        },
-        {
-          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
-          "url": "https://wallstreetcn.com/articles/3765079",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 12时55分]"
-        },
-        {
           "title": "现货黄金回落至4760美元/盎司下方，日内跌0.41%。",
           "url": "https://flash.jin10.com/detail/20260206070140239800",
           "source": "金十数据",
@@ -119,6 +119,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "现货白银重新站上75美元",
+          "url": "https://flash.jin10.com/detail/20260206135944856800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "现货白银突破74美元/盎司，日内涨4.69%。",
+          "url": "https://wallstreetcn.com/livenews/3051136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "美团：拟7.17亿美元收购叮咚",
@@ -143,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "现货钯金日内涨3%，报1668.20美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206135915103800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "布伦特原油日内涨幅达1%，现报67.72美元/桶。WTI原油涨0.85%，报63.68美元/桶。",
@@ -176,6 +209,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "WTI原油、布伦特原油日内涨幅均达1%，分别报63.94美元/桶、68.23美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "现货白银再现V型反弹，日内大涨5.00%，现报74.34美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206135535859800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "Mutapa Platinum Group已经接触多家矿商，希望帮助其开发津巴布韦一座5亿美元规模的铂金矿场。 该公司预计，这个位于Darwendale的项目将在一季度末之前动工，估计铂族贵金属资源4400万盎司。",
@@ -350,6 +405,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时33分]"
+        },
+        {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时01分]"
         },
         {
           "title": "周四（2月5日），美联储隔夜逆回购协议（RRP）使用规模为17.48亿美元（交易对手6家），上个交易日报24.14亿美元。",
@@ -651,6 +717,17 @@
           "time_info": "[06时43分 ~ 07时33分]"
         },
         {
+          "title": "现货白银V型反转，日内涨近4%，此前一度跌超8%，现报73.64美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3051129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "英镑兑美元跌幅扩大至1%，刷新日低至1.3518。",
           "url": "https://wallstreetcn.com/livenews/3050789",
           "source": "华尔街见闻-快讯",
@@ -671,17 +748,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
-        },
-        {
-          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
-          "url": "https://www.zhihu.com/question/2002848288005718086",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
         },
         {
           "title": "现货白银突破72美元/盎司，日内涨1.71%。",
@@ -723,9 +789,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "现货黄金站上4880美元/盎司，日内涨2.12%。",
+          "url": "https://flash.jin10.com/detail/20260206135241063800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "壳牌首席执行官：在数月内，委内瑞拉就有可能迎来一系列机遇，届时可能会有数十亿美元的投资和生产活动。",
@@ -783,6 +860,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "TD Cowen：将微芯科技(MCHP.O)目标价从75美元下调至70美元。",
+          "url": "https://flash.jin10.com/detail/20260206134445586800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "比特币跌穿6.7万美元。",
           "url": "https://wallstreetcn.com/livenews/3050779",
           "source": "华尔街见闻-快讯",
@@ -827,13 +915,24 @@
           "time_info": "10时49分"
         },
         {
+          "title": "现货白银突破74美元/盎司，日内涨4.69%。现货黄金突破4870美元/盎司，日内涨1.90%。",
+          "url": "https://flash.jin10.com/detail/20260206134210236800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "降息预期重燃助推新元走强 美就业数据疲软削弱美元吸引力",
           "url": "https://flash.jin10.com/detail/20260206120955381800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -882,13 +981,24 @@
           "time_info": "10时49分"
         },
         {
+          "title": "美、布两油延续涨势，WTI原油站上64美元/桶，日内涨1.33%。布伦特原油站上68美元/桶，日内涨1.43%。",
+          "url": "https://flash.jin10.com/detail/20260206133807727800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "美国四大科技巨头资本支出规模急剧攀升，2026年合计料达约6500亿美元",
           "url": "https://wallstreetcn.com/livenews/3051080",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -904,6 +1014,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "现货黄金较日低反弹近200美元",
+          "url": "https://flash.jin10.com/detail/20260206133021976800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "越南1月贸易帐 -17.8亿美元，前值-6.6亿美元。",
           "url": "https://flash.jin10.com/detail/20260206100226061800",
           "source": "金十数据",
@@ -913,6 +1034,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "现货白银反弹势头强劲，日内大涨4.00%，此前一度跌超8%，现报73.64美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206132611891800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "中俄中美元首互动有何深意",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E4%BF%84%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BA%92%E5%8A%A8%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "沙特阿美：沙特阿拉伯将3月销往美国的阿拉伯轻质原油官方售价定为较阿格斯含硫原油升水2.10美元/桶。",
@@ -929,7 +1072,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "茅台股价创9个月新高！融资余额却连降5日，白酒指数4连涨，板块均价重登首位",
@@ -961,7 +1104,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -997,6 +1140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "中国台湾证交所股价指数收盘变化不大，报31782.92点。",
+          "url": "https://wallstreetcn.com/livenews/3051132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）华尔街恐惧与贪婪指数（美盘后）",
@@ -1071,6 +1225,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "澳大利亚S&P/ASX 200指数收盘下跌2%，报8708.80点。",
+          "url": "https://wallstreetcn.com/livenews/3051123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "韩国首尔综合指数跌幅收窄至2%，此前一度跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3051041",
           "source": "华尔街见闻-快讯",
@@ -1099,7 +1264,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -1143,7 +1308,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -1184,7 +1349,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "UP主们用AI办了场春晚",
@@ -1196,8 +1361,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 12时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 14时01分]"
         },
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -1248,6 +1413,29 @@
           "time_info": "[01时01分 ~ 06时43分]"
         },
         {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时01分]"
+        },
+        {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 14时01分]"
+        },
+        {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -1259,27 +1447,17 @@
           "time_info": "07时33分"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
+            12,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 14时01分]"
         },
         {
           "title": "Anthropic发布新AI 金融服务公司承压",
@@ -1306,17 +1484,30 @@
           "time_info": "[04时44分 ~ 05时39分]"
         },
         {
-          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
-          "url": "https://www.cls.cn/detail/2282228",
-          "source": "财联社热门",
+          "title": "唐宫奇案剧宣闯入ai赛道",
+          "url": "https://www.douyin.com/hot/2390538",
+          "source": "抖音",
           "ranks": [
-            12,
-            6,
-            7
+            29,
+            20,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 14时01分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时55分]"
+          "time_info": "[10时49分 ~ 14时01分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -1330,19 +1521,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时47分 ~ 05时39分]"
-        },
-        {
-          "title": "唐宫奇案剧宣闯入ai赛道",
-          "url": "https://www.douyin.com/hot/2390538",
-          "source": "抖音",
-          "ranks": [
-            29,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时55分]"
         },
         {
           "title": "亚马逊(AMZN.O)CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。",
@@ -1369,18 +1547,6 @@
           "time_info": "[03时01分 ~ 03时47分]"
         },
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 12时55分]"
-        },
-        {
           "title": "高盛：甲骨文史诗级债券发售将引发AI债务狂潮",
           "url": "https://wallstreetcn.com/livenews/3050875",
           "source": "华尔街见闻-快讯",
@@ -1390,6 +1556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "黑石敲定五十亿澳元贷款协议 支持澳大利亚初创公司扩建AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260206134521872800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "OpenAI：GPT-5.3-Codex正式发布",
@@ -1442,7 +1619,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -1504,6 +1681,19 @@
           "time_info": "[01时01分 ~ 07时33分]"
         },
         {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 14时01分]"
+        },
+        {
           "title": "美股三大指数集体低开 纳指跌超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%851%25",
           "source": "百度热搜",
@@ -1519,17 +1709,28 @@
           "time_info": "[01时01分 ~ 06时43分]"
         },
         {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            4,
-            5
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时55分]"
+          "time_info": "[10时49分 ~ 14时01分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时01分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -1554,17 +1755,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时43分]"
-        },
-        {
-          "title": "美股、金银、比特币、石油 全崩了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 12时55分]"
         },
         {
           "title": "亚马逊(AMZN.O)美股盘后大跌近9%。",
@@ -1601,34 +1791,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时43分]"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
-          "title": "印度央行：6名委员一致投票通过维持利率不变的决议。 维持中性货币政策立场。 政策委员会指出，外部不利因素加剧。 近期国内通胀和增长前景乐观。 第一季度和第二季度CPI通胀率预期分别修正为4%和4.2%。 因贵金属价格上涨而小幅上修通胀预期。 对2026财年的GDP增速预测为7.4%。 预计2027财年第一季度实际GDP增长率为6.9%。",
-          "url": "https://wallstreetcn.com/livenews/3051111",
+          "title": "日本央行审议委员增一行：没有设定具体加息步伐。 认为日本央行的货币政策并未落后。 关注除大米价格之外的食品通胀。 如果价格走势持续高于2%，并不特别可取。 需要让价格走势稳定在2%左右。",
+          "url": "https://wallstreetcn.com/livenews/3051135",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "14时01分"
         },
         {
           "title": "金十期货2月6日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌850元/吨，中间价报138400元/吨。",
@@ -1640,6 +1819,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "印度央行：6名委员一致投票通过维持利率不变的决议。 维持中性货币政策立场。 政策委员会指出，外部不利因素加剧。 近期国内通胀和增长前景乐观。 第一季度和第二季度CPI通胀率预期分别修正为4%和4.2%。 因贵金属价格上涨而小幅上修通胀预期。 对2026财年的GDP增速预测为7.4%。 预计2027财年第一季度实际GDP增长率为6.9%。",
+          "url": "https://wallstreetcn.com/livenews/3051111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时01分]"
         },
         {
           "title": "周四（2月5日）美股尾盘，彭博电动汽车价格回报指数跌1.88%，报3467.18点，北京时间08:17短线走高，随后持续走低。 成分股沃尔沃汽车集团（欧股）收跌22.53%，Aurora Innovation股份跌9.7%，普拉格动力公司跌9%，MP材料跌7.3%，速腾聚创科技H股收涨2.79%表现第五，小米集团H股收涨2.83%，文远知行涨3.5%，地平线H股收涨3.64%，Panasonic株式会社收涨8.41%。",
@@ -1671,7 +1862,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -1696,6 +1887,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "日本央行审议委员增一行：我并不是说食品价格正在以需要立即采取政策行动的方式上涨。",
+          "url": "https://flash.jin10.com/detail/20260206134220361800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
@@ -1726,6 +1928,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "中方代表：军事领域人工智能应用事关全人类共同未来",
+          "url": "https://wallstreetcn.com/livenews/3051103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时01分]"
+        },
+        {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
           "url": "https://wallstreetcn.com/livenews/3050847",
           "source": "华尔街见闻-快讯",
@@ -1736,17 +1950,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 04时44分]"
-        },
-        {
-          "title": "中方代表：军事领域人工智能应用事关全人类共同未来",
-          "url": "https://wallstreetcn.com/livenews/3051103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
         },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
@@ -1777,7 +1980,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -1788,7 +1991,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -1806,8 +2009,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时01分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",

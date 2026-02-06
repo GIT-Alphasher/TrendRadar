@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T19:42:26.236032+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-02-06T21:19:53.683445+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 109,
+      "match_count": 115,
       "titles": [
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 21时19分]"
         },
         {
           "title": "美团拟豪掷7.17亿美元收购叮咚买菜",
@@ -156,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "现货白银站上76美元/盎司，日内涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3051444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "美团：拟7.17亿美元收购叮咚",
@@ -779,6 +790,17 @@
           "time_info": "[06时43分 ~ 07时33分]"
         },
         {
+          "title": "现货黄金涨超3%，现报4923.22美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3051439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "现货白银V型反转，日内涨近4%，此前一度跌超8%，现报73.64美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3051129",
           "source": "华尔街见闻-快讯",
@@ -829,9 +851,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "现货黄金短线涨势加速，日内涨3.00%，现报4923.61美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206210231395800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "现货黄金重返4800美元关口上方，较日低反弹近150美元。",
@@ -928,9 +961,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "现货黄金向上触及4910美元/盎司，日内涨2.75%。",
+          "url": "https://flash.jin10.com/detail/20260206210042021800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "现货白银日内跌幅达18.0%，报72.12美元/盎司。 纽约银日内跌幅达15.0%，报71.72美元/盎司。",
@@ -1241,6 +1285,28 @@
           "time_info": "14时01分"
         },
         {
+          "title": "瑞银：将亚马逊(AMZN.O)目标价从311美元下调至301美元。",
+          "url": "https://flash.jin10.com/detail/20260206203946242800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "美国天然气期货日内涨超3%，现报3.615美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3051412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "中俄中美元首互动有何深意",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E4%BF%84%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BA%92%E5%8A%A8%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
           "source": "bilibili 热搜",
@@ -1277,7 +1343,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "茅台股价创9个月新高！融资余额却连降5日，白酒指数4连涨，板块均价重登首位",
@@ -1358,6 +1424,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "金十图示：2026年02月06日（周五）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260206210602474800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "中国台湾证交所股价指数收盘变化不大，报31782.92点。",
           "url": "https://wallstreetcn.com/livenews/3051132",
           "source": "华尔街见闻-快讯",
@@ -1430,6 +1507,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "【每日收评】三大指数冲高回落全线收跌，油气、化工等周期股集体爆发",
+          "url": "https://www.cls.cn/detail/2282939",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "金十图示：2026年02月06日（周五）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20260206102559448800",
           "source": "金十数据",
@@ -1439,6 +1527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "波罗的海干散货指数跌0.67%，至1923点。",
+          "url": "https://flash.jin10.com/detail/20260206210108731800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "澳大利亚S&P/ASX 200指数收盘下跌2%，报8708.80点。",
@@ -1631,7 +1730,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
@@ -1668,8 +1767,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 16时56分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 21时19分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -1692,8 +1791,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 21时19分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -1722,6 +1821,19 @@
           "time_info": "[07时33分 ~ 15时11分]"
         },
         {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 21时19分]"
+        },
+        {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
           "url": "https://www.cls.cn/detail/2281879",
           "source": "财联社热门",
@@ -1732,18 +1844,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 06时43分]"
-        },
-        {
-          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
-          "url": "https://www.cls.cn/detail/2282814",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时42分]"
         },
         {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
@@ -1776,7 +1876,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1933,6 +2033,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
           "url": "https://wallstreetcn.com/livenews/3050813",
           "source": "华尔街见闻-快讯",
@@ -1950,7 +2061,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -2023,6 +2134,17 @@
           "time_info": "[07时33分 ~ 15时11分]"
         },
         {
+          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时19分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -2034,17 +2156,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时33分]"
-        },
-        {
-          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时42分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -2096,6 +2207,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 14时01分]"
+        },
+        {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时19分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -2181,24 +2304,13 @@
           "time_info": "17时56分"
         },
         {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "Biogen第四季度营收22.8亿美元，预估22.2亿美元。 第四季度调整后每股收益1.99美元，上年同期3.44美元，预估1.56美元。 Biogen预计2026年调整后每股收益15.25美元至16.25美元。 Biogen美股盘前微涨。",
           "url": "https://wallstreetcn.com/livenews/3051361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
@@ -2355,7 +2467,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -2452,8 +2564,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 21时19分]"
         },
         {
           "title": "印度央行否认减持美债 称持仓变动属正常波动",

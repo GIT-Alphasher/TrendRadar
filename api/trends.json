@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T11:28:49.957734+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-02-08T13:37:19.000709+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 11时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 13时37分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -27,11 +27,12 @@
             3,
             4,
             5,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 11时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 13时37分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -45,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 11时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 13时37分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -74,6 +75,17 @@
           "time_info": "[00时42分 ~ 07时40分]"
         },
         {
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
           "url": "https://wallstreetcn.com/articles/3765226",
           "source": "华尔街见闻",
@@ -83,8 +95,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时36分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 13时37分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -123,6 +135,17 @@
           "time_info": "[07时40分 ~ 11时28分]"
         },
         {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
           "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
           "source": "澎湃新闻",
@@ -137,7 +160,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
@@ -168,7 +191,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -177,22 +200,47 @@
           "url": "https://www.cls.cn/detail/2283800",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时37分]"
         },
         {
           "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
           "url": "https://wallstreetcn.com/livenews/3051758",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时37分]"
+        },
+        {
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 13时37分]"
+        },
+        {
+          "title": "华尔街分析师称比特币或跌至零美元",
+          "url": "https://www.toutiao.com/trending/7604270753562758698/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "13时37分"
         },
         {
           "title": "韩员工误发超400亿美元比特币",
@@ -201,18 +249,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
-          "url": "https://flash.jin10.com/detail/20260208081050471800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -223,7 +260,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
@@ -253,8 +290,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 11时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 13时37分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -266,6 +303,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 06时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "五角大楼“披萨指数”激增",
+          "url": "https://flash.jin10.com/detail/20260208113631011800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "五角大楼\"披萨指数\"激增",
+          "url": "https://wallstreetcn.com/livenews/3051770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         }
       ]
     },

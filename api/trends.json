@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T17:05:02.405675+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-02-09T19:04:14.304285+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时05分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 19时04分]"
         },
         {
           "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
@@ -129,6 +129,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时42分 ~ 05时37分]"
+        },
+        {
+          "title": "现货黄金短线一度走低20美元，最新报4991美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260209183013434800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "现货黄金重新站上5000美元",
@@ -238,6 +249,17 @@
           "time_info": "[17时04分 ~ 17时05分]"
         },
         {
+          "title": "假如你和全世界随机 100 人比一项能力，如果你赢了所有人，你获得 1 亿美元，你会比什么？",
+          "url": "https://www.zhihu.com/question/1987951909722690043",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
+        },
+        {
           "title": "现货黄金、白银亚市盘初走高，现货黄金现涨0.6%，接近4990美元关口；现货白银涨2.5%，报79.47美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3051897",
           "source": "华尔街见闻-快讯",
@@ -258,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "摩根大通：将思科(CSCO.O)目标价从90美元上调至95美元。",
+          "url": "https://flash.jin10.com/detail/20260209180824821800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "现货钯金日内涨幅达4.00%，现报1737.94美元/盎司。",
@@ -332,7 +365,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -439,8 +472,22 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "财联社C50风向指数调查：2月资金面或维持平稳宽松，市场对降准降息窗口存在分歧",
+          "url": "https://www.cls.cn/detail/2284330",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时09分 ~ 19时04分]"
+        },
         {
           "title": "金十图示：2026年02月09日（周一）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20260209102626280800",
@@ -495,19 +542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
-        },
-        {
-          "title": "财联社C50风向指数调查：2月资金面或维持平稳宽松，市场对降准降息窗口存在分歧",
-          "url": "https://www.cls.cn/detail/2284330",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 17时05分]"
         },
         {
           "title": "日经225指数期货日内涨幅扩大至3.2%。",
@@ -571,7 +605,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -593,9 +627,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260209180148422800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化、保险、证券、消费电子、半导体、全线上扬",
@@ -692,7 +737,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -719,13 +764,24 @@
           "time_info": "13时09分"
         },
         {
+          "title": "欧元区2月Sentix投资者信心指数 4.2，预期 0，前值 -1.8。",
+          "url": "https://wallstreetcn.com/livenews/3052239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "欧股集体高开，欧洲斯托克50指数开盘涨0.50%，德国DAX指数涨0.56%，英国富时100指数涨0.31%，法国CAC40指数涨0.30%，意大利富时MIB指数涨0.79%。",
           "url": "https://wallstreetcn.com/livenews/3052174",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
@@ -733,7 +789,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -782,6 +838,17 @@
           "time_info": "[00时41分 ~ 06时37分]"
         },
         {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 19时04分]"
+        },
+        {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
@@ -808,6 +875,19 @@
           "time_info": "[00时41分 ~ 10时56分]"
         },
         {
+          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
+          "url": "https://www.cls.cn/detail/2284177",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时09分 ~ 19时04分]"
+        },
+        {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
           "url": "https://www.cls.cn/detail/2283872",
           "source": "财联社热门",
@@ -818,17 +898,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 10时56分]"
-        },
-        {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 17时05分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -878,28 +947,16 @@
           "time_info": "[00时41分 ~ 07时40分]"
         },
         {
-          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
-          "url": "https://www.cls.cn/detail/2284177",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 17时05分]"
-        },
-        {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
           "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时05分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 19时04分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -908,11 +965,25 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 19时04分]"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时56分 ~ 17时05分]"
+          "time_info": "[15时18分 ~ 19时04分]"
         },
         {
           "title": "OpenClaw走红，个人AI代理时代真的来了",
@@ -924,20 +995,43 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 17时05分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 19时04分]"
         },
         {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
+          "title": "AIGC整活新春联欢会",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            3
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时05分]"
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时04分]"
+        },
+        {
+          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
+          "url": "https://www.cls.cn/detail/2284501",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时04分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时04分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -951,17 +1045,6 @@
           "time_info": "[01时36分 ~ 03时34分]"
         },
         {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        },
-        {
           "title": "UP主联合自制AI春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -973,26 +1056,15 @@
           "time_info": "[00时41分 ~ 00时42分]"
         },
         {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        },
-        {
-          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
-          "url": "https://www.cls.cn/detail/2284501",
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "AI“吞噬”软件行业？分析师：市场反应过度 逢低买入良机已至",
@@ -1048,6 +1120,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "因阻止第三方AI助手遭欧盟警告，Meta：欧盟没有理由干预WhatsApp商务API",
+          "url": "https://wallstreetcn.com/livenews/3052250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 10时56分]"
+        },
+        {
+          "title": "高盛交易员警告：美股抛售尚未结束",
+          "url": "https://flash.jin10.com/detail/20260209002129268800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 06时37分]"
+        },
+        {
+          "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
+          "url": "https://wallstreetcn.com/livenews/3051846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 06时37分]"
+        },
+        {
+          "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
+          "url": "https://www.cls.cn/detail/2284121",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 17时05分]"
+        },
+        {
+          "title": "美股软件股盘前上涨，微软(MSFT.O)涨0.8%，Datadog涨 1.2%，ServiceNow涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20260209180250782800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "美股三大股指期货周一盘初均涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260209070343004800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "摩根士丹利：美股科技股抛售后人工智能板块存在机遇",
+          "url": "https://wallstreetcn.com/livenews/3052244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     },
@@ -1119,73 +1291,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 10时56分]"
-        },
-        {
-          "title": "高盛交易员警告：美股抛售尚未结束",
-          "url": "https://flash.jin10.com/detail/20260209002129268800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时37分]"
-        },
-        {
-          "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
-          "url": "https://wallstreetcn.com/livenews/3051846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时39分 ~ 06时37分]"
-        },
-        {
-          "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
-          "url": "https://www.cls.cn/detail/2284121",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        },
-        {
-          "title": "美股三大股指期货周一盘初均涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260209070343004800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
       "match_count": 2,
       "titles": [
@@ -1211,6 +1316,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 04时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         }
       ]
     },

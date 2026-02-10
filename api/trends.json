@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T03:20:32.452254+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-02-11T04:57:09.897413+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -26,19 +26,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9140元，较周一夜盘收盘涨68点。成交量448.03亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053219",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20260211041812167800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时57分"
+        },
+        {
+          "title": "报道：黑石参投Anthropic融资轮，持股规模升至10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3053227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "巴菲特在日股上躺赚20亿美元",
@@ -52,6 +63,29 @@
           "time_info": "01时14分"
         },
         {
+          "title": "周二（2月10日）纽约尾盘，ICE美元指数大致持平，报96.814点，日内交投区间为97.007-96.609点。 彭博美元指数跌0.09%，报1181.94点，日内交投区间为1184.46-1180.25点。",
+          "url": "https://wallstreetcn.com/livenews/3053226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9140元，较周一夜盘收盘涨68点。成交量448.03亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时57分]"
+        },
+        {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
           "source": "澎湃新闻",
@@ -59,8 +93,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "在岸、离岸人民币对美元汇率双双升破6.91",
@@ -70,41 +104,91 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "WTI原油日内跌幅达1.0%，报63.7美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3053216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时57分]"
         },
         {
           "title": "据知情人士透露，阿布扎比MGX接近达成一份协议，将参与Anthropic本轮200亿美元规模的融资。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3053213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时57分]"
         },
         {
           "title": "WTI原油日内下跌1.00%，现报63.79美元/桶。",
           "url": "https://flash.jin10.com/detail/20260211025411420800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时57分]"
+        },
+        {
+          "title": "周二（2月10日），美联储隔夜逆回购协议（RRP）使用规模为14.47亿美元（交易对手5家），上个交易日报13.06亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时57分]"
+        },
+        {
+          "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.518%（1月12日为3.609%），投标倍数2.62（前次为2.65）。",
+          "url": "https://wallstreetcn.com/livenews/3053198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时57分]"
+        },
+        {
+          "title": "LME期铜收跌68美元，报13108美元/吨。 LME期铝收跌32美元，报3093美元/吨。 LME期锌收涨20美元，报3395美元/吨。 LME期铅收涨5美元，报1974美元/吨。 LME期镍收涨141美元，报17490美元/吨。 LME期锡收涨185美元，报49283美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3053194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时57分]"
+        },
+        {
+          "title": "WTI 3月原油期货收跌0.62%，报63.96美元/桶。 布伦特4月原油期货收跌0.24美元，跌幅0.35%，报68.80美元/桶。 NYMEX 3月天然气期货收报3.1150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9592美元/加仑，NYMEX 3月取暖油期货收报2.3988美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3053225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时57分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
@@ -118,17 +202,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "周二（2月10日），美联储隔夜逆回购协议（RRP）使用规模为14.47亿美元（交易对手5家），上个交易日报13.06亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "麦肯锡同意将旗下200亿美元投资业务控制权移交路博迈",
           "url": "https://wallstreetcn.com/livenews/3053162",
           "source": "华尔街见闻-快讯",
@@ -138,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.518%（1月12日为3.609%），投标倍数2.62（前次为2.65）。",
-          "url": "https://wallstreetcn.com/livenews/3053198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         },
         {
           "title": "摩根士丹利：特斯拉计划提振光伏制造，这可能会让公司价值增长250亿-500亿美元，或每股增长6-14美元。",
@@ -171,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "LME期铜收跌68美元，报13108美元/吨。 LME期铝收跌32美元，报3093美元/吨。 LME期锌收涨20美元，报3395美元/吨。 LME期铅收涨5美元，报1974美元/吨。 LME期镍收涨141美元，报17490美元/吨。 LME期锡收涨185美元，报49283美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3053194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         },
         {
           "title": "美元兑瑞郎USD/CHF走高，最新上涨0.03%，报0.7663。",
@@ -253,7 +304,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -263,8 +314,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
+        },
+        {
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -272,11 +334,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -284,11 +347,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -299,8 +363,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -310,41 +374,44 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
-        },
-        {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
-          "url": "https://wallstreetcn.com/livenews/3053195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "AI制图骗局",
           "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 04时57分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            19,
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 04时57分]"
+        },
+        {
+          "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
+          "url": "https://wallstreetcn.com/livenews/3053195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时57分]"
         },
         {
           "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
@@ -353,7 +420,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -372,18 +439,30 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "阿根廷MERVAL指数收涨2.86%，报306.2万点。",
+          "url": "https://wallstreetcn.com/livenews/3053231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
         {
           "title": "恒生指数主连夜盘收涨0.31%，报27260点。 恒生科技指数主连夜盘收涨0.68%，报5490点。",
           "url": "https://wallstreetcn.com/livenews/3053218",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时57分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
@@ -394,8 +473,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）全球股市指数-欧洲市场（收盘）",
@@ -466,8 +545,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
@@ -476,7 +555,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -487,7 +566,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -498,7 +577,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         }
@@ -516,8 +595,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -527,8 +606,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "美股1月日均成交额突破1万亿美元",
@@ -556,8 +635,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时57分]"
         },
         {
           "title": "美国能源信息署（EIA）发布短期能源展望报告（STEO）：预计2026年布伦特原油价格为58美元/桶（之前预计56美元/桶），预计2027年53美元/桶（之前预计54美元/桶），",
@@ -569,6 +648,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "30年期美债收益率跌超7.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3053229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "机构：美债替代品寥寥 外资持债意向坚挺",
+          "url": "https://flash.jin10.com/detail/20260211041750931800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     }

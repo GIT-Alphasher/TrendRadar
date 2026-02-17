@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T14:09:02.344022+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-02-17T15:56:06.097652+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -50,26 +50,26 @@
           "time_info": "[02时58分 ~ 05时39分]"
         },
         {
-          "title": "现货黄金一度向下触及4860美元/盎司，现跌2.36%。纽约期金日内跌超3%。现货白银一度跌破73美元/盎司，日内跌4.58%。",
-          "url": "https://wallstreetcn.com/livenews/3055888",
+          "title": "英镑兑美元跌幅达0.5%，现报1.3558。",
+          "url": "https://wallstreetcn.com/livenews/3055915",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "15时56分"
         },
         {
-          "title": "现货黄金跌破4900美元/盎司，日内跌幅1.83%。现货白银日内跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3055887",
-          "source": "华尔街见闻-快讯",
+          "title": "英镑兑美元GBP/USD日内下跌0.50%，现报1.3562。",
+          "url": "https://flash.jin10.com/detail/20260217153431249800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "15时56分"
         },
         {
           "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
@@ -163,6 +163,18 @@
           "time_info": "[05时39分 ~ 07时38分]"
         },
         {
+          "title": "现货黄金一度向下触及4860美元/盎司，现跌2.36%。纽约期金日内跌超3%。现货白银一度跌破73美元/盎司，日内跌4.58%。",
+          "url": "https://wallstreetcn.com/livenews/3055888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 15时56分]"
+        },
+        {
           "title": "现货钯金上涨逾3%，至1741.69美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260217002907635800",
           "source": "金十数据",
@@ -186,6 +198,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时39分]"
+        },
+        {
+          "title": "现货黄金跌破4900美元/盎司，日内跌幅1.83%。现货白银日内跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3055887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 15时56分]"
         },
         {
           "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
@@ -280,7 +304,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -291,9 +315,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "英镑兑美元5分钟内下跌约30点，报1.3583。",
+          "url": "https://wallstreetcn.com/livenews/3055907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "现货黄金延续跌势，回落至4890美元/盎司下方，日内跌2.01%。",
@@ -302,7 +337,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -313,7 +348,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -324,7 +359,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -335,7 +370,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -346,9 +381,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "印度的阿达尼计划到2035年投资1000亿美元建设人工智能数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD短线下挫近30点，最新报1.3585。",
+          "url": "https://flash.jin10.com/detail/20260217150303171800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "现货钯金站上1700美元/盎司，日内涨1.56%。",
@@ -371,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "报道：月之暗面寻求在新一轮融资中达到100亿美元估值，阿里腾讯等拟投超7亿美元",
+          "url": "https://wallstreetcn.com/livenews/3055890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
@@ -398,7 +466,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -409,8 +477,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 14时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 15时56分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -433,8 +501,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 14时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 15时56分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -446,8 +514,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 14时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 15时56分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -466,11 +534,12 @@
           "url": "https://www.cls.cn/detail/2290580",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 14时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 15时56分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -478,11 +547,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 14时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 15时56分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -676,6 +746,17 @@
           "time_info": "[06时39分 ~ 07时38分]"
         },
         {
+          "title": "当高定遇上AI，“上海定制”的变与不变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 15时56分]"
+        },
+        {
           "title": "博主：多数传统数字公司难享AI红利",
           "url": "https://www.toutiao.com/trending/7607059889001512970/",
           "source": "今日头条",
@@ -696,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "西班牙首相桑切斯：我们将要求检察官调查X和Meta(META.O)等公司，因其传播AI生成的有关儿童的不当内容。",
+          "url": "https://flash.jin10.com/detail/20260217151756399800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "印度举办AI“影响力”峰会",
@@ -756,7 +848,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "明晟公司MSCI北欧国家指数大致收平，报385.58点。 在十个板块中，北欧医疗保健板块跌幅最大。 DSV A/S跌3.1%，在一众北欧个股里表现最差。",
@@ -897,15 +989,48 @@
           "time_info": "[10时51分 ~ 14时09分]"
         },
         {
+          "title": "泰国SET指数上涨1%，报1452.67点。",
+          "url": "https://flash.jin10.com/detail/20260217152729795800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "泰国SET指数涨1%，报1452.67点。",
+          "url": "https://wallstreetcn.com/livenews/3055910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "日本东证指数下跌1.0%，报3,749.41。",
           "url": "https://flash.jin10.com/detail/20260217132131107800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "金十图示：2026年02月17日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260217151138230800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "金十图示：2026年02月16日（周一）全球股市指数-美洲市场（收盘）",
@@ -917,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "欧元区斯托克50指数期货下跌0.40%，德国DAX指数期货下跌0.40%，英国富时100指数期货下跌0.03%。",
+          "url": "https://flash.jin10.com/detail/20260217150920001800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "日经225指数延续跌势，现跌0.7%，报56390.22。",
@@ -941,13 +1077,24 @@
           "time_info": "13时02分"
         },
         {
+          "title": "日经225指数收跌0.4%，报56,566.49点。 日本东证指数收跌0.7%，报3,761.55点。",
+          "url": "https://wallstreetcn.com/livenews/3055893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "印度SENSEX指数转涨，最新上涨0.1%。",
           "url": "https://flash.jin10.com/detail/20260217124525764800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -966,7 +1113,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -979,8 +1126,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 14时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 15时56分]"
+        },
+        {
+          "title": "英国利率期货价格显示，英国央行在3月降息25个基点的概率为73%，而劳动力市场数据公布前该概率约为65%。",
+          "url": "https://flash.jin10.com/detail/20260217153607126800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "各大银行/品牌金条价格排行一览",
@@ -1000,7 +1158,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -1053,6 +1211,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "美国银行2月基金经理调查：全球投资者仍“极度乐观”，但一季度资产价格上行空间有限。",
+          "url": "https://flash.jin10.com/detail/20260217152309700800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "波罗的海干散货指数上涨，船运价格全面走高",
           "url": "https://flash.jin10.com/detail/20260216233916573800",
           "source": "金十数据",
@@ -1067,7 +1236,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -1077,19 +1246,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 14时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 15时56分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
           "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 14时09分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 15时56分]"
         },
         {
           "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
@@ -1114,6 +1284,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时49分]"
+        },
+        {
+          "title": "美国银行2月基金经理调查：人工智能泡沫是首要尾部风险，做多黄金是最拥挤的交易，私募信贷最可能引发信用事件。",
+          "url": "https://flash.jin10.com/detail/20260217152514499800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎推出现在春晚",
@@ -1158,6 +1339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3055891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         }
       ]
     },
@@ -1174,8 +1366,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时51分 ~ 14时09分]"
+          "appearance_count": 7,
+          "time_info": "[10时51分 ~ 15时56分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",

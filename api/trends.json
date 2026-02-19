@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-19T19:51:17.331050+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-02-19T21:27:42.528011+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 85,
+      "match_count": 92,
       "titles": [
+        {
+          "title": "“平价减肥药”供应商Hims开支超10亿美元，用于全球扩张",
+          "url": "https://wallstreetcn.com/livenews/3056646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
         {
           "title": "力拓：预计2026年将斥资约10亿美元用于矿山关闭活动，与2025年持平。",
           "url": "https://flash.jin10.com/detail/20260219134352559800",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
-        },
-        {
-          "title": "美国机械制造商Deere第一季度每股收益2.42美元，去年同期为3.19美元，市场预期为2.05美元。 第一季度净收入为6.56亿美元，同比下降25%，市场预期为5.54亿美元。 预计全年净收入为45亿至50亿美元，此前预计40亿至47.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
         },
         {
           "title": "美国IPO市场在72亿美元爆发后步入季节性低迷",
@@ -102,7 +102,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -204,6 +204,18 @@
           "time_info": "[04时52分 ~ 05时43分]"
         },
         {
+          "title": "美国机械制造商Deere第一季度每股收益2.42美元，去年同期为3.19美元，市场预期为2.05美元。 第一季度净收入为6.56亿美元，同比下降25%，市场预期为5.54亿美元。 预计全年净收入为45亿至50亿美元，此前预计40亿至47.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时27分]"
+        },
+        {
           "title": "两名消息人士表示，石油交易商贡渥集团估值约为50亿美元。",
           "url": "https://flash.jin10.com/detail/20260219182649971800",
           "source": "金十数据",
@@ -278,6 +290,17 @@
           "time_info": "[15时55分 ~ 18时01分]"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 21时27分]"
+        },
+        {
           "title": "现货白银日内涨超2％，现报78.8美元/盎司。现货黄金涨0.76%，报5015.2美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3056589",
           "source": "华尔街见闻-快讯",
@@ -302,17 +325,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时01分 ~ 19时51分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时51分]"
         },
         {
           "title": "eBay预计一季度净营收30亿-30.5亿美元，分析师预期27.9亿美元。 将按大约12亿美元现金从Etsy收购Depop。",
@@ -469,6 +481,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "欧元兑美元下跌0.1%至1.1772。",
+          "url": "https://wallstreetcn.com/livenews/3056640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "WTI原油向上触及66美元/桶，日内涨1.52%。",
           "url": "https://flash.jin10.com/detail/20260219163654366800",
           "source": "金十数据",
@@ -478,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "欧洲央行Demarco：如果通胀持续低于2%，可能需要降息。 需要观察1月的低通胀是否是一次性的。 若欧元达到1.20至1.25美元，“也并非世界末日”。",
+          "url": "https://wallstreetcn.com/livenews/3056639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "“抛售美国”论暂不成立：去年海外投资者净买1.55万亿美元美长期金融资产",
@@ -555,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "俄罗斯至2月13日当周央行黄金和外汇储备 8061亿美元，前值7975亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219210005468800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "美国12月长期资本净流入 280亿美元，前值2202亿美元。",
@@ -643,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "英镑兑美元下跌0.2%至1.3470，创一个月低点。",
+          "url": "https://wallstreetcn.com/livenews/3056633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "现货黄金站上5010美元/盎司，日内涨2.73%。",
@@ -865,6 +921,17 @@
           "time_info": "16时58分"
         },
         {
+          "title": "欧洲央行德马尔科：如果欧元/美元升至1.20至1.25也并非世界末日。",
+          "url": "https://flash.jin10.com/detail/20260219202231093800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "现货黄金站上4990美元/盎司，日内涨2.32%。",
           "url": "https://flash.jin10.com/detail/20260218225124924800",
           "source": "金十数据",
@@ -973,12 +1040,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "美元还能稳多久",
+          "url": "https://www.toutiao.com/trending/7608528052665978418/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -1014,8 +1092,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时53分 ~ 19时51分]"
+          "appearance_count": 11,
+          "time_info": "[10时53分 ~ 21时27分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -1029,8 +1107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时53分 ~ 19时51分]"
+          "appearance_count": 11,
+          "time_info": "[10时53分 ~ 21时27分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -1046,8 +1124,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时01分 ~ 19时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时01分 ~ 21时27分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -1063,8 +1141,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时01分 ~ 19时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时01分 ~ 21时27分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -1143,6 +1221,17 @@
           "time_info": "[06时43分 ~ 07时39分]"
         },
         {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时27分]"
+        },
+        {
           "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
           "url": "https://wallstreetcn.com/livenews/3056487",
           "source": "华尔街见闻-快讯",
@@ -1190,6 +1279,17 @@
           "time_info": "[10时53分 ~ 10时54分]"
         },
         {
+          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2002102277314454310",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "爱尔兰财政部：AI应用已冲击爱尔兰毕业生就业市场",
           "url": "https://wallstreetcn.com/livenews/3056415",
           "source": "华尔街见闻-快讯",
@@ -1199,17 +1299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "什么样的软件会被AI淘汰？",
-          "url": "https://wallstreetcn.com/articles/3765860",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
         },
         {
           "title": "300亿对冲基金大佬发声：2026全球最大“地雷”，竟然是AI？丨Hi，今天怎么看？",
@@ -1232,6 +1321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -1336,8 +1436,41 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "波罗的海干散货指数下跌2.13%，至2019点。",
+          "url": "https://wallstreetcn.com/livenews/3056645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "波罗的海干散货指数下跌2.13%，至2019点。",
+          "url": "https://flash.jin10.com/detail/20260219210748451800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "金十图示：2026年02月19日（周四）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260219210527661800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
         {
           "title": "欧股集体低开，英国富时100指数跌0.2%，德国DAX指数跌0.28%，欧洲斯托克50指数跌0.15%，法国CAC40指数跌0.2%。空客欧股下跌3.8%，因交付指引不及预期。",
           "url": "https://wallstreetcn.com/livenews/3056600",
@@ -1470,6 +1603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "土耳其主要股指BIST100指数下跌3%。",
+          "url": "https://flash.jin10.com/detail/20260219210011405800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "德国DAX指数日内跌幅达1.00%。",
@@ -1640,7 +1784,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -1675,8 +1819,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时42分 ~ 19时51分]"
+          "appearance_count": 14,
+          "time_info": "[06时42分 ~ 21时27分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -1704,8 +1848,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时01分 ~ 19时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时01分 ~ 21时27分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1717,8 +1861,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时01分 ~ 19时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时01分 ~ 21时27分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1732,19 +1876,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时01分 ~ 19时51分]"
-        },
-        {
-          "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260219014349881800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 22,
+          "time_info": "[00时01分 ~ 21时27分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1756,19 +1889,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时55分 ~ 19时51分]"
+          "appearance_count": 7,
+          "time_info": "[15时55分 ~ 21时27分]"
         },
         {
           "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时27分]"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260219014349881800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "01时57分"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -1880,6 +2025,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
           "url": "https://flash.jin10.com/detail/20260218231319433800",
           "source": "金十数据",
@@ -1938,7 +2094,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -1969,7 +2125,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -2081,6 +2237,29 @@
           "time_info": "[05时43分 ~ 06时43分]"
         },
         {
+          "title": "美国两大人工智能巨头CEO拒绝牵手",
+          "url": "https://www.toutiao.com/trending/7608479654936674347/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时27分]"
+        },
+        {
+          "title": "ServiceNow首席运营官Amit Zavery：如果一些软件公司未能为采用人工智能而进行业务转型，那么行业内可能会出现整合。",
+          "url": "https://wallstreetcn.com/livenews/3056641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "印度总理莫迪：人工智能将把人类的潜力提升到新的高度。",
           "url": "https://flash.jin10.com/detail/20260219152513852800",
           "source": "金十数据",
@@ -2109,18 +2288,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "美国两大人工智能巨头CEO拒绝牵手",
-          "url": "https://www.toutiao.com/trending/7608479654936674347/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -2151,11 +2319,12 @@
             4,
             3,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时39分 ~ 19时51分]"
+          "appearance_count": 12,
+          "time_info": "[07时39分 ~ 21时27分]"
         },
         {
           "title": "深圳花市现反向拍卖 价格越喊越低",

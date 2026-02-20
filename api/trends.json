@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T06:37:19.985602+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-02-21T07:38:27.116021+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普全球关税被推翻！美国最高法院裁定违法，超1750亿美元税收面临退款",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 06时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 07时38分]"
         },
         {
           "title": "纽约期金突破5100美元/盎司，日内涨2.05%。",
@@ -26,19 +26,33 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时38分]"
+        },
+        {
+          "title": "美国太平洋电力公司同意支付5.75亿美元山火索赔",
+          "url": "https://wallstreetcn.com/livenews/3057122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时37分]"
+          "time_info": "[05时35分 ~ 07时38分]"
         },
         {
           "title": "周五（2月20日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.8978元，较周四纽约尾盘涨24点，日内整体交投于6.9065-6.8960元区间。",
           "url": "https://wallstreetcn.com/livenews/3057132",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时38分]"
         },
         {
           "title": "纽约金日内涨幅达2.0%，报5097.7美元/盎司。",
@@ -53,6 +67,19 @@
           "time_info": "[03时49分 ~ 04时43分]"
         },
         {
+          "title": "美联储：美国上周银行存款18.764万亿美元，之前一周18.721万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3057120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时38分]"
+        },
+        {
           "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.086美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260221002912704800",
           "source": "金十数据",
@@ -63,18 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时47分]"
-        },
-        {
-          "title": "美国太平洋电力公司同意支付5.75亿美元山火索赔",
-          "url": "https://wallstreetcn.com/livenews/3057122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时37分]"
         },
         {
           "title": "美元指数本周涨超0.9%",
@@ -89,18 +104,6 @@
           "time_info": "[04时43分 ~ 05时35分]"
         },
         {
-          "title": "美联储：美国上周银行存款18.764万亿美元，之前一周18.721万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3057120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时37分]"
-        },
-        {
           "title": "现货白银站上83美元/盎司，日内涨5.77%。",
           "url": "https://flash.jin10.com/detail/20260221034016715800",
           "source": "金十数据",
@@ -108,8 +111,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时37分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时38分]"
         },
         {
           "title": "专家解读：特朗普启用第122条款需宣布“美元即将大幅贬值”或“严重收支赤字”",
@@ -119,8 +122,33 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时38分]"
+        },
+        {
+          "title": "Global X网络安全ETF收跌4.94%，报25.59美元，创2023年以来收盘新低，此前Anthropic发布大模型安全功能。",
+          "url": "https://wallstreetcn.com/livenews/3057115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时37分]"
+          "time_info": "[05时35分 ~ 07时38分]"
+        },
+        {
+          "title": "美国 2025 年贸易逆差录得 9015 亿美元，较去年仅下降 20 亿美元，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2007954812189295280",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时38分]"
         },
         {
           "title": "WTI 3月原油期货收跌0.04美元，跌幅0.06%，报66.39美元/桶。 布伦特4月原油期货收涨0.10美元，涨幅0.14%，报71.76美元/桶。 NYMEX 3月天然气期货收报3.0470美元/百万英热单位。 NYMEX 3月汽油期货收报1.9973美元/加仑，NYMEX 3月取暖油期货收报2.5858美元/加仑。",
@@ -135,18 +163,6 @@
           "time_info": "[04时43分 ~ 05时35分]"
         },
         {
-          "title": "Global X网络安全ETF收跌4.94%，报25.59美元，创2023年以来收盘新低，此前Anthropic发布大模型安全功能。",
-          "url": "https://wallstreetcn.com/livenews/3057115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时37分]"
-        },
-        {
           "title": "现货黄金短线波动不大，现报5070.89美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260221024028732800",
           "source": "金十数据",
@@ -159,16 +175,16 @@
           "time_info": "[03时01分 ~ 03时49分]"
         },
         {
-          "title": "美国 2025 年贸易逆差录得 9015 亿美元，较去年仅下降 20 亿美元，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2007954812189295280",
-          "source": "知乎",
+          "title": "报道：英伟达接近向OpenAI投资300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3057127",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            15
+            17,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时37分]"
+          "time_info": "[06时37分 ~ 07时38分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：2月17日当周，投机者所持美元空头头寸创2021年以来新高。",
@@ -206,6 +222,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3057134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "标普500指数涨幅重新扩大至0.6%，纳斯达克综合指数日内涨幅达1.0%，报22910.12点。 “特朗普关税输家指数”一度从118.50点附近狂飙至122.02点，日内整体涨幅瞬间扩大至超过3.19%，目前涨幅不足1.20%。 现货白银日内涨幅达5.0%，报82.45美元/盎司。 纽约银日内涨幅达6.0%，报82.3美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3057005",
           "source": "华尔街见闻-快讯",
@@ -226,17 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "报道：英伟达接近向OpenAI投资300亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "沃顿预算模型经济学家：美国或需退还1750亿美元关税",
@@ -319,7 +335,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -330,8 +346,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -339,11 +355,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -352,11 +369,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -367,8 +385,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -379,8 +397,48 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.toutiao.com/trending/7607847863079108650/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            14,
+            17,
+            9,
+            30,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -406,45 +464,6 @@
           "time_info": "[00时54分 ~ 06时37分]"
         },
         {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
-        },
-        {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://www.toutiao.com/trending/7607847863079108650/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            14,
-            17,
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时35分]"
-        },
-        {
           "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
           "url": "https://www.zhihu.com/question/2005731383423824873",
           "source": "知乎",
@@ -453,11 +472,46 @@
             17,
             13,
             16,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 06时37分]"
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时38分]"
+        },
+        {
+          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3057138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3057126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时38分]"
+        },
+        {
+          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
+          "url": "https://wallstreetcn.com/articles/3765904",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时38分]"
         },
         {
           "title": "OpenAI创始人点赞中国大模型",
@@ -471,35 +525,13 @@
           "time_info": "[01时47分 ~ 03时01分]"
         },
         {
-          "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3057126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
-          "url": "https://wallstreetcn.com/articles/3765904",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
           "title": "微软任命AI高管执掌Xbox，重新致力于发展主机业务",
           "url": "https://wallstreetcn.com/livenews/3057100",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         }
@@ -507,19 +539,8 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "“特朗普关税输家指数”收涨超1.3%",
-          "url": "https://wallstreetcn.com/livenews/3057129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
         {
           "title": "耐克跌幅扩大至2.6%。 “特朗普关税输家指数”跌0.3%，刷新日低至117.81点，美国最高法院判定特朗普关税政策违法时飙升至122.02点刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3057031",
@@ -530,6 +551,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "“特朗普关税输家指数”收涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3057129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时38分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.05%，报7549.88点，本周累计下跌0.55%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.65%，本周累涨1.25%； XtrackersHarvest中证50（ASHS）收涨0.50%，本周累涨1.09%； 中国科技指数ETF（CQQQ）收涨0.22%，本周累涨0.73%； 中概互联网指数ETF（KWEB）收跌0.15%，本周累跌0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3057113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时38分]"
         },
         {
           "title": "美国总统特朗普谈及贸易扩张法案232条款、122条款、201条款、以及301条款，称这些都是选项，232和301关税保留。 特朗普签署命令，将实施10%的全球关税，“我认为三天后生效”。 威胁要征收15%-30%的汽车关税。 “我已经拯救了英特尔。” 标普500指数涨幅扩大至0.6%，半导体指数涨0.9%%。",
@@ -569,18 +615,6 @@
           "time_info": "[03时49分 ~ 04时43分]"
         },
         {
-          "title": "纳斯达克金龙中国指数收跌0.05%，报7549.88点，本周累计下跌0.55%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.65%，本周累涨1.25%； XtrackersHarvest中证50（ASHS）收涨0.50%，本周累涨1.09%； 中国科技指数ETF（CQQQ）收涨0.22%，本周累涨0.73%； 中概互联网指数ETF（KWEB）收跌0.15%，本周累跌0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3057113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时37分]"
-        },
-        {
           "title": "波罗的海干散货指数从一周低点反弹，海岬型船和巴拿马型船运价走强",
           "url": "https://flash.jin10.com/detail/20260221000520698800",
           "source": "金十数据",
@@ -615,6 +649,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "美联储最青睐的通胀指标超预期！美国12月核心PCE物价指数同比3%",
+          "url": "https://wallstreetcn.com/articles/3765907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "标普500指数收涨47.62点，涨幅0.69%，报6909.51点。 道琼斯工业平均指数收涨230.81点，涨幅0.47%，报49625.97点。 纳斯达克综合指数（纳指）收涨203.34点，涨幅0.90%，报22886.069点。 纳斯达克100指数收涨215.279点，涨幅0.87%，报25012.619点。 纳斯达克生物科技指数收跌0.52%，报5979.49点。 费城半导体指数收涨1.07%，报8260.415点。 费城证交所KBW银行指数收涨0.93%，报169.18点。",
           "url": "https://wallstreetcn.com/livenews/3057111",
           "source": "华尔街见闻-快讯",
@@ -643,15 +688,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "美国最高法院关税判决日，纳指收涨0.9%，本周纳指科技指数涨超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3057111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -661,8 +717,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -689,6 +745,18 @@
           "time_info": "[03时49分 ~ 06时37分]"
         },
         {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
+        },
+        {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
@@ -700,16 +768,37 @@
           "time_info": "[00时54分 ~ 03时01分]"
         },
         {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
+          "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3057139",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3057137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -728,22 +817,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时38分]"
         },
         {
           "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
           "url": "https://wallstreetcn.com/articles/3765893",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时38分]"
         },
         {
           "title": "瑞达利欧家族办公室披露5亿美元美股持仓：重仓黄金",
@@ -785,6 +876,19 @@
           "time_info": "01时47分"
         },
         {
+          "title": "周五（2月20日），彭博电动汽车价格回报指数跌0.71%，报3622.13点，本周累计下跌0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3057123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时38分]"
+        },
+        {
           "title": "美国国债价格扩大跌幅，此前最高法院推翻特朗普关税政策，让投资者担忧美国债务问题",
           "url": "https://wallstreetcn.com/livenews/3057077",
           "source": "华尔街见闻-快讯",
@@ -798,27 +902,16 @@
           "time_info": "[03时01分 ~ 04时43分]"
         },
         {
-          "title": "周五（2月20日），彭博电动汽车价格回报指数跌0.71%，报3622.13点，本周累计下跌0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3057123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时37分]"
-        },
-        {
           "title": "史上最长春节假期｜假期第六天景区仍然“谁来都得排队”，旅游产品价格“阶梯式回落”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32635815",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时38分]"
         }
       ]
     },
@@ -831,11 +924,12 @@
           "url": "https://wallstreetcn.com/livenews/3057133",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时38分]"
         }
       ]
     },
@@ -852,8 +946,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时38分]"
         }
       ]
     }

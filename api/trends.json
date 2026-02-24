@@ -1,11 +1,492 @@
 {
-  "generated_at": "2026-02-25T02:13:28.568010+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-02-25T03:53:36.372805+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
+          "url": "https://wallstreetcn.com/livenews/3058315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "WTI 4月原油期货收跌1.03%，报65.63美元/桶。 NYMEX 3月天然气期货收报2.9150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9714美元/加仑，NYMEX 3月取暖油期货收报2.6869美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3058313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.00%，现报65.69美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260225031708396800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "据知情人士透露，VoltaGrid考虑IPO，希望获得超过100亿美元估值。 该公司已经接触黑石集团、贝莱德集团等私募。 在与甲骨文等公司合同的支撑之下，预计该公司EBITDA到2028年将达到11亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.0%，报65.6美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3058311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "LME期铜收涨298美元，报13166美元/吨。 LME期铝收涨4美元，报3094美元/吨。 LME期锌收涨25美元，报3380美元/吨。 LME期铅收涨4美元，报1955美元/吨。 LME期镍收涨626美元，报17909美元/吨。 LME期锡收涨2582美元，报5030美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3058283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 03时53分]"
+        },
+        {
+          "title": "周二（2月24日），韩元兑美元最终涨0.17%，报1440.66韩元。",
+          "url": "https://wallstreetcn.com/livenews/3058278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 03时53分]"
+        },
+        {
+          "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
+          "url": "https://wallstreetcn.com/articles/3766076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
+        },
+        {
+          "title": "花旗：2026年平均铜价基准情景预测仍为每吨1.3万美元。",
+          "url": "https://flash.jin10.com/detail/20260225012325195800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "花旗：短期看涨铜价，预计未来三个月铜价将触及每吨14,000美元。",
+          "url": "https://flash.jin10.com/detail/20260225012259334800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8812元，较上个交易日夜盘收盘涨220点。成交量365.49亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3058304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "WTI原油日内跌幅达0.5%，报65.87美元/桶。 据媒体报道，伊朗副外长塔赫特-拉万奇表示，德黑兰准备采取任何必要措施与美国达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3058229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "花旗：短期看涨铜价，预计未来三个月将升至1.4万美元",
+          "url": "https://flash.jin10.com/detail/20260225025348041800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "【闪迪遭香橼做空，股价盘中跌超5％】知名做空机构香橼称正在做空闪迪，指当前存储芯片市场繁荣为“供应幻象”。闪迪股价跌5.4％，报630美元/股。",
+          "url": "https://wallstreetcn.com/livenews/3058227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "Prosus于2月16-20日当周按均价43.5011欧元回购股票205.8244万股，合计超过0.895亿欧元（折合将近1.057亿美元）。 同期，Naspers按均价900.6142南非兰特回购79.6820万股，合计超7.176亿兰特（折合将近0.447亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3058222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "WTI原油期货日内跌超1.00%，现报65.64美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260224233311312800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "美国精神航空：公司与其有担保债权人就重组支持协议的关键条款达成原则性协议。预计于春末或夏初退出破产保护。预计公司债务及租赁负债将由申请破产前的74亿美元降至重整后约21亿美元。",
+          "url": "https://flash.jin10.com/detail/20260225004840149800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "周二（2月24日），美联储隔夜逆回购协议（RRP）使用规模为9.17亿美元（交易对手17家），上个交易日报8.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3058289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了17个对手方的9.17亿美元。",
+          "url": "https://flash.jin10.com/detail/20260225022208296800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "西方石油公司首席执行官：在油价维持在每桶60至65美元的区间内，美国的石油产量可以保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260225022104993800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "美、布两油短线下挫0.5美元，现分别报66.26美元/桶和71.05美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260224232813066800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "西方石油公司首席执行官：油价需达到70美元才能推动行业增产。",
+          "url": "https://flash.jin10.com/detail/20260225022051251800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "WTI原油期货跌破66美元/桶，日内跌0.48%。",
+          "url": "https://flash.jin10.com/detail/20260224232733568800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
+          "url": "https://flash.jin10.com/detail/20260225033807828800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
+        },
+        {
+          "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
+          "url": "https://wallstreetcn.com/livenews/3058280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 03时53分]"
+        },
+        {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 03时53分]"
+        },
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 03时53分]"
+        },
+        {
+          "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时13分]"
+        },
+        {
+          "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
+          "url": "https://flash.jin10.com/detail/20260225031254647800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "“官方辟谣”：白宫经济学家声称Citrini的AI风险报告纯属“科幻小说”",
+          "url": "https://wallstreetcn.com/livenews/3058307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
+          "url": "https://wallstreetcn.com/livenews/3058274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "欧洲央行官员称，该地区银行业对从AI中受益抱有信心",
+          "url": "https://wallstreetcn.com/livenews/3058273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "美联储理事库克：AI已经被纳入美联储的预测。",
+          "url": "https://wallstreetcn.com/livenews/3058228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "Anthropic推出智能体AI工具，针对实现投资银行和人力资源自动化",
+          "url": "https://wallstreetcn.com/livenews/3058225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
+          "url": "https://flash.jin10.com/detail/20260225024214208800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "美媒：美国防部限Anthropic周五前放弃AI安全限制，否则面临严惩",
+          "url": "https://flash.jin10.com/detail/20260225023655984800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "美联储理事沃勒：美国央行正推进AI的系统性部署",
+          "url": "https://wallstreetcn.com/livenews/3058261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "MSCI向客户提供AI接口，支持调用专属数据",
+          "url": "https://wallstreetcn.com/livenews/3058259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
+          "url": "https://flash.jin10.com/detail/20260225022633218800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "汤森路透股价大涨，该公司取得AI突破，提及与Anthropic的合作",
+          "url": "https://wallstreetcn.com/livenews/3058212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "指数",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "路透调查：标普500指数2026年底有望上涨10%至7500点",
@@ -14,7 +495,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -25,7 +506,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -49,8 +530,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.64%，报2259.13点。",
@@ -81,9 +562,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.77%，报26763点。 恒生科技指数主连夜盘收涨1.08%，报5319点。",
+          "url": "https://wallstreetcn.com/livenews/3058303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨超1.1%。刷新日高。 热门中概股万国数据涨6.40%，小鹏涨6%，世纪互联、大全新能源涨5.2%，百度跌0.79%，蔚来跌1.89%。 ETF中，KWEB目前跌0.08%，CQQQ跌0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3058295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报383.67点。 在十个板块中，北欧工业板块涨幅最大。 博利登Boliden AB涨4.1%，在一众北欧个股里领跑。",
@@ -92,7 +595,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -147,7 +650,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -176,285 +679,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "LME期铜收涨298美元，报13166美元/吨。 LME期铝收涨4美元，报3094美元/吨。 LME期锌收涨25美元，报3380美元/吨。 LME期铅收涨4美元，报1955美元/吨。 LME期镍收涨626美元，报17909美元/吨。 LME期锡收涨2582美元，报5030美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3058283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "周二（2月24日），韩元兑美元最终涨0.17%，报1440.66韩元。",
-          "url": "https://wallstreetcn.com/livenews/3058278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
-          "url": "https://wallstreetcn.com/articles/3766076",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
-        },
-        {
-          "title": "花旗：2026年平均铜价基准情景预测仍为每吨1.3万美元。",
-          "url": "https://flash.jin10.com/detail/20260225012325195800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "花旗：短期看涨铜价，预计未来三个月铜价将触及每吨14,000美元。",
-          "url": "https://flash.jin10.com/detail/20260225012259334800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "WTI原油日内跌幅达0.5%，报65.87美元/桶。 据媒体报道，伊朗副外长塔赫特-拉万奇表示，德黑兰准备采取任何必要措施与美国达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3058229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "【闪迪遭香橼做空，股价盘中跌超5％】知名做空机构香橼称正在做空闪迪，指当前存储芯片市场繁荣为“供应幻象”。闪迪股价跌5.4％，报630美元/股。",
-          "url": "https://wallstreetcn.com/livenews/3058227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "Prosus于2月16-20日当周按均价43.5011欧元回购股票205.8244万股，合计超过0.895亿欧元（折合将近1.057亿美元）。 同期，Naspers按均价900.6142南非兰特回购79.6820万股，合计超7.176亿兰特（折合将近0.447亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3058222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "WTI原油期货日内跌超1.00%，现报65.64美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260224233311312800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "美国精神航空：公司与其有担保债权人就重组支持协议的关键条款达成原则性协议。预计于春末或夏初退出破产保护。预计公司债务及租赁负债将由申请破产前的74亿美元降至重整后约21亿美元。",
-          "url": "https://flash.jin10.com/detail/20260225004840149800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "美、布两油短线下挫0.5美元，现分别报66.26美元/桶和71.05美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260224232813066800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "WTI原油期货跌破66美元/桶，日内跌0.48%。",
-          "url": "https://flash.jin10.com/detail/20260224232733568800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
-          "url": "https://wallstreetcn.com/livenews/3058280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
-        },
-        {
-          "title": "李佳薇JKAI声乐大师课",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
-        },
-        {
-          "title": "李在明社媒发AI视频",
-          "url": "https://www.douyin.com/hot/2410021",
-          "source": "抖音",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
-          "url": "https://wallstreetcn.com/livenews/3058274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "欧洲央行官员称，该地区银行业对从AI中受益抱有信心",
-          "url": "https://wallstreetcn.com/livenews/3058273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "美联储理事库克：AI已经被纳入美联储的预测。",
-          "url": "https://wallstreetcn.com/livenews/3058228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "Anthropic推出智能体AI工具，针对实现投资银行和人力资源自动化",
-          "url": "https://wallstreetcn.com/livenews/3058225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "美联储理事沃勒：美国央行正推进AI的系统性部署",
-          "url": "https://wallstreetcn.com/livenews/3058261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "MSCI向客户提供AI接口，支持调用专属数据",
-          "url": "https://wallstreetcn.com/livenews/3058259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "汤森路透股价大涨，该公司取得AI突破，提及与Anthropic的合作",
-          "url": "https://wallstreetcn.com/livenews/3058212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
@@ -466,8 +690,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -477,8 +701,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -488,8 +712,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -498,7 +722,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -507,11 +731,12 @@
           "url": "https://www.cls.cn/detail/2293967",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股盘中）",
@@ -520,7 +745,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -531,7 +756,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         },
@@ -542,7 +767,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         }
@@ -550,7 +775,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -560,8 +785,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
         },
         {
           "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
@@ -571,19 +796,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
           "url": "https://www.zhihu.com/question/41253586",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
         },
         {
           "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
@@ -606,12 +832,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3058291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "相机价格5年暴涨10倍",
@@ -619,11 +856,23 @@
           "source": "今日头条",
           "ranks": [
             26,
-            24
+            24,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时53分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：电动皮卡Cybertruck双电机四驱版价格将于2月28日后上调。",
+          "url": "https://flash.jin10.com/detail/20260225031303146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         },
         {
           "title": "多款相机价格暴涨近10倍",
@@ -635,6 +884,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中方回应美称DeepSeek违反美出口管制",
+          "url": "https://www.toutiao.com/trending/7610332842534374955/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 03时53分]"
         }
       ]
     }

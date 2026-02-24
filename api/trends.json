@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T14:10:33.476696+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-02-24T15:58:32.275099+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -230,6 +230,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "美元兑日元USD/JPY站上156，日内涨0.90%。",
+          "url": "https://flash.jin10.com/detail/20260224153308146800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "现货白银日内大涨5.00%，现报88.82美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260224043739337800",
           "source": "金十数据",
@@ -329,6 +340,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "汇丰：将英伟达(NVDA.O)目标价从320美元下调至310美元。",
+          "url": "https://flash.jin10.com/detail/20260224152512534800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "美国众议院议长约翰逊：在最高法院作出裁决后，将由白宫决定是否退还1340亿美元关税。",
           "url": "https://flash.jin10.com/detail/20260224035845243800",
           "source": "金十数据",
@@ -360,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "日元兑美元跌幅扩大至0.77%，此前报道称高市早苗向日本央行表示对进一步加息的担忧。",
+          "url": "https://wallstreetcn.com/livenews/3057949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "伦锌日内涨幅达2.00%，现报3414.23美元/吨。",
@@ -415,12 +448,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "美元兑日元短线拉升约50点，高市早苗向日本央行表示对进一步加息的担忧",
+          "url": "https://wallstreetcn.com/livenews/3057940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -437,6 +481,17 @@
           "time_info": "[01时30分 ~ 10时52分]"
         },
         {
+          "title": "法国2月INSEE制造业信心指数 102，预期103，前值105。",
+          "url": "https://flash.jin10.com/detail/20260224154503156800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "金十图示：2026年02月24日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260224005321267800",
           "source": "金十数据",
@@ -448,6 +503,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "法国2月INSEE制造业信心指数 102，预期 104，前值 105。",
+          "url": "https://wallstreetcn.com/livenews/3057981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "截至早盘收盘，日经225指数涨0.8%，报57256.55点；东证指数涨0.1%，报3812.33点。",
           "url": "https://wallstreetcn.com/livenews/3057818",
           "source": "华尔街见闻-快讯",
@@ -457,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "法国2月INSEE商业信心指数 97，预期 99，前值 99。",
+          "url": "https://wallstreetcn.com/livenews/3057980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）华尔街恐惧与贪婪指数（美盘后）",
@@ -586,7 +663,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -597,7 +674,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -611,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "印度NIFTY 50指数跌幅扩大至1.25%。",
+          "url": "https://flash.jin10.com/detail/20260224152958820800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）富时中国A50指数成分股：成分股多数上涨，煤炭、工业金属、消费电子、通信设备等板块涨幅居前，白酒、保险板块小幅走低",
@@ -745,6 +833,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "金十图示：2026年02月24日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260224151321078800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "A股节后首日开门红，三大指数大幅高开",
           "url": "https://wallstreetcn.com/livenews/3057767",
           "source": "华尔街见闻-快讯",
@@ -754,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "印度NIFTY IT指数下跌5%，势创2023年7月以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3057942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "道琼斯日内跌幅达1.5%，报48882.15点。 纳斯达克100指数跌幅也扩大至1.5%。成分股中，CrowdStrike跌9.6%，Zscaler跌9.4%，AppLovin跌9.2%，Datadog跌8.1%。",
@@ -792,7 +902,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -827,8 +937,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 15时58分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -836,11 +946,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 15时58分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -890,6 +1001,18 @@
           "time_info": "[05时56分 ~ 06时53分]"
         },
         {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时58分]"
+        },
+        {
           "title": "道指ETF收跌超1.6%，和小盘股ETF领跌美股大类资产类ETF，黄金ETF涨2.7%",
           "url": "https://wallstreetcn.com/livenews/3057666",
           "source": "华尔街见闻-快讯",
@@ -912,17 +1035,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
-          "url": "https://wallstreetcn.com/articles/3765995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时10分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -961,6 +1073,17 @@
           "time_info": "[05时56分 ~ 06时53分]"
         },
         {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3057657",
           "source": "华尔街见闻-快讯",
@@ -975,7 +1098,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -1016,6 +1139,21 @@
           "time_info": "[01时30分 ~ 13时01分]"
         },
         {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时56分 ~ 15时58分]"
+        },
+        {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
           "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
@@ -1027,20 +1165,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时30分 ~ 10时52分]"
-        },
-        {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时56分 ~ 14时10分]"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -1065,16 +1189,40 @@
           "time_info": "07时49分"
         },
         {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "Hirai为何当选韩国亚运会LOL队教练",
           "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            8
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 15时58分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 14时10分]"
+          "time_info": "[14时10分 ~ 15时58分]"
         },
         {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
@@ -1087,17 +1235,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 04时56分]"
-        },
-        {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -1177,11 +1314,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 15时58分]"
         },
         {
           "title": "市场消息：澳大利亚降低俄罗斯原油价格上限。",
@@ -1197,6 +1335,19 @@
           "time_info": "[04时56分 ~ 06时53分]"
         },
         {
+          "title": "相机价格5年暴涨10倍",
+          "url": "https://www.toutiao.com/trending/7609829632854163499/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 15时58分]"
+        },
+        {
           "title": "市场消息：新西兰将降低俄罗斯原油价格上限。",
           "url": "https://flash.jin10.com/detail/20260224053648572800",
           "source": "金十数据",
@@ -1208,19 +1359,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时56分 ~ 07时49分]"
-        },
-        {
-          "title": "相机价格5年暴涨10倍",
-          "url": "https://www.toutiao.com/trending/7609829632854163499/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 14时10分]"
         },
         {
           "title": "国内成品油价格将迎调整",
@@ -1287,7 +1425,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -1317,7 +1455,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
@@ -1390,6 +1528,17 @@
           "time_info": "[06时53分 ~ 07时49分]"
         },
         {
+          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
+          "url": "https://www.cls.cn/detail/2293337",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "新加坡电信与英伟达将在新加坡推出应用人工智能中心，与英伟达合作设计数据中心，以兼容新款英伟达GPU。",
           "url": "https://flash.jin10.com/detail/20260224114552966800",
           "source": "金十数据",
@@ -1399,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
+          "url": "https://wallstreetcn.com/livenews/3057967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
@@ -1471,6 +1631,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债黄金携手大涨！市场直面三大风暴眼：特朗普关税、AI恐慌、伊朗局势",
+          "url": "https://www.cls.cn/detail/2293144",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     }

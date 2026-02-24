@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T15:58:32.275099+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-02-24T17:01:48.401563+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -41,6 +41,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "瑞银集团：预计未来几个月金价将触及每盎司6200美元，因为推动其在过去一年中强劲上涨的关键因素依然存在。",
+          "url": "https://flash.jin10.com/detail/20260224164153665800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "WTI原油日内涨超1.00%，现报67.03美元/桶。",
           "url": "https://flash.jin10.com/detail/20260224134352915800",
           "source": "金十数据",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "离岸人民币兑美元升破6.88，现报6.8776，日内涨0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3058013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "WTI 4月原油期货收跌0.27美元，跌幅0.38%，报66.31美元/桶。 布伦特4月原油期货收报71.49美元/桶。 NYMEX 3月天然气期货收报2.9850美元/百万英热单位。 NYMEX 3月汽油期货收报1.9892美元/加仑，NYMEX 3月取暖油期货收报2.6782美元/加仑。",
@@ -208,6 +230,17 @@
           "time_info": "[05时56分 ~ 06时53分]"
         },
         {
+          "title": "美元兑日元USD/JPY日内涨超1.00%，现报156.18。",
+          "url": "https://flash.jin10.com/detail/20260224162232203800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "纽约金5分钟内上涨5美元/盎司，报5241.8美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3057631",
           "source": "华尔街见闻-快讯",
@@ -236,9 +269,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "在岸人民币兑美元收报6.8849，创2023年4月20日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3058010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "现货白银日内大涨5.00%，现报88.82美元/盎司。",
@@ -272,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美元兑日元日内涨幅达1%，报156.17，此前报道称高市早苗向日本央行表达了对进一步加息的担忧。",
+          "url": "https://wallstreetcn.com/livenews/3058004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "亚马逊(AMZN.O)：将在路易斯安那州投资120亿美元建设首个数据中心园区。",
@@ -346,7 +401,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -360,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "在岸人民币兑美元升穿6.89关口，创2023年5月初以来高位，日内涨逾100点。",
+          "url": "https://wallstreetcn.com/livenews/3057987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "先为达生物：与辉瑞中国达成商业化战略合作协议，双方就新一代偏向型GLP-1达成商业化战略合作协议，公司将有权获得辉瑞支付的最高可达4.95亿美元付款总额。",
@@ -390,7 +456,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -456,7 +522,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         }
@@ -464,7 +530,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -487,7 +553,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -503,17 +569,6 @@
           "time_info": "01时31分"
         },
         {
-          "title": "法国2月INSEE制造业信心指数 102，预期 104，前值 105。",
-          "url": "https://wallstreetcn.com/livenews/3057981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
           "title": "截至早盘收盘，日经225指数涨0.8%，报57256.55点；东证指数涨0.1%，报3812.33点。",
           "url": "https://wallstreetcn.com/livenews/3057818",
           "source": "华尔街见闻-快讯",
@@ -523,17 +578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "法国2月INSEE商业信心指数 97，预期 99，前值 99。",
-          "url": "https://wallstreetcn.com/livenews/3057980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）华尔街恐惧与贪婪指数（美盘后）",
@@ -571,6 +615,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 14时10分]"
+        },
+        {
+          "title": "法国2月INSEE制造业信心指数 102，预期 104，前值 105。",
+          "url": "https://wallstreetcn.com/livenews/3057981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 17时01分]"
+        },
+        {
+          "title": "法国2月INSEE商业信心指数 97，预期 99，前值 99。",
+          "url": "https://wallstreetcn.com/livenews/3057980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 17时01分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.75%，报26869点。 恒生科技指数主连夜盘收跌0.93%，报5330点。",
@@ -696,9 +764,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260224161211158800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）富时中国A50指数成分股：成分股多数上涨，煤炭、工业金属、消费电子、通信设备等板块涨幅居前，白酒、保险板块小幅走低",
@@ -734,6 +813,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "恒生指数收盘跌1.82%，恒生科技指数跌2.13%",
+          "url": "https://wallstreetcn.com/livenews/3057996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "富时中国A50指数期货跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3057792",
           "source": "华尔街见闻-快讯",
@@ -743,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "欧股开盘微跌，欧洲斯托克50指数开盘跌0.08%，德国DAX指数跌0.09%，英国富时100指数跌0.04%，法国CAC40指数跌0.07%，意大利富时MIB指数跌0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3057990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "摩根大通：阿联酋债券将从其新兴市场债券指数中分阶段剔除，自3月31日起的四个月内以等权重递减的方式进行，最终于6月30日完成。",
@@ -839,7 +940,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -861,7 +962,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -901,204 +1002,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 05时56分]"
-        },
-        {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时30分 ~ 13时01分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 15时58分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 15时58分]"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时49分 ~ 14时10分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时49分]"
-        },
-        {
-          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
-          "url": "https://wallstreetcn.com/livenews/3057632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3057669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
-          "url": "https://wallstreetcn.com/articles/3765995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时58分]"
-        },
-        {
-          "title": "道指ETF收跌超1.6%，和小盘股ETF领跌美股大类资产类ETF，黄金ETF涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3057666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
-          "url": "https://wallstreetcn.com/livenews/3057665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260224051035173800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260224050959361800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "美股三大股指大幅收跌 IBM大跌13%",
-          "url": "https://flash.jin10.com/detail/20260224050545152800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时53分]"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3057657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -1126,19 +1031,6 @@
           "time_info": "[01时30分 ~ 07时49分]"
         },
         {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时30分 ~ 13时01分]"
-        },
-        {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
           "url": "https://wallstreetcn.com/articles/3765997",
           "source": "华尔街见闻",
@@ -1150,8 +1042,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时56分 ~ 15时58分]"
+          "appearance_count": 8,
+          "time_info": "[05时56分 ~ 17时01分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 13时01分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -1193,11 +1098,12 @@
           "url": "https://www.cls.cn/detail/2293343",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 17时01分]"
         },
         {
           "title": "Hirai为何当选韩国亚运会LOL队教练",
@@ -1206,11 +1112,12 @@
           "ranks": [
             10,
             8,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 15时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 17时01分]"
         },
         {
           "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
@@ -1218,11 +1125,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时01分]"
         },
         {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
@@ -1235,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 04时56分]"
+        },
+        {
+          "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
+          "url": "https://wallstreetcn.com/livenews/3058012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -1270,6 +1189,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "全球AI恐慌交易中亚洲有望成结构性赢家 Citrini报告中已埋有伏笔",
+          "url": "https://wallstreetcn.com/livenews/3057992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "IBM创2000年以来最大日跌幅，Anthropic宣称AI工具可助COBOL现代化改造",
           "url": "https://wallstreetcn.com/livenews/3057653",
           "source": "华尔街见闻-快讯",
@@ -1294,9 +1224,230 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 05时56分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 17时01分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 17时01分]"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 13时01分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 14时10分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时49分]"
+        },
+        {
+          "title": "诺和诺德(NVO.N)美股盘前跌约3%，此前其UBT251减肥药物试验显示减重效果达19.7%。",
+          "url": "https://flash.jin10.com/detail/20260224165144268800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
+          "url": "https://wallstreetcn.com/livenews/3057632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 17时01分]"
+        },
+        {
+          "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3057669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
+        },
+        {
+          "title": "道指ETF收跌超1.6%，和小盘股ETF领跌美股大类资产类ETF，黄金ETF涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3057666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
+          "url": "https://wallstreetcn.com/livenews/3057665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
+        },
+        {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 17时01分]"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260224051035173800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260224050959361800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
+        },
+        {
+          "title": "美股三大股指大幅收跌 IBM大跌13%",
+          "url": "https://flash.jin10.com/detail/20260224050545152800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
+        },
+        {
+          "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3057657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
       "match_count": 13,
       "titles": [
+        {
+          "title": "相机价格暴涨 有的价格翻10倍",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E4%BB%B7%E6%A0%BC%E7%BF%BB10%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            6,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 17时01分]"
+        },
         {
           "title": "金十期货2月24日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨7500元/吨，中间价报153050元/吨。",
           "url": "https://flash.jin10.com/detail/20260224103946207800",
@@ -1307,19 +1458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "相机价格暴涨 有的价格翻10倍",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E4%BB%B7%E6%A0%BC%E7%BF%BB10%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 15时58分]"
         },
         {
           "title": "市场消息：澳大利亚降低俄罗斯原油价格上限。",
@@ -1480,6 +1618,18 @@
           "time_info": "13时01分"
         },
         {
+          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
+          "url": "https://www.cls.cn/detail/2293337",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 17时01分]"
+        },
+        {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
           "url": "https://wallstreetcn.com/livenews/3057622",
           "source": "华尔街见闻-快讯",
@@ -1528,17 +1678,6 @@
           "time_info": "[06时53分 ~ 07时49分]"
         },
         {
-          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
-          "url": "https://www.cls.cn/detail/2293337",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
           "title": "新加坡电信与英伟达将在新加坡推出应用人工智能中心，与英伟达合作设计数据中心，以兼容新款英伟达GPU。",
           "url": "https://flash.jin10.com/detail/20260224114552966800",
           "source": "金十数据",
@@ -1556,7 +1695,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -1635,6 +1774,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中方回应美称DeepSeek违反美出口管制",
+          "url": "https://www.toutiao.com/trending/7610332842534374955/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1645,7 +1801,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:46:16.556340+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-02-25T22:08:23.905469+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -35,6 +35,17 @@
           "time_info": "[10时54分 ~ 15时13分]"
         },
         {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 22时08分]"
+        },
+        {
           "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
           "url": "https://www.cls.cn/detail/2294110",
           "source": "财联社热门",
@@ -45,17 +56,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时54分 ~ 15时13分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时46分]"
         },
         {
           "title": "Lucid Group(LCID.O)：预计2026年的资本支出将在12亿至14亿美元之间。",
@@ -355,9 +355,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "字节跳动新估值，5500亿美元！",
+          "url": "https://wallstreetcn.com/articles/3766156",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "花旗：短期看涨铜价，预计未来三个月铜价将触及每吨14,000美元。",
@@ -377,7 +388,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -696,9 +707,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "现货钯金日内涨超4.00%，现报1852.19美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260225210743056800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "韩国股市总市值达到3.76万亿美元，超过法国股市。",
@@ -732,6 +754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "市场消息：诺和诺德(NVO.N)宣布与生物制药公司Vivtex达成合作，共同开发下一代口服肥胖症和糖尿病治疗药物。Vivtex将有资格获得高达21亿美元，以及未来产品净销售额的特许权使用费。",
+          "url": "https://flash.jin10.com/detail/20260225210607675800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "美、布两油短线下挫0.5美元，现分别报66.26美元/桶和71.05美元/桶。",
@@ -770,7 +803,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "节后继续领跑！微盘股指数创历史新高，融资客动向扫描，这些股已获重仓",
@@ -947,11 +980,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 22时08分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.77%，报26763点。 恒生科技指数主连夜盘收涨1.08%，报5319点。",
@@ -986,6 +1020,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        },
+        {
+          "title": "波罗的海干散货指数跌0.38%，报2121点。",
+          "url": "https://wallstreetcn.com/livenews/3058895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%。 成分股汤森路透涨11.7%，AMD涨7.8%，Arm控股涨4.7%，Zscaler涨4.5%，铿腾电子、新思科技涨4.2%，PayPal跌1.1%，博通跌1.5%，西部数据跌1.6%，Diamondback Energy跌3.2%。",
@@ -1274,6 +1319,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "意大利富时MIB指数日内涨幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260225210705885800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "瑞士2月投资者信心指数 9.8，前值 -4.7。",
           "url": "https://wallstreetcn.com/livenews/3058744",
           "source": "华尔街见闻-快讯",
@@ -1296,6 +1352,17 @@
           "time_info": "15时13分"
         },
         {
+          "title": "金十图示：2026年02月25日（周三）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260225210530386800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "五角大楼“披萨指数”，美防长回应了",
           "url": "https://wallstreetcn.com/livenews/3058211",
           "source": "华尔街见闻-快讯",
@@ -1305,13 +1372,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美国2月20日当周MBA抵押贷款申请活动指数周环比 0.4%，前值 2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3058863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时41分 ~ 22时08分]"
+        },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
           "url": "https://wallstreetcn.com/articles/3766083",
@@ -1323,19 +1412,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时52分 ~ 19时46分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时41分 ~ 19时46分]"
+          "appearance_count": 14,
+          "time_info": "[03时52分 ~ 22时08分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -1407,8 +1485,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 22时08分]"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -1658,6 +1736,17 @@
           "time_info": "06时43分"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "欧洲央行官员称，该地区银行业对从AI中受益抱有信心",
           "url": "https://wallstreetcn.com/livenews/3058273",
           "source": "华尔街见闻-快讯",
@@ -1779,6 +1868,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
+          "url": "https://wallstreetcn.com/livenews/3058865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "AI助盲眼镜成出行神器",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1793,7 +1893,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1855,15 +1955,48 @@
           "time_info": "[07时41分 ~ 15时13分]"
         },
         {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
           "url": "https://flash.jin10.com/detail/20260225193717302800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
@@ -2012,7 +2145,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -2037,12 +2170,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "美股期货维持涨势，美国贸易代表：部分国家关税将升至15% 其他或更高",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -2080,6 +2224,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 06时43分]"
+        },
+        {
+          "title": "市场消息：墨西哥选举改革将要求在竞选活动中对人工智能生成内容进行标识。",
+          "url": "https://flash.jin10.com/detail/20260225220244476800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "美联储巴尔金：不认为人工智能会导致经济出现剧烈变化。",
@@ -2130,6 +2285,28 @@
           "time_info": "[06时43分 ~ 07时42分]"
         },
         {
+          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
+          "url": "https://wallstreetcn.com/livenews/3058897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "荷兰国际：逃离人工智能动荡的投资者可能转向欧元债券",
+          "url": "https://flash.jin10.com/detail/20260225214840051800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "惠普(HPQ.N)CFO：第一季度搭载人工智能技术的个人电脑占总出货量的35%，高于上一季度的30%。",
           "url": "https://flash.jin10.com/detail/20260225064530677800",
           "source": "金十数据",
@@ -2139,6 +2316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "德银与高盛寻求借助人工智能“盯防”交易员不当行为",
+          "url": "https://wallstreetcn.com/livenews/3058893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "美联储巴尔金：人工智能将成为提高生产率的又一驱动因素。",
@@ -2382,7 +2570,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T03:06:31.855439+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-02-27T04:50:45.638103+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -15,19 +15,42 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2010322310536590565",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
+        },
+        {
+          "title": "周四（2月26日）纽约尾盘，美元兑日元跌0.14%，报156.14日元，日内交投区间为156.43-155.71日元。 欧元兑日元跌0.27%，英镑兑日元跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3059748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "周四（2月26日）纽约尾盘，ICE美元指数涨0.08%，报97.775点，日内交投区间为97.489-97.984点。 彭博美元指数涨0.08%，报1188.39点，日内交投区间为1185.03-1190.69点。",
+          "url": "https://wallstreetcn.com/livenews/3059747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "WTI原油日内涨幅扩大至1.00%，现报66.31美元/桶。",
@@ -41,24 +64,13 @@
           "time_info": "00时02分"
         },
         {
-          "title": "WTI原油5分钟内下跌0.95美元/桶，报65.4美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3059726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
           "title": "美、布两油短线下跌0.5美元，阿曼方面称美伊会谈取得“重大进展”后结束。",
           "url": "https://flash.jin10.com/detail/20260227023806931800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -68,11 +80,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时50分]"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.95美元/桶，报65.4美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3059726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时06分]"
+          "time_info": "[03时06分 ~ 04时50分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
@@ -80,22 +105,48 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658379",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
+        },
+        {
+          "title": "周四（2月26日），美联储隔夜逆回购协议（RRP）使用规模为37.96亿美元（交易对手7家），上个交易日报11.59亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3059723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时50分]"
+        },
+        {
+          "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.790%（1月29日为4.018%），投标倍数2.50（前次为2.45）。",
+          "url": "https://wallstreetcn.com/livenews/3059716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时50分]"
         },
         {
           "title": "现货黄金短线上扬30美元，报5174.51美元/盎司。",
@@ -107,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "周四（2月26日），美联储隔夜逆回购协议（RRP）使用规模为37.96亿美元（交易对手7家），上个交易日报11.59亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3059723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时06分"
         },
         {
           "title": "WTI原油期货日内涨幅达1.00%，现报66.08美元/桶。",
@@ -142,6 +182,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.21美元/桶。 布伦特4月原油期货收报70.75美元/桶。 NYMEX 3月天然气期货收报2.8270美元/百万英热单位。 NYMEX 3月汽油期货收报2.0323美元/加仑，NYMEX 3月取暖油期货收报2.6125美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3059742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
           "title": "布伦特原油日内涨幅扩大至1.00%，现报71.45美元/桶。",
           "url": "https://flash.jin10.com/detail/20260226234048351800",
           "source": "金十数据",
@@ -153,15 +204,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.790%（1月29日为4.018%），投标倍数2.50（前次为2.45）。",
-          "url": "https://wallstreetcn.com/livenews/3059716",
+          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：2月25日当周，美国杠杆贷款基金流出15.4亿美元，创2025年4月份以来最大。",
+          "url": "https://wallstreetcn.com/livenews/3059740",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "04时50分"
         },
         {
           "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
@@ -186,13 +237,24 @@
           "time_info": "00时02分"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8500元，较周三夜盘收盘涨92点。成交量600.56亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3059733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的37.96亿美元。",
           "url": "https://flash.jin10.com/detail/20260227021954991800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -206,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国国务院：将悬赏最高1000万美元，以征集有助于逮捕和/或定罪涉嫌墨西哥锡那罗亚贩毒集团Plaza Bosses的相关信息。",
+          "url": "https://flash.jin10.com/detail/20260227033457526800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "北美科技软件股指数ETF涨约2.7%，刷新日高至83.06美元。",
@@ -247,7 +320,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -302,7 +375,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         }
@@ -310,19 +383,8 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3059673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
         {
           "title": "2 月 26 日恒生科技指数大跌 2.87%，互联网科技股普遍走低，如何看待？怎样理解其近期走势？",
           "url": "https://www.zhihu.com/question/2010395085326480507",
@@ -333,8 +395,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
+        },
+        {
+          "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3059673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "欧洲STOXX 600指数跌0.3%，刷新日低。",
@@ -368,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.09%，报26391点。 恒生科技指数主连夜盘收涨0.12%，报5129点。",
+          "url": "https://wallstreetcn.com/livenews/3059732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
@@ -471,8 +555,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -483,8 +567,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -495,8 +579,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时50分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超4%，纳指跌幅扩大至1%，芯片股承压，金涨银跌，WTI原油一度跌逾2%",
@@ -517,19 +601,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
         },
         {
           "title": "椭圆变速版see you again",
           "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -572,7 +657,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -613,8 +698,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -624,8 +709,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
@@ -675,18 +760,30 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
           "url": "https://wallstreetcn.com/livenews/3059712",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时50分]"
+        },
+        {
+          "title": "标普：基于人工智能驱动的规模和增长增强，将美光科技(MU.O)评级上调至“bbb”，展望积极。",
+          "url": "https://flash.jin10.com/detail/20260227033606328800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "04时50分"
         },
         {
           "title": "Ithina组建全球人工智能（AI）操作平台。",
@@ -706,7 +803,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -736,7 +833,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "节后淡季机票价格大跳水：较春节假期回落超一成，多条热门航线票价百元",
@@ -747,8 +844,36 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时50分]"
+        },
+        {
+          "title": "节后热门目的地机票酒店价格腰斩",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8E%E7%83%AD%E9%97%A8%E7%9B%AE%E7%9A%84%E5%9C%B0%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3059749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     }

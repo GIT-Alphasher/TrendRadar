@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T03:41:22.250857+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-02-28T04:38:46.646114+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时38分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -27,30 +28,63 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时38分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8630元，较周四夜盘收盘跌130点。成交量535.90亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3060479",
+          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228041113668800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3060490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "04时38分"
         },
         {
-          "title": "OpenAI将追加融资100亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3060477",
+          "title": "据知情人士透露， 派拉蒙天空之舞公司已向奈飞(NFLX.O)支付了28亿美元的解约费，此前这家流媒体公司放弃了收购华纳兄弟探索公司(WBD.O)部分业务的计划。",
+          "url": "https://flash.jin10.com/detail/20260228035937534800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "据知情人士透露，派拉蒙（Paramount SkyDance）向奈飞支付28亿美元节约费。 预计华纳兄弟探索公司（WBD）将于当地时间周五宣布派拉蒙协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3060488",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "消息人士：PayPay美国IPO将吸引2亿美元基石投资。",
+          "url": "https://flash.jin10.com/detail/20260228035818477800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "04时38分"
         },
         {
           "title": "周五（2月27日），韩元兑美元最终跌0.46%，报1439.97韩元，2月份累计上涨0.32%，交投于1475.26-1419.33韩元区间。",
@@ -58,11 +92,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时38分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8630元，较周四夜盘收盘跌130点。成交量535.90亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3060479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时41分]"
+          "time_info": "[03时41分 ~ 04时38分]"
+        },
+        {
+          "title": "OpenAI将追加融资100亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3060477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时38分]"
         },
         {
           "title": "周五（2月27日），美联储隔夜逆回购协议（RRP）使用规模为163.18亿美元（交易对手10家），上个交易日报37.96亿美元。",
@@ -70,11 +129,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时38分]"
+        },
+        {
+          "title": "网飞拒绝涨价退出，如何评价派拉蒙每股 31 美元预计拿下华纳兄弟？过程中哪些信息值得关注？未来将有何影响？",
+          "url": "https://www.zhihu.com/question/2010686349234107758",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 04时38分]"
+        },
+        {
+          "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228030148266800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时41分]"
+          "time_info": "[03时41分 ~ 04时38分]"
         },
         {
           "title": "纽约银日内涨幅达8.0%，报94.6美元/盎司。 现货黄金5分钟内上涨7.26美元/盎司，报5256.09美元/盎司。",
@@ -125,17 +208,6 @@
           "time_info": "[00时52分 ~ 01时44分]"
         },
         {
-          "title": "网飞拒绝涨价退出，如何评价派拉蒙每股 31 美元预计拿下华纳兄弟？过程中哪些信息值得关注？未来将有何影响？",
-          "url": "https://www.zhihu.com/question/2010686349234107758",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
-        },
-        {
           "title": "现货白银日内涨幅达5.5%，报92.98美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3060400",
           "source": "华尔街见闻-快讯",
@@ -172,15 +244,15 @@
           "time_info": "[02时58分 ~ 03时41分]"
         },
         {
-          "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
-          "url": "https://flash.jin10.com/detail/20260228030148266800",
+          "title": "消息人士：软银旗下PayPay拟在纳斯达克上市，获卡塔尔投资局、Visa和阿布扎比投资局支持。PayPay寻求最高140亿美元估值。",
+          "url": "https://flash.jin10.com/detail/20260228035803983800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "04时38分"
         },
         {
           "title": "数字货币市场最近七天走低，比特币一度涨向7万美元整数位心理关口、但整体累跌约3.5%",
@@ -240,106 +312,30 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 7,
+      "keyword_group": "指数",
+      "match_count": 8,
       "titles": [
         {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时41分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时41分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时41分]"
-        },
-        {
-          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时41分]"
-        },
-        {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时41分]"
-        },
-        {
-          "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
-          "url": "https://www.cls.cn/detail/2297724",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 03时41分]"
-        },
-        {
-          "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
-          "url": "https://flash.jin10.com/detail/20260228002339246800",
+          "title": "五角大楼披萨指数极端激增",
+          "url": "https://flash.jin10.com/detail/20260228041639418800",
           "source": "金十数据",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "恒生指数主连夜盘收跌0.54%，报26465点。 恒生科技指数主连夜盘收跌0.68%，报5106点。",
-          "url": "https://wallstreetcn.com/livenews/3060478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "04时38分"
+        },
+        {
+          "title": "美国五角大楼披萨指数极端激增",
+          "url": "https://wallstreetcn.com/livenews/3060492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "金十图示：2026年02月27日（周五）全球股市指数-欧洲市场（收盘）",
@@ -366,6 +362,18 @@
           "time_info": "[00时52分 ~ 01时44分]"
         },
         {
+          "title": "恒生指数主连夜盘收跌0.54%，报26465点。 恒生科技指数主连夜盘收跌0.68%，报5106点。",
+          "url": "https://wallstreetcn.com/livenews/3060478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时38分]"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌1.15%，报2277.60点，本周（四个交易日）累计上涨0.17%。",
           "url": "https://wallstreetcn.com/livenews/3060403",
           "source": "华尔街见闻-快讯",
@@ -376,6 +384,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时44分]"
+        },
+        {
+          "title": "纳斯达克中国金龙指数跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260228034344116800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "人工智能与信贷忧虑重创金融股 KBW银行指数跌近5%",
@@ -391,20 +410,131 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 3,
+      "keyword_group": "AI",
+      "match_count": 8,
       "titles": [
+        {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时38分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时38分]"
+        },
+        {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时38分]"
+        },
+        {
+          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时38分]"
+        },
+        {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 03时41分]"
+        },
+        {
+          "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
+          "url": "https://www.cls.cn/detail/2297724",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 04时38分]"
+        },
+        {
+          "title": "中国AI调用量超越美国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
+          "url": "https://flash.jin10.com/detail/20260228002339246800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国2年期国债收益率触及2022年以来最低，债券价格延续涨势。",
+          "url": "https://wallstreetcn.com/livenews/3060487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
         {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
           "url": "https://wallstreetcn.com/livenews/3060465",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时38分]"
         },
         {
           "title": "草莓价格跌至1元一斤",
@@ -440,11 +570,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时38分]"
         },
         {
           "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
@@ -484,19 +615,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时38分]"
         },
         {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
           "url": "https://wallstreetcn.com/livenews/3060482",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时38分]"
         }
       ]
     }

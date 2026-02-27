@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T06:34:27.411381+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-02-28T07:33:51.563765+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -29,8 +30,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "网飞拒绝涨价退出，如何评价派拉蒙每股 31 美元预计拿下华纳兄弟？过程中哪些信息值得关注？未来将有何影响？",
@@ -52,9 +53,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
+          "url": "https://wallstreetcn.com/livenews/3060551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "周五（2月27日），韩元兑美元最终跌0.46%，报1439.97韩元，2月份累计上涨0.32%，交投于1475.26-1419.33韩元区间。",
@@ -107,6 +119,19 @@
           "time_info": "[04时38分 ~ 05时38分]"
         },
         {
+          "title": "高盛将今年底的铜价预测由11000美元上调至12200美元。",
+          "url": "https://flash.jin10.com/detail/20260228045842619800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时33分]"
+        },
+        {
           "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
           "url": "https://wallstreetcn.com/livenews/3060490",
           "source": "华尔街见闻-快讯",
@@ -143,6 +168,19 @@
           "time_info": "[04时38分 ~ 05时38分]"
         },
         {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时37分 ~ 07时33分]"
+        },
+        {
           "title": "消息人士：PayPay美国IPO将吸引2亿美元基石投资。",
           "url": "https://flash.jin10.com/detail/20260228035818477800",
           "source": "金十数据",
@@ -153,18 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时38分]"
-        },
-        {
-          "title": "高盛将今年底的铜价预测由11000美元上调至12200美元。",
-          "url": "https://flash.jin10.com/detail/20260228045842619800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时34分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -190,18 +216,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时38分]"
-        },
-        {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时37分 ~ 06时34分]"
         },
         {
           "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
@@ -335,15 +349,37 @@
           "time_info": "01时44分"
         },
         {
+          "title": "微软考虑为Microsoft 365推出人工智能（AI）软件组合。 该公司可能会宣布大改软件组合。 微软可能会对用户收取高达99美元的月费。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3060540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "派拉蒙（Paramount SkyDance）将按每股31美元收购华纳兄弟探索公司（WBD）。",
           "url": "https://wallstreetcn.com/livenews/3060520",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "黑石苏世民去年豪赚12.4亿美元，接近历史最高纪录",
+          "url": "https://wallstreetcn.com/livenews/3060539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国企业2月披露回购计划达2330亿美元，创历年同期新高",
@@ -352,7 +388,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -366,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "特朗普媒体在2025年合并净亏损7.123亿美元。 期内调整后EBITDA亏损6.644亿美元。 期末金融资产规模25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3060532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "据日经新闻：日本京都将于3月1日起提高酒店税，最高税率为每晚64美元。",
@@ -514,6 +561,18 @@
           "time_info": "[05时38分 ~ 06时34分]"
         },
         {
+          "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
+          "url": "https://wallstreetcn.com/livenews/3060521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，股票基金投机者将CME标普500指数期货净空头头寸增加14318手，至465965手。",
           "url": "https://flash.jin10.com/detail/20260228043843787800",
           "source": "金十数据",
@@ -560,17 +619,6 @@
           "time_info": "04时38分"
         },
         {
-          "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
-          "url": "https://wallstreetcn.com/livenews/3060521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
           "title": "人工智能与信贷忧虑重创金融股 KBW银行指数跌近5%",
           "url": "https://flash.jin10.com/detail/20260228005644699800",
           "source": "金十数据",
@@ -588,7 +636,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         }
@@ -603,22 +651,24 @@
           "url": "https://wallstreetcn.com/articles/3766301",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "AI的未来，马克思已经预言了？",
           "url": "https://wallstreetcn.com/articles/3766318",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -641,8 +691,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -653,11 +703,12 @@
             19,
             20,
             21,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -668,8 +719,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时57分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[02时57分 ~ 07时33分]"
         },
         {
           "title": "中国AI调用量超越美国",
@@ -677,11 +728,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时38分 ~ 06时34分]"
+          "appearance_count": 5,
+          "time_info": "[04时38分 ~ 07时33分]"
         },
         {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
@@ -701,7 +753,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         }
@@ -709,19 +761,8 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
-          "url": "https://wallstreetcn.com/livenews/3060531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
         {
           "title": "美国2年期国债收益率触及2022年以来最低，债券价格延续涨势。",
           "url": "https://wallstreetcn.com/livenews/3060487",
@@ -733,6 +774,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时38分]"
+        },
+        {
+          "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
+          "url": "https://wallstreetcn.com/livenews/3060531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
@@ -768,12 +821,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "派拉蒙将按每股31美元的价格收购华纳兄弟探索",
+          "url": "https://wallstreetcn.com/livenews/3060520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
@@ -813,6 +877,17 @@
           "time_info": "[00时52分 ~ 01时44分]"
         },
         {
+          "title": "美国总统特朗普：不知为何，我更喜欢通过石油而不是人工智能工厂来赚钱。",
+          "url": "https://flash.jin10.com/detail/20260228060327470800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
           "url": "https://wallstreetcn.com/livenews/3060391",
           "source": "华尔街见闻-快讯",
@@ -826,47 +901,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
-          "url": "https://wallstreetcn.com/livenews/3060528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
-          "url": "https://wallstreetcn.com/livenews/3060522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
-          "url": "https://wallstreetcn.com/livenews/3060517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -881,6 +917,17 @@
           "time_info": "[00时51分 ~ 06时34分]"
         },
         {
+          "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
           "url": "https://wallstreetcn.com/livenews/3060482",
           "source": "华尔街见闻-快讯",
@@ -892,6 +939,69 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时41分 ~ 05时38分]"
+        },
+        {
+          "title": "10年期美债收益率跌穿3.94%，2月份累跌将近30个基点",
+          "url": "https://wallstreetcn.com/livenews/3060546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
+          "url": "https://wallstreetcn.com/livenews/3060528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
+          "url": "https://wallstreetcn.com/livenews/3060522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
+          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2297908",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
+          "url": "https://wallstreetcn.com/livenews/3060517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     }

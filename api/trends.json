@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T13:59:55.979554+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-02-27T15:09:17.946215+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -69,17 +69,6 @@
           "time_info": "07时40分"
         },
         {
-          "title": "广期所铂主力合约涨6%，报628元/克。 现货铂金突破2400美元/盎司，日内涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3060017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
           "title": "WTI原油日内涨幅扩大至1.00%，现报66.31美元/桶。",
           "url": "https://flash.jin10.com/detail/20260226234656239800",
           "source": "金十数据",
@@ -119,18 +108,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "现货铂金涨逾5%，报2388.92美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -196,6 +174,18 @@
           "time_info": "[04时50分 ~ 05时41分]"
         },
         {
+          "title": "广期所铂主力合约涨6%，报628元/克。 现货铂金突破2400美元/盎司，日内涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3060017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时09分]"
+        },
+        {
           "title": "WTI原油5分钟内下跌0.95美元/桶，报65.4美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3059726",
           "source": "华尔街见闻-快讯",
@@ -230,6 +220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时43分]"
+        },
+        {
+          "title": "现货铂金涨逾5%，报2388.92美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时09分]"
         },
         {
           "title": "周四（2月26日），美联储隔夜逆回购协议（RRP）使用规模为37.96亿美元（交易对手7家），上个交易日报11.59亿美元。",
@@ -440,6 +442,17 @@
           "time_info": "12时54分"
         },
         {
+          "title": "伦锡日内涨超6.00%，现报57525.00美元/吨。国际铜主力合约日内涨幅达2.00%，现报92940.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20260227145212728800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "Autodesk四季度净营收19.6亿美元，分析师预期19.2亿美元。 预计2027财年营收81亿-81.7亿美元，分析师预期79.7亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059784",
           "source": "华尔街见闻-快讯",
@@ -457,7 +470,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -660,6 +673,17 @@
           "time_info": "06时43分"
         },
         {
+          "title": "纽约银日内涨幅达4.0%，报91.12美元/盎司；现货白银日内涨幅达2.5%，报90.35美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "摩根士丹利：将英伟达(NVDA.O)目标价从250美元上调至260美元， 维持“增持”评级。",
           "url": "https://flash.jin10.com/detail/20260227021620190800",
           "source": "金十数据",
@@ -680,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "现货黄金突破5200美元/盎司，日内涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3060030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "NextEra计划发售20亿美元权益单位，来资助发电厂建设项目",
@@ -839,7 +874,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "2 月 26 日恒生科技指数大跌 2.87%，互联网科技股普遍走低，如何看待？怎样理解其近期走势？",
@@ -858,6 +893,39 @@
           "time_info": "[00时02分 ~ 07时40分]"
         },
         {
+          "title": "德国1月出口物价指数年率 0.2%，前值0%。",
+          "url": "https://flash.jin10.com/detail/20260227150217523800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "【A股收盘：沪指低开高走涨0.39%，有色、稀土板块集体走强】市场全天震荡分化，三大指数涨跌互现。有色板块集体走强，章源钨业、翔鹭钨业等多股涨停。稀土永磁板块拉升，中稀有色涨停，包钢股份接近涨停。算力租赁概念活跃，城地香江、利通电子等涨停。下跌方面，玻纤概念股下挫，国际复材跌近10%。个股涨多跌少，沪深京三市超3200股飘红，今日成交逾2.5万亿。截止收盘沪指涨0.39%，深成指跌0.06%，创业板指跌1.04%。",
+          "url": "https://wallstreetcn.com/livenews/3060064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "德国1月进口物价指数年率 -2.3%，预期-2.80%，前值-2.30%。",
+          "url": "https://flash.jin10.com/detail/20260227150007388800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
           "url": "https://wallstreetcn.com/livenews/3059673",
           "source": "华尔街见闻-快讯",
@@ -867,6 +935,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "德国1月进口物价指数月率 1.1%，预期0.60%，前值-0.10%。",
+          "url": "https://flash.jin10.com/detail/20260227150007365800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "越南VN指数上涨1%至1898.98点。",
@@ -1003,7 +1082,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1014,7 +1093,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1028,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "日经225指数收涨0.2%，报58850.27点，创历史新高。 日本东证指数收涨1.5%，报3938.68点。 韩国首尔综指收跌1%，报6244.13点。",
+          "url": "https://wallstreetcn.com/livenews/3060049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "上证指数早盘收报4139.53点，跌0.17%。 深证成指早盘收报14405.75点，跌0.68%。 创业板指早盘收报3296.23点，跌1.46%。 沪深300早盘收报4693.19点，跌0.71%。 科创50早盘收报1476.05点，跌0.66%。 中证500早盘收报8573.46点，涨0.19%。 中证1000早盘收报8501.54点，涨0.13%。",
@@ -1047,7 +1137,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1332,8 +1422,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 12时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 15时09分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -1344,11 +1434,12 @@
             11,
             16,
             17,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 13时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 15时09分]"
         },
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -1359,8 +1450,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 15时09分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -1372,8 +1463,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时39分 ~ 13时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时39分 ~ 15时09分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            17,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时39分 ~ 15时09分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -1385,20 +1491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时39分 ~ 13时59分]"
         },
         {
           "title": "知情人士称，Meta已与谷歌签署协议，将租赁其AI芯片以开发新的AI模型。（The Information）",
@@ -1423,6 +1515,19 @@
           "time_info": "10时46分"
         },
         {
+          "title": "演员王劲松发文怒斥被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时09分]"
+        },
+        {
           "title": "强劲财报难解AI担忧，英伟达跌超4%，纳指跌幅扩大至1%，芯片股承压，金涨银跌，WTI原油一度跌逾2%",
           "url": "https://wallstreetcn.com/articles/3766225",
           "source": "华尔街见闻",
@@ -1434,16 +1539,28 @@
           "time_info": "00时02分"
         },
         {
-          "title": "演员王劲松发文怒斥被AI盗用",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
-          "source": "百度热搜",
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
           "ranks": [
-            24,
-            5
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 15时09分]"
+        },
+        {
+          "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时09分]"
         },
         {
           "title": "押注AI提升公司效率 Block拟裁员近半",
@@ -1458,18 +1575,6 @@
           "time_info": "[05时41分 ~ 06时43分]"
         },
         {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 13时59分]"
-        },
-        {
           "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
           "url": "https://www.zhihu.com/question/2010325819092903282",
           "source": "知乎",
@@ -1478,8 +1583,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时09分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -1487,11 +1592,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时09分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms Inc.在设计自研/内部芯片方面遇到瓶颈。 该公司报废了最先进的AI训练芯片，转而侧重于不那么复杂的芯片版本。（The Information）",
@@ -1530,17 +1636,6 @@
           "time_info": "[05时41分 ~ 06时43分]"
         },
         {
-          "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
           "title": "千问抢占AI硬件入口，将在巴展发布AI眼镜",
           "url": "https://wallstreetcn.com/livenews/3059937",
           "source": "华尔街见闻-快讯",
@@ -1558,7 +1653,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1624,7 +1719,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1679,6 +1774,18 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时39分 ~ 15时09分]"
+        },
+        {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
@@ -1689,18 +1796,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 06时43分]"
-        },
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时39分 ~ 13时59分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -1930,11 +2025,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 15时09分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -2084,7 +2180,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "节后淡季机票价格大跳水：较春节假期回落超一成，多条热门航线票价百元",
@@ -2095,8 +2191,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 12时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 15时09分]"
         },
         {
           "title": "金十期货2月27日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌1400元/吨，中间价报174100元/吨。",
@@ -2116,7 +2212,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -2132,6 +2228,28 @@
           "time_info": "10时46分"
         },
         {
+          "title": "德国1月进口价格指数环比 1.1%，预期 0.6%，前值 -0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3060058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "德国1月进口价格指数同比 -2.3%，预期 -2.8%，前值 -2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3060057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "节后热门目的地机票酒店价格腰斩",
           "url": "https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8E%E7%83%AD%E9%97%A8%E7%9B%AE%E7%9A%84%E5%9C%B0%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9",
           "source": "百度热搜",
@@ -2142,6 +2260,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时41分]"
+        },
+        {
+          "title": "沙特或将4月销往亚洲的原油价格上调，为5个月来首次涨价。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3060051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "沙特或五个月来首次上调售往亚洲的原油价格",
+          "url": "https://flash.jin10.com/detail/20260227144614872800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "戴尔(DELL.N)：个人电脑价格上涨正促使部分客户提前下单，这很可能在短期内在一定程度上透支其预算。",

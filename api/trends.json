@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T07:33:51.563765+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-02-28T10:35:44.897420+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时35分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -47,6 +47,17 @@
           "time_info": "[01时43分 ~ 06时34分]"
         },
         {
+          "title": "OpenAI获1100亿美元新投资",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%96%B0%E6%8A%95%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "特朗普媒体在2025年净亏损7.123亿美元。 期末金融资产规模25亿美元。",
           "url": "https://wallstreetcn.com/livenews/3060532",
           "source": "华尔街见闻-快讯",
@@ -58,15 +69,18 @@
           "time_info": "06时34分"
         },
         {
-          "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
-          "url": "https://wallstreetcn.com/livenews/3060551",
-          "source": "华尔街见闻-快讯",
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9,
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时37分 ~ 10时35分]"
         },
         {
           "title": "周五（2月27日），韩元兑美元最终跌0.46%，报1439.97韩元，2月份累计上涨0.32%，交投于1475.26-1419.33韩元区间。",
@@ -168,19 +182,6 @@
           "time_info": "[04时38分 ~ 05时38分]"
         },
         {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时37分 ~ 07时33分]"
-        },
-        {
           "title": "消息人士：PayPay美国IPO将吸引2亿美元基石投资。",
           "url": "https://flash.jin10.com/detail/20260228035818477800",
           "source": "金十数据",
@@ -203,6 +204,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时38分]"
+        },
+        {
+          "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
+          "url": "https://wallstreetcn.com/livenews/3060551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 10时35分]"
         },
         {
           "title": "周五（2月27日），美联储隔夜逆回购协议（RRP）使用规模为163.18亿美元（交易对手10家），上个交易日报37.96亿美元。",
@@ -349,13 +362,24 @@
           "time_info": "01时44分"
         },
         {
+          "title": "华纳兄弟与派拉蒙签署 1100 亿美元协议，同意被其收购，怎样解读此次收购？会对双方产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2010686349234107758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "微软考虑为Microsoft 365推出人工智能（AI）软件组合。 该公司可能会宣布大改软件组合。 微软可能会对用户收取高达99美元的月费。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3060540",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -377,9 +401,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
+          "url": "https://www.zhihu.com/question/2010773992567481420",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "美国企业2月披露回购计划达2330亿美元，创历年同期新高",
@@ -410,7 +445,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -644,7 +679,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -691,8 +726,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时35分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -729,11 +764,67 @@
           "ranks": [
             24,
             25,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时38分 ~ 07时33分]"
+          "appearance_count": 6,
+          "time_info": "[04时38分 ~ 10时35分]"
+        },
+        {
+          "title": "外媒爆料：美军想用AI攻击中国电网",
+          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2297921",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "AI算力需求驱动光纤行业步入景气周期",
+          "url": "https://wallstreetcn.com/livenews/3060569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "AI提供的虚拟微信号加到了真人",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8F%90%E4%BE%9B%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%8A%A0%E5%88%B0%E4%BA%86%E7%9C%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
+          "url": "https://flash.jin10.com/detail/20260228080935525800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
@@ -761,7 +852,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国2年期国债收益率触及2022年以来最低，债券价格延续涨势。",
@@ -812,6 +903,17 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
+          "title": "经济日报：用理财服务竞争代替价格“内卷”",
+          "url": "https://wallstreetcn.com/livenews/3060567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
           "url": "https://flash.jin10.com/detail/20260228020904700800",
           "source": "金十数据",
@@ -829,7 +931,71 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 06时34分]"
+        },
+        {
+          "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
+          "url": "https://wallstreetcn.com/livenews/3060482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时38分]"
+        },
+        {
+          "title": "10年期美债收益率跌穿3.94%，2月份累跌将近30个基点",
+          "url": "https://wallstreetcn.com/livenews/3060546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         }
@@ -883,7 +1049,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -901,62 +1067,21 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时34分]"
-        },
-        {
-          "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
-          "url": "https://wallstreetcn.com/livenews/3060482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 05时38分]"
-        },
-        {
-          "title": "10年期美债收益率跌穿3.94%，2月份累跌将近30个基点",
-          "url": "https://wallstreetcn.com/livenews/3060546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2297908",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 10时35分]"
+        },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
           "url": "https://wallstreetcn.com/livenews/3060528",
@@ -982,17 +1107,6 @@
           "time_info": "[06时34分 ~ 07时33分]"
         },
         {
-          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2297908",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
           "url": "https://wallstreetcn.com/livenews/3060517",
           "source": "华尔街见闻-快讯",
@@ -1002,6 +1116,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
+          "url": "https://flash.jin10.com/detail/20260228092015676800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     }

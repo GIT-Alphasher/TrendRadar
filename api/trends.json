@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T14:01:59.400090+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-03-02T15:14:20.659694+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -29,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -62,7 +62,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -204,9 +204,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "新台币兑美元午后跌幅扩大至近2角，报31.450。",
+          "url": "https://flash.jin10.com/detail/20260302145424829800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "菲律宾兑美元跌0.5%至57.936，创2月23日以来最低。",
@@ -286,21 +297,335 @@
           "time_info": "10时49分"
         },
         {
+          "title": "协鑫集团据悉考虑发行美元债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3061593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "交易员称，印度央行很可能抛售美元以支撑卢比。",
           "url": "https://flash.jin10.com/detail/20260302131849966800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "美元指数涨0.6%，报98.22，创1月23日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3061585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "【A股收盘：沪指低开高走涨0.47%，“三桶油”历史首次收盘集体涨停】市场全天低开回升，三大指数涨跌互现。油气股集体爆发，中国石化、中国海油、中国石油均涨停，通源石油、中曼石油等约20股涨停。贵金属板块午后大涨，西部黄金、四川黄金、山东黄金等近10股涨停。军工板块表现活跃，观想科技、北方导航、中天火箭等多股涨停。下跌方面，光伏板块下挫，亿晶光电、双良节能跌停。个股跌多涨少，沪深京三市超4200股飘绿，今日成交逾3.04万亿。截止收盘沪指涨0.47%，深成指跌0.2%，创业板指跌0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3061621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "英国2月Nationwide房价指数年率 1%，预期0.70%，前值1.00%。",
+          "url": "https://flash.jin10.com/detail/20260302150008292800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数跌1.5%，东证指数跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3061443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "英国2月Nationwide房价指数月率 0.3%，预期0.2%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20260302150008270800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "英国2月Nationwide房价指数环比 0.3%，预期 0.2%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3061612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "恒生科技指数日内跌超3%，商汤跌7.8%，小米、中芯国际、百度、阿里巴巴等跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3061433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "中国台湾证交所股价指数收低0.9%，报35095.09点。",
+          "url": "https://wallstreetcn.com/livenews/3061555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "英国2月Nationwide房价指数同比 1%，预期 0.7%，前值 1%。",
+          "url": "https://wallstreetcn.com/livenews/3061611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "巴基斯坦KSE-30指数复牌后跌幅收窄至8.2%。该指数早盘一度大跌9.6%，触发交易暂停一小时。",
+          "url": "https://flash.jin10.com/detail/20260302133350269800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "土耳其主要股指BIST-100指数早盘下跌5.32%，主要银行指数早盘下跌5.81%。",
+          "url": "https://flash.jin10.com/detail/20260302145638298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "土耳其主要股指伊斯坦布尔指数开盘下跌5.3%。",
+          "url": "https://wallstreetcn.com/livenews/3061607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "恒指跌幅扩大至2.1%，恒生科技指数跌2.4%。比亚迪电子、哔哩哔哩等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3061423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "英国2月Nationwide房价指数月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260302145000000800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "金十图示：2026年03月02日（周一）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260302102545285800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "卡塔尔股市指数早盘下跌3.3%。",
+          "url": "https://flash.jin10.com/detail/20260302144854804800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "A股三大指数集体翻红",
+          "url": "https://wallstreetcn.com/livenews/3061544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "印度NIFTY 50指数下跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3061598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "恒生科技指数盘初跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3061406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "日经225指数收跌1.3%，报58057.24点。 日本东证指数收跌1%，报3898.42点。",
+          "url": "https://wallstreetcn.com/livenews/3061590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "卡塔尔基准指数早盘下跌 2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3061587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "日经225指数3月2日（周一）收盘下跌793.03点，跌幅1.35%，报58057.24点。",
+          "url": "https://flash.jin10.com/detail/20260302143122369800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "中证转债指数低开0.47%。Z华转债涨19.21%，齐翔转2涨5.15%，三角转债涨3.87%；双良转债跌13.24%，松霖转债跌8.39%，宏柏转债跌5.12%。",
+          "url": "https://wallstreetcn.com/livenews/3061400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "上证指数开盘报4151.80点，跌0.27%。 深证成指开盘报14327.65点，跌1.16%。 创业板指开盘报3257.05点，跌1.61%。 沪深300开盘报4681.01点，跌0.63%。 科创50开盘报1459.78点，跌1.90%。 中证500开盘报8585.85点，跌0.84%。 中证1000开盘报8464.27点，跌1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3061398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "印度股指缩减早盘跌幅，Sensex指数目前跌1.4%，Nifty 50指数现跌1%。",
+          "url": "https://flash.jin10.com/detail/20260302115144424800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "恒指低开1.22%，恒生科技指数跌1.78%",
+          "url": "https://wallstreetcn.com/livenews/3061395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "印度NIFTY 50指数收复部分跌幅，现跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3061485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "二手相机价格暴涨有的翻 10 倍，消费电子产品不都越放越便宜么，为何相机却逆势上涨？背后发生了什么？",
@@ -324,8 +649,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 15时14分]"
+        },
+        {
+          "title": "欧洲天然气期货价格飙升25%，因受中东冲突影响。",
+          "url": "https://wallstreetcn.com/livenews/3061620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "淡季不淡，3月TV面板价格继续看涨",
@@ -404,7 +740,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -415,7 +751,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -437,7 +773,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -448,164 +784,15 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "截至早盘收盘，日经225指数跌1.5%，东证指数跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3061443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "恒生科技指数日内跌超3%，商汤跌7.8%，小米、中芯国际、百度、阿里巴巴等跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3061433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "中国台湾证交所股价指数收低0.9%，报35095.09点。",
-          "url": "https://wallstreetcn.com/livenews/3061555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "巴基斯坦KSE-30指数复牌后跌幅收窄至8.2%。该指数早盘一度大跌9.6%，触发交易暂停一小时。",
-          "url": "https://flash.jin10.com/detail/20260302133350269800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "恒指跌幅扩大至2.1%，恒生科技指数跌2.4%。比亚迪电子、哔哩哔哩等跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3061423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "金十图示：2026年03月02日（周一）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260302102545285800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股三大指数集体翻红",
-          "url": "https://wallstreetcn.com/livenews/3061544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "恒生科技指数盘初跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3061406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "中证转债指数低开0.47%。Z华转债涨19.21%，齐翔转2涨5.15%，三角转债涨3.87%；双良转债跌13.24%，松霖转债跌8.39%，宏柏转债跌5.12%。",
-          "url": "https://wallstreetcn.com/livenews/3061400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "上证指数开盘报4151.80点，跌0.27%。 深证成指开盘报14327.65点，跌1.16%。 创业板指开盘报3257.05点，跌1.61%。 沪深300开盘报4681.01点，跌0.63%。 科创50开盘报1459.78点，跌1.90%。 中证500开盘报8585.85点，跌0.84%。 中证1000开盘报8464.27点，跌1.13%。",
-          "url": "https://wallstreetcn.com/livenews/3061398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "印度股指缩减早盘跌幅，Sensex指数目前跌1.4%，Nifty 50指数现跌1%。",
-          "url": "https://flash.jin10.com/detail/20260302115144424800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "恒指低开1.22%，恒生科技指数跌1.78%",
-          "url": "https://wallstreetcn.com/livenews/3061395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "印度NIFTY 50指数收复部分跌幅，现跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3061485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI短剧",
@@ -648,6 +835,17 @@
           "time_info": "[10时49分 ~ 12时56分]"
         },
         {
+          "title": "千问AI眼镜开启预约",
+          "url": "https://www.toutiao.com/trending/7612431152581967913/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "千问AI眼镜开启预约，到手价最低1997元",
           "url": "https://wallstreetcn.com/livenews/3061432",
           "source": "华尔街见闻-快讯",
@@ -687,7 +885,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -706,7 +904,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -718,6 +916,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时56分 ~ 14时01分]"
+        },
+        {
+          "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金逼近5400关口",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T07:33:32.461387+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-03-02T10:49:42.685332+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -15,11 +15,12 @@
             14,
             15,
             16,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 10时49分]"
         },
         {
           "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
@@ -39,9 +40,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "机构：若中东冲突持续，油价可能突破100美元",
+          "url": "https://flash.jin10.com/detail/20260302103920531800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "周一悉尼盘前，美元兑日元报价跌0.01%，报156.03日元。 澳元兑美元目前跌超0.4%，报0.7052。 纽元兑美元跌0.66%，报0.5958。",
@@ -137,7 +149,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -148,9 +160,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "消息人士：中东供应担忧加剧，迪拜原油近月价差扩大近1美元",
+          "url": "https://flash.jin10.com/detail/20260302103051566800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "菲律宾兑美元跌0.5%至57.936，创2月23日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3061425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "泰铢兑美元跌0.7%至31.250，创2月20日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3061424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "避险型货币周一盘初基本持稳，美元兑瑞郎USD/CHF报0.7676，跌幅0.15%、美元兑日元USD/JPY报156.1，基本平盘。",
@@ -162,12 +207,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "中国货币网数据显示，在岸人民币兑美元盘初一度触及6.96元附近，目前大幅反弹至6.8656元。",
+          "url": "https://wallstreetcn.com/livenews/3061416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "消息人士称，受中东供应担忧影响，迪拜原油月度价差在现货溢价结构下扩大近1美元，至每桶1.45美元。",
+          "url": "https://flash.jin10.com/detail/20260302102346690800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "二手相机价格暴涨有的翻 10 倍，消费电子产品不都越放越便宜么，为何相机却逆势上涨？背后发生了什么？",
@@ -184,15 +251,37 @@
           "time_info": "[00时40分 ~ 07时33分]"
         },
         {
+          "title": "【早报】哈梅内伊遇害，外交部发声；国家发改委回应存储芯片价格上涨",
+          "url": "https://www.cls.cn/detail/2299148",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "淡季不淡，3月TV面板价格继续看涨",
           "url": "https://wallstreetcn.com/livenews/3061310",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "深圳二手房价格连续3个月上涨，2月均价达6.2万元/㎡",
+          "url": "https://wallstreetcn.com/livenews/3061439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "高盛估计，若霍尔木兹海峡供应全面中断达6周之长，原油价格存在每桶18美元的时间风险溢价，如果仅50%的供应中断一个月，溢价将减小至4美元。",
@@ -219,40 +308,128 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时33分]"
+        },
+        {
+          "title": "各大银行/品牌金条价格排行一览",
+          "url": "https://flash.jin10.com/detail/20260302103527397800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "金十期货3月2日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌1150元/吨，中间价报172950元/吨。",
+          "url": "https://flash.jin10.com/detail/20260302103201027800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "指数",
+      "match_count": 8,
       "titles": [
         {
-          "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
-          "url": "https://wallstreetcn.com/livenews/3061313",
+          "title": "截至早盘收盘，日经225指数跌1.5%，东证指数跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3061443",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "10时49分"
         },
         {
-          "title": "美债期货走高，美国10年期国债期货上涨9点，30年期国债期货上涨12点。",
-          "url": "https://flash.jin10.com/detail/20260302070505362800",
-          "source": "金十数据",
+          "title": "恒生科技指数日内跌超3%，商汤跌7.8%，小米、中芯国际、百度、阿里巴巴等跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3061433",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "10时49分"
+        },
+        {
+          "title": "恒指跌幅扩大至2.1%，恒生科技指数跌2.4%。比亚迪电子、哔哩哔哩等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3061423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "金十图示：2026年03月02日（周一）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260302102545285800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "恒生科技指数盘初跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3061406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "中证转债指数低开0.47%。Z华转债涨19.21%，齐翔转2涨5.15%，三角转债涨3.87%；双良转债跌13.24%，松霖转债跌8.39%，宏柏转债跌5.12%。",
+          "url": "https://wallstreetcn.com/livenews/3061400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "上证指数开盘报4151.80点，跌0.27%。 深证成指开盘报14327.65点，跌1.16%。 创业板指开盘报3257.05点，跌1.61%。 沪深300开盘报4681.01点，跌0.63%。 科创50开盘报1459.78点，跌1.90%。 中证500开盘报8585.85点，跌0.84%。 中证1000开盘报8464.27点，跌1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3061398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "恒指低开1.22%，恒生科技指数跌1.78%",
+          "url": "https://wallstreetcn.com/livenews/3061395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI短剧",
@@ -269,6 +446,17 @@
           "time_info": "[00时40分 ~ 07时33分]"
         },
         {
+          "title": "演员逼真到根本看不出来是AI",
+          "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
           "url": "https://wallstreetcn.com/livenews/3061282",
           "source": "华尔街见闻-快讯",
@@ -281,13 +469,74 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时33分]"
+        },
+        {
+          "title": "千问AI眼镜开启预约，到手价最低1997元",
+          "url": "https://wallstreetcn.com/livenews/3061432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "澳大利亚考虑要求应用商店和搜索引擎下架存在安全隐患的AI服务。",
+          "url": "https://flash.jin10.com/detail/20260302101744342800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
+          "url": "https://wallstreetcn.com/livenews/3061313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美债期货走高，美国10年期国债期货上涨9点，30年期国债期货上涨12点。",
+          "url": "https://flash.jin10.com/detail/20260302070505362800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
         {
           "title": "美股股指期货低开1%",
           "url": "https://flash.jin10.com/detail/20260302070422516800",
@@ -295,7 +544,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         }

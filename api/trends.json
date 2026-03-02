@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T03:02:00.472252+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-03-03T04:48:30.250301+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
@@ -15,8 +15,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时48分]"
+        },
+        {
+          "title": "美、布两油短线走高0.7美元，现分别报71.91美元/桶和78.01美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260303040820915800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
@@ -49,9 +60,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美元指数涨0.8%",
+          "url": "https://wallstreetcn.com/livenews/3062129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "国际油价在收盘之后走高，WTI原油期货涨穿72美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3062128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美国原油期货收涨约6.3%，中东原油期货一度突破83美元",
+          "url": "https://wallstreetcn.com/livenews/3062121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
@@ -71,7 +126,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -82,9 +137,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9058元，较上周五夜盘收盘跌428点。成交量605.45亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3062115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "机构：若伊朗冲突长期持续，油价或升至每桶100美元",
+          "url": "https://wallstreetcn.com/livenews/3062109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "欧元兑美元下跌1%至1.1693，为1月22日以来最低。",
@@ -112,7 +189,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -134,8 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时48分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -147,8 +224,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时48分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -158,8 +235,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时48分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -169,8 +246,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时48分]"
         },
         {
           "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
@@ -185,6 +262,18 @@
           "time_info": "[01时57分 ~ 03时02分]"
         },
         {
+          "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
+          "url": "https://www.zhihu.com/question/2011927999839172012",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时48分]"
+        },
+        {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
           "url": "https://wallstreetcn.com/livenews/3062080",
           "source": "华尔街见闻-快讯",
@@ -197,21 +286,32 @@
           "time_info": "[01时57分 ~ 03时02分]"
         },
         {
-          "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
-          "url": "https://www.zhihu.com/question/2011927999839172012",
+          "title": "安永针对销售平台推出EY.ai，由Snowflake和Canva提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3062126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
+          "url": "https://www.zhihu.com/question/2010702851366674730",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "纳斯达克100指数、标普500指数转涨，纳指涨0.3%，费城银行指数涨0.8%。 道指也几乎完全收复日内稍早失地。",
@@ -273,6 +373,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "恒生指数主连夜盘收涨0.86%，报26109点。 恒生科技指数主连夜盘收涨0.85%，报5007点。",
+          "url": "https://wallstreetcn.com/livenews/3062114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
           "title": "欧洲STOXX 600指数收跌1.65%，报623.36点。 欧元区STOXX 50指数收跌2.47%，报5987.02点，跳空低开之后，持续低位窄幅震荡。 富时泛欧绩优300指数收跌1.64%，报2487.70点。",
           "url": "https://wallstreetcn.com/livenews/3062060",
           "source": "华尔街见闻-快讯",
@@ -297,8 +408,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时48分]"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -325,6 +436,17 @@
           "time_info": "[01时01分 ~ 03时02分]"
         },
         {
+          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2300294",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时48分]"
+        },
+        {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
           "url": "https://wallstreetcn.com/livenews/3062073",
           "source": "华尔街见闻-快讯",
@@ -335,17 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时02分]"
-        },
-        {
-          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2300294",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
         }
       ]
     },
@@ -361,8 +472,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 04时48分]"
         },
         {
           "title": "消息人士：巴西石油公司关于燃油价格的决定可能将于下周出炉，具体取决于布伦特原油价格。",
@@ -385,6 +496,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
+          "url": "https://wallstreetcn.com/livenews/3062119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能可能将工作周缩短至四天，呼吁政府为人工智能时代重新培训工人。",
+          "url": "https://flash.jin10.com/detail/20260303032802983800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能的推动不会是赢家通吃的局面。",
+          "url": "https://flash.jin10.com/detail/20260303032754746800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "短中期美债收益率涨超10个基点，投资者担忧中东局势给美国带来通胀风险",
+          "url": "https://wallstreetcn.com/livenews/3062131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "Natixis：建议押注美债曲线陡化，中东冲突加剧经济和供应链风险。",
+          "url": "https://wallstreetcn.com/livenews/3062108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     }

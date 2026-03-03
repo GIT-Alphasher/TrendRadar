@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-03T13:58:14.078391+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-03-03T15:06:29.547973+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "指数",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "越南VN指数下跌2%至1,808.95点。",
+          "url": "https://wallstreetcn.com/livenews/3062507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
         {
           "title": "台湾证交所加权股价指数下跌2%，至34391.65点。",
           "url": "https://wallstreetcn.com/livenews/3062352",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股今日收盘行情一览：银行、炼化及贸易、航运港口板块全天表现强劲，消费电子、家电、半导体股录得下跌。",
+          "url": "https://flash.jin10.com/detail/20260303150246634800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "标普500能源指数收涨1.9%，创收盘历史新高。",
@@ -36,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -189,7 +211,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -200,7 +222,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -211,7 +233,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -282,6 +304,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "A股三大指数同步高开",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%90%8C%E6%AD%A5%E9%AB%98%E5%BC%80%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "金十图示：2026年03月02日（周一）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260303050826799800",
           "source": "金十数据",
@@ -315,15 +348,37 @@
           "time_info": "10时52分"
         },
         {
+          "title": "科创50指数跌幅扩大至5%，芯原股份跌超10%，佰维存储、澜起科技、西部超导跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3062481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "澳大利亚S&P/ASX 200指数收盘下跌1.3%，报9,077.30点。",
           "url": "https://wallstreetcn.com/livenews/3062425",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "MSCI亚太指数下跌3%至249.30点。",
+          "url": "https://wallstreetcn.com/livenews/3062480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "韩国KOSPI指数下跌4%。三星电子股价延续早盘跌势，最新下跌5.3%。",
@@ -335,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "日本东证指数跌幅扩大至3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3062479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。",
@@ -439,7 +505,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
         {
           "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
@@ -482,7 +548,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -493,7 +559,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -641,15 +707,48 @@
           "time_info": "03时02分"
         },
         {
+          "title": "现货白银日内跌幅扩大至7%，报83.05美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3062501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "若霍尔木兹全面封锁，油价冲击200美元？德银拆解三种情景",
+          "url": "https://wallstreetcn.com/articles/3766524",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "WTI原油站上73美元/桶，日内涨2.5%。 布伦特原油日内涨3%，报80.11美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3062437",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "现货白银失守84美元/盎司，日内跌超6%。 沪银主力合约日内重挫10%，现报21459.00元/千克。",
+          "url": "https://wallstreetcn.com/livenews/3062497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
@@ -735,9 +834,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "台币兑美元下跌0.6%至31.620。",
+          "url": "https://wallstreetcn.com/livenews/3062483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的6.27亿美元。",
@@ -784,6 +894,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "韩元兑美元跌1.9%，至1467.8韩元，为2月9日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3062478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "机构：若伊朗冲突长期持续，油价或升至每桶100美元",
           "url": "https://wallstreetcn.com/livenews/3062109",
           "source": "华尔街见闻-快讯",
@@ -801,9 +922,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "乌克兰总理：今天，乌克兰已收到国际货币基金组织（IMF）在新一轮为期四年的“扩展基金安排”项目下发放的首笔款项。15亿美元已划入国家预算，用于为优先支出提供资金支持并维护宏观金融稳定。该项目的总规模为81亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303144004790800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "欧元兑美元下跌1%至1.1693，为1月22日以来最低。",
@@ -837,12 +969,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "现货黄金回落至5300美元/盎司下方，日内跌0.45%。 现货白银日内大跌4%，现报85.61美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3062469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "现货白银加速下挫，短线走低逾2.5美元，最新报83.29美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260303143926109800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -907,11 +1061,23 @@
           "ranks": [
             11,
             14,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 15时06分]"
+        },
+        {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 15时06分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -939,15 +1105,17 @@
           "time_info": "[01时01分 ~ 01时57分]"
         },
         {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 15时06分]"
         },
         {
           "title": "从被动观望转向主动布局，公募“全环节”直面AI颠覆性影响",
@@ -972,18 +1140,6 @@
           "time_info": "[05时42分 ~ 07时36分]"
         },
         {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 13时58分]"
-        },
-        {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
           "url": "https://flash.jin10.com/detail/20260303052851593800",
           "source": "金十数据",
@@ -994,6 +1150,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时38分]"
+        },
+        {
+          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 15时06分]"
         },
         {
           "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
@@ -1008,18 +1177,6 @@
           "time_info": "[01时57分 ~ 03时02分]"
         },
         {
-          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时58分]"
-        },
-        {
           "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
           "source": "澎湃新闻",
@@ -1029,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时37分 ~ 07时36分]"
+        },
+        {
+          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2011932852577650327",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 15时06分]"
         },
         {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
@@ -1079,17 +1247,6 @@
           "time_info": "[05时43分 ~ 06时38分]"
         },
         {
-          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2011932852577650327",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
           "url": "https://flash.jin10.com/detail/20260303055516565800",
           "source": "金十数据",
@@ -1134,6 +1291,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "行业消息人士称，印度最大LNG进口商Petronet公司已通知印度天然气公司（GAIL）及其他天然气公司，来自卡塔尔的液化天然气供应将减少。",
+          "url": "https://flash.jin10.com/detail/20260303145716546800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "AI表格Agent接入钉钉群",
           "url": "https://wallstreetcn.com/livenews/3062395",
           "source": "华尔街见闻-快讯",
@@ -1143,6 +1311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "行业消息人士称，印度天然气公司（GAIL）、印度石油公司自周一起减少对本土买家的天然气供应。",
+          "url": "https://flash.jin10.com/detail/20260303145559407800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "AI定制元宵节祝福语",
@@ -1176,6 +1355,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "AI生成 男女身高",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
+          "url": "https://wallstreetcn.com/livenews/3062468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     },
@@ -1204,8 +1405,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 15时06分]"
         },
         {
           "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
@@ -1238,7 +1439,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1372,7 +1573,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美油轮被炸,石油价格暴涨",
@@ -1387,17 +1588,6 @@
           "time_info": "[01时01分 ~ 10时52分]"
         },
         {
-          "title": "政协委员刘永好：牛奶价格或恢复正常",
-          "url": "https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E5%88%98%E6%B0%B8%E5%A5%BD%EF%BC%9A%E7%89%9B%E5%A5%B6%E4%BB%B7%E6%A0%BC%E6%88%96%E6%81%A2%E5%A4%8D%E6%AD%A3%E5%B8%B8",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时58分]"
-        },
-        {
           "title": "美伊战火“点燃”油气市场，价格能涨至多高？一文读懂",
           "url": "https://www.cls.cn/detail/2300559",
           "source": "财联社热门",
@@ -1406,8 +1596,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 15时06分]"
+        },
+        {
+          "title": "政协委员刘永好：牛奶价格或恢复正常",
+          "url": "https://www.baidu.com/s?wd=%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E5%88%98%E6%B0%B8%E5%A5%BD%EF%BC%9A%E7%89%9B%E5%A5%B6%E4%BB%B7%E6%A0%BC%E6%88%96%E6%81%A2%E5%A4%8D%E6%AD%A3%E5%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时52分 ~ 13时58分]"
+          "time_info": "[12时55分 ~ 15时06分]"
         },
         {
           "title": "各大银行/品牌金条价格排行一览",
@@ -1441,8 +1643,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 15时06分]"
+        },
+        {
+          "title": "伊朗冲突将支撑金银价格 但分析师认为贵金属仍有下跌空间",
+          "url": "https://www.cls.cn/detail/2300782",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "高盛：因卡塔尔液化天然气供应受阻，将2026年4月荷兰TTF天然气价格预测从36 欧元/兆瓦时上调至55欧元/兆瓦时。 将2026年第二季度TTF天然气均价预测从36 欧元/兆瓦时上调至45欧元/兆瓦时。 将2026年4月即期JKM天然气价格预测从11.90美元/百万英热单位上调至20 美元/百万英热单位。",
@@ -1451,7 +1664,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1462,9 +1675,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "3月3日：“农产品批发价格200指数”比昨天上升0.23个点",
+          "url": "https://flash.jin10.com/detail/20260303145207244800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "数据显示外卖大战引发餐饮价格带“不可逆下降”，八成商户净利润下滑",
@@ -1506,7 +1730,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -1524,8 +1748,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 15时06分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",

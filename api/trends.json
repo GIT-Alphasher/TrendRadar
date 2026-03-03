@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T22:56:45.827108+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2026-03-03T23:57:23.639893+08:00",
+  "total_titles_processed": 2042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 79,
+      "match_count": 85,
       "titles": [
         {
           "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 22时56分]"
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 23时57分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "伊朗冲突风险推升铝价 高盛预计或升至每吨3600美元",
@@ -243,11 +254,12 @@
           "source": "微博",
           "ranks": [
             24,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时17分 ~ 22时56分]"
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时57分]"
         },
         {
           "title": "美元指数涨0.8%",
@@ -465,6 +477,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "现货黄金跌破5000美元/盎司关口，日内跌幅超过6.0%。",
+          "url": "https://wallstreetcn.com/livenews/3062867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "现货金银周二高开，现分别报5334美元/盎司和89.64美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260303070055645800",
           "source": "金十数据",
@@ -485,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "商品货币澳元/美元日内跌幅达2.0%，创2025年4月份以来最大盘中跌幅，报0.6949。 美元/加元日内涨幅达0.5%，报1.3745。",
+          "url": "https://wallstreetcn.com/livenews/3062866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "中东局势扰动集运市场 部分船司暂停中东航线接货 运价飙升至6000美元/FEU",
@@ -526,9 +560,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD自上周五以来下跌2.1%，有望创下自2022年9月以来的最大两日跌幅。",
+          "url": "https://flash.jin10.com/detail/20260303234018981800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "周二亚太盘初，WTI原油期货持稳于71美元/桶附近。 美国三大股指期货、罗素2000股指期货跌0.1%。",
@@ -674,6 +719,17 @@
           "time_info": "19时41分"
         },
         {
+          "title": "Prosus于2月23-27日按均价44.0525欧元回购股票205.8996万股，合计0.907亿欧元（折合将近1.070亿美元）。 Naspers同期按均价902.9577南非兰特回购79.4130万股，合计超7.170亿兰特（折合0.450亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3062860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "泰国托运人委员会：霍尔木兹海峡危机使一个40英尺集装箱的运费估计将从3500美元上涨至7000美元，泰国对中东的出口每月面临约333亿泰铢的损失，另有价值320亿泰铢的货物滞留在运输途中。",
           "url": "https://flash.jin10.com/detail/20260303102451090800",
           "source": "金十数据",
@@ -771,6 +827,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "交易商与经纪商称，随着沙特阿美试图将石油从霍尔木兹海峡转运至红海，沙特延布港的油轮运费已涨逾一倍，达到每艘2800万美元。",
+          "url": "https://flash.jin10.com/detail/20260303233250963800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "机构：若伊朗冲突长期持续，油价或升至每桶100美元",
@@ -897,7 +964,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "欧洲主要股指持续下行，意大利富时MIB指数日内大跌3%，欧洲斯托克50指数跌2.5%，德国DAX指数跌2.7%，英国富时100指数、法国CAC40指数跌近2%。",
@@ -950,7 +1017,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -964,17 +1031,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "标普500指数低开81.36点，跌幅1.18%，报6800.26点； 道琼斯工业平均指数低开411.67点，跌幅0.84%，报48493.11点； 纳斯达克综合指数低开456.49点，跌幅2.01%，报22292.37点。",
-          "url": "https://wallstreetcn.com/livenews/3062846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
         },
         {
           "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股今日收盘行情一览：银行、炼化及贸易、航运港口板块全天表现强劲，消费电子、家电、半导体股录得下跌。",
@@ -1032,6 +1088,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时53分 ~ 19时41分]"
+        },
+        {
+          "title": "标普500指数低开81.36点，跌幅1.18%，报6800.26点； 道琼斯工业平均指数低开411.67点，跌幅0.84%，报48493.11点； 纳斯达克综合指数低开456.49点，跌幅2.01%，报22292.37点。",
+          "url": "https://wallstreetcn.com/livenews/3062846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时57分]"
         },
         {
           "title": "金十图示：2026年03月02日（周一）华尔街恐惧与贪婪指数（美盘后）",
@@ -1172,7 +1240,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1254,6 +1322,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "纳斯达克金龙中国指数跌超5％，金山云跌12.44％，万物新生跌10.02％，禾赛科技跌9.70％，小鹏汽车跌8.95％，亿航跌8.59％。",
+          "url": "https://wallstreetcn.com/livenews/3062868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌1.54%，报624.10点。 欧元区STOXX 50指数初步收跌2.22%，报6002.13点。 富时泛欧绩优300指数初步收跌1.53%，报2490.40点。",
           "url": "https://wallstreetcn.com/livenews/3062060",
           "source": "华尔街见闻-快讯",
@@ -1263,6 +1342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "【每日收评】三大指数放量收跌，油气股持续爆发，“三桶油”再度集体涨停",
+          "url": "https://www.cls.cn/detail/2301273",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "MSCI新兴市场股票指数跌超3%。",
@@ -1359,7 +1449,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1507,6 +1597,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "纳斯达克金龙中国指数跌幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3062851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股午盘收盘行情一览：石油、航运港口、银行股集体上攻，消费电子、白酒板块涨跌不一",
           "url": "https://flash.jin10.com/detail/20260303113633150800",
           "source": "金十数据",
@@ -1549,6 +1650,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "欧洲斯托克波动率指数自2025年4月关税风波以来首次升破30关口。",
+          "url": "https://flash.jin10.com/detail/20260303233040752800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌3.55%。 中概股金山云跌9.44%，小鹏跌7.42%，再鼎医药、晶科能源、蔚来汽车至少跌5.02%，新东方、大全新能源、阿里巴巴至少跌4.83%。 ETF中，ASHS跌5.64%，CQQQ跌5.39%，KWEB跌3.21%，ASHS跌3.02%。",
+          "url": "https://wallstreetcn.com/livenews/3062847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "欧洲主要股市延续跌势，德国DAX指数日内大跌4%，欧洲斯托克50指数跌3.7%，英国富时100指数、法国CAC40指数跌3%。",
@@ -1768,17 +1891,6 @@
           "time_info": "17时56分"
         },
         {
-          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3062845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
           "title": "从被动观望转向主动布局，公募“全环节”直面AI颠覆性影响",
           "url": "https://wallstreetcn.com/livenews/3062199",
           "source": "华尔街见闻-快讯",
@@ -1836,6 +1948,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时02分]"
+        },
+        {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时57分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
@@ -1927,7 +2051,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1971,7 +2095,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -2004,7 +2128,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -2026,7 +2150,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -2059,7 +2183,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -2125,7 +2249,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -2155,7 +2279,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美油轮被炸,石油价格暴涨",
@@ -2231,17 +2355,6 @@
           "time_info": "10时52分"
         },
         {
-          "title": "英国长端国债价格跌幅扩大，30年期英债收益率涨16个基点，至5.25%。",
-          "url": "https://wallstreetcn.com/livenews/3062842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
           "title": "3月3日投资避雷针：卡塔尔能源暂停液化天然气生产 天然气价格飙升",
           "url": "https://www.cls.cn/detail/2300555",
           "source": "财联社热门",
@@ -2265,6 +2378,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时38分]"
+        },
+        {
+          "title": "英国长端国债价格跌幅扩大，30年期英债收益率涨16个基点，至5.25%。",
+          "url": "https://wallstreetcn.com/livenews/3062842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时57分]"
         },
         {
           "title": "伊朗冲突将支撑金银价格 但分析师认为贵金属仍有下跌空间",
@@ -2291,6 +2416,17 @@
           "time_info": "[18时53分 ~ 19时41分]"
         },
         {
+          "title": "加拿大2月温哥华基准住房价格同比下降6.8%。 2月温哥华住房销售同比下滑9.8%。",
+          "url": "https://wallstreetcn.com/livenews/3062874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "能源价格全线暴涨 油气巨头开盘齐升",
           "url": "https://flash.jin10.com/detail/20260303163421302800",
           "source": "金十数据",
@@ -2311,6 +2447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "恒天然：3月3日全球乳品贸易（GDT）拍卖价格指数上涨5.7%，奶粉各合同期FAS拍卖均价4,301美元/吨。 批发奶粉价格指数涨4.5%，报3,863美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3062873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "能源供应中断风险长期化 荷兰合作银行大幅上调油气价格预期",
@@ -2465,12 +2612,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "新西兰至3月3日全球乳制品贸易价格指数 5.7%，前值3.6%。",
+          "url": "https://flash.jin10.com/detail/20260303232804754800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -2567,6 +2725,18 @@
           "time_info": "[01时01分 ~ 03时02分]"
         },
         {
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时57分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
           "url": "https://wallstreetcn.com/livenews/3062168",
           "source": "华尔街见闻-快讯",
@@ -2632,7 +2802,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -2643,18 +2813,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2301690",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -2676,7 +2835,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -2747,6 +2906,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "全球航空业ETF跌4.22%，半导体ETF跌4.03%，在美股盘初领跌行业ETF，全球科技股指数ETF跌3.24%，科技行业ETF跌2.13%，能源业ETF涨0.90%。 标普500能源指数高开0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3062849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "美股期货跌幅扩大，标普500指数期货日内跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3062316",
           "source": "华尔街见闻-快讯",
@@ -2761,7 +2931,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
@@ -2796,6 +2966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
+          "url": "https://wallstreetcn.com/livenews/3062863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能可能将工作周缩短至四天，呼吁政府为人工智能时代重新培训工人。",
@@ -2834,8 +3015,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 22时56分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 23时57分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -2887,8 +3068,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 22时56分]"
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 23时57分]"
         }
       ]
     }

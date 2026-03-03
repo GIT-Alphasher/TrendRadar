@@ -1,11 +1,656 @@
 {
-  "generated_at": "2026-03-03T16:55:59.568843+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-03-03T17:56:17.761939+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 57,
+      "titles": [
+        {
+          "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
+          "url": "https://wallstreetcn.com/articles/3766481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "伊朗冲突风险推升铝价 高盛预计或升至每吨3600美元",
+          "url": "https://flash.jin10.com/detail/20260303103916272800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3062155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "现货白银失守88美元/盎司，日内跌1.5%。 沪银主力合约日内大跌6.00%，现报22412.00元/千克。",
+          "url": "https://wallstreetcn.com/livenews/3062448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "现货白银向下触及88美元/盎司，日内跌1.36%。",
+          "url": "https://flash.jin10.com/detail/20260303134954402800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "在岸人民币兑美元3月3日16:30收盘报6.8997，较上一交易日下降142点。",
+          "url": "https://flash.jin10.com/detail/20260303163841853800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "美、布两油短线走高0.7美元，现分别报71.91美元/桶和78.01美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260303040820915800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "布伦特原油日内大涨5.00%，现报81.61美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260303175038875800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "美元指数2日大幅上涨",
+          "url": "https://flash.jin10.com/detail/20260303061532268800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "博通（AVGO）首席执行官（CEO）Hock Tan去年总薪酬2.05亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3062173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 03时02分]"
+        },
+        {
+          "title": "周一（3月2日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9010元，较上周五纽约尾盘跌385点，日内整体交投于6.8621-6.9133元区间。",
+          "url": "https://wallstreetcn.com/livenews/3062171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "英伟达扩张生态圈：分别向两家光学技术公司投资20亿美元",
+          "url": "https://www.cls.cn/detail/2300388",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 13时58分]"
+        },
+        {
+          "title": "美元指数涨0.8%",
+          "url": "https://wallstreetcn.com/livenews/3062129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时43分]"
+        },
+        {
+          "title": "国际油价在收盘之后走高，WTI原油期货涨穿72美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3062128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时43分]"
+        },
+        {
+          "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3062077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 03时02分]"
+        },
+        {
+          "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303051827835800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时38分]"
+        },
+        {
+          "title": "美国原油期货收涨约6.3%，中东原油期货一度突破83美元",
+          "url": "https://wallstreetcn.com/livenews/3062121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时43分]"
+        },
+        {
+          "title": "周一（3月2日），美联储隔夜逆回购协议（RRP）使用规模为6.27亿美元（交易对手4家），上个交易日报163.18亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3062097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "现货白银日内跌幅扩大至7%，报83.05美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3062501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "美元指数突破99，日内涨0.45%，创1月20日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3062610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "英镑兑美元跌幅扩大，自12月以来首次跌破1.33。",
+          "url": "https://wallstreetcn.com/livenews/3062660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "若霍尔木兹全面封锁，油价冲击200美元？德银拆解三种情景",
+          "url": "https://wallstreetcn.com/articles/3766524",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "WTI原油站上73美元/桶，日内涨2.5%。 布伦特原油日内涨3%，报80.11美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3062437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "现货白银失守84美元/盎司，日内跌超6%。 沪银主力合约日内重挫10%，现报21459.00元/千克。",
+          "url": "https://wallstreetcn.com/livenews/3062497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "现货黄金短线下挫近70美元，回落至5240美元/盎司下方，日内跌近1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3062658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "现货金银周二高开，现分别报5334美元/盎司和89.64美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260303070055645800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "中东局势扰动集运市场 部分船司暂停中东航线接货 运价飙升至6000美元/FEU",
+          "url": "https://www.cls.cn/detail/2300320",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303010655126800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "周二亚太盘初，WTI原油期货持稳于71美元/桶附近。 美国三大股指期货、罗素2000股指期货跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3062185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "BMI：中东冲突或推升铝价至每吨3700美元",
+          "url": "https://flash.jin10.com/detail/20260303120216591800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "现货钯金跌超3%，至1706美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260303162951728800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "周一（3月2日），韩元兑美元最终跌1.99%，报1468.60韩元，全天持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3062089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8997，较上一交易日官方收盘价跌142点，较上日夜盘收盘涨61点。",
+          "url": "https://wallstreetcn.com/livenews/3062603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "WTI原油向上触及73美元/桶，日内涨2.72%；布油现涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260303133229791800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "台币兑美元下跌0.6%至31.620。",
+          "url": "https://wallstreetcn.com/livenews/3062483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的6.27亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303021701876800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9058元，较上周五夜盘收盘跌428点。成交量605.45亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3062115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元",
+          "url": "https://wallstreetcn.com/livenews/3062155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "泰国托运人委员会：霍尔木兹海峡危机使一个40英尺集装箱的运费估计将从3500美元上涨至7000美元，泰国对中东的出口每月面临约333亿泰铢的损失，另有价值320亿泰铢的货物滞留在运输途中。",
+          "url": "https://flash.jin10.com/detail/20260303102451090800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "欧元兑美元下跌0.48%至1.1633，创1月19日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3062599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "WTI原油突破75美元/桶，布伦特原油突破82美元/桶，日内均涨超5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3062646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "现货铂金延续跌势，最新报2179.85美元/盎司，日内跌逾5%。",
+          "url": "https://flash.jin10.com/detail/20260303162642162800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "现货铂金延续跌势，日内跌逾5%，最新报2179.85美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3062597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "韩元兑美元跌1.9%，至1467.8韩元，为2月9日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3062478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "机构：若伊朗冲突长期持续，油价或升至每桶100美元",
+          "url": "https://wallstreetcn.com/livenews/3062109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "韩元兑美元一度下跌1.9%，至1467.8，为2月24日以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260303131643614800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "乌克兰总理：今天，乌克兰已收到国际货币基金组织（IMF）在新一轮为期四年的“扩展基金安排”项目下发放的首笔款项。15亿美元已划入国家预算，用于为优先支出提供资金支持并维护宏观金融稳定。该项目的总规模为81亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303144004790800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "欧元兑美元下跌1%至1.1693，为1月22日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3062042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "报道：马斯克旗下X与xAI拟偿还175亿美元债务 SpaceX上市临近",
+          "url": "https://wallstreetcn.com/livenews/3062123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美元/瑞郎日内涨幅达1.5%，报0.7803。",
+          "url": "https://wallstreetcn.com/livenews/3062041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "现货黄金回落至5300美元/盎司下方，日内跌0.45%。 现货白银日内大跌4%，现报85.61美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3062469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "现货白银加速下挫，短线走低逾2.5美元，最新报83.29美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260303143926109800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "伦敦证券交易所集团数据显示，4月份东西向柴油价差飙升至逾三年来最宽，每公吨贴水达135美元。亚洲柴油炼油利润跃升至每桶36.6美元的三年高位。",
+          "url": "https://flash.jin10.com/detail/20260303173853037800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "WTI原油日内大涨5%，现报74.63美元/桶。 布伦特原油现涨3.87%，报80.7美元/桶。 美国天然气期货上涨超5%，至每百万英热单位3.12美元。",
+          "url": "https://wallstreetcn.com/livenews/3062632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "指数",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "欧洲主要股指持续下行，意大利富时MIB指数日内大跌3%，欧洲斯托克50指数跌2.5%，德国DAX指数跌2.7%，英国富时100指数、法国CAC40指数跌近2%。",
@@ -14,7 +659,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -28,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "欧洲斯托克50指数下跌3%，创4月以来最大两日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3062674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "台湾证交所加权股价指数下跌2%，至34391.65点。",
@@ -222,7 +878,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -288,9 +944,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "欧洲斯托克波动率指数升至27.85，创去年5月以来新高。",
+          "url": "https://flash.jin10.com/detail/20260303174801073800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "MSCI亚太指数下跌2%至251.89点。",
@@ -343,7 +1010,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -453,7 +1120,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -541,7 +1208,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -574,583 +1241,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 50,
-      "titles": [
-        {
-          "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
-          "url": "https://wallstreetcn.com/articles/3766481",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时36分]"
-        },
-        {
-          "title": "伊朗冲突风险推升铝价 高盛预计或升至每吨3600美元",
-          "url": "https://flash.jin10.com/detail/20260303103916272800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3062155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "现货白银失守88美元/盎司，日内跌1.5%。 沪银主力合约日内大跌6.00%，现报22412.00元/千克。",
-          "url": "https://wallstreetcn.com/livenews/3062448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "现货白银向下触及88美元/盎司，日内跌1.36%。",
-          "url": "https://flash.jin10.com/detail/20260303134954402800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "在岸人民币兑美元3月3日16:30收盘报6.8997，较上一交易日下降142点。",
-          "url": "https://flash.jin10.com/detail/20260303163841853800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "美、布两油短线走高0.7美元，现分别报71.91美元/桶和78.01美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260303040820915800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "美元指数2日大幅上涨",
-          "url": "https://flash.jin10.com/detail/20260303061532268800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "博通（AVGO）首席执行官（CEO）Hock Tan去年总薪酬2.05亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3062173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3062081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时02分]"
-        },
-        {
-          "title": "周一（3月2日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9010元，较上周五纽约尾盘跌385点，日内整体交投于6.8621-6.9133元区间。",
-          "url": "https://wallstreetcn.com/livenews/3062171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "英伟达扩张生态圈：分别向两家光学技术公司投资20亿美元",
-          "url": "https://www.cls.cn/detail/2300388",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 13时58分]"
-        },
-        {
-          "title": "美元指数涨0.8%",
-          "url": "https://wallstreetcn.com/livenews/3062129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "国际油价在收盘之后走高，WTI原油期货涨穿72美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3062128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3062077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时02分]"
-        },
-        {
-          "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元。",
-          "url": "https://flash.jin10.com/detail/20260303051827835800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时38分]"
-        },
-        {
-          "title": "美国原油期货收涨约6.3%，中东原油期货一度突破83美元",
-          "url": "https://wallstreetcn.com/livenews/3062121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "周一（3月2日），美联储隔夜逆回购协议（RRP）使用规模为6.27亿美元（交易对手4家），上个交易日报163.18亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3062097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "现货白银日内跌幅扩大至7%，报83.05美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3062501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "美元指数突破99，日内涨0.45%，创1月20日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3062610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "若霍尔木兹全面封锁，油价冲击200美元？德银拆解三种情景",
-          "url": "https://wallstreetcn.com/articles/3766524",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "WTI原油站上73美元/桶，日内涨2.5%。 布伦特原油日内涨3%，报80.11美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3062437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "现货白银失守84美元/盎司，日内跌超6%。 沪银主力合约日内重挫10%，现报21459.00元/千克。",
-          "url": "https://wallstreetcn.com/livenews/3062497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3062123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "现货金银周二高开，现分别报5334美元/盎司和89.64美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260303070055645800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "中东局势扰动集运市场 部分船司暂停中东航线接货 运价飙升至6000美元/FEU",
-          "url": "https://www.cls.cn/detail/2300320",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
-          "url": "https://flash.jin10.com/detail/20260303010655126800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "周二亚太盘初，WTI原油期货持稳于71美元/桶附近。 美国三大股指期货、罗素2000股指期货跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3062185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "BMI：中东冲突或推升铝价至每吨3700美元",
-          "url": "https://flash.jin10.com/detail/20260303120216591800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "现货钯金跌超3%，至1706美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260303162951728800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "周一（3月2日），韩元兑美元最终跌1.99%，报1468.60韩元，全天持续走低。",
-          "url": "https://wallstreetcn.com/livenews/3062089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.8997，较上一交易日官方收盘价跌142点，较上日夜盘收盘涨61点。",
-          "url": "https://wallstreetcn.com/livenews/3062603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "WTI原油向上触及73美元/桶，日内涨2.72%；布油现涨2.3%。",
-          "url": "https://flash.jin10.com/detail/20260303133229791800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "台币兑美元下跌0.6%至31.620。",
-          "url": "https://wallstreetcn.com/livenews/3062483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的6.27亿美元。",
-          "url": "https://flash.jin10.com/detail/20260303021701876800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9058元，较上周五夜盘收盘跌428点。成交量605.45亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3062115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元",
-          "url": "https://wallstreetcn.com/livenews/3062155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "泰国托运人委员会：霍尔木兹海峡危机使一个40英尺集装箱的运费估计将从3500美元上涨至7000美元，泰国对中东的出口每月面临约333亿泰铢的损失，另有价值320亿泰铢的货物滞留在运输途中。",
-          "url": "https://flash.jin10.com/detail/20260303102451090800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "欧元兑美元下跌0.48%至1.1633，创1月19日以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3062599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "现货铂金延续跌势，最新报2179.85美元/盎司，日内跌逾5%。",
-          "url": "https://flash.jin10.com/detail/20260303162642162800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "现货铂金延续跌势，日内跌逾5%，最新报2179.85美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3062597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "韩元兑美元跌1.9%，至1467.8韩元，为2月9日以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3062478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "机构：若伊朗冲突长期持续，油价或升至每桶100美元",
-          "url": "https://wallstreetcn.com/livenews/3062109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "韩元兑美元一度下跌1.9%，至1467.8，为2月24日以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20260303131643614800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "乌克兰总理：今天，乌克兰已收到国际货币基金组织（IMF）在新一轮为期四年的“扩展基金安排”项目下发放的首笔款项。15亿美元已划入国家预算，用于为优先支出提供资金支持并维护宏观金融稳定。该项目的总规模为81亿美元。",
-          "url": "https://flash.jin10.com/detail/20260303144004790800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "欧元兑美元下跌1%至1.1693，为1月22日以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3062042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "报道：马斯克旗下X与xAI拟偿还175亿美元债务 SpaceX上市临近",
-          "url": "https://wallstreetcn.com/livenews/3062123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美元/瑞郎日内涨幅达1.5%，报0.7803。",
-          "url": "https://wallstreetcn.com/livenews/3062041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "现货黄金回落至5300美元/盎司下方，日内跌0.45%。 现货白银日内大跌4%，现报85.61美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3062469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "现货白银加速下挫，短线走低逾2.5美元，最新报83.29美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260303143926109800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -1223,6 +1322,18 @@
           "time_info": "[01时01分 ~ 15时06分]"
         },
         {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 17时56分]"
+        },
+        {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
           "url": "https://www.zhihu.com/question/2011927999839172012",
           "source": "知乎",
@@ -1248,18 +1359,6 @@
           "time_info": "[01时01分 ~ 01时57分]"
         },
         {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 16时55分]"
-        },
-        {
           "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
           "url": "https://wallstreetcn.com/articles/3766555",
           "source": "华尔街见闻",
@@ -1269,8 +1368,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 16时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 17时56分]"
+        },
+        {
+          "title": "标普下调软银展望至负面 OpenAI 押注加剧流动性风险",
+          "url": "https://flash.jin10.com/detail/20260303175117671800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "从被动观望转向主动布局，公募“全环节”直面AI颠覆性影响",
@@ -1367,6 +1477,18 @@
           "time_info": "[01时57分 ~ 03时02分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时56分]"
+        },
+        {
           "title": "安永针对销售平台推出EY.ai，由Snowflake和Canva提供支持。",
           "url": "https://wallstreetcn.com/livenews/3062126",
           "source": "华尔街见闻-快讯",
@@ -1413,17 +1535,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时06分 ~ 16时55分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
@@ -1536,6 +1647,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
+          "url": "https://wallstreetcn.com/livenews/3062645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
           "url": "https://wallstreetcn.com/livenews/3062468",
           "source": "华尔街见闻-快讯",
@@ -1550,7 +1672,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美油轮被炸,石油价格暴涨",
@@ -1596,7 +1718,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -1645,8 +1767,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时06分 ~ 17时56分]"
+        },
+        {
+          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时06分 ~ 16时55分]"
+          "time_info": "[16时55分 ~ 17时56分]"
         },
         {
           "title": "能源价格全线暴涨 油气巨头开盘齐升",
@@ -1655,7 +1789,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -1666,20 +1800,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
         {
-          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
-          "source": "澎湃新闻",
+          "title": "印度政府消息人士：目前没有上调燃油价格的计划。",
+          "url": "https://flash.jin10.com/detail/20260303174945950800",
+          "source": "金十数据",
           "ranks": [
-            12
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时55分"
+          "time_info": "17时56分"
         },
         {
           "title": "高盛：因卡塔尔液化天然气供应受阻，将2026年4月荷兰TTF天然气价格预测从36 欧元/兆瓦时上调至55欧元/兆瓦时。 将2026年第二季度TTF天然气均价预测从36 欧元/兆瓦时上调至45欧元/兆瓦时。 将2026年4月即期JKM天然气价格预测从11.90美元/百万英热单位上调至20 美元/百万英热单位。",
@@ -1726,6 +1860,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "国际原油价格持续拉升，WTI原油涨5.02%，报74.803美元/桶；布伦特原油涨5.03%，报81.653美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3062642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "消息人士：巴西石油公司关于燃油价格的决定可能将于下周出炉，具体取决于布伦特原油价格。",
           "url": "https://flash.jin10.com/detail/20260303005802881800",
           "source": "金十数据",
@@ -1757,6 +1902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "中东冲突长期化引发全球金融动荡 能源价格暴涨与股市重挫",
+          "url": "https://flash.jin10.com/detail/20260303174035700800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     },
@@ -1830,7 +1986,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -1858,6 +2014,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "美股狂欢到头了吗",
+          "url": "https://www.toutiao.com/trending/7612896770523155974/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时56分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
@@ -1893,17 +2061,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "美股狂欢到头了吗",
-          "url": "https://www.toutiao.com/trending/7612896770523155974/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "高盛：美股往上走的唯一途径就是先向下走",
@@ -1996,7 +2153,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -2044,11 +2201,12 @@
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 16时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 17时56分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -2095,11 +2253,12 @@
           "url": "https://wallstreetcn.com/articles/3766588",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时56分]"
         }
       ]
     }

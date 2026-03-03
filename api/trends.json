@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T04:42:51.421476+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-03-04T05:42:20.200450+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时42分]"
-        },
-        {
-          "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3062994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -38,8 +27,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3063025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "塔吉特发布战略计划，考虑2026年投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "国际货币基金组织副总裁卡茨：仍非常明确地认为美元是国际货币体系的核心。",
@@ -64,6 +75,30 @@
           "time_info": "01时56分"
         },
         {
+          "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3062994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
+          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
+          "url": "https://www.cls.cn/detail/2301724",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
           "title": "黄金跌破5100美元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -76,24 +111,35 @@
           "time_info": "[01时01分 ~ 01时56分]"
         },
         {
+          "title": "莫德纳将支付至多22.5亿美元，与Roivant、Arbutus和解。",
+          "url": "https://wallstreetcn.com/livenews/3063018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "反弹3美元 特朗普打击油价的效果转瞬即逝",
+          "url": "https://flash.jin10.com/detail/20260304051410604800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
           "url": "https://wallstreetcn.com/livenews/3062985",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
-          "url": "https://www.cls.cn/detail/2301724",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -107,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "罗斯百货四季度每股收益（EPS）为2美元，分析师预期1.90美元。 预计全年EPS为7.02-7.36美元，分析师预期7.21美元。 预计一季度EPS为1.60-1.67美元，分析师预期1.63美元。",
+          "url": "https://wallstreetcn.com/livenews/3063009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "国际货币基金组织副总裁卡茨：目前流通中的稳定币总规模约为3000亿美元，在金融市场整体规模中仍属“微不足道”。",
@@ -126,9 +183,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美元指数3日上涨",
+          "url": "https://flash.jin10.com/detail/20260304045747487800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "基准油轮收入达到48.12万美元/日，创历史新高。 美国-亚洲超级油轮成本飙升至2690万美元，创纪录新高。",
@@ -148,7 +216,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -159,16 +227,209 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "花旗：若冲突持续 短期铜价或跌至1.2万美元下方",
+          "url": "https://flash.jin10.com/detail/20260304044612332800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "据知情人士透露，小米联合创始人Lin Bin（林斌）达成一份协议，将按125亿美元估值对Miami Dolphins持股1%。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月03日（周二）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260304052151099800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "【每日收评】三大指数放量收跌，油气股持续爆发，“三桶油”再度集体涨停",
+          "url": "https://www.cls.cn/detail/2301273",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅收窄至1.5%，此前一度重挫2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3062906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "标普500指数的11个板块全面收跌，原材料板块跌2.69%，工业板块跌1.96%，信息技术/科技板块跌1.05%，能源板块跌0.94%，电信板块跌0.27%，金融板块跌0.18%“领跑”。",
+          "url": "https://wallstreetcn.com/livenews/3063013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260304050556462800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌2.6%，创2025年7月29日（当天收跌4.3%）以来最差单日表现，报373.15点。 在十个板块中，北欧工业板块跌幅最大。 Nibe Industrier AB跌6.7%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3062899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌3.34%，报6958.04点，整体持续低位窄幅震荡。 热门中概股里，金山云初步收跌8.3%，晶科能源跌8%，小马智行跌7.5%，小鹏跌6.7%，小米跌5.2%，阿里跌4.9%，比亚迪跌4.3%，百度跌3.9%，新东方跌3.8%，网易、携程则微涨至多0.4%。 ETF中，XtrackersHarvest中证50（ASHS）收跌5.82%，德银嘉实沪深300指数ETF（ASHR）收跌3.05%。 中国科技指数ETF（CQQQ）收跌4.86%，中概互联网指数ETF（KWEB）收跌2.74%。",
+          "url": "https://wallstreetcn.com/livenews/3063005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "标普500指数收跌64.99点，跌幅0.94%，报6816.63点。 道琼斯工业平均指数收跌403.51点，跌幅0.83%，报48501.27点。 纳斯达克综合指数（纳指）收跌232.167点，跌幅1.02%，报22516.691点。 纳斯达克100指数收跌272.516点，跌幅1.09%，报24720.084点。 纳斯达克生物科技指数收跌2.28%，报5874.63点。 费城半导体指数收跌4.58%，报7764.882点。 费城证交所KBW银行指数收跌0.70%，报158.96点。 道琼斯KBW地区银行指数收跌0.81%，报129.78点。",
+          "url": "https://wallstreetcn.com/livenews/3063004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌3.14%，报603.93点。 欧元区STOXX 50指数初步收跌3.61%，报5770.95点。 富时泛欧绩优300指数初步收跌3.15%，报2409.37点。",
+          "url": "https://wallstreetcn.com/livenews/3062894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.81%，报25448点。 恒生科技指数主连夜盘收跌0.54%，报4832点。",
+          "url": "https://wallstreetcn.com/livenews/3062969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "阿根廷MERVAL指数收跌0.32%，报259.5万点，整体呈现出V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3062999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "纳斯达克100指数指数跌幅收窄至1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3062886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅收窄至1%，此前一度重挫2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3062962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "标普500软件指数抹去跌幅，涨至盘中高位。",
+          "url": "https://flash.jin10.com/detail/20260304002023407800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.toutiao.com/trending/7612983983969668662/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
         {
           "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3062945",
@@ -185,11 +446,12 @@
           "url": "https://wallstreetcn.com/livenews/3062991",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -200,8 +462,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -212,8 +474,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 05时42分]"
         },
         {
           "title": "以色列航空公司Israir：将于周四恢复从欧洲飞往特拉维夫机场的航班；首班航班将从罗马起飞。",
@@ -244,7 +506,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -260,13 +522,24 @@
           "time_info": "01时56分"
         },
         {
+          "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
+          "url": "https://wallstreetcn.com/livenews/3063008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
           "url": "https://wallstreetcn.com/livenews/3062972",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -274,7 +547,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "柴油价格两天涨34%，创历史上最大同期涨幅，投资者担忧供应中断风险。",
@@ -311,13 +584,24 @@
           "time_info": "01时56分"
         },
         {
+          "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
+          "url": "https://wallstreetcn.com/livenews/3063002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "美国总统特朗普：已指示美国国际开发金融公司（DFC）以非常合理的价格提供政治风险保险和保证，确保所有海上贸易的金融安全，特别是通过海湾的能源贸易。",
           "url": "https://flash.jin10.com/detail/20260304033851666800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -368,114 +652,9 @@
       ]
     },
     {
-      "keyword_group": "指数",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数放量收跌，油气股持续爆发，“三桶油”再度集体涨停",
-          "url": "https://www.cls.cn/detail/2301273",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 04时42分]"
-        },
-        {
-          "title": "纳斯达克100指数跌幅收窄至1.5%，此前一度重挫2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3062906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌2.6%，创2025年7月29日（当天收跌4.3%）以来最差单日表现，报373.15点。 在十个板块中，北欧工业板块跌幅最大。 Nibe Industrier AB跌6.7%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3062899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌3.14%，报603.93点。 欧元区STOXX 50指数初步收跌3.61%，报5770.95点。 富时泛欧绩优300指数初步收跌3.15%，报2409.37点。",
-          "url": "https://wallstreetcn.com/livenews/3062894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.81%，报25448点。 恒生科技指数主连夜盘收跌0.54%，报4832点。",
-          "url": "https://wallstreetcn.com/livenews/3062969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "纳斯达克100指数指数跌幅收窄至1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3062886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅收窄至1%，此前一度重挫2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3062962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "标普500软件指数抹去跌幅，涨至盘中高位。",
-          "url": "https://flash.jin10.com/detail/20260304002023407800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
-          "url": "https://wallstreetcn.com/livenews/3062993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2301690",
@@ -485,8 +664,103 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
+          "url": "https://wallstreetcn.com/livenews/3062993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
+          "title": "CrowdStrike四季度营收13.1亿美元，分析师预期13.0亿美元。 四季度调整后每股收益（EPS）为1.12美元，分析师预期1.10美元。 预计2027财年营收58.7亿-59.3亿美元，分析师预期58.7亿美元。 预计2027财年调整后EPS为4.78-4.90美元，分析师预期4.80美元。 预计一季度营收13.6亿-13.64亿美元，分析师预期13.6亿美元。 预计一季度调整后EPS为1.06-1.07美元，分析师预期1.05美元。 CrowdStrike美股盘后跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3063011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3063010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260304050554009800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260304050527736800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股收盘：纳指跌1% 芯片股普跌",
+          "url": "https://flash.jin10.com/detail/20260304050109014800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
+        },
+        {
+          "title": "美债收益率在亚欧时段走高，美股开盘前后回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3063001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
@@ -501,7 +775,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -512,7 +786,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -531,8 +805,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
@@ -544,23 +818,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时42分]"
         }
       ]
     }

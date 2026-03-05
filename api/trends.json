@@ -1,11 +1,466 @@
 {
-  "generated_at": "2026-03-05T13:57:05.892025+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-03-05T15:05:28.572016+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
+          "url": "https://wallstreetcn.com/articles/3766663",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时39分]"
+        },
+        {
+          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
+          "url": "https://news.ifeng.com/c/8rFCPechKEM",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时05分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
+          "url": "https://wallstreetcn.com/livenews/3063822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘，现货黄金涨0.84%，报5131.75美元/盎司。 COMEX黄金期货涨0.50%，报5149.20美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3063875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘，美元兑日元跌0.42%，报157.07日元，日内交投区间为157.86-156.86日元。 欧元兑日元跌0.19%，英镑兑日元跌0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3063846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时43分]"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘，ICE美元指数跌0.30%，报98.756点，日内交投区间为99.329-98.700点。 彭博美元指数跌0.29%，报1199.95点，日内交投区间为1206.74-1199.25点。",
+          "url": "https://wallstreetcn.com/livenews/3063844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时43分]"
+        },
+        {
+          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
+          "url": "https://www.cls.cn/detail/2303137",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时05分]"
+        },
+        {
+          "title": "周三（3月4日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手8家），上个交易日报12.03亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时41分]"
+        },
+        {
+          "title": "WTI 4月原油期货收报74.66美元/桶。 布伦特5月原油期货收报81.40美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3063841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时43分]"
+        },
+        {
+          "title": "博通：预计二季度AI芯片收入107亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时39分]"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.8951元，较周二纽约尾盘涨243点，日内整体交投于6.9351-6.8886元区间。",
+          "url": "https://wallstreetcn.com/livenews/3063884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时39分]"
+        },
+        {
+          "title": "韩国2月外汇储备 4276.2亿美元，前值4259.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260305050002239800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时41分]"
+        },
+        {
+          "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3063767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时52分]"
+        },
+        {
+          "title": "上期所原油主力合约直线下挫，现打开涨停板，涨幅收窄至5.74%，报659.8元/桶。 集运指数欧线短线大幅波动，盘中一度转跌，此前涨超18%。 美、布两油短线走低逾1美元。",
+          "url": "https://wallstreetcn.com/livenews/3064287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
+          "url": "https://flash.jin10.com/detail/20260305002035785800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "布伦特原油日内涨超2.00%，现报83.12美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260305133642705800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "上期所原油主力合约触及涨停，达成四连板，报711.3元/桶，现涨幅为13.99%。 WTI原油期货涨幅扩大至4%，报77.643美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3064225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "WTI原油日内涨幅达2%，现报77.69美元/桶。布伦特原油现涨1.7%，报82.92美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260305121822742800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "LME期铜收涨102美元，报13058美元/吨。 LME期铝收涨92美元，报3342美元/吨。 LME期锌收涨56美元，报3326美元/吨。 LME期铅收涨26美元，报1962美元/吨。 LME期镍收涨371美元，报17491美元/吨。 LME期锡收涨2176美元，报51019美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3063805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "据Crane Data：美国货币基金资产管理规模达到8.27万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3063835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：美元已走强，回归避险地位。",
+          "url": "https://flash.jin10.com/detail/20260305145611366800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8951元，较周二夜盘收盘涨242点。成交量714.34亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "周三（3月4日），韩元兑美元最终涨1.49%，报1463.18韩元，全天处于上涨状态，整体持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3063801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "美、布两油短线走低逾1美元，伊朗军方高官称未封锁霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260305145359141800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "杰富瑞将Lumentum目标价从680美元上调至800美元。",
+          "url": "https://wallstreetcn.com/livenews/3064271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "WTI原油突破77美元/桶，日内涨1.10%。",
+          "url": "https://flash.jin10.com/detail/20260305095952329800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "IDC预测：2026年全球智能机器人硬件市场将近300亿美元 中国有望引领增长",
+          "url": "https://wallstreetcn.com/livenews/3064174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "据AXIOS网站：委内瑞拉国有矿业公司签署了一项价值数千万乃至数亿美元的协议，将出售多达1000公斤黄金，这些黄金将流向美国市场。",
+          "url": "https://flash.jin10.com/detail/20260305095911626800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
+          "url": "https://flash.jin10.com/detail/20260305000849896800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "澳元兑美元下跌0.6%，至0.7033。",
+          "url": "https://wallstreetcn.com/livenews/3064267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
+          "url": "https://wallstreetcn.com/livenews/3063822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "英镑兑美元下跌约0.5%，至1.3309。",
+          "url": "https://wallstreetcn.com/livenews/3064265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：对Anthropic的100亿美元投资很可能是最后一次。",
+          "url": "https://flash.jin10.com/detail/20260305023559588800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "现货黄金回落至5130美元/盎司下方，日内跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3064264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：向OpenAI投资1000亿美元的机会可能并不存在，因为该公司即将上市。",
+          "url": "https://flash.jin10.com/detail/20260305023545478800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：将投资300亿美元于OpenAI，1000亿美元不在考虑之中。",
+          "url": "https://flash.jin10.com/detail/20260305023519224800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.008美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260305131553325800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260305043255463800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "现货白银短线跳水，日内跌幅达3%，现报80.48美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3064254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "分析师：美元走强或继续压制金价走势",
+          "url": "https://flash.jin10.com/detail/20260305143637743800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "指数",
-      "match_count": 32,
+      "match_count": 40,
       "titles": [
         {
           "title": "韩国 KOSDAQ 指数大跌超 12%，触发熔断机制，封闭霍尔木兹海峡为何能产生如此大的影响？",
@@ -27,7 +482,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -38,9 +493,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "【A股收盘：创业板指冲高回落涨1.66%，全市场上涨个股超4000只】市场全天冲高回落，三大指数集体上涨。MicroLED概念股爆发，亚世光电、华灿光电、国星光电等20余股涨停。电网设备板块延续涨势，汉缆股份、顺钠股份、积成电子均2连板。CPO概念持续走强，汇绿生态涨停，凯格精机涨超10%创新高。下跌方面，农业股集体调整，荃银高科跌停，神农种业等跌超10%。个股涨多跌少，沪深京三市超4000股飘红，今日成交逾2.41万亿。截止收盘沪指涨0.64%，深成指涨1.23%，创业板指涨1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3064296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "集运指数（欧线）主力合约日内涨超18.00%，现报2160.8点。",
@@ -49,7 +515,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -60,9 +526,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "欧洲斯托克50指数期货下跌0.4%，德国DAX指数期货下跌0.34%，法国CAC 40指数期货下跌0.35%，英国富时指数期货上涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3064295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "上证指数收报4108.57点，涨0.64%。 深证成指收报14088.84点，涨1.23%。 创业板指收报3216.94点，涨1.66%。 沪深300收报4647.69点，涨0.98%。 科创50收报1405.35点，涨1.72%。 中证500收报8309.17点，涨0.73%。 中证1000收报8171.12点，涨0.95%。",
+          "url": "https://wallstreetcn.com/livenews/3064294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "集运指数（欧线）主力合约日内涨幅达15.00%，现报2109.0点。",
@@ -71,7 +559,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -203,7 +691,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -214,7 +702,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -280,7 +768,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -294,6 +782,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "日经225指数收涨1.9%，报55278.06点。 日本东证指数收涨1.9%，报3702.67点。 韩国首尔综合指数收涨9.6%，报5584.23点。",
+          "url": "https://wallstreetcn.com/livenews/3064273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内走低100.1点，现报1730.6点，跌幅5.47%。",
+          "url": "https://flash.jin10.com/detail/20260305145402838800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "恒生科技指数转为涨跌持平，此前一度涨1.8%。",
@@ -329,6 +839,28 @@
           "time_info": "12时52分"
         },
         {
+          "title": "集运指数（欧线）主力合约直线跳水，日内转跌，跌幅超1%，现报1801点，此前一度逼近涨停。",
+          "url": "https://flash.jin10.com/detail/20260305145245176800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "富时中国A50指数季度调整：纳入中国船舶、天孚通信、万华化学",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699604",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "A股三大指数集体高开",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
           "source": "百度热搜",
@@ -351,13 +883,24 @@
           "time_info": "00时58分"
         },
         {
+          "title": "港股午后震荡走低，恒生指数转跌，恒生科技指数跌幅扩大至1.15%，李宁跌3.6%，安踏体育跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3064258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "印度铜铝制造公司Hindalco股价上涨6.4%，在NIFTY50指数中涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260305130949402800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -371,362 +914,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 31,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
-          "url": "https://wallstreetcn.com/articles/3766663",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 07时39分]"
-        },
-        {
-          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
-          "url": "https://news.ifeng.com/c/8rFCPechKEM",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "周三（3月4日）纽约尾盘，现货黄金涨0.84%，报5131.75美元/盎司。 COMEX黄金期货涨0.50%，报5149.20美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3063875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "周三（3月4日）纽约尾盘，美元兑日元跌0.42%，报157.07日元，日内交投区间为157.86-156.86日元。 欧元兑日元跌0.19%，英镑兑日元跌0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3063846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时43分]"
-        },
-        {
-          "title": "周三（3月4日）纽约尾盘，ICE美元指数跌0.30%，报98.756点，日内交投区间为99.329-98.700点。 彭博美元指数跌0.29%，报1199.95点，日内交投区间为1206.74-1199.25点。",
-          "url": "https://wallstreetcn.com/livenews/3063844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时43分]"
-        },
-        {
-          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
-          "url": "https://www.cls.cn/detail/2303137",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时57分]"
-        },
-        {
-          "title": "周三（3月4日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手8家），上个交易日报12.03亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时41分]"
-        },
-        {
-          "title": "WTI 4月原油期货收报74.66美元/桶。 布伦特5月原油期货收报81.40美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3063841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时43分]"
-        },
-        {
-          "title": "博通：预计二季度AI芯片收入107亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时39分]"
-        },
-        {
-          "title": "周三（3月4日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.8951元，较周二纽约尾盘涨243点，日内整体交投于6.9351-6.8886元区间。",
-          "url": "https://wallstreetcn.com/livenews/3063884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时39分]"
-        },
-        {
-          "title": "韩国2月外汇储备 4276.2亿美元，前值4259.1亿美元。",
-          "url": "https://flash.jin10.com/detail/20260305050002239800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时41分]"
-        },
-        {
-          "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
-          "url": "https://wallstreetcn.com/livenews/3063767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时52分]"
-        },
-        {
-          "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
-          "url": "https://flash.jin10.com/detail/20260305002035785800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "布伦特原油日内涨超2.00%，现报83.12美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260305133642705800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "上期所原油主力合约触及涨停，达成四连板，报711.3元/桶，现涨幅为13.99%。 WTI原油期货涨幅扩大至4%，报77.643美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3064225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "WTI原油日内涨幅达2%，现报77.69美元/桶。布伦特原油现涨1.7%，报82.92美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260305121822742800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "LME期铜收涨102美元，报13058美元/吨。 LME期铝收涨92美元，报3342美元/吨。 LME期锌收涨56美元，报3326美元/吨。 LME期铅收涨26美元，报1962美元/吨。 LME期镍收涨371美元，报17491美元/吨。 LME期锡收涨2176美元，报51019美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3063805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "据Crane Data：美国货币基金资产管理规模达到8.27万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3063835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8951元，较周二夜盘收盘涨242点。成交量714.34亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "周三（3月4日），韩元兑美元最终涨1.49%，报1463.18韩元，全天处于上涨状态，整体持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3063801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "WTI原油突破77美元/桶，日内涨1.10%。",
-          "url": "https://flash.jin10.com/detail/20260305095952329800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "IDC预测：2026年全球智能机器人硬件市场将近300亿美元 中国有望引领增长",
-          "url": "https://wallstreetcn.com/livenews/3064174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "据AXIOS网站：委内瑞拉国有矿业公司签署了一项价值数千万乃至数亿美元的协议，将出售多达1000公斤黄金，这些黄金将流向美国市场。",
-          "url": "https://flash.jin10.com/detail/20260305095911626800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
-          "url": "https://flash.jin10.com/detail/20260305000849896800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：对Anthropic的100亿美元投资很可能是最后一次。",
-          "url": "https://flash.jin10.com/detail/20260305023559588800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：向OpenAI投资1000亿美元的机会可能并不存在，因为该公司即将上市。",
-          "url": "https://flash.jin10.com/detail/20260305023545478800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：将投资300亿美元于OpenAI，1000亿美元不在考虑之中。",
-          "url": "https://flash.jin10.com/detail/20260305023519224800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.008美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260305131553325800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "美元指数4日下跌",
-          "url": "https://flash.jin10.com/detail/20260305043255463800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         }
       ]
     },
@@ -859,8 +1046,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时05分]"
         },
         {
           "title": "一键进入AI幻想世界",
@@ -916,7 +1103,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -949,7 +1136,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -1023,7 +1210,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "1克拉钻石价格已经1000多了",
@@ -1037,6 +1224,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 10时48分]"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：法国没有资金来补贴燃料价格。",
+          "url": "https://flash.jin10.com/detail/20260305150214980800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "各大银行/品牌金条价格排行一览",
@@ -1108,6 +1306,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：正密切关注能源价格及市场走势。 美元走强重返避险地位。 伊朗冲突持续时间将影响价格走势。 金融稳定没有受到威胁。 没有加息的必要。",
+          "url": "https://wallstreetcn.com/livenews/3064283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "俄罗斯总统普京：油气价格正在上涨，部分原因是中东危机。",
           "url": "https://flash.jin10.com/detail/20260305011928032800",
           "source": "金十数据",
@@ -1158,7 +1367,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -1172,6 +1381,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：伊朗战争的持续时间将决定对价格的影响程度。",
+          "url": "https://flash.jin10.com/detail/20260305145233420800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：我们正在密切关注能源价格和市场。",
+          "url": "https://flash.jin10.com/detail/20260305145130212800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         }
       ]
     },
@@ -1212,8 +1443,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 15时05分]"
         },
         {
           "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
@@ -1369,7 +1600,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -1442,8 +1673,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 15时05分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",

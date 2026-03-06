@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T22:47:52.372085+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2026-03-06T23:49:33.515951+08:00",
+  "total_titles_processed": 1884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
@@ -138,6 +138,19 @@
           "time_info": "[16时52分 ~ 19时38分]"
         },
         {
+          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
+          "url": "https://wallstreetcn.com/articles/3766900",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时49分]"
+        },
+        {
           "title": "WTI原油日内大涨7.00%，报81.50美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3064647",
           "source": "华尔街见闻-快讯",
@@ -164,18 +177,6 @@
           "time_info": "[04时01分 ~ 05时46分]"
         },
         {
-          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
-          "url": "https://wallstreetcn.com/articles/3766900",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时47分]"
-        },
-        {
           "title": "沙特阿美：沙特将4月份销往美国的阿拉伯轻质原油官方售价（OSP）定为较阿格斯含硫原油升水4.60美元/桶。",
           "url": "https://flash.jin10.com/detail/20260306040656572800",
           "source": "金十数据",
@@ -186,6 +187,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
+          "title": "卡塔尔能源部长警告“油价或冲上150美元” 国际油价应声拉涨",
+          "url": "https://www.cls.cn/detail/2305412",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时49分]"
+        },
+        {
+          "title": "伯克希尔自2024年以来首次开启回购，“股神”巴菲特接班人增持1500万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32707521",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时49分]"
         },
         {
           "title": "美、布两油持续拉升，WTI原油现报80.73美元/桶。布伦特原油涨超3.3%，报84.1美元/桶。",
@@ -256,6 +280,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "Robinhood Ventures Fund I美国IPO首日开盘开盘破发，报22美元，此前给出的IPO发行价为每股25美元。",
+          "url": "https://wallstreetcn.com/livenews/3065358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "摩根大通：将好市多(COST.O)目标价从1050美元上调至1060美元。",
           "url": "https://flash.jin10.com/detail/20260306121547743800",
           "source": "金十数据",
@@ -317,7 +352,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -344,6 +379,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "现货白银日内涨超3.00%，现报84.76美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "定价文件显示，沙特将4月份对西北欧出口的阿拉伯轻质原油官方售价定为较伦敦布伦特期货结算价每桶升水2.85美元。",
           "url": "https://flash.jin10.com/detail/20260306035816642800",
           "source": "金十数据",
@@ -364,17 +410,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "卡塔尔能源部长警告“油价或冲上150美元” 国际油价应声拉涨",
-          "url": "https://www.cls.cn/detail/2305412",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
         },
         {
           "title": "定价文件显示，沙特将4月份对亚洲出口的阿拉伯轻质原油官方售价定为较阿曼/迪拜原油均价每桶升水2.5美元。",
@@ -438,9 +473,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
+        },
+        {
+          "title": "彭博美元指数转跌，（快速）回吐美国非农就业报告发布以来这一波涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3065349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产升至创纪录的7.82万亿美元。",
@@ -537,18 +583,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "伯克希尔自2024年以来首次开启回购，“股神”巴菲特接班人增持1500万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32707521",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -570,7 +605,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -597,6 +632,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "布伦特原油日内涨幅达7.5%，报91.83美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3065342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "越南2月贸易帐 -10.45亿美元，预期-20.25亿美元，前值-17.8亿美元。",
           "url": "https://flash.jin10.com/detail/20260306100346605800",
           "source": "金十数据",
@@ -606,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "纽约期金日内大涨2.00%，现报5180.40美元/盎司。现货黄金站上5170美元/盎司，日内涨1.75%。",
+          "url": "https://flash.jin10.com/detail/20260306232709783800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "截至2月底，印度尼西亚外汇储备降至1519亿美元。",
@@ -666,7 +723,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "财联社C50风向指数调查：2月新增信贷及社融或同比少增、M2增速小幅回落",
@@ -748,6 +805,30 @@
           "time_info": "21时16分"
         },
         {
+          "title": "希腊雅典证交所综合指数收跌2.27%，报2122.60点，本周第二次收于100日均线下方（该技术指标暂报2151.84点），逼近200日均线（咱博爱2060.41点），本周累计下跌6.81%，周一和周二跌幅突出，整体上低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3065360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "【每日收评】三大指数缩量反弹，全市场连续两日逾百股涨超9%，化工股午后持续加强",
+          "url": "https://www.cls.cn/detail/2305224",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时49分]"
+        },
+        {
           "title": "中国台湾证交所加权股价指数收低0.2%，报33599.54点。",
           "url": "https://wallstreetcn.com/livenews/3064899",
           "source": "华尔街见闻-快讯",
@@ -758,6 +839,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 15时03分]"
+        },
+        {
+          "title": "【焦点复盘】微盘股指数强势反弹涨逾3%，电网出海概念持续火热，创新药概念现久违大涨",
+          "url": "https://www.cls.cn/detail/2305299",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时49分]"
         },
         {
           "title": "集运指数（欧线）主力合约日内跌幅缩窄至3%，此前一度跌超11%。",
@@ -782,18 +875,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 15时03分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量反弹，全市场连续两日逾百股涨超9%，化工股午后持续加强",
-          "url": "https://www.cls.cn/detail/2305224",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时47分]"
         },
         {
           "title": "日经225指数转涨，收复早盘1.38%的跌幅。 韩国首尔综合指数跌幅收窄至1.07%。",
@@ -829,15 +910,15 @@
           "time_info": "10时45分"
         },
         {
-          "title": "【焦点复盘】微盘股指数强势反弹涨逾3%，电网出海概念持续火热，创新药概念现久违大涨",
-          "url": "https://www.cls.cn/detail/2305299",
-          "source": "财联社热门",
+          "title": "中东股市收盘播报｜周五（3月6日），迪拜金融市场综合指数收跌3.23%，报5917.22点，跳空低开之后，整体持续、平缓跌扩大跌幅，本周累计下跌11.36%，（经历连续两个交易日的休市之后）3月4日开盘跌幅突出。 阿布扎比证券市场综合指数收跌1.41%，报9903.36点，本周（三天）累跌5.27%。 本周（至3月5日的连续五个自然日），沙特证交所全股指数累计上涨2.87%，报10776.32点，美国和以色列在2月28日悍然袭击伊朗带来短暂的跳水行情。 沙特阿美（ARAMCO.AB）累涨0.62%，报25.88沙特里亚尔。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF累跌6.27%，报11.52沙特里亚尔。 以色列特拉维夫交易所35指数（至3月5日的四天）累涨5.53%，报4356.68点。",
+          "url": "https://wallstreetcn.com/livenews/3065357",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时47分"
+          "time_info": "23时49分"
         },
         {
           "title": "金十图示：2026年03月06日（周五）投机情绪指数",
@@ -860,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3065356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "金十图示：2026年03月06日（周五）亚太市场股市指数（盘初）",
@@ -901,7 +993,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -989,7 +1081,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1011,7 +1103,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1033,7 +1125,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1077,7 +1169,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1091,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "美国10-30年期国债收益率刷新日高，投资者担心油价飙涨带来的通胀风险。 标普500指数跌幅扩大至1.6%，纳斯达克100指数跌幅扩大至1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3065334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "纳斯达克中国金龙指数跌超2%。",
@@ -1170,6 +1273,17 @@
           "time_info": "21时16分"
         },
         {
+          "title": "纳斯达克金龙中国指数盘初涨0.5%。 ETF中，KWEB涨0.48%，CQQQ跌0.50%，ASHR跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3065329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "韩国首尔综指跌幅再次扩大至3%。 MSCI亚太指数下跌1%。",
           "url": "https://wallstreetcn.com/livenews/3064760",
           "source": "华尔街见闻-快讯",
@@ -1184,7 +1298,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -1208,8 +1322,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时45分 ~ 22时47分]"
+          "appearance_count": 11,
+          "time_info": "[10时45分 ~ 23时49分]"
+        },
+        {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 23时49分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -1227,18 +1353,6 @@
           "time_info": "[02时15分 ~ 10时45分]"
         },
         {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时47分]"
-        },
-        {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
           "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
           "source": "凤凰网",
@@ -1248,6 +1362,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时15分 ~ 07时12分]"
+        },
+        {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时52分 ~ 23时49分]"
+        },
+        {
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时49分]"
         },
         {
           "title": "全国首例AI幻觉侵权纠纷案判了",
@@ -1263,15 +1400,19 @@
           "time_info": "[16时52分 ~ 18时49分]"
         },
         {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            12,
+            13,
+            14,
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 22时47分]"
+          "appearance_count": 6,
+          "time_info": "[17时52分 ~ 23时49分]"
         },
         {
           "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
@@ -1296,17 +1437,6 @@
           "time_info": "16时52分"
         },
         {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
           "title": "破5亿播放AI短剧成本仅3000",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -1321,20 +1451,6 @@
           "time_info": "[16时52分 ~ 21时16分]"
         },
         {
-          "title": "TES上报Naiyou不正当行为",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            13,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 22时47分]"
-        },
-        {
           "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
           "url": "https://www.cls.cn/detail/2304910",
           "source": "财联社热门",
@@ -1344,6 +1460,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时52分 ~ 21时16分]"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 23时49分]"
         },
         {
           "title": "AI相关产业规模将超10万亿元",
@@ -1381,17 +1508,6 @@
           "time_info": "[19时38分 ~ 22时47分]"
         },
         {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时47分]"
-        },
-        {
           "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
           "url": "https://www.cls.cn/detail/2304614",
           "source": "财联社热门",
@@ -1402,6 +1518,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时52分 ~ 18时49分]"
+        },
+        {
+          "title": "国产AI短剧《霍去病》火到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时49分]"
+        },
+        {
+          "title": "逐帧分析TES赛场Naiyou操作",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90TES%E8%B5%9B%E5%9C%BANaiyou%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时49分]"
         },
         {
           "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
@@ -1416,16 +1557,15 @@
           "time_info": "[12时49分 ~ 16时52分]"
         },
         {
-          "title": "国产AI短剧《霍去病》火到海外",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
+          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
+          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
+          "source": "凤凰网",
           "ranks": [
-            17,
-            23
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时47分]"
+          "time_info": "[22时47分 ~ 23时49分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -1476,15 +1616,15 @@
           "time_info": "[10时45分 ~ 13时54分]"
         },
         {
-          "title": "逐帧分析TES赛场Naiyou操作",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90TES%E8%B5%9B%E5%9C%BANaiyou%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
+          "source": "百度热搜",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时47分"
+          "time_info": "23时49分"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -1507,17 +1647,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
-          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
         },
         {
           "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
@@ -1575,6 +1704,17 @@
           "time_info": "17时52分"
         },
         {
+          "title": "两会专访｜王遵来委员：AI不是中医的颠覆者，是传承创新的加速器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712020",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3064881",
           "source": "华尔街见闻-快讯",
@@ -1606,6 +1746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "Naiyou Jiaqi",
+          "url": "https://s.weibo.com/weibo?q=Naiyou%20Jiaqi&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "印度距成为全球AI第三大国还需多久",
@@ -1650,12 +1801,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "AI短剧霍去病持续刷屏",
+          "url": "https://www.douyin.com/hot/2421579",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "3 月 5 日，伊朗军方高官称未封锁霍尔木兹海峡，出现这一变化的原因是什么？石油价格是否将回落？",
@@ -1707,6 +1869,18 @@
           "time_info": "04时50分"
         },
         {
+          "title": "春菜“爱马仕”价格跳水",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8F%9C%E2%80%9C%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时49分]"
+        },
+        {
           "title": "雷军回应手机内存芯片价格上涨",
           "url": "https://www.douyin.com/hot/2419523",
           "source": "抖音",
@@ -1742,18 +1916,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时46分]"
-        },
-        {
-          "title": "春菜“爱马仕”价格跳水",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8F%9C%E2%80%9C%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时47分]"
         },
         {
           "title": "美国原油价格延续涨势，创下2024年7月以来最高水平",
@@ -1815,6 +1977,17 @@
           "time_info": "10时45分"
         },
         {
+          "title": "草莓价格大大大跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%A4%A7%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "各大银行/品牌金条价格排行一览",
           "url": "https://flash.jin10.com/detail/20260306103106114800",
           "source": "金十数据",
@@ -1835,6 +2008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "沙特将阿拉伯轻质原油价格上调2.50美元，创2022年8月以来最大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3065354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "据英国金融时报：卡塔尔能源大臣预测，天然气价格将涨至每百万英热单位40美元（每兆瓦时117欧元）。",
@@ -1903,6 +2087,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "俄罗斯副总理诺瓦克：欧洲的天然气价格已上涨近70%，亚太地区的价格几乎翻了一番，这一切都是由于中东冲突升级。",
+          "url": "https://flash.jin10.com/detail/20260306233312359800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
           "url": "https://wallstreetcn.com/livenews/3064675",
           "source": "华尔街见闻-快讯",
@@ -1934,6 +2129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
+        },
+        {
+          "title": "巴西石油公司首席执行官：不会转嫁价格波动。",
+          "url": "https://flash.jin10.com/detail/20260306232746561800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "沙特销往亚洲的原油价格大涨",
@@ -1978,12 +2184,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "美国能源部长Wright：已经采取短期措施，来帮助降低汽油价格。",
+          "url": "https://wallstreetcn.com/livenews/3065331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -2021,6 +2238,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时15分 ~ 13时54分]"
+        },
+        {
+          "title": "美股另类资产管理公司和银行股大跌，包括贝莱德和Blue Owl在内，因一系列负面私人信贷事件引发市场对行业健康状况的新担忧。 受就业数据弱于预期及中东冲突扩大影响，整体股市亦同步下挫。 目前，贝莱德跌逾5%，Ares Management跌6.3%，KKR & Co Inc跌6.3%，Blue Owl跌6%，黑石跌5.6%，阿波罗全球管理跌5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3065365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -2121,7 +2349,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -2176,15 +2404,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
+        },
+        {
+          "title": "美股三大股指跌幅收窄，纳指现跌1%，标普500指数跌1.24%，道指跌1.39%。",
+          "url": "https://flash.jin10.com/detail/20260306231649816800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -2272,6 +2511,17 @@
           "time_info": "17时52分"
         },
         {
+          "title": "美国芝加哥联储主席Goolsbee：并不认为人工智能（AI）的应用解释了生产力数据。",
+          "url": "https://wallstreetcn.com/livenews/3065348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-06）",
           "url": "https://flash.jin10.com/detail/20260306115316980800",
           "source": "金十数据",
@@ -2286,7 +2536,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -2298,8 +2548,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时45分 ~ 22时47分]"
+          "appearance_count": 11,
+          "time_info": "[10时45分 ~ 23时49分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -2313,13 +2563,24 @@
           "time_info": "[02时15分 ~ 07时12分]"
         },
         {
+          "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "非农疲软提振降息预期，美债走高，美股期指跌幅扩大，WTI原油近两年来首破86美元，现货黄金短线拉升",
           "url": "https://wallstreetcn.com/articles/3766902",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },

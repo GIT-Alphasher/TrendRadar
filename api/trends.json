@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:38:48.533503+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-03-06T21:16:25.135484+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时11分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[07时11分 ~ 21时16分]"
         },
         {
           "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "比特币跌至70000美元下方，24小时跌幅超4%。",
+          "url": "https://wallstreetcn.com/livenews/3065271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
@@ -206,7 +217,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -286,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
+          "url": "https://wallstreetcn.com/articles/3766900",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "卡塔尔警告海湾出口国或集体停产 油价或涨至150美元/桶",
@@ -453,6 +475,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "美元兑日元上涨0.3%至158.08，达到自1月23日以来的最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3065254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "匈牙利税务部门：乌克兰籍人员正从奥地利向乌克兰运送总计4000万美元。",
           "url": "https://flash.jin10.com/detail/20260306171118453800",
           "source": "金十数据",
@@ -541,6 +574,17 @@
           "time_info": "15时03分"
         },
         {
+          "title": "WTI原油日内涨幅达6.0%，报85.88美元/桶；布伦特原油日内涨幅达4.5%，报89.28美元/桶。 现货黄金5分钟内下跌11.22美元/盎司，报5070.73美元/盎司；纽约金5分钟内下跌11.59美元/盎司，报5079.1美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美国证交会与孙宇晨就民事欺诈案件达成和解协议，孙宇晨旗下公司Rainberry将支付1000万美元的民事罚款。",
           "url": "https://flash.jin10.com/detail/20260306060013613800",
           "source": "金十数据",
@@ -554,419 +598,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 35,
-      "titles": [
-        {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 07时12分]"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 19时38分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            23,
-            22,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时15分 ~ 10时45分]"
-        },
-        {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 07时12分]"
-        },
-        {
-          "title": "全国首例AI幻觉侵权纠纷案判了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E5%B9%BB%E8%A7%89%E4%BE%B5%E6%9D%83%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%88%A4%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时49分]"
-        },
-        {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
-          "url": "https://flash.jin10.com/detail/20260306124014996800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "AI相关产业规模将超10万亿元",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时38分]"
-        },
-        {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时38分]"
-        },
-        {
-          "title": "AI相关产业规模将超10万亿元",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时49分]"
-        },
-        {
-          "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
-          "url": "https://wallstreetcn.com/livenews/3064643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 05时46分]"
-        },
-        {
-          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
-          "url": "https://www.cls.cn/detail/2304614",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时49分]"
-        },
-        {
-          "title": "TES上报Naiyou不正当行为",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时38分]"
-        },
-        {
-          "title": "破5亿播放AI短剧成本仅3000",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时49分]"
-        },
-        {
-          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
-          "url": "https://www.cls.cn/detail/2304544",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 16时52分]"
-        },
-        {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时54分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
-          "url": "https://wallstreetcn.com/livenews/3064630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时50分]"
-        },
-        {
-          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
-          "url": "https://wallstreetcn.com/livenews/3064629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时50分]"
-        },
-        {
-          "title": "忍住AI让我把食欲忍住",
-          "url": "https://www.douyin.com/hot/2420009",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 13时54分]"
-        },
-        {
-          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
-          "url": "https://flash.jin10.com/detail/20260306014710843800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
-          "url": "https://wallstreetcn.com/livenews/3064683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "为什么现在买个家电满屏都是「AI」、「懂你」？",
-          "url": "https://www.zhihu.com/parker/campaign/2011131622125228105?zh_hide_nav_bar=true",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
-          "url": "https://flash.jin10.com/detail/20260306120949776800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "千问AI一句话下单无门槛立减",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AEAI%E4%B8%80%E5%8F%A5%E8%AF%9D%E4%B8%8B%E5%8D%95%E6%97%A0%E9%97%A8%E6%A7%9B%E7%AB%8B%E5%87%8F%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
-          "url": "https://flash.jin10.com/detail/20260306013029699800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "千问持续推进AI生活服务落地",
-          "url": "https://wallstreetcn.com/livenews/3065107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "智元机器人等入股AI公司福来数创",
-          "url": "https://wallstreetcn.com/livenews/3065106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3064881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "天猫一场直播汇集百款AI新品",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E4%B8%80%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%B1%87%E9%9B%86%E7%99%BE%E6%AC%BEAI%E6%96%B0%E5%93%81%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
-          "url": "https://flash.jin10.com/detail/20260306025523028800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "两会你我他聊AI发电",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%BC%9A%E4%BD%A0%E6%88%91%E4%BB%96%E8%81%8AAI%E5%8F%91%E7%94%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "高通(QCOM.O)与越南电信公司Viettel达成协议，共同在越南生产AI智能手机。",
-          "url": "https://flash.jin10.com/detail/20260306140550608800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "Meta开放AI竞争者使用WhatsApp一年，以避免欧盟采取行动",
-          "url": "https://wallstreetcn.com/livenews/3064824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "指数",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
         {
           "title": "财联社C50风向指数调查：2月新增信贷及社融或同比少增、M2增速小幅回落",
@@ -978,8 +611,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 21时16分]"
         },
         {
           "title": "MSCI亚太指数抹去1.2%的跌幅。",
@@ -1035,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "波罗的海干散货指数跌5.99%，报2010点，为连续第三个交易日下跌。",
+          "url": "https://wallstreetcn.com/livenews/3065270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "中国台湾证交所加权股价指数收低0.2%，报33599.54点。",
@@ -1104,6 +748,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "金十图示：2026年03月06日（周五）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260306210516987800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "日经225指数收涨0.6%，报55620.84点。 日本东证指数收涨0.4%，报3716.93点。 韩国首尔综指收涨0.02%，报5584.87点。",
@@ -1181,6 +836,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "【每日收评】三大指数缩量反弹，全市场连续两日逾百股涨超9%，化工股午后持续加强",
+          "url": "https://www.cls.cn/detail/2305224",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "波罗的海干散货指数跌5.99%，报2010点。",
+          "url": "https://flash.jin10.com/detail/20260306210331735800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "印度Nifty 50指数下跌0.55%。",
@@ -1315,6 +992,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "欧股跌幅扩大，欧洲斯托克50指数跌超1%，法国CXC 40指数跌近1%，德国DAX指数跌0.7%，英国富时100指数跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3065241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "中证转债指数低开0.05%。银轮转债涨8.91%，永贵转债涨1.99%，中贝转债涨1.43%；东时转债跌4.75%，泰坦转债跌2.58%，光力转债跌1.98%。",
           "url": "https://wallstreetcn.com/livenews/3064763",
           "source": "华尔街见闻-快讯",
@@ -1324,6 +1012,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "美国股市指数期货延续跌势，标普500指数E-迷你期货下跌0.7%，纳斯达克100指数期货下跌0.9%，道琼斯指数期货下跌0.7%。",
+          "url": "https://flash.jin10.com/detail/20260306205751348800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "标普500指数期货下跌0.6%至盘中低点，纳斯达克100指数期货下跌0.7%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3065239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "韩国首尔综指跌幅再次扩大至3%。 MSCI亚太指数下跌1%。",
@@ -1339,8 +1049,444 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 37,
+      "titles": [
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 07时12分]"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 21时16分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            23,
+            22,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 10时45分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 07时12分]"
+        },
+        {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 21时16分]"
+        },
+        {
+          "title": "全国首例AI幻觉侵权纠纷案判了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E5%B9%BB%E8%A7%89%E4%BE%B5%E6%9D%83%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%88%A4%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时49分]"
+        },
+        {
+          "title": "印度移动广告公司InMobi将在日本和美国推广AI购物聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260306124014996800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "AI相关产业规模将超10万亿元",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            28,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 21时16分]"
+        },
+        {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 21时16分]"
+        },
+        {
+          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
+          "url": "https://www.cls.cn/detail/2304910",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 21时16分]"
+        },
+        {
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 21时16分]"
+        },
+        {
+          "title": "AI相关产业规模将超10万亿元",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时49分]"
+        },
+        {
+          "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
+          "url": "https://wallstreetcn.com/livenews/3064643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时46分]"
+        },
+        {
+          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
+          "url": "https://www.cls.cn/detail/2304614",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时49分]"
+        },
+        {
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 16时52分]"
+        },
+        {
+          "title": "为什么现在买个家电满屏都是「AI」、「懂你」？",
+          "url": "https://www.zhihu.com/parker/campaign/2011131622125228105?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 21时16分]"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 21时16分]"
+        },
+        {
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时54分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
+          "url": "https://wallstreetcn.com/livenews/3064630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时50分]"
+        },
+        {
+          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
+          "url": "https://wallstreetcn.com/livenews/3064629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时50分]"
+        },
+        {
+          "title": "忍住AI让我把食欲忍住",
+          "url": "https://www.douyin.com/hot/2420009",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 13时54分]"
+        },
+        {
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://flash.jin10.com/detail/20260306014710843800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://wallstreetcn.com/livenews/3064683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
+          "url": "https://flash.jin10.com/detail/20260306120949776800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "千问AI一句话下单无门槛立减",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AEAI%E4%B8%80%E5%8F%A5%E8%AF%9D%E4%B8%8B%E5%8D%95%E6%97%A0%E9%97%A8%E6%A7%9B%E7%AB%8B%E5%87%8F%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
+          "url": "https://flash.jin10.com/detail/20260306013029699800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "国产AI短剧《霍去病》火到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "千问持续推进AI生活服务落地",
+          "url": "https://wallstreetcn.com/livenews/3065107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "智元机器人等入股AI公司福来数创",
+          "url": "https://wallstreetcn.com/livenews/3065106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3064881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "天猫一场直播汇集百款AI新品",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E4%B8%80%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%B1%87%E9%9B%86%E7%99%BE%E6%AC%BEAI%E6%96%B0%E5%93%81%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
+          "url": "https://flash.jin10.com/detail/20260306025523028800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "印度距成为全球AI第三大国还需多久",
+          "url": "https://www.toutiao.com/trending/7614018828762107443/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "两会你我他聊AI发电",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%BC%9A%E4%BD%A0%E6%88%91%E4%BB%96%E8%81%8AAI%E5%8F%91%E7%94%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "高通(QCOM.O)与越南电信公司Viettel达成协议，共同在越南生产AI智能手机。",
+          "url": "https://flash.jin10.com/detail/20260306140550608800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "Meta开放AI竞争者使用WhatsApp一年，以避免欧盟采取行动",
+          "url": "https://wallstreetcn.com/livenews/3064824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "3 月 5 日，伊朗军方高官称未封锁霍尔木兹海峡，出现这一变化的原因是什么？石油价格是否将回落？",
@@ -1362,11 +1508,12 @@
           "ranks": [
             1,
             4,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 16时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 21时16分]"
         },
         {
           "title": "日本央行副行长冰见野良三：从消费价格上涨的角度看，日本正处于通胀之中。 至于日本是否已完全走出通缩，这取决于政府的判断。 日本央行将维持宽松的货币环境，并逐步调整货币宽松的程度。",
@@ -1378,6 +1525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "春菜“爱马仕”价格跳水",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8F%9C%E2%80%9C%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "白宫高级官员：美国财政部预计最快于周四宣布应对能源价格飙升的措施，其中包括利用石油期货市场。",
@@ -1542,6 +1700,28 @@
           "time_info": "17时52分"
         },
         {
+          "title": "美联储理事沃勒：冲突不太可能导致持续通胀。 这也是我们从不关注能源价格的原因。 如果能源价格上涨推高其他价格，我会更担心。 这更像是一次性事件，而非20世纪70年代那样的情况。 1月份就业增长主要集中在少数几个行业。 1月非农几乎肯定会下修。 就业数据表现良好意味着美联储可以按兵不动，等待观望。 问题是如果就业形势不好，美联储为何要按兵不动。 仍认为关税风险完全偏向下行。 我不认为私人信贷存在普遍问题。",
+          "url": "https://wallstreetcn.com/livenews/3065259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美国能源部长赖特：汽油价格受到的影响将持续数周，而非数月。",
+          "url": "https://wallstreetcn.com/livenews/3065258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "韩国副财政部长：政府将采取一切措施，通过设定石油价格上限来稳定消费者物价。",
           "url": "https://flash.jin10.com/detail/20260306120457733800",
           "source": "金十数据",
@@ -1570,7 +1750,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1922,11 +2102,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 21时16分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -1976,8 +2157,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 21时16分]"
         },
         {
           "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",

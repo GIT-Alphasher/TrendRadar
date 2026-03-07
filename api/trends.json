@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T10:39:06.854311+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-03-07T12:38:38.358427+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 12时38分]"
         },
         {
           "title": "卡塔尔能源部长警告“油价或冲上150美元” 国际油价应声拉涨",
@@ -62,7 +62,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -163,6 +163,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时43分]"
+        },
+        {
+          "title": "美国 2 月非农向下大超预期，失业率再次增长，美元 / 金银走势负相关，宏观数据矛盾突出，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2013370440400274363",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 12时38分]"
         },
         {
           "title": "美元/瑞郎日内跌幅达0.5%，报0.7766。",
@@ -369,17 +381,6 @@
           "time_info": "[06时39分 ~ 07时36分]"
         },
         {
-          "title": "美国 2 月非农向下大超预期，失业率再次增长，美元 / 金银走势负相关，宏观数据矛盾突出，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2013370440400274363",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
           "title": "NYMEX天然气期货涨9%，现报3.274美元/百万英热单位。",
           "url": "https://wallstreetcn.com/livenews/3065411",
           "source": "华尔街见闻-快讯",
@@ -432,7 +433,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -503,13 +504,24 @@
           "time_info": "05时39分"
         },
         {
+          "title": "美政府绕过国会审查 批准对以色列超1.5亿美元军售",
+          "url": "https://flash.jin10.com/detail/20260307110420387800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "中国2月外汇储备 34278.1亿美元，前值 33990.8亿美元。",
           "url": "https://wallstreetcn.com/livenews/3065546",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -556,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "美政府绕过国会审查，批准对以色列超1.5亿美元军售",
+          "url": "https://wallstreetcn.com/livenews/3065581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "Robinhood Ventures Fund I美国IPO首日开盘开盘破发，报22美元，此前给出的IPO发行价为每股25美元。",
@@ -638,8 +661,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 12时38分]"
         },
         {
           "title": "彭博大宗商品现货指数涨3.7%，创历史新高。",
@@ -872,31 +895,33 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 10时39分]"
-        },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
           "url": "https://www.cls.cn/detail/2305626",
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 12时38分]"
+        },
+        {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 12时38分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -905,11 +930,12 @@
           "ranks": [
             4,
             1,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 12时38分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -946,8 +972,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 10时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 12时38分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -975,6 +1001,18 @@
           "time_info": "[00时54分 ~ 05时39分]"
         },
         {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 12时38分]"
+        },
+        {
           "title": "AI短剧霍去病持续刷屏",
           "url": "https://www.douyin.com/hot/2421579",
           "source": "抖音",
@@ -1000,6 +1038,17 @@
           "time_info": "[04时43分 ~ 05时39分]"
         },
         {
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 12时38分]"
+        },
+        {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
@@ -1009,6 +1058,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 01时44分]"
+        },
+        {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 12时38分]"
+        },
+        {
+          "title": "TESnaiyou 假赛",
+          "url": "https://s.weibo.com/weibo?q=TESnaiyou%20%E5%81%87%E8%B5%9B&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 12时38分]"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
@@ -1035,50 +1107,6 @@
           "time_info": "[00时54分 ~ 01时44分]"
         },
         {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "破5亿播放AI短剧成本仅3000元",
-          "url": "https://www.toutiao.com/trending/7614214812960034340/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "TESnaiyou 假赛",
-          "url": "https://s.weibo.com/weibo?q=TESnaiyou%20%E5%81%87%E8%B5%9B&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
           "title": "两会专访｜王遵来委员：AI不是中医的颠覆者，是传承创新的加速器",
           "url": "https://m.thepaper.cn/newsDetail_forward_32712020",
           "source": "澎湃新闻",
@@ -1101,13 +1129,24 @@
           "time_info": "07时36分"
         },
         {
+          "title": "解读刷爆外网的AI危机预言",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%88%B7%E7%88%86%E5%A4%96%E7%BD%91%E7%9A%84AI%E5%8D%B1%E6%9C%BA%E9%A2%84%E8%A8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "英媒：与Anthropic“对峙”之际，美国起草严格新民用AI指导方针",
           "url": "https://flash.jin10.com/detail/20260307085433321800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -1118,7 +1157,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -1129,7 +1168,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
@@ -1172,7 +1211,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -1231,7 +1270,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -1269,11 +1308,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 10时39分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 12时38分]"
         },
         {
           "title": "半导体ETF收跌超3.7%，领跌美股行业ETF",
@@ -1327,7 +1367,70 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【人力资源社会保障部部长：正研究措施发挥人工智能创造新岗位和赋能传统岗位作用】人力资源社会保障部部长王晓萍3月7日在十四届全国人大四次会议民生主题记者会上表示，人力资源社会保障部正在研究相关措施，积极发挥人工智能在创造新岗位和赋能传统岗位方面的作用，推动实现技术进步与民生改善相协调的包容性发展。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3065560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席Schmid：受人工智能影响及劳动力人口老龄化，企业雇佣计划处于停滞状态。",
+          "url": "https://wallstreetcn.com/livenews/3065406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时59分]"
+        },
+        {
+          "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
+          "url": "https://wallstreetcn.com/livenews/3065420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时42分]"
+        },
+        {
+          "title": "俄研究机构训练人工智能识别早期乳腺癌",
+          "url": "https://wallstreetcn.com/livenews/3065585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "据英国金融时报：美国在Anthropic事件引发争议之际，出台严格的人工智能新指南。",
+          "url": "https://flash.jin10.com/detail/20260307080922168800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
@@ -1383,58 +1486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【人力资源社会保障部部长：正研究措施发挥人工智能创造新岗位和赋能传统岗位作用】人力资源社会保障部部长王晓萍3月7日在十四届全国人大四次会议民生主题记者会上表示，人力资源社会保障部正在研究相关措施，积极发挥人工智能在创造新岗位和赋能传统岗位方面的作用，推动实现技术进步与民生改善相协调的包容性发展。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3065560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "美国堪萨斯城联储主席Schmid：受人工智能影响及劳动力人口老龄化，企业雇佣计划处于停滞状态。",
-          "url": "https://wallstreetcn.com/livenews/3065406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 02时59分]"
-        },
-        {
-          "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
-          "url": "https://wallstreetcn.com/livenews/3065420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时42分]"
-        },
-        {
-          "title": "据英国金融时报：美国在Anthropic事件引发争议之际，出台严格的人工智能新指南。",
-          "url": "https://flash.jin10.com/detail/20260307080922168800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         }
       ]
     }

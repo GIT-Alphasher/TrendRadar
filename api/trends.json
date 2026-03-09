@@ -1,178 +1,69 @@
 {
-  "generated_at": "2026-03-10T01:04:10.749045+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-10T03:05:02.943907+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "指数",
-      "match_count": 7,
+      "keyword_group": "美元",
+      "match_count": 20,
       "titles": [
         {
-          "title": "纳斯达克100指数涨幅扩大至0.3%，半导体指数涨1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3066646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "金十图示：2026年03月10日（周二）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260310004556936800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌1.1%，报373.18点，创1月2日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Metso Oyj跌4.3%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3066644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "德国DAX 30指数初步收跌0.71%，报23424.58点。 法国股指初步收跌0.97%，意大利股指初步收跌0.42%、银行指数跌0.93%，英国股指初步收跌0.36%。",
-          "url": "https://wallstreetcn.com/livenews/3066637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌0.64%，报594.85点。 欧元区STOXX 50指数初步收跌0.58%，报5686.49点。 富时泛欧绩优300指数初步收跌0.58%，报2373.53点。",
-          "url": "https://wallstreetcn.com/livenews/3066636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "纳斯达克指数转涨转，最新涨0.1%。",
-          "url": "https://flash.jin10.com/detail/20260310003732866800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（3月9日），南非富时/JSE非洲领先40可交易指数收涨0.36%，毛里求斯证交所SEMDEX指数收跌1.00%，肯尼亚内罗毕证交所全股指数收跌0.64%，尼日利亚证交所全部股指收涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3066625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "yilai加入BLG无畏契约",
-          "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
-          "source": "bilibili 热搜",
+          "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "time_info": "[03时04分 ~ 03时05分]"
         },
         {
-          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
-          "url": "https://www.zhihu.com/question/2014268583652320290",
-          "source": "知乎",
+          "title": "现货白银日内涨幅扩大至2.00%，现报86.02美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260310025343518800",
+          "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
-          "url": "https://www.cls.cn/detail/2307537",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
-          "url": "https://wallstreetcn.com/livenews/3066654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "03时05分"
         },
         {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
+          "title": "纽约期银突破86美元/盎司，日内涨2.00%。",
+          "url": "https://flash.jin10.com/detail/20260310025206932800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         },
         {
-          "title": "小片片解读AI神作牌子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
-          "source": "bilibili 热搜",
+          "title": "1亿美元委内瑞拉黄金运抵美国",
+          "url": "https://s.weibo.com/weibo?q=%231%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%BB%84%E9%87%91%E8%BF%90%E6%8A%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
+        },
+        {
+          "title": "伊朗警告油价或超200美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%B2%B9%E4%BB%B7%E6%88%96%E8%B6%85200%E7%BE%8E%E5%85%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
+        },
         {
           "title": "长和就巴拿马港口被接管索赔20亿美元",
           "url": "https://www.toutiao.com/trending/7614466986240442387/",
@@ -185,37 +76,26 @@
           "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "1亿美元委内瑞拉黄金运抵美国",
-          "url": "https://s.weibo.com/weibo?q=%231%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%BB%84%E9%87%91%E8%BF%90%E6%8A%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "伊朗警告油价或超200美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%B2%B9%E4%BB%B7%E6%88%96%E8%B6%85200%E7%BE%8E%E5%85%83%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
           "title": "市场消息：GE航空航天（GE Aerospace）宣布对美国国内制造业务投资10亿美元，创造5,000个美国就业岗位。",
           "url": "https://flash.jin10.com/detail/20260310005201320800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美国国会预算办公司（CBO）：预计美国2月预算赤字3080亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3066686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         },
         {
           "title": "美国天然气期货日内跌超3.00%，现报3.090美元/百万英热。",
@@ -224,9 +104,97 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶98.96美元，上涨6.27美元，涨幅6.76%。",
+          "url": "https://flash.jin10.com/detail/20260310024532608800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国国会预算办公室（CBO）预计2026财年前五个月赤字将达1万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260310024338106800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国原油期货收涨超4%，中东原油期货一度涨穿123美元",
+          "url": "https://wallstreetcn.com/livenews/3066682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国国会预算办公室估计，2月份预算赤字达3080亿美元。",
+          "url": "https://flash.jin10.com/detail/20260310024232969800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报85.18美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260310024148768800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "WTI原油5分钟内下跌1.08美元/桶，报92.97美元/桶，日内涨幅收窄至不足2.0%。 北京时间10:30前后，美国原油期货还曾涨至119.39美元。",
+          "url": "https://wallstreetcn.com/livenews/3066674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "现货钯金日内涨幅达4.00%，现报1683.45美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260310023506123800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "LME期铜收涨92美元，报12954美元/吨。 LME期铝收跌60美元，报3386美元/吨。 LME期锌收涨30美元，报3328美元/吨。 LME期铅收跌16美元，报1936美元/吨。 LME期镍收平，报17469美元/吨。 LME期锡收涨620美元，报50685美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3066670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         },
         {
           "title": "纳指实现V形反转，此前一度跌1.4%。半导体指数涨超1.2%，生物科技指数涨超0.6%。 标普500指数仍然跌超0.4%，道指维持400点、0.8%的跌幅，银行指数目前跌2.5%。 彭博美元指数回吐涨幅，油价涨势减退。",
@@ -235,15 +203,250 @@
           "ranks": [
             22
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶94.77美元，上涨3.87美元，涨幅4.26%。纽约商品交易所柴油期货4月合约结算价为每加仑3.5866美元。",
+          "url": "https://flash.jin10.com/detail/20260310023309268800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "周一（3月9日），韩元兑美元最终涨0.54%，报1475.46韩元。",
+          "url": "https://wallstreetcn.com/livenews/3066665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "恒生指数主连夜盘收涨0.41%，报25370点。 恒生科技指数主连夜盘收涨0.51%，报4954点。",
+          "url": "https://wallstreetcn.com/livenews/3066698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至0.3%，半导体指数涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3066646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260310004556936800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌1.1%，报373.18点，创1月2日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Metso Oyj跌4.3%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3066644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌0.71%，报23424.58点。 法国股指初步收跌0.97%，意大利股指初步收跌0.42%、银行指数跌0.93%，英国股指初步收跌0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3066637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.64%，报594.85点。 欧元区STOXX 50指数初步收跌0.58%，报5686.49点。 富时泛欧绩优300指数初步收跌0.58%，报2373.53点。",
+          "url": "https://wallstreetcn.com/livenews/3066636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "纳斯达克指数转涨转，最新涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260310003732866800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "纳斯达克指数转跌0.4%.",
+          "url": "https://wallstreetcn.com/livenews/3066668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（3月9日），南非富时/JSE非洲领先40可交易指数收涨0.36%，毛里求斯证交所SEMDEX指数收跌1.00%，肯尼亚内罗毕证交所全股指数收跌0.64%，尼日利亚证交所全部股指收涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3066625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "yilai加入BLG无畏契约",
+          "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
+        },
+        {
+          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
+          "url": "https://www.zhihu.com/question/2014268583652320290",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
+        },
+        {
+          "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
+          "url": "https://www.cls.cn/detail/2307537",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
+        },
+        {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
+        },
+        {
+          "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
+          "url": "https://wallstreetcn.com/livenews/3066654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
+        },
+        {
+          "title": "小片片解读AI神作牌子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
+        },
+        {
+          "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
+          "url": "https://wallstreetcn.com/livenews/3066691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
+          "url": "https://wallstreetcn.com/livenews/3066663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英国能源部高级官员Miliband就价格上涨针对取暖油行业发出警告。 CMA将在必要时采取行动，来保护消费者。",
@@ -252,7 +455,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -261,11 +464,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32731441",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
         },
         {
           "title": "英国财政大臣里夫斯：采取行动确保民众在加油站以最低价格购买汽油。",
@@ -274,9 +478,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "现货钯金价格涨超3%，报1677美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3066671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         },
         {
           "title": "普京：大宗商品市场价格高企是暂时的",
@@ -285,7 +500,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -296,7 +511,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
@@ -322,11 +537,12 @@
           "url": "https://www.cls.cn/detail/2307187",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时05分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -335,7 +551,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
@@ -343,8 +559,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "市场消息：苹果(AAPL.O)推迟智能家居显示屏发布，等待新的人工智能功能开发完成。",
+          "url": "https://flash.jin10.com/detail/20260310024624702800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
         {
           "title": "英特尔(INTC.O)发布具备实时性能的第二代酷睿处理器，并扩展其边缘人工智能产品组合。",
           "url": "https://flash.jin10.com/detail/20260310003448919800",
@@ -352,7 +579,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }

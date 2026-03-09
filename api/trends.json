@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T16:57:27.434115+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-03-09T18:03:46.967310+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "国际油价突破每桶 100 美元，为 2022 年来首次，会长期维持在高位吗？对我们的生活影响有多大？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 18时03分]"
         },
         {
           "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 13时01分]"
+        },
+        {
+          "title": "G7拟协调释放石油储备！美油回落至100美元下方，全球股债双杀、芯片股普遍下跌，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "美国天然气期货日内上涨6.00%，现报3.379美元/百万英热。",
@@ -117,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "布伦特原油跌破100美元/桶，现报99.8美元/桶，日内涨幅收窄至约10%。",
+          "url": "https://wallstreetcn.com/livenews/3066423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "美元在悉尼盘初走高，投资者关注油价上涨",
@@ -304,9 +326,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "WTI原油短线下挫，跌破100美元/桶，现报98.48美元/桶，涨幅收窄至约7%，此前一度涨30%。",
+          "url": "https://wallstreetcn.com/livenews/3066415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "伊朗伊斯兰革命卫队发言人对邻国表示，如果你们能忍受油价超过每桶200美元，就继续这个游戏。",
@@ -373,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "布伦特原油跌破100美元/桶关口，现报99.8美元/桶，日内涨幅收窄至约10%。",
+          "url": "https://flash.jin10.com/detail/20260309174836628800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "墨西哥比索兑美元日内跌幅扩大至1.1%。",
@@ -485,6 +529,28 @@
           "time_info": "10时53分"
         },
         {
+          "title": "英伟达投资的数据中心公司Nscale完成20亿美元融资 估值达146亿美元",
+          "url": "https://wallstreetcn.com/livenews/3066401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "美、布两油短线跳水 美油跌破100美元关口",
+          "url": "https://flash.jin10.com/detail/20260309174100580800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "新台币兑美元下跌0.7%，至31.900。",
           "url": "https://wallstreetcn.com/livenews/3066174",
           "source": "华尔街见闻-快讯",
@@ -562,6 +628,28 @@
           "time_info": "04时37分"
         },
         {
+          "title": "布伦特原油短线下挫3美元，现报103.01美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260309173511414800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "WTI原油短线下挫近3美元，跌破100美元/桶关口，现报99.2美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260309173411896800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "印度卢比兑美元下跌0.5%，报1美元兑92.23卢比，受油价飙升影响。 日本10年期国债收益率上行4个基点至6.73%。",
           "url": "https://wallstreetcn.com/livenews/3066162",
           "source": "华尔街见闻-快讯",
@@ -587,7 +675,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "日本2月经济观察家现况指数 48.9，预期48，前值47.6。",
@@ -730,9 +818,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "欧元区3月Sentix投资者信心指数 -3.1，预期 -3，前值 4.2。",
+          "url": "https://wallstreetcn.com/livenews/3066408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "新加坡海峡时报指数下跌3%，至4701.33点。",
@@ -746,13 +845,24 @@
           "time_info": "10时53分"
         },
         {
+          "title": "欧洲斯托克600指数因油价回落而收窄跌幅，现跌1.4%，此前一度跌2.5%。",
+          "url": "https://flash.jin10.com/detail/20260309174722925800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "欧洲银行股指数下跌3%，跌至逾三个月低点。",
           "url": "https://wallstreetcn.com/livenews/3066364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -807,7 +917,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -818,7 +928,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -840,7 +950,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -873,7 +983,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -895,7 +1005,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -928,9 +1038,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "欧元区3月投资者信心指数转负 中东冲突令复苏前景蒙上阴影",
+          "url": "https://flash.jin10.com/detail/20260309173412461800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "1—2月我国快递发展指数同比增长1.5%",
@@ -950,7 +1071,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -961,7 +1082,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -972,7 +1093,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -991,7 +1112,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -1026,8 +1147,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 16时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 18时03分]"
         },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
@@ -1106,8 +1227,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 18时03分]"
         },
         {
           "title": "MiniMax 发布龙虾新技能 股价盘中大涨20%领跑AI板块",
@@ -1144,6 +1265,31 @@
           "time_info": "[14时09分 ~ 16时57分]"
         },
         {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 18时03分]"
+        },
+        {
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 18时03分]"
+        },
+        {
           "title": "小哥AI换脸Kpop歌手一夜爆红",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%93%A5AI%E6%8D%A2%E8%84%B8Kpop%E6%AD%8C%E6%89%8B%E4%B8%80%E5%A4%9C%E7%88%86%E7%BA%A2&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -1154,17 +1300,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 15时55分]"
-        },
-        {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 16时57分]"
         },
         {
           "title": "TES主教练谈naiyou事件",
@@ -1191,17 +1326,16 @@
           "time_info": "[00时40分 ~ 03时32分]"
         },
         {
-          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
-          "url": "https://www.cls.cn/detail/2306605",
-          "source": "财联社热门",
+          "title": "AI焦虑症",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            10,
+            20,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时09分 ~ 16时57分]"
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 18时03分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -1216,15 +1350,15 @@
           "time_info": "[04时37分 ~ 05时33分]"
         },
         {
-          "title": "AI焦虑症",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "AI龙虾爆火,市民排长龙抢装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
+          "source": "贴吧",
           "ranks": [
-            20
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "18时03分"
         },
         {
           "title": "AI“龙虾”爆火 湾区上门一次收4万",
@@ -1295,7 +1429,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1319,7 +1453,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1375,7 +1509,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1504,7 +1638,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
@@ -1518,6 +1652,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时32分 ~ 07时33分]"
+        },
+        {
+          "title": "摩根士丹利：对美股未来6-12个月走势仍持乐观看法",
+          "url": "https://wallstreetcn.com/livenews/3066428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "美股股指期货跌幅扩大至2%",
@@ -1543,13 +1688,24 @@
           "time_info": "06时34分"
         },
         {
+          "title": "美股股指期货跌幅收窄至1%附近，此前均跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3066345",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -1580,6 +1736,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AH股低开高走，“龙虾”概念股爆发，油气股涨幅收窄，恒科指逼近翻红，大模型股MINIMAX暴涨超23%",
+          "url": "https://wallstreetcn.com/articles/3767001",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T12:49:54.843107+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-03-10T13:55:25.873157+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
@@ -71,6 +71,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "沙特阿美设定2026年资本支出500亿-550亿美元。 预计在液体燃料、下游产业和新能源领域增加支出。",
+          "url": "https://wallstreetcn.com/livenews/3067036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "纽约期银突破86美元/盎司，日内涨2.00%。",
           "url": "https://flash.jin10.com/detail/20260310025206932800",
           "source": "金十数据",
@@ -98,11 +109,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时55分]"
         },
         {
           "title": "周一（3月9日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.8875元，较上周五纽约尾盘涨125点，日内整体交投于6.9341-6.8853元区间。",
@@ -164,6 +176,17 @@
           "time_info": "[05时42分 ~ 06时39分]"
         },
         {
+          "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
+          "url": "https://www.zhihu.com/question/2014656017116395259",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时55分]"
+        },
+        {
           "title": "周一（3月9日）纽约尾盘，美元兑日元涨0.08%，报157.91日元，日内交投区间为158.90-157.65日元，绝大部分时间处于上涨状态，北京时间03:19开启一波跳水行情、并短暂转跌。",
           "url": "https://wallstreetcn.com/livenews/3066720",
           "source": "华尔街见闻-快讯",
@@ -221,6 +244,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "沙特阿美提高第四季度基本分红，启动30亿美元股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3067032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "美国天然气期货日内跌超3.00%，现报3.090美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260310004659383800",
           "source": "金十数据",
@@ -249,18 +283,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
-          "url": "https://www.zhihu.com/question/2014656017116395259",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -386,6 +409,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "油价突破 100 美元一桶，有什么影响?",
+          "url": "https://www.zhihu.com/question/2014254832014370546",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "现货钯金日内涨幅达4.00%，现报1683.45美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260310023506123800",
           "source": "金十数据",
@@ -480,7 +514,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -543,7 +577,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "截至早盘收盘，日经225指数涨3.2%，东证指数涨2.8%。",
@@ -555,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "中国台湾证交所股价指数收高2.1%，报32771.87点。",
+          "url": "https://wallstreetcn.com/livenews/3067041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）亚太市场股市指数（盘初）",
@@ -613,8 +658,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时55分]"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数大涨6.2%，创去年5月12日来最大单日涨幅；巴西KSE-30指数上涨7%。",
+          "url": "https://wallstreetcn.com/livenews/3067004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时49分]"
+          "time_info": "[12时49分 ~ 13时55分]"
         },
         {
           "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
@@ -663,24 +720,13 @@
           "time_info": "04时45分"
         },
         {
-          "title": "巴基斯坦KSE-100指数大涨6.2%，创去年5月12日来最大单日涨幅；巴西KSE-30指数上涨7%。",
-          "url": "https://wallstreetcn.com/livenews/3067004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
           "title": "巴基斯坦KSE-30指数上涨6.2%，触发市场暂停交易。",
           "url": "https://flash.jin10.com/detail/20260310123127829800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -718,6 +764,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "恒生科技指数午后涨超2%，腾讯涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3067028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "印尼基准指数开盘涨1.4%至7443.05点。",
           "url": "https://wallstreetcn.com/livenews/3066908",
           "source": "华尔街见闻-快讯",
@@ -738,6 +795,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX 200指数收盘收涨1.1%至8692.6点。",
+          "url": "https://wallstreetcn.com/livenews/3067026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "标普500指数收涨55.97点，涨幅0.83%，报6795.99点。 道琼斯工业平均指数收涨239.25点，涨幅0.50%，报47740.80点。 纳斯达克综合指数（纳指）收涨308.267点，涨幅1.38%，报22695.946点。 纳斯达克100指数收涨324.233点，涨幅1.32%，报24967.248点。 费城半导体指数收涨3.93%，报7810.40点。 费城证交所KBW银行指数收跌0.31%，报152.99点。 道琼斯KBW地区银行指数收跌0.47%，报124.82点。 纳斯达克生物科技指数收涨1.95%，报5900.97点。",
@@ -823,7 +891,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -845,7 +913,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -856,7 +924,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -1083,8 +1151,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时39分 ~ 12时49分]"
+          "appearance_count": 5,
+          "time_info": "[06时39分 ~ 13时55分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -1175,11 +1243,12 @@
           "url": "https://www.cls.cn/detail/2307671",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时55分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -1316,11 +1385,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时55分]"
         },
         {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
@@ -1337,17 +1407,6 @@
           "time_info": "[01时03分 ~ 06时39分]"
         },
         {
-          "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3067011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
           "url": "https://wallstreetcn.com/livenews/3066654",
           "source": "华尔街见闻-快讯",
@@ -1357,6 +1416,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3067011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时55分]"
         },
         {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
@@ -1417,18 +1488,30 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",
           "url": "https://flash.jin10.com/detail/20260310123947391800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时55分]"
+        },
+        {
+          "title": "沙特阿美：我们持续运用包括人工智能在内的先进技术，提升全业务运营效率并挖掘价值。 我们相信对业务的持续投资将为公司未来发展奠定坚实基础。 天然气扩建项目按计划推进，以满足国内日益增长的需求。 项目推进势头强劲，彰显未来运营现金流增长潜力。",
+          "url": "https://wallstreetcn.com/livenews/3067033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "13时55分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)推迟智能家居显示屏发布，等待新的人工智能功能开发完成。",
@@ -1442,13 +1525,24 @@
           "time_info": "03时05分"
         },
         {
+          "title": "沙特阿美：正在利用人工智能提升各项运营效率。我们相信，持续投资于我们的业务，将使我们在未来处于有利地位。",
+          "url": "https://flash.jin10.com/detail/20260310131741446800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-10）",
           "url": "https://flash.jin10.com/detail/20260310120517295800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },

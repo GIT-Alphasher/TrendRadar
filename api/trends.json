@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-10T18:54:09.032149+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-03-10T19:41:03.908776+08:00",
+  "total_titles_processed": 1592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
+          "url": "https://www.zhihu.com/question/2014656017116395259",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 19时41分]"
+        },
         {
           "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
           "url": "https://wallstreetcn.com/articles/3766990",
@@ -33,17 +44,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时03分 ~ 10时45分]"
-        },
-        {
-          "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
-          "url": "https://www.zhihu.com/question/2014656017116395259",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 18时54分]"
         },
         {
           "title": "伊朗警告油价或超200美元",
@@ -400,6 +400,17 @@
           "time_info": "10时45分"
         },
         {
+          "title": "BioNTech四季度营收9.074亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3067247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "WTI原油跌幅收窄至3%，布伦特原油跌幅收窄至1%，现分别报88.6美元/桶和89.6美元/桶。",
           "url": "https://flash.jin10.com/detail/20260310040505049800",
           "source": "金十数据",
@@ -532,6 +543,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "花旗集团将2026-2030年全球人工智能资本支出预测从之前的8万亿美元上调至8.9万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260310190038911800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "现货白银日内涨幅扩大至3.00%，现报86.88美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260310044840238800",
           "source": "金十数据",
@@ -645,7 +667,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "截至早盘收盘，日经225指数涨3.2%，东证指数涨2.8%。",
@@ -679,6 +701,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "上交所：持续优化并稳慎拓展跨境互联互通合作机制，丰富跨境指数产品供给",
+          "url": "https://wallstreetcn.com/livenews/3067261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "“龙虾”狂欢⑤卖“饲料”的先挣钱了：机构称Token消耗迎来指数级跃升",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32734536",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时41分]"
         },
         {
           "title": "周一（3月9日），降息赢家指数涨0.09%，报91.37点，跳空低开之后，盘初跌至87.53点。 “特朗普关税输家”指数涨0.01%，“特朗普金融指数”跌0.20%。 散户抱团概念股指数/迷因股（meme stock）指数涨1.79%。",
@@ -755,18 +800,6 @@
           "time_info": "[16时57分 ~ 17时56分]"
         },
         {
-          "title": "“龙虾”狂欢⑤卖“饲料”的先挣钱了：机构称Token消耗迎来指数级跃升",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32734536",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 18时54分]"
-        },
-        {
           "title": "A股三大指数集体反弹",
           "url": "https://www.toutiao.com/trending/7614686210468446271/",
           "source": "今日头条",
@@ -788,6 +821,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 13时55分]"
+        },
+        {
+          "title": "SpaceX倾向于选择在纳斯达克进行IPO，将提前纳入纳斯达克100指数作为IPO条件。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3067230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时41分]"
         },
         {
           "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
@@ -812,6 +857,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "标普500指数期货回吐早前涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3067259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "越南VN 30指数日内涨近3%。",
@@ -845,6 +901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "标普500指数期货抹去早盘涨幅，道指期货现涨0.1%，纳指期货涨0.08%。",
+          "url": "https://flash.jin10.com/detail/20260310191857763800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至0.3%，半导体指数涨1.9%。",
@@ -886,7 +953,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -968,17 +1035,6 @@
           "time_info": "13时55分"
         },
         {
-          "title": "SpaceX倾向于选择在纳斯达克进行IPO，将提前纳入纳斯达克100指数作为IPO条件。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3067230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
           "title": "标普500指数收涨55.97点，涨幅0.83%，报6795.99点。 道琼斯工业平均指数收涨239.25点，涨幅0.50%，报47740.80点。 纳斯达克综合指数（纳指）收涨308.267点，涨幅1.38%，报22695.946点。 纳斯达克100指数收涨324.233点，涨幅1.32%，报24967.248点。 费城半导体指数收涨3.93%，报7810.40点。 费城证交所KBW银行指数收跌0.31%，报152.99点。 道琼斯KBW地区银行指数收跌0.47%，报124.82点。 纳斯达克生物科技指数收涨1.95%，报5900.97点。",
           "url": "https://wallstreetcn.com/livenews/3066718",
           "source": "华尔街见闻-快讯",
@@ -996,7 +1052,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -1073,7 +1129,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -1202,7 +1258,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -1212,11 +1268,12 @@
             1,
             2,
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时45分 ~ 18时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时45分 ~ 19时41分]"
         },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -1302,17 +1359,6 @@
           "time_info": "[01时03分 ~ 06时39分]"
         },
         {
-          "title": "金融机构整体对OpenClaw等AI代理工具仍保持谨慎态度",
-          "url": "https://wallstreetcn.com/livenews/3067246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
           "url": "https://wallstreetcn.com/livenews/3066654",
           "source": "华尔街见闻-快讯",
@@ -1335,17 +1381,6 @@
           "time_info": "17时56分"
         },
         {
-          "title": "博睿数据：OpenClaw是开源AI智能体执行框架，公司目前对此类技术尚无监控方案和产品，未形成商业化应用，也未形成收入，对公司目前业务不构成影响。",
-          "url": "https://wallstreetcn.com/livenews/3067244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
           "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3067011",
           "source": "华尔街见闻-快讯",
@@ -1358,6 +1393,30 @@
           "time_info": "[12时49分 ~ 13时55分]"
         },
         {
+          "title": "金融机构整体对OpenClaw等AI代理工具仍保持谨慎态度",
+          "url": "https://wallstreetcn.com/livenews/3067246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时41分]"
+        },
+        {
+          "title": "博睿数据：OpenClaw是开源AI智能体执行框架，公司目前对此类技术尚无监控方案和产品，未形成商业化应用，也未形成收入，对公司目前业务不构成影响。",
+          "url": "https://wallstreetcn.com/livenews/3067244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时41分]"
+        },
+        {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
           "url": "https://www.cls.cn/detail/2308421",
           "source": "财联社热门",
@@ -1365,8 +1424,31 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时53分 ~ 19时41分]"
+        },
+        {
+          "title": "这只全网爆火的AI“小龙虾”，普通人要不要养？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32737877",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
+          "url": "https://wallstreetcn.com/livenews/3067229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时41分]"
         },
         {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
@@ -1400,17 +1482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
-        },
-        {
-          "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
-          "url": "https://wallstreetcn.com/livenews/3067229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "AI龙虾为何那么“生猛”",
@@ -1459,8 +1530,234 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时39分 ~ 16时57分]"
+        },
+        {
+          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
+          "url": "https://www.cls.cn/detail/2307187",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时42分]"
+        },
+        {
+          "title": "蔚来美股盘前涨超6%，公司一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时41分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3066727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
+          "url": "https://wallstreetcn.com/livenews/3066726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普释放停战信号，美股期指盘前上涨，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收涨1.12%，报418.01点，跳空低开之后，在美股盘初刷新日低至390.39点，随后逐步收复失地。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.31%，报2919.20点，美股开盘之前维持微幅下跌状态——持稳于2885点附近，随后跳水走低、快速刷新日低至2768.61点。 在美股时段交易的原材料指数收涨1.05%，金属与矿业指数收涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3066724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "半导体ETF收涨超3.6%，领跑美股行业ETF，标普能源板块收跌超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3066722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "惠与第一财季净营收93亿美元，分析师预期93.7亿美元。 第一财季调整后每股收益（EPS）为0.65美元，分析师预期0.58美元。 预计第二财季净营收96亿-100亿美元，分析师预期95.7亿美元。 预计第二财季调整后EPS为0.51-0.55美元，分析师预期0.53美元。 惠与（HPE）美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3066721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "美股将迎“全年无休”交易时代 纳斯达克推进股票上链机制",
+          "url": "https://www.cls.cn/detail/2307671",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时55分]"
+        },
+        {
+          "title": "特朗普释放停战信号，美股期指盘前上涨，欧股大涨，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3067251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260310040602792800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260310040546091800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260310040330474800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3066709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260310003140561800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "2026年2月份居民消费价格同比上涨1.3%，环比上涨1.0%",
@@ -1530,6 +1827,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时42分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：今天我在巴黎会见了斯洛伐克总理，讨论了在确保斯洛伐克和欧盟的安全供应的同时，为欧洲人提供可负担的能源价格的必要性。这也将是我们即将召开的欧盟理事会峰会的核心议题。",
+          "url": "https://flash.jin10.com/detail/20260310192146835800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "欧洲央行管委西姆库斯：我们已经注意到市场定价的变化，如果价格趋势保持，那么将会产生影响。",
@@ -1655,211 +1963,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2307796",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时39分 ~ 16时57分]"
-        },
-        {
-          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
-          "url": "https://www.cls.cn/detail/2307187",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时42分]"
-        },
-        {
-          "title": "蔚来美股盘前涨超6%，公司一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
-          "url": "https://wallstreetcn.com/livenews/3067241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3066727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时42分]"
-        },
-        {
-          "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
-          "url": "https://wallstreetcn.com/livenews/3066726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时42分]"
-        },
-        {
-          "title": "特朗普释放停战信号，美股期指盘前上涨，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收涨1.12%，报418.01点，跳空低开之后，在美股盘初刷新日低至390.39点，随后逐步收复失地。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.31%，报2919.20点，美股开盘之前维持微幅下跌状态——持稳于2885点附近，随后跳水走低、快速刷新日低至2768.61点。 在美股时段交易的原材料指数收涨1.05%，金属与矿业指数收涨1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3066724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时42分]"
-        },
-        {
-          "title": "半导体ETF收涨超3.6%，领跑美股行业ETF，标普能源板块收跌超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3066722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时42分]"
-        },
-        {
-          "title": "惠与第一财季净营收93亿美元，分析师预期93.7亿美元。 第一财季调整后每股收益（EPS）为0.65美元，分析师预期0.58美元。 预计第二财季净营收96亿-100亿美元，分析师预期95.7亿美元。 预计第二财季调整后EPS为0.51-0.55美元，分析师预期0.53美元。 惠与（HPE）美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3066721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时42分]"
-        },
-        {
-          "title": "美股将迎“全年无休”交易时代 纳斯达克推进股票上链机制",
-          "url": "https://www.cls.cn/detail/2307671",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时55分]"
-        },
-        {
-          "title": "特朗普释放停战信号，美股期指盘前上涨，欧股大涨，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260310040602792800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        },
-        {
-          "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260310040546091800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨 芯片股走强",
-          "url": "https://flash.jin10.com/detail/20260310040330474800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        },
-        {
-          "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3066709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        },
-        {
-          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260310003140561800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "Meta公司监督委员会：已推翻Meta公司2025年6月关于在未加“高风险人工智能”标签的情况下保留部分有关以色列-伊朗战争的人工智能内容的决定。",
@@ -1963,13 +2068,24 @@
           "time_info": "12时49分"
         },
         {
+          "title": "美国负责军备控制和国际安全的国务卿：若没有核能，就无法满足数据中心、人工智能等领域日益增长的能源需求。",
+          "url": "https://flash.jin10.com/detail/20260310190550014800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "日本选定61项重点技术作为优先投资目标，包括人工智能、量子计算和无人机",
           "url": "https://flash.jin10.com/detail/20260310181025266800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },

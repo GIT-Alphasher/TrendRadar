@@ -1,45 +1,12 @@
 {
-  "generated_at": "2026-03-13T04:46:53.486092+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-03-13T05:43:05.953738+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "美国至3月13日当周外国央行持有美国国债 -397.55亿美元，前值-93.33亿美元。",
-          "url": "https://flash.jin10.com/detail/20260313043224968800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "美联储3月11日当周贴现窗贷款余额46.6亿美元，之前一周47.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3069154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "现货黄金日内重挫超100美元，现报5073.75美元/盎司，跌幅近2%。",
-          "url": "https://flash.jin10.com/detail/20260313042652716800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
         {
           "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
           "url": "https://wallstreetcn.com/livenews/3069106",
@@ -63,28 +30,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "现货白银日内跌幅达2.5%，报83.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3069151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "现货白银日内下跌超2美元，现报83.57美元/盎司，跌幅2.49%。",
-          "url": "https://flash.jin10.com/detail/20260313042120897800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月11日当周，短期、中期投资级债券基金获得32.8亿美元资金流入，执勤啊一周流入18.7亿美元。 高收益（垃圾级）债券基金遭遇15.3亿美元资金外流，创2025年4月23日以来最大单周资金外流，之前一周外流1.824亿美元。",
           "url": "https://wallstreetcn.com/livenews/3069101",
           "source": "华尔街见闻-快讯",
@@ -94,6 +39,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国至3月13日当周外国央行持有美国国债 -397.55亿美元，前值-93.33亿美元。",
+          "url": "https://flash.jin10.com/detail/20260313043224968800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "美联储3月11日当周贴现窗贷款余额46.6亿美元，之前一周47.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3069154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "现货黄金日内重挫超100美元，现报5073.75美元/盎司，跌幅近2%。",
+          "url": "https://flash.jin10.com/detail/20260313042652716800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "现货白银日内跌幅达2.5%，报83.55美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3069151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "现货白银日内下跌超2美元，现报83.57美元/盎司，跌幅2.49%。",
+          "url": "https://flash.jin10.com/detail/20260313042120897800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
+          "url": "https://www.cls.cn/detail/2311351",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 05时43分]"
         },
         {
           "title": "周四（3月12日），美联储隔夜逆回购协议（RRP）使用规模为1.37亿美元（交易对手4家），上个交易日报5.52亿美元。",
@@ -118,6 +135,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时06分]"
+        },
+        {
+          "title": "Ulta Beauty（犹他美容）四季度净销售39.0亿美元，分析师预期38.3亿美元。 四季度同店销售增长5.8%，分析师预期增长4.25%。 四季度每股收益（EPS）为8.01美元，分析师预期8.11美元。 预计2026年净销售增长6%-7%，运营利润料将增长6%-9%。 预计2026年同店销售将增长2.5%-3.5%，分析师预期增长3.47%。",
+          "url": "https://wallstreetcn.com/livenews/3069141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "Adobe（奥多比）第一财季营收64亿美元，分析师预期62.8亿美元。 第一财季调整后每股收益（EPS）为6.06美元，分析师预期5.88美元。 预计第二财季营收64.3亿-64.8亿美元，分析师预期64.3亿美元。 预计第二财季调整后EPS为5.80-5.85美元，分析师预期5.70美元。 首席执行官（CEO）Shantanu Narayen将卸任。",
+          "url": "https://wallstreetcn.com/livenews/3069140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
@@ -188,6 +229,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "美元指数12日上涨",
+          "url": "https://flash.jin10.com/detail/20260313050109769800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
           "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3069095",
           "source": "华尔街见闻-快讯",
@@ -199,37 +251,15 @@
           "time_info": "03时06分"
         },
         {
-          "title": "Ulta Beauty（犹他美容）四季度净销售39.0亿美元，分析师预期38.3亿美元。 四季度同店销售增长5.8%，分析师预期增长4.25%。 四季度每股收益（EPS）为8.01美元，分析师预期8.11美元。 预计2026年净销售增长6%-7%，运营利润料将增长6%-9%。 预计2026年同店销售将增长2.5%-3.5%，分析师预期增长3.47%。",
-          "url": "https://wallstreetcn.com/livenews/3069141",
+          "title": "周四（3月12日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8813元，较周三纽约尾盘跌46点，日内整体交投于8.8643-6.8854元区间。",
+          "url": "https://wallstreetcn.com/livenews/3069163",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "Adobe（奥多比）第一财季营收64亿美元，分析师预期62.8亿美元。 第一财季调整后每股收益（EPS）为6.06美元，分析师预期5.88美元。 预计第二财季营收64.3亿-64.8亿美元，分析师预期64.3亿美元。 预计第二财季调整后EPS为5.80-5.85美元，分析师预期5.70美元。 首席执行官（CEO）Shantanu Narayen将卸任。",
-          "url": "https://wallstreetcn.com/livenews/3069140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
-          "url": "https://www.cls.cn/detail/2311351",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "05时43分"
         },
         {
           "title": "美国原油期货收报每桶95.73美元，上涨8.48美元，涨幅9.72%。",
@@ -254,6 +284,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "微软与Meta推动数据中心租赁规模飙升至7000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3069157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的1.37亿美元。",
           "url": "https://flash.jin10.com/detail/20260313011800625800",
           "source": "金十数据",
@@ -271,7 +312,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -293,7 +334,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -304,7 +345,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -337,7 +378,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -348,9 +389,205 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "新西兰2月制造业表现指数 55，前值55.2。",
+          "url": "https://flash.jin10.com/detail/20260313053002176800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "阿根廷MERVAL指数收跌2.76%，报269.4万点，整体持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3069150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260313041951016800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，工业板块收跌2.52%，可选消费板块跌2.21%，信息技术/科技板块跌1.72%，电信板块跌1.63%，金融板块跌1.62%，能源板块涨0.98%。",
+          "url": "https://wallstreetcn.com/livenews/3069143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "市场消息：标普对可能加快SpaceX公司进入标普500指数进程的规则变更进行了评估。",
+          "url": "https://flash.jin10.com/detail/20260313041134938800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收跌2.43%，报2130.37点，全天持续走低，3月2日以来低位持稳——胶着于2100点附近。",
+          "url": "https://wallstreetcn.com/livenews/3069039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "标普综合1500商品化学指数收涨8%。",
+          "url": "https://wallstreetcn.com/livenews/3069139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260313040655434800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.03%，报7094.61点。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。 ETF中，中国科技指数ETF（CQQQ）收跌1.77%，中概互联网指数ETF（KWEB）收跌1.41%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3069137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "标普500指数收跌103.18点，跌幅1.52%，报6672.62点。 道琼斯工业平均指数收跌739.42点，跌幅1.56%，报46677.85点。 纳斯达克综合指数（纳指）收跌404.155点，跌幅1.78%，报22311.979点。 纳斯达克100指数收跌431.423点，跌幅1.73%，报24533.583点。 费城半导体指数收跌3.43%，报7643.173点。 费城证交所KBW银行指数收跌2.47%，报148.20点。 道琼斯KBW地区银行指数收跌0.56%，报122.72点，跳空低开之后逐步收复失地，北京时间23:39以来持续“高位”震荡。 纳斯达克生物科技指数收跌2.69%，报5746.24点。",
+          "url": "https://wallstreetcn.com/livenews/3069135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
+          "url": "https://wallstreetcn.com/livenews/3069156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "标普考虑修改规则，以加快SpaceX进入标普500指数的进程",
+          "url": "https://flash.jin10.com/detail/20260313044714318800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "周四（3月12日），存储芯片与硬件供应链指数跌4.03%，报104.12点，跳空低开之后，整体低位震荡。 北美科技软件股指数ETF收跌0.87%。 信息科技指数跌2.70%，人工智能（AI）赢家指数跌2.55%，AI软件先驱指数跌1.00%。",
+          "url": "https://wallstreetcn.com/livenews/3069155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数大致持平，报376.20点。 在十个板块中，北欧金融板块跌幅最大。 Svenska Handelsbanken AB跌2.4%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3069066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收跌0.61%，报598.86点。 欧元区STOXX 50指数收跌0.79%，报5748.89点，全天处于下跌状态，北京时间20:00之前开始持续扩大跌幅。 富时泛欧绩优300指数收跌0.62%，报2390.06点。",
+          "url": "https://wallstreetcn.com/livenews/3069063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.91%，报25467点。 恒生科技指数主连夜盘收跌0.60%，报4996点。",
+          "url": "https://wallstreetcn.com/livenews/3069124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "标普超级综合1500化工制品指数收涨8.04%，报19.22点。 利安德巴塞尔工业收涨10.33%，Olin公司涨9.42%，陶氏化学涨9.34%，Westlake公司涨6.72%，卡博特公司涨1.67%，KOP涨0.21%，Hawkins股份跌5.59%。",
+          "url": "https://wallstreetcn.com/livenews/3069139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
@@ -370,6 +607,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时10分 ~ 03时06分]"
+        },
+        {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时43分]"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            17,
+            29,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时43分]"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -392,31 +654,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 04时46分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            17,
-            29,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 04时46分]"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -459,7 +696,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -470,7 +707,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -481,7 +718,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -510,146 +747,8 @@
       ]
     },
     {
-      "keyword_group": "指数",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "阿根廷MERVAL指数收跌2.76%，报269.4万点，整体持续走低。",
-          "url": "https://wallstreetcn.com/livenews/3069150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260313041951016800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "标普500指数的11个板块中，工业板块收跌2.52%，可选消费板块跌2.21%，信息技术/科技板块跌1.72%，电信板块跌1.63%，金融板块跌1.62%，能源板块涨0.98%。",
-          "url": "https://wallstreetcn.com/livenews/3069143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "市场消息：标普对可能加快SpaceX公司进入标普500指数进程的规则变更进行了评估。",
-          "url": "https://flash.jin10.com/detail/20260313041134938800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收跌2.43%，报2130.37点，全天持续走低，3月2日以来低位持稳——胶着于2100点附近。",
-          "url": "https://wallstreetcn.com/livenews/3069039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "标普综合1500商品化学指数收涨8%。",
-          "url": "https://wallstreetcn.com/livenews/3069139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260313040655434800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.03%，报7094.61点。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。 ETF中，中国科技指数ETF（CQQQ）收跌1.77%，中概互联网指数ETF（KWEB）收跌1.41%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3069137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "标普500指数收跌103.18点，跌幅1.52%，报6672.62点。 道琼斯工业平均指数收跌739.42点，跌幅1.56%，报46677.85点。 纳斯达克综合指数（纳指）收跌404.155点，跌幅1.78%，报22311.979点。 纳斯达克100指数收跌431.423点，跌幅1.73%，报24533.583点。 费城半导体指数收跌3.43%，报7643.173点。 费城证交所KBW银行指数收跌2.47%，报148.20点。 道琼斯KBW地区银行指数收跌0.56%，报122.72点，跳空低开之后逐步收复失地，北京时间23:39以来持续“高位”震荡。 纳斯达克生物科技指数收跌2.69%，报5746.24点。",
-          "url": "https://wallstreetcn.com/livenews/3069135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数大致持平，报376.20点。 在十个板块中，北欧金融板块跌幅最大。 Svenska Handelsbanken AB跌2.4%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3069066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "欧洲STOXX 600指数收跌0.61%，报598.86点。 欧元区STOXX 50指数收跌0.79%，报5748.89点，全天处于下跌状态，北京时间20:00之前开始持续扩大跌幅。 富时泛欧绩优300指数收跌0.62%，报2390.06点。",
-          "url": "https://wallstreetcn.com/livenews/3069063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.91%，报25467点。 恒生科技指数主连夜盘收跌0.60%，报4996点。",
-          "url": "https://wallstreetcn.com/livenews/3069124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -660,30 +759,65 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 04时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时43分]"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
           "url": "https://wallstreetcn.com/livenews/3069153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3069142",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "美股小盘股指期货周四跌超1.9%",
+          "url": "https://wallstreetcn.com/livenews/3069164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时46分"
+          "time_info": "05时43分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌2.28%，报405.84点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.91%，报2859.82点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌3.84%。",
+          "url": "https://wallstreetcn.com/livenews/3069162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "纽约期金跌超2%，美股盘后失守5060美元",
+          "url": "https://wallstreetcn.com/livenews/3069160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -692,7 +826,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -703,7 +837,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -714,7 +848,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
@@ -732,19 +866,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 04时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时43分]"
         },
         {
           "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
           "url": "https://wallstreetcn.com/livenews/3069149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
         },
         {
           "title": "受中东局势紧张和油价逼近每桶100美元的提振，美国石油基金(USO)本月价格上涨超过40%，有望创下2018年以来的最高水平，周四收于116.60美元。",
@@ -793,8 +928,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 04时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时43分]"
         },
         {
           "title": "两年期美债收益率涨10个基点，突破3.76%",
@@ -803,7 +938,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }

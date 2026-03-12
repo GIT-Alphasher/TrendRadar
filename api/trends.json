@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-03-13T06:36:16.954571+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-03-13T07:38:05.099644+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
-          "title": "WTI原油盘初涨超1.00%，现报97.35美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260313060118865800",
-          "source": "金十数据",
+          "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
+          "url": "https://www.cls.cn/detail/2311470",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 07时38分]"
         },
         {
-          "title": "WTI原油周五小幅高开，现报96.65美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260313060046850800",
-          "source": "金十数据",
+          "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
+          "url": "https://www.cls.cn/detail/2311351",
+          "source": "财联社热门",
           "ranks": [
-            2
+            12,
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时46分 ~ 07时38分]"
         },
         {
           "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
@@ -102,6 +104,30 @@
           "time_info": "[04时46分 ~ 06时36分]"
         },
         {
+          "title": "WTI原油盘初涨超1.00%，现报97.35美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260313060118865800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时38分]"
+        },
+        {
+          "title": "WTI原油周五小幅高开，现报96.65美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260313060046850800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时38分]"
+        },
+        {
           "title": "现货白银日内跌幅达2.5%，报83.55美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3069151",
           "source": "华尔街见闻-快讯",
@@ -126,18 +152,6 @@
           "time_info": "[04时46分 ~ 05时43分]"
         },
         {
-          "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
-          "url": "https://www.cls.cn/detail/2311351",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时46分 ~ 06时36分]"
-        },
-        {
           "title": "周四（3月12日），美联储隔夜逆回购协议（RRP）使用规模为1.37亿美元（交易对手4家），上个交易日报5.52亿美元。",
           "url": "https://wallstreetcn.com/livenews/3069083",
           "source": "华尔街见闻-快讯",
@@ -148,6 +162,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时06分]"
+        },
+        {
+          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
+          "url": "https://wallstreetcn.com/articles/3767360",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 07时38分]"
+        },
+        {
+          "title": "据BBVA Mexico：墨西哥固定收益市场在2月份迎来20亿美元外国投资者资金流入，创2019年以来最佳年度开局。",
+          "url": "https://wallstreetcn.com/livenews/3069174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时38分]"
         },
         {
           "title": "美元指数12日上涨",
@@ -290,17 +327,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "据BBVA Mexico：墨西哥固定收益市场在2月份迎来20亿美元外国投资者资金流入，创2019年以来最佳年度开局。",
-          "url": "https://wallstreetcn.com/livenews/3069174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
           "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3069095",
           "source": "华尔街见闻-快讯",
@@ -321,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "WTI原油失守96美元/桶，日内跌幅0.53%。",
+          "url": "https://flash.jin10.com/detail/20260313063323813800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "亚马逊抓住时机发行540亿美元全球债券",
@@ -636,7 +673,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -646,8 +683,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时38分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -658,11 +695,12 @@
             17,
             29,
             15,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时38分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -700,28 +738,6 @@
           "time_info": "00时10分"
         },
         {
-          "title": "Coherent增强面向AI网络的多轨传输平台",
-          "url": "https://wallstreetcn.com/livenews/3069181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
-          "url": "https://wallstreetcn.com/livenews/3069178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
           "url": "https://wallstreetcn.com/livenews/3069055",
           "source": "华尔街见闻-快讯",
@@ -732,6 +748,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时56分]"
+        },
+        {
+          "title": "Coherent增强面向AI网络的多轨传输平台",
+          "url": "https://wallstreetcn.com/livenews/3069181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时38分]"
+        },
+        {
+          "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
+          "url": "https://wallstreetcn.com/livenews/3069178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时38分]"
+        },
+        {
+          "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
+          "url": "https://wallstreetcn.com/articles/3767302",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 07时38分]"
         },
         {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
@@ -830,6 +881,18 @@
           "time_info": "[00时10分 ~ 06时36分]"
         },
         {
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 07时38分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
           "url": "https://wallstreetcn.com/livenews/3069153",
           "source": "华尔街见闻-快讯",
@@ -891,17 +954,6 @@
           "time_info": "[05时43分 ~ 06时36分]"
         },
         {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260313040653218800",
           "source": "金十数据",
@@ -938,7 +990,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "手机价格普涨将是大势所趋吗",
@@ -948,8 +1000,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时38分]"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260313073150198800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
@@ -973,6 +1036,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "卡塔尔LNG停产暴露脆弱供应链，业内：氦气价格已经翻倍",
+          "url": "https://wallstreetcn.com/livenews/3069197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "英国竞争与市场管理局（CMA）将监控柴油价格。",
@@ -1000,7 +1074,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -1013,6 +1087,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 06时36分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 07时38分]"
         },
         {
           "title": "两年期美债收益率涨10个基点，突破3.76%",

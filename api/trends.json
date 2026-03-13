@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T10:47:50.552289+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-03-13T12:52:54.332535+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 10时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 12时52分]"
         },
         {
           "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
@@ -30,19 +30,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时46分 ~ 10时47分]"
+          "appearance_count": 8,
+          "time_info": "[04时46分 ~ 12时52分]"
         },
         {
           "title": "五角大楼承认：对伊动武前6天花费超113亿美元",
           "url": "https://news.ifeng.com/c/8rS2qMh30hj",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 12时52分]"
         },
         {
           "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
@@ -67,6 +68,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "美元兑日元USD/JPY突破前高，创2024年7月以来新高，现报159.45。",
+          "url": "https://flash.jin10.com/detail/20260313123035551800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月11日当周，短期、中期投资级债券基金获得32.8亿美元资金流入，执勤啊一周流入18.7亿美元。 高收益（垃圾级）债券基金遭遇15.3亿美元资金外流，创2025年4月23日以来最大单周资金外流，之前一周外流1.824亿美元。",
           "url": "https://wallstreetcn.com/livenews/3069101",
           "source": "华尔街见闻-快讯",
@@ -76,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "日元兑美元自2024年7月以来首次跌破159.45。",
+          "url": "https://wallstreetcn.com/livenews/3069372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "美国至3月13日当周外国央行持有美国国债 -397.55亿美元，前值-93.33亿美元。",
@@ -153,6 +176,18 @@
           "time_info": "[04时46分 ~ 05时43分]"
         },
         {
+          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
+          "url": "https://wallstreetcn.com/articles/3767360",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 12时52分]"
+        },
+        {
           "title": "现货白银日内下跌超2美元，现报83.57美元/盎司，跌幅2.49%。",
           "url": "https://flash.jin10.com/detail/20260313042120897800",
           "source": "金十数据",
@@ -163,18 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时43分]"
-        },
-        {
-          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
-          "url": "https://wallstreetcn.com/articles/3767360",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 10时47分]"
         },
         {
           "title": "周四（3月12日），美联储隔夜逆回购协议（RRP）使用规模为1.37亿美元（交易对手4家），上个交易日报5.52亿美元。",
@@ -341,6 +364,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
+          "url": "https://wallstreetcn.com/articles/3767353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3069095",
           "source": "华尔街见闻-快讯",
@@ -440,6 +474,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "印度卢比兑美元跌至历史新低92.37。",
+          "url": "https://wallstreetcn.com/livenews/3069348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "澳元/美元日内跌幅达1.0%，报0.7079。",
           "url": "https://wallstreetcn.com/livenews/3069026",
           "source": "华尔街见闻-快讯",
@@ -462,6 +507,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "交易员称，印度央行很可能抛售美元，以缓解卢比因油价担忧而面临的下行压力。",
+          "url": "https://flash.jin10.com/detail/20260313114013151800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "周四（3月12日）纽约尾盘，ICE美元指数涨0.50%，报99.750点，全天处于上涨状态，北京时间20:00之前开启一波长时间持续上涨的走势。 彭博美元指数涨0.50%，报1208.86点。",
           "url": "https://wallstreetcn.com/livenews/3069116",
           "source": "华尔街见闻-快讯",
@@ -482,12 +538,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "日本及其他亚太国家定于本周末公布与美国公司达成价值至少300亿美元的协议。这些交易将采取采购承诺及其他交易形式，涵盖煤炭、石油、液化天然气和核能等多个产品及行业。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3069332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 28,
+      "match_count": 37,
       "titles": [
         {
           "title": "越南VN指数下跌1%。",
@@ -496,9 +563,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "MSCI亚太指数下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260313123209788800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "印度股指Nifty 50指数日内跌幅扩大至1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3069376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "MSCI亚太指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3069373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "越南VN指数跌1%至1692.38点。",
@@ -507,7 +607,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -518,7 +618,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -529,7 +629,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -618,13 +718,24 @@
           "time_info": "[05时43分 ~ 06时36分]"
         },
         {
+          "title": "印度NIFTY 50指数跌1%。",
+          "url": "https://flash.jin10.com/detail/20260313122006270800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "印尼基准指数跌1%至7290.45点。",
           "url": "https://wallstreetcn.com/livenews/3069306",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -635,9 +746,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "印度股指Sensex指数日内跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3069367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "市场消息：标普对可能加快SpaceX公司进入标普500指数进程的规则变更进行了评估。",
@@ -679,7 +801,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -723,9 +845,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "印尼基准指数跌2%至7215.81点。",
+          "url": "https://wallstreetcn.com/livenews/3069353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数大致持平，报376.20点。 在十个板块中，北欧金融板块跌幅最大。 Svenska Handelsbanken AB跌2.4%，在一众北欧个股里表现最差。",
@@ -750,13 +883,35 @@
           "time_info": "01时56分"
         },
         {
+          "title": "上证指数早盘收报4120.14点，跌0.22%。 深证成指早盘收报14350.01点，跌0.17%。 创业板指早盘收报3316.55点，跌0.03%。 沪深300早盘收报4686.51点，跌0.02%。 科创50早盘收报1380.35点，跌0.24%。 中证500早盘收报8306.23点，跌0.64%。 中证1000早盘收报8293.89点，跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3069342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "3月13日午间收评：三大指数小幅下跌，风电、化工板块持续走强",
+          "url": "https://wallstreetcn.com/livenews/3069341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "中证转债指数低开0.17%。百川转2涨5%，金宏转债涨3.3%，东时转债涨2.72%，天创转债涨2.28%；塞力转债跌9.31%，伟测转债跌7.26%，光力转债跌5.48%。",
           "url": "https://wallstreetcn.com/livenews/3069273",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -767,7 +922,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -789,7 +944,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -803,12 +958,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "泰国SET指数下跌1%至1415.30点。",
+          "url": "https://wallstreetcn.com/livenews/3069331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -851,6 +1017,17 @@
           "time_info": "[00时10分 ~ 03时06分]"
         },
         {
+          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
+          "url": "https://www.cls.cn/detail/2311468",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 12时52分]"
+        },
+        {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
           "url": "https://flash.jin10.com/detail/20260312235230253800",
           "source": "金十数据",
@@ -871,17 +1048,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
-          "url": "https://www.cls.cn/detail/2311468",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -931,6 +1097,18 @@
           "time_info": "[07时37分 ~ 10时47分]"
         },
         {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 12时52分]"
+        },
+        {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
           "url": "https://flash.jin10.com/detail/20260313023700863800",
           "source": "金十数据",
@@ -942,15 +1120,15 @@
           "time_info": "03时06分"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
+          "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
+          "url": "https://wallstreetcn.com/livenews/3069370",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "12时52分"
         },
         {
           "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
@@ -1022,7 +1200,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "手机价格普涨将是大势所趋吗",
@@ -1054,9 +1232,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "力拓投资者表示，嘉能可首席执行官加里·纳格尔希望在煤炭价格上涨之际重启与力拓集团的谈判。",
+          "url": "https://flash.jin10.com/detail/20260313123309979800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "各大银行/品牌金条价格排行一览",
@@ -1065,7 +1254,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -1080,6 +1269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 12时52分]"
         },
         {
           "title": "受中东局势紧张和油价逼近每桶100美元的提振，美国石油基金(USO)本月价格上涨超过40%，有望创下2018年以来的最高水平，周四收于116.60美元。",
@@ -1115,15 +1315,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
+          "title": "马来西亚财政部长：为维持RON95车用汽油的固定价格，政府的汽油补贴支出将增加至20亿林吉特。",
+          "url": "https://flash.jin10.com/detail/20260313121338526800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "12时52分"
         },
         {
           "title": "市场消息：英国竞争与市场管理局加强对汽油和柴油价格的监控。",
@@ -1143,7 +1343,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
@@ -1175,8 +1375,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时36分 ~ 10时47分]"
+          "appearance_count": 5,
+          "time_info": "[06时36分 ~ 12时52分]"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
@@ -1276,7 +1476,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -1302,6 +1502,28 @@
           "time_info": "[07时37分 ~ 10时47分]"
         },
         {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "战争风险推动美债“恐惧指标”跃升至九个月高点",
+          "url": "https://flash.jin10.com/detail/20260313115640336800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "两年期美债收益率涨10个基点，突破3.76%",
           "url": "https://wallstreetcn.com/livenews/3069119",
           "source": "华尔街见闻-快讯",
@@ -1316,7 +1538,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "今年加快研究人工智能立法",
@@ -1325,9 +1547,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-13）",
+          "url": "https://flash.jin10.com/detail/20260313120445729800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "人工智能药物研发公司Earendil Labs据悉考虑在香港IPO。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3069358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
@@ -1340,11 +1584,12 @@
           "url": "https://www.zhihu.com/question/1662306083",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 12时52分]"
         }
       ]
     }

@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-14T04:47:50.049521+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-03-14T05:42:55.822914+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
+          "url": "https://wallstreetcn.com/articles/3767392",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时42分]"
+        },
         {
           "title": "中国向伊朗提供20万美元人道主义援助",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B20%E4%B8%87%E7%BE%8E%E5%85%83%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
@@ -15,30 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时47分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
-          "url": "https://wallstreetcn.com/articles/3767392",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时47分]"
-        },
-        {
-          "title": "据外媒统计，自伊朗战争爆发以来，标普500指数的市值已蒸发2万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260314043306471800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时42分]"
         },
         {
           "title": "中方向伊朗遇难学生家长援助20万美元",
@@ -49,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时42分]"
         },
         {
           "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
@@ -60,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时42分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.27亿美元。",
@@ -75,6 +65,28 @@
           "time_info": "01时43分"
         },
         {
+          "title": "美联储：美国上周银行存款18.816万亿美元，之前一周18.810万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3070029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "伯克希尔·哈撒韦：沃伦·E·巴菲特2025年的总薪酬为389,488美元。",
+          "url": "https://flash.jin10.com/detail/20260314043346902800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "WTI 4月原油期货收报98.71美元/桶。 NYMEX 4月天然气期货收报3.1310美元/百万英热单位。 NYMEX 4月汽油期货收报3.0414美元/加仑，NYMEX 3月取暖油期货收报4.0147美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3069975",
           "source": "华尔街见闻-快讯",
@@ -86,15 +98,16 @@
           "time_info": "02时56分"
         },
         {
-          "title": "彭博美元现货指数创2026年收盘新高。",
-          "url": "https://wallstreetcn.com/livenews/3070004",
-          "source": "华尔街见闻-快讯",
+          "title": "据外媒统计，自伊朗战争爆发以来，标普500指数的市值已蒸发2万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260314043306471800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
         },
         {
           "title": "周五（3月13日），美联储隔夜逆回购协议（RRP）使用规模为4.27亿美元（交易对手4家），上个交易日报1.37亿美元。",
@@ -122,6 +135,18 @@
           "time_info": "[03时39分 ~ 04时47分]"
         },
         {
+          "title": "彭博美元现货指数创2026年收盘新高。",
+          "url": "https://wallstreetcn.com/livenews/3070004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9043元，较周四夜盘收盘跌210点。成交量530.51亿美元。",
           "url": "https://wallstreetcn.com/livenews/3069980",
           "source": "华尔街见闻-快讯",
@@ -132,6 +157,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时47分]"
+        },
+        {
+          "title": "布油期货连续第二日收于每桶100美元上方",
+          "url": "https://flash.jin10.com/detail/20260314041826257800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
         },
         {
           "title": "美国原油期货收报每桶98.71美元，上涨2.98美元，涨幅3.11%。",
@@ -206,6 +243,18 @@
           "time_info": "[02时56分 ~ 03时39分]"
         },
         {
+          "title": "美元指数收盘价创年内新高。",
+          "url": "https://flash.jin10.com/detail/20260314040234290800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
           "title": "布伦特原油期货连续第二天收盘价超过每桶100美元。",
           "url": "https://flash.jin10.com/detail/20260314025935904800",
           "source": "金十数据",
@@ -217,15 +266,15 @@
           "time_info": "03时39分"
         },
         {
-          "title": "布油期货连续第二日收于每桶100美元上方",
-          "url": "https://flash.jin10.com/detail/20260314041826257800",
-          "source": "金十数据",
+          "title": "周五（3月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9065元，较周四纽约尾盘跌252点，日内整体交投于6.8778-6.9087元区间。",
+          "url": "https://wallstreetcn.com/livenews/3070021",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时42分"
         },
         {
           "title": "纽元兑美元NZD/USD跌破0.58，日内跌0.91%。澳元兑美元AUD/USD失守0.70，日内跌幅1.07%。",
@@ -267,7 +316,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -327,6 +376,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "纽约期金跌2%，逼近5000美元，现货白银本周跌超4.7%",
+          "url": "https://wallstreetcn.com/livenews/3070012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "美元兑瑞郎USD/CHF向上触及0.79，日内涨0.52%。",
           "url": "https://flash.jin10.com/detail/20260314021334748800",
           "source": "金十数据",
@@ -336,17 +396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "美元指数收盘价创年内新高。",
-          "url": "https://flash.jin10.com/detail/20260314040234290800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
         },
         {
           "title": "现货白银日内跌超4.00%，现报80.52美元/盎司。",
@@ -410,7 +459,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -432,7 +481,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -440,7 +489,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "板块指数8连涨！人气龙头连涨9天，“风电热”持续发酵，这些方向也密集连涨",
@@ -451,41 +500,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时47分]"
-        },
-        {
-          "title": "周五（3月13日），降息赢家指数跌0.54%，报87.04点，本周累计下跌4.66%，整体冲高回落，周二纽约中午之前持续走高，随后持续走低。 “特朗普关税输家”指数累跌4.30%，报100.96点，整体冲高回落。 “特朗普金融指数”累跌4.32%，报143.74点。 散户抱团概念股指数/迷因股（meme stock）指数累跌0.85%，报12.39点。",
-          "url": "https://wallstreetcn.com/livenews/3070008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3070007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260314042037336800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时42分]"
         },
         {
           "title": "德国DAX 30指数初步收跌0.80%，报23399.86点，本周累跌约0.8%。 法国股指初步收跌0.95%，意大利股指初步收跌0.35%、银行指数跌1.57%——本周累跌约2%，英国股指初步收跌0.43%。",
@@ -500,6 +516,18 @@
           "time_info": "[00时53分 ~ 01时43分]"
         },
         {
+          "title": "周五（3月13日），降息赢家指数跌0.54%，报87.04点，本周累计下跌4.66%，整体冲高回落，周二纽约中午之前持续走高，随后持续走低。 “特朗普关税输家”指数累跌4.30%，报100.96点，整体冲高回落。 “特朗普金融指数”累跌4.32%，报143.74点。 散户抱团概念股指数/迷因股（meme stock）指数累跌0.85%，报12.39点。",
+          "url": "https://wallstreetcn.com/livenews/3070008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌0.62%，报595.17点，本周累计下跌约0.5%。 欧元区STOXX 50指数初步收跌0.75%，报5705.65点，本周累跌约0.1%。 富时泛欧绩优300指数初步收跌0.61%，报2375.44点。",
           "url": "https://wallstreetcn.com/livenews/3069940",
           "source": "华尔街见闻-快讯",
@@ -510,6 +538,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时43分]"
+        },
+        {
+          "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3070007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260314042037336800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.47%，报25481点。 恒生科技指数主连夜盘收涨0.34%，报4981点。",
@@ -524,6 +576,54 @@
           "time_info": "[03时39分 ~ 04时47分]"
         },
         {
+          "title": "美国科技股七巨头指数陷入回调区间，Meta逾四个月最大单日跌幅，微软、特斯拉、亚马逊今年已跌超10%",
+          "url": "https://wallstreetcn.com/livenews/3070003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.76%，报7148.21点，本周累计上涨2.69%。 热门中概股里，蔚来初步收涨5.5%，腾讯音乐涨3.5%，中通快递涨2.4%，阿特斯太阳能涨2.1%。 ETF中，中概互联网指数ETF（KWEB）收涨0.33%，本周累计反弹1.51%，结束之前连续六周下跌的趋势； 中国科技指数ETF（CQQQ）收跌0.20%，本周反弹0.98%，之前连跌两周； 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，本周反弹1.21%； XtrackersHarvest中证50（ASHS）收跌0.95%，本周累涨0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3070002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "纳指收盘跌穿200日均线，道指本周跌约2%，半导体指数累涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3070000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20260314040827703800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.9%，连续第三个交易日走低，报372.65点，创1月2日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Sandvik AB跌6.3%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3069947",
           "source": "华尔街见闻-快讯",
@@ -536,37 +636,15 @@
           "time_info": "[01时43分 ~ 02时56分]"
         },
         {
-          "title": "美国科技股七巨头指数陷入回调区间，Meta逾四个月最大单日跌幅，微软、特斯拉、亚马逊今年已跌超10%",
-          "url": "https://wallstreetcn.com/livenews/3070003",
+          "title": "标普500指数的11个板块中，信息技术/科技板块收跌1.29%，原材料板块跌1.02%，电信板块跌0.98%，可选消费板块跌0.65%，能源板块涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3070023",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.76%，报7148.21点，本周累计上涨2.69%。 热门中概股里，蔚来初步收涨5.5%，腾讯音乐涨3.5%，中通快递涨2.4%，阿特斯太阳能涨2.1%。 ETF中，中概互联网指数ETF（KWEB）收涨0.33%，本周累计反弹1.51%，结束之前连续六周下跌的趋势； 中国科技指数ETF（CQQQ）收跌0.20%，本周反弹0.98%，之前连跌两周； 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，本周反弹1.21%； XtrackersHarvest中证50（ASHS）收跌0.95%，本周累涨0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3070002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "纳指收盘跌穿200日均线，道指本周跌约2%，半导体指数累涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3070000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时42分"
         },
         {
           "title": "美国银行分析师迈克尔·哈特内特警告称，如果标普500指数进一步下跌——跌至6600点左右，仅比近期水平低1%——可能会引发白宫或美联储的政策反应。",
@@ -589,17 +667,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260314040827703800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
         },
         {
           "title": "新兴市场货币指数跌至盘中低位。",
@@ -648,6 +715,116 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260314003323131800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时43分]"
+        },
+        {
+          "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
+          "url": "https://wallstreetcn.com/articles/3767394",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260314040823519800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260314040819364800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
+          "url": "https://flash.jin10.com/detail/20260314040028174800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3070022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
+          "url": "https://wallstreetcn.com/livenews/3070015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股三大指数集体高开 百度涨超2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260314003327722800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 8,
       "titles": [
@@ -659,8 +836,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时42分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -670,11 +847,12 @@
             23,
             28,
             16,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时42分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -682,11 +860,12 @@
           "source": "微博",
           "ranks": [
             15,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时42分]"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -748,90 +927,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260314003323131800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时43分]"
-        },
-        {
-          "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
-          "url": "https://wallstreetcn.com/articles/3767394",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040823519800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040819364800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
-          "url": "https://flash.jin10.com/detail/20260314040028174800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "美股三大指数集体高开 百度涨超2%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260314003327722800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
         }
       ]
     },
@@ -909,26 +1004,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek V4 为什么还不发布？",
-          "url": "https://www.zhihu.com/question/2014783631814580088",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时47分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -938,8 +1015,38 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时42分]"
+        },
+        {
+          "title": "周五（3月13日）纽约尾盘，美国10年期基准国债收益率涨1.58个基点，报4.2767%，逼近1月20日顶部4.3065%、2025年8月18日顶部4.3511%、5月22日顶部4.6247%。 两年期美债收益率跌2.38个基点，报3.7169%。",
+          "url": "https://wallstreetcn.com/livenews/3070030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 为什么还不发布？",
+          "url": "https://www.zhihu.com/question/2014783631814580088",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 05时42分]"
         }
       ]
     },
@@ -952,11 +1059,12 @@
           "url": "https://flash.jin10.com/detail/20260314041906690800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时42分]"
         }
       ]
     }

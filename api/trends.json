@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T17:52:49.446238+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-03-13T18:50:33.525690+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 18时50分]"
         },
         {
           "title": "英国经济数据公布后，英镑兑美元跌幅扩大至0.3%报1.3302。",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "汇天再获近2亿美元股权融资",
+          "url": "https://wallstreetcn.com/livenews/3069675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
@@ -236,6 +247,41 @@
           "time_info": "[12时52分 ~ 13时58分]"
         },
         {
+          "title": "中方向伊朗遇难学生家长援助20万美元",
+          "url": "https://www.toutiao.com/trending/7616641907589959178/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时50分]"
+        },
+        {
+          "title": "中国向伊朗提供20万美元人道主义援助",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B20%E4%B8%87%E7%BE%8E%E5%85%83%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时50分]"
+        },
+        {
+          "title": "中方向伊朗遇难学生家长援助20万美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%91%E4%BC%8A%E6%9C%97%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E6%8F%B4%E5%8A%A920%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时50分]"
+        },
+        {
           "title": "周四（3月12日），美联储隔夜逆回购协议（RRP）使用规模为1.37亿美元（交易对手4家），上个交易日报5.52亿美元。",
           "url": "https://wallstreetcn.com/livenews/3069083",
           "source": "华尔街见闻-快讯",
@@ -320,6 +366,18 @@
           "time_info": "[04时46分 ~ 05时43分]"
         },
         {
+          "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760946",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时50分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
           "url": "https://wallstreetcn.com/livenews/3069075",
           "source": "华尔街见闻-快讯",
@@ -356,15 +414,16 @@
           "time_info": "[01时56分 ~ 03时06分]"
         },
         {
-          "title": "中方向伊朗遇难学生家长援助20万美元",
-          "url": "https://www.toutiao.com/trending/7616641907589959178/",
+          "title": "五角大楼称伊朗战事一周烧110亿美元",
+          "url": "https://www.toutiao.com/trending/7615680508223094793/",
           "source": "今日头条",
           "ranks": [
-            6
+            22,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时50分]"
         },
         {
           "title": "WTI原油期货涨幅收窄至8.4%，逼近93.30美元。",
@@ -461,7 +520,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -475,28 +534,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
-        },
-        {
-          "title": "中方向伊朗遇难学生家长援助20万美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%91%E4%BC%8A%E6%9C%97%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E6%8F%B4%E5%8A%A920%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760946",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "WTI原油失守96美元/桶，日内跌幅0.53%。",
@@ -609,17 +646,6 @@
           "time_info": "12时52分"
         },
         {
-          "title": "五角大楼称伊朗战事一周烧110亿美元",
-          "url": "https://www.toutiao.com/trending/7615680508223094793/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
           "title": "澳元/美元日内跌幅达1.0%，报0.7079。",
           "url": "https://wallstreetcn.com/livenews/3069026",
           "source": "华尔街见闻-快讯",
@@ -697,17 +723,6 @@
           "time_info": "04时46分"
         },
         {
-          "title": "中国向伊朗提供20万美元人道主义援助",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B20%E4%B8%87%E7%BE%8E%E5%85%83%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
           "title": "印度卢比兑美元跌破92.3575，触及纪录新低。",
           "url": "https://flash.jin10.com/detail/20260313124350317800",
           "source": "金十数据",
@@ -744,7 +759,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "越南VN指数下跌1%。",
@@ -862,6 +877,18 @@
           "time_info": "[04时46分 ~ 05时43分]"
         },
         {
+          "title": "【每日收评】三大指数震荡走低全线收跌，可控核聚变午后拉升，高位人气股批量大跌",
+          "url": "https://www.cls.cn/detail/2312133",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时50分]"
+        },
+        {
           "title": "标普500指数的11个板块中，工业板块收跌2.52%，可选消费板块跌2.21%，信息技术/科技板块跌1.72%，电信板块跌1.63%，金融板块跌1.62%，能源板块涨0.98%。",
           "url": "https://wallstreetcn.com/livenews/3069143",
           "source": "华尔街见闻-快讯",
@@ -954,6 +981,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "板块指数8连涨！人气龙头连涨9天，“风电热”持续发酵，这些方向也密集连涨",
+          "url": "https://www.cls.cn/detail/2312310",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "恒生科技指数盘中转涨，现涨0.3%，此前一度跌1%。",
           "url": "https://wallstreetcn.com/livenews/3069304",
           "source": "华尔街见闻-快讯",
@@ -985,17 +1023,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡走低全线收跌，可控核聚变午后拉升，高位人气股批量大跌",
-          "url": "https://www.cls.cn/detail/2312133",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "市场消息：标普对可能加快SpaceX公司进入标普500指数进程的规则变更进行了评估。",
@@ -1298,7 +1325,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -1368,11 +1395,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时50分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -1470,6 +1498,17 @@
           "time_info": "[07时37分 ~ 10时47分]"
         },
         {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时50分]"
+        },
+        {
           "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
           "url": "https://wallstreetcn.com/livenews/3069370",
           "source": "华尔街见闻-快讯",
@@ -1480,17 +1519,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时58分]"
-        },
-        {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时52分]"
         },
         {
           "title": "中腰部演员将被AI替代",
@@ -1536,6 +1564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "研究：2026年FIFA世界杯有望成AI规模化应用超级场景",
+          "url": "https://wallstreetcn.com/livenews/3069668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "网友和妈妈闹矛盾后，妈妈用 AI 生成暖心道歉话术，如何看待这种 AI「嘴替」？能帮助代际沟通吗？",
@@ -1599,7 +1638,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1618,7 +1657,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "手机价格普涨将是大势所趋吗",
@@ -1712,6 +1751,18 @@
           "time_info": "[04时46分 ~ 05时43分]"
         },
         {
+          "title": "手机价格大涨消费者发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时50分]"
+        },
+        {
           "title": "受中东局势紧张和油价逼近每桶100美元的提振，美国石油基金(USO)本月价格上涨超过40%，有望创下2018年以来的最高水平，周四收于116.60美元。",
           "url": "https://flash.jin10.com/detail/20260313013405950800",
           "source": "金十数据",
@@ -1754,17 +1805,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        },
-        {
-          "title": "手机价格大涨消费者发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "市场消息：英国竞争与市场管理局加强对汽油和柴油价格的监控。",
@@ -1853,6 +1893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "马士基：鉴于中东局势，将在陆路运输业务中实施临时性的、与市场接轨的能源/燃料价格调整。",
+          "url": "https://flash.jin10.com/detail/20260313182852459800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     },
@@ -2024,11 +2075,12 @@
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 18时50分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",

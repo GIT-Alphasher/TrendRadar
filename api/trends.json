@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T13:58:21.887540+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-03-13T15:08:33.433886+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 55,
       "titles": [
         {
           "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[07时37分 ~ 15时08分]"
         },
         {
           "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时46分 ~ 13时58分]"
+          "appearance_count": 10,
+          "time_info": "[04时46分 ~ 15时08分]"
         },
         {
           "title": "五角大楼承认：对伊动武前6天花费超113亿美元",
@@ -43,8 +43,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 15时08分]"
+        },
+        {
+          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
+          "url": "https://wallstreetcn.com/articles/3767360",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时37分 ~ 15时08分]"
+        },
+        {
+          "title": "英国经济数据公布后，英镑兑美元跌幅扩大至0.3%报1.3302。",
+          "url": "https://wallstreetcn.com/livenews/3069472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "现货白银日内跌幅达2.00%，现报82.21美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260313145042291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
@@ -89,18 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
-          "url": "https://wallstreetcn.com/articles/3767360",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 13时58分]"
         },
         {
           "title": "美国至3月13日当周外国央行持有美国国债 -397.55亿美元，前值-93.33亿美元。",
@@ -202,6 +224,18 @@
           "time_info": "[12时52分 ~ 13时58分]"
         },
         {
+          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
+          "url": "https://wallstreetcn.com/articles/3767353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时08分]"
+        },
+        {
           "title": "周四（3月12日），美联储隔夜逆回购协议（RRP）使用规模为1.37亿美元（交易对手4家），上个交易日报5.52亿美元。",
           "url": "https://wallstreetcn.com/livenews/3069083",
           "source": "华尔街见闻-快讯",
@@ -224,17 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时38分]"
-        },
-        {
-          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
-          "url": "https://wallstreetcn.com/articles/3767353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
         },
         {
           "title": "美元指数12日上涨",
@@ -355,6 +378,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "纽约期银日内跌超3.00%，现报82.56美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260313144140955800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "现货黄金向下触及5100美元/盎司，日内跌1.47%。",
           "url": "https://flash.jin10.com/detail/20260313023505482800",
           "source": "金十数据",
@@ -375,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "伦锡日内跌幅达2.00%，现报48100.00美元/吨。沪锡日内跌幅达3%，现报378220元/吨。",
+          "url": "https://flash.jin10.com/detail/20260313143335625800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -430,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "现货白银日内走低1.00%，现报83.04美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260313142251740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产7.818万亿美元，创历史新高。",
@@ -520,6 +576,28 @@
           "time_info": "12时52分"
         },
         {
+          "title": "离岸人民币兑美元跌破6.89，日内跌约80点。",
+          "url": "https://wallstreetcn.com/livenews/3069442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "布伦特原油日内跌超2.00%，现报96.95美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260313141048494800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "周四（3月12日）纽约尾盘，ICE美元指数涨0.50%，报99.750点，全天处于上涨状态，北京时间20:00之前开启一波长时间持续上涨的走势。 彭博美元指数涨0.50%，报1208.86点。",
           "url": "https://wallstreetcn.com/livenews/3069116",
           "source": "华尔街见闻-快讯",
@@ -537,7 +615,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -567,7 +645,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "越南VN指数下跌1%。",
@@ -733,6 +811,17 @@
           "time_info": "[05时43分 ~ 06时36分]"
         },
         {
+          "title": "上证指数收报4095.45点，跌0.82%。 深证成指收报14280.78点，跌0.65%。 创业板指收报3310.28点，跌0.22%。 沪深300收报4669.14点，跌0.39%。 科创50收报1373.64点，跌0.72%。 中证500收报8239.80点，跌1.43%。 中证1000收报8214.29点，跌1.46%。",
+          "url": "https://wallstreetcn.com/livenews/3069465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "印度NIFTY 50指数跌1%。",
           "url": "https://flash.jin10.com/detail/20260313122006270800",
           "source": "金十数据",
@@ -761,7 +850,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -794,7 +883,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -816,7 +905,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -909,6 +998,17 @@
           "time_info": "12时52分"
         },
         {
+          "title": "集运指数（欧线）主力合约日内下跌9.00%，现报1927.7点。",
+          "url": "https://flash.jin10.com/detail/20260313142148280800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数大致持平，报376.20点。 在十个板块中，北欧金融板块跌幅最大。 Svenska Handelsbanken AB跌2.4%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3069066",
           "source": "华尔街见闻-快讯",
@@ -929,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "恒生指数跌幅扩大至1%，恒生科技指数现跌0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3069443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "上证指数早盘收报4120.14点，跌0.22%。 深证成指早盘收报14350.01点，跌0.17%。 创业板指早盘收报3316.55点，跌0.03%。 沪深300早盘收报4686.51点，跌0.02%。 科创50早盘收报1380.35点，跌0.24%。 中证500早盘收报8306.23点，跌0.64%。 中证1000早盘收报8293.89点，跌0.50%。",
@@ -964,6 +1075,17 @@
           "time_info": "10时47分"
         },
         {
+          "title": "集运指数（欧线）主力合约日内跌幅达8.00%，现报1950.3点。",
+          "url": "https://flash.jin10.com/detail/20260313141023296800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "上证指数开盘报4117.57点，跌0.28%。 深证成指开盘报14300.92点，跌0.51%。 创业板指开盘报3296.50点，跌0.63%。 沪深300开盘报4669.06点，跌0.39%。 科创50开盘报1374.65点，跌0.65%。 中证500开盘报8317.78点，跌0.50%。 中证1000开盘报8297.91点，跌0.46%。",
           "url": "https://wallstreetcn.com/livenews/3069270",
           "source": "华尔街见闻-快讯",
@@ -997,6 +1119,28 @@
           "time_info": "10时47分"
         },
         {
+          "title": "日经225指数收跌1.16%，报53819.61点。 日本东证指数收跌0.6%，报3,629.03点。 韩国首尔综指收跌1.7%，报5,487.24点。",
+          "url": "https://wallstreetcn.com/livenews/3069434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260313140055093800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "标普超级综合1500化工制品指数收涨8.04%，报19.22点。 利安德巴塞尔工业收涨10.33%，Olin公司涨9.42%，陶氏化学涨9.34%，Westlake公司涨6.72%，卡博特公司涨1.67%，KOP涨0.21%，Hawkins股份跌5.59%。",
           "url": "https://wallstreetcn.com/livenews/3069139",
           "source": "华尔街见闻-快讯",
@@ -1022,7 +1166,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -1059,8 +1203,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 15时08分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -1087,6 +1231,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "未来乡村会比AI生成的还漂亮",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3069051",
           "source": "华尔街见闻-快讯",
@@ -1108,6 +1263,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时56分]"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时08分]"
         },
         {
           "title": "Coherent增强面向AI网络的多轨传输平台",
@@ -1134,6 +1301,20 @@
           "time_info": "[06时36分 ~ 07时38分]"
         },
         {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 15时08分]"
+        },
+        {
           "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
           "url": "https://wallstreetcn.com/articles/3767302",
           "source": "华尔街见闻",
@@ -1143,19 +1324,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时37分 ~ 10时47分]"
-        },
-        {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 13时58分]"
         },
         {
           "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
@@ -1170,6 +1338,18 @@
           "time_info": "[12时52分 ~ 13时58分]"
         },
         {
+          "title": "中腰部演员将被AI替代",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%85%B0%E9%83%A8%E6%BC%94%E5%91%98%E5%B0%86%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时08分]"
+        },
+        {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
           "url": "https://flash.jin10.com/detail/20260313023700863800",
           "source": "金十数据",
@@ -1181,15 +1361,15 @@
           "time_info": "03时06分"
         },
         {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
+          "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
+          "url": "https://flash.jin10.com/detail/20260313143214386800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时08分"
         },
         {
           "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
@@ -1201,17 +1381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "中腰部演员将被AI替代",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%85%B0%E9%83%A8%E6%BC%94%E5%91%98%E5%B0%86%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
@@ -1272,7 +1441,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "手机价格普涨将是大势所趋吗",
@@ -1331,16 +1500,15 @@
           "time_info": "10时47分"
         },
         {
-          "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
-          "url": "https://wallstreetcn.com/livenews/3069149",
+          "title": "德国2月批发价格指数同比 1.2%，前值 1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3069470",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            23
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -1351,8 +1519,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 15时08分]"
+        },
+        {
+          "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
+          "url": "https://wallstreetcn.com/livenews/3069149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时43分]"
         },
         {
           "title": "受中东局势紧张和油价逼近每桶100美元的提振，美国石油基金(USO)本月价格上涨超过40%，有望创下2018年以来的最高水平，周四收于116.60美元。",
@@ -1410,13 +1590,24 @@
           "time_info": "00时10分"
         },
         {
+          "title": "德国2月批发价格指数环比 0.6%，前值 0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3069459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "高盛：霍尔木兹海峡若持续中断两个月，对第四季度布伦特原油平均价格的预测将从每桶71美元上调至93美元。",
           "url": "https://flash.jin10.com/detail/20260313131312423800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1427,7 +1618,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1438,7 +1629,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1460,15 +1651,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "ios端高会价格下调",
+          "url": "https://s.weibo.com/weibo?q=ios%E7%AB%AF%E9%AB%98%E4%BC%9A%E4%BB%B7%E6%A0%BC%E4%B8%8B%E8%B0%83&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -1492,8 +1694,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时36分 ~ 13时58分]"
+          "appearance_count": 7,
+          "time_info": "[06时36分 ~ 15时08分]"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
@@ -1588,12 +1790,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美股三大股指期货全线走低",
+          "url": "https://wallstreetcn.com/livenews/3069452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -1626,8 +1839,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时08分]"
         },
         {
           "title": "战争风险推动美债“恐惧指标”跃升至九个月高点",
@@ -1650,6 +1863,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "地区冲突担忧笼罩市场 美债恐慌指标升至九个月高位",
+          "url": "https://wallstreetcn.com/livenews/3069435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
@@ -1705,8 +1929,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 15时08分]"
         }
       ]
     }

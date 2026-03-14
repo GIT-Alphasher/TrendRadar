@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T10:45:52.755709+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-03-14T12:50:42.149238+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 10时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 12时50分]"
         },
         {
           "title": "中方向伊朗遇难学生家长援助20万美元",
@@ -78,6 +78,17 @@
           "time_info": "[04时47分 ~ 07时38分]"
         },
         {
+          "title": "美国悬赏千万美元征集穆杰塔巴等人信息",
+          "url": "https://news.ifeng.com/c/8rTnIQ3aBSK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时50分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.27亿美元。",
           "url": "https://flash.jin10.com/detail/20260314011750496800",
           "source": "金十数据",
@@ -87,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "美国悬赏千万美元征集穆杰塔巴等人信息",
-          "url": "https://news.ifeng.com/c/8rTnIQ3aBSK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "WTI 4月原油期货收报98.71美元/桶。 NYMEX 4月天然气期货收报3.1310美元/百万英热单位。 NYMEX 4月汽油期货收报3.0414美元/加仑，NYMEX 3月取暖油期货收报4.0147美元/加仑。",
@@ -355,7 +355,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -759,8 +759,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 12时50分]"
         },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
@@ -769,9 +769,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时50分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
@@ -896,7 +896,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -904,11 +904,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 10时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 12时50分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -923,8 +924,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 12时50分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -980,35 +981,48 @@
           "time_info": "[02时56分 ~ 04时47分]"
         },
         {
-          "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
-          "url": "https://www.zhihu.com/question/6607255010",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
           "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3070061",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时50分]"
         },
         {
           "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
           "url": "https://wallstreetcn.com/livenews/3070059",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时50分]"
+        },
+        {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
+          "url": "https://www.zhihu.com/question/6607255010",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -1052,15 +1066,16 @@
           "time_info": "01时43分"
         },
         {
-          "title": "国家统计局：3月上旬生猪（外三元）价格环比下跌3.7%",
-          "url": "https://wallstreetcn.com/livenews/3070074",
-          "source": "华尔街见闻-快讯",
+          "title": "自然资源部 38 号文提出，原则不再增加用于经营性房地产开发的新增建设用地，能否对新房价格起到支撑？",
+          "url": "https://www.zhihu.com/question/2015440913112003383",
+          "source": "知乎",
           "ranks": [
-            5
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时50分]"
         },
         {
           "title": "据外媒报道，数据显示，自伊朗战争开始以来，某些航线的空运价格上涨了高达70%。业内专家表示，中东空域关闭和安全问题对南亚和欧洲之间的航线运价影响最大。",
@@ -1087,15 +1102,16 @@
           "time_info": "[07时38分 ~ 10时45分]"
         },
         {
-          "title": "自然资源部 38 号文提出，原则不再增加用于经营性房地产开发的新增建设用地，能否对新房价格起到支撑？",
-          "url": "https://www.zhihu.com/question/2015440913112003383",
-          "source": "知乎",
+          "title": "国家统计局：3月上旬生猪（外三元）价格环比下跌3.7%",
+          "url": "https://wallstreetcn.com/livenews/3070074",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时50分]"
         },
         {
           "title": "土耳其副总统：伊朗战争引发的能源价格波动将影响通胀，但影响有限。",
@@ -1206,11 +1222,12 @@
           "url": "https://wallstreetcn.com/livenews/3070070",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时50分]"
         }
       ]
     },

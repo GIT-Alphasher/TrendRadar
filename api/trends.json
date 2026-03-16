@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T05:51:14.793874+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-03-17T06:44:17.696255+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -15,8 +15,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时44分]"
+        },
+        {
+          "title": "锐评B站AI大赛热门作品",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            23,
+            21,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时44分]"
         },
         {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
@@ -41,6 +56,32 @@
           "time_info": "04时51分"
         },
         {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时44分]"
+        },
+        {
+          "title": "315曝光AI大模型遭投毒操控",
+          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            23,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时44分]"
+        },
+        {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
           "url": "https://wallstreetcn.com/livenews/3071062",
           "source": "华尔街见闻-快讯",
@@ -50,31 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
-          "url": "https://wallstreetcn.com/livenews/3071183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "锐评B站AI大赛热门作品",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时51分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -91,29 +107,16 @@
           "time_info": "[01时14分 ~ 05时51分]"
         },
         {
-          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
-          "url": "https://wallstreetcn.com/articles/3767569",
-          "source": "华尔街见闻",
+          "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
+          "url": "https://wallstreetcn.com/livenews/3071183",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时51分]"
-        },
-        {
-          "title": "315曝光AI大模型遭投毒操控",
-          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时51分]"
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时44分]"
         },
         {
           "title": "IBM宣布，与英伟达扩大在企业AI方面的合作。",
@@ -140,6 +143,18 @@
           "time_info": "[04时51分 ~ 05时51分]"
         },
         {
+          "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
+          "url": "https://wallstreetcn.com/livenews/3071180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时44分]"
+        },
+        {
           "title": "三星揭晓HBM4E，展示全方位AI解决方案、英伟达合作伙伴关系及愿景",
           "url": "https://wallstreetcn.com/livenews/3071158",
           "source": "华尔街见闻-快讯",
@@ -150,6 +165,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时51分]"
+        },
+        {
+          "title": "联想携手联想加速生产级企业AI落地——从AI推理到吉瓦级AI工厂",
+          "url": "https://wallstreetcn.com/livenews/3071178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时44分]"
         },
         {
           "title": "亚马逊、英伟达围绕车用高级AI助理合作。",
@@ -175,17 +202,6 @@
           "time_info": "03时17分"
         },
         {
-          "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
-          "url": "https://wallstreetcn.com/livenews/3071180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
           "title": "英伟达(NVDA.O)开始将Dynamo投入生产部署，该系统是一款被广泛采用、面向AI工厂的推理操作系统。",
           "url": "https://flash.jin10.com/detail/20260317043743475800",
           "source": "金十数据",
@@ -197,15 +213,15 @@
           "time_info": "04时51分"
         },
         {
-          "title": "联想携手联想加速生产级企业AI落地——从AI推理到吉瓦级AI工厂",
-          "url": "https://wallstreetcn.com/livenews/3071178",
+          "title": "AI拉动需求劲增，存储芯片全年涨价“无悬念”",
+          "url": "https://wallstreetcn.com/livenews/3071204",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时51分"
+          "time_info": "06时44分"
         },
         {
           "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
@@ -217,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "三星电子在英伟达GTC大会上展示了采用三星4纳米代工工艺制造的英伟达新一代AI推理处理器。",
+          "url": "https://flash.jin10.com/detail/20260317060618810800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "马斯克旗下xAI：Grok的文本生成Speech API上线。",
@@ -258,7 +285,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -269,9 +296,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "美国将于4月1日起征求“全栈式”AI出口方案建议",
+          "url": "https://wallstreetcn.com/livenews/3071197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "惠与（HPE）同英伟达发布AI Factory和Supercomputing Advancements。",
@@ -280,7 +318,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -316,12 +354,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "摄影会被AI彻底淘汰吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%91%84%E5%BD%B1%E4%BC%9A%E8%A2%ABAI%E5%BD%BB%E5%BA%95%E6%B7%98%E6%B1%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
@@ -331,8 +380,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时44分]"
         },
         {
           "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
@@ -342,8 +391,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 06时44分]"
         },
         {
           "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
@@ -368,6 +417,20 @@
           "time_info": "03时17分"
         },
         {
+          "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
+          "url": "https://www.zhihu.com/question/2015734176020656294",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时17分 ~ 06时44分]"
+        },
+        {
           "title": "美元指数16日下跌",
           "url": "https://flash.jin10.com/detail/20260317044815242800",
           "source": "金十数据",
@@ -380,28 +443,26 @@
           "time_info": "[04时51分 ~ 05时51分]"
         },
         {
-          "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
-          "url": "https://www.zhihu.com/question/2015734176020656294",
-          "source": "知乎",
-          "ranks": [
-            15,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时17分 ~ 05时51分]"
-        },
-        {
           "title": "周一（3月16日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8890元，较上周五纽约尾盘涨175点，日内整体交投于6.9085-6.8859元区间。",
           "url": "https://wallstreetcn.com/livenews/3071174",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "WTI原油周二小幅高开，现报94.4美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260317060040919800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "美国原油期货收跌约5.3%，布油连续三天收于100美元整数位心理关口上方",
@@ -454,7 +515,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -564,6 +625,42 @@
           "time_info": "03时17分"
         },
         {
+          "title": "联想集团董事长兼CEO杨元庆：联想与英伟达拥有独特的定位，能够共同帮助机构实现 AI 运营化——从实验阶段走向企业生产，再到AI云超级工厂。 随着智能体AI（Agentic AI）驱动推理工作负载呈指数级增长，成本控制和单位代币性能（Performance per token）变得至关重要。 通过将英伟达NVIDIA AI Enterprise软件与联想的全栈混合AI平台及服务相结合，我们助力客户以更高的效率、更低的单位代币成本和更快的投产速度实现AI规模化。",
+          "url": "https://wallstreetcn.com/livenews/3071179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时44分]"
+        },
+        {
+          "title": "韩国2月出口物价指数年率 10.7%，前值由7.80%修正为7.8%。",
+          "url": "https://flash.jin10.com/detail/20260317050002371800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时44分]"
+        },
+        {
+          "title": "韩国2月进口物价指数年率 1.2%，前值由-1.20%修正为-0.9%。",
+          "url": "https://flash.jin10.com/detail/20260317050002349800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时44分]"
+        },
+        {
           "title": "德国DAX 30指数初步收涨0.67%，报23605.49点。 法国股指初步收涨0.38%，意大利股指初步收涨0.25%、银行指数涨0.34%，英国股指初步收涨0.79%。",
           "url": "https://wallstreetcn.com/livenews/3071058",
           "source": "华尔街见闻-快讯",
@@ -575,17 +672,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "联想集团董事长兼CEO杨元庆：联想与英伟达拥有独特的定位，能够共同帮助机构实现 AI 运营化——从实验阶段走向企业生产，再到AI云超级工厂。 随着智能体AI（Agentic AI）驱动推理工作负载呈指数级增长，成本控制和单位代币性能（Performance per token）变得至关重要。 通过将英伟达NVIDIA AI Enterprise软件与联想的全栈混合AI平台及服务相结合，我们助力客户以更高的效率、更低的单位代币成本和更快的投产速度实现AI规模化。",
-          "url": "https://wallstreetcn.com/livenews/3071179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
           "title": "欧洲STOXX 600指数初步收涨0.55%，报599.13点。 欧元区STOXX 50指数初步收涨0.59%，报5750.33点。 富时泛欧绩优300指数初步收涨0.56%，报2392.08点。",
           "url": "https://wallstreetcn.com/livenews/3071057",
           "source": "华尔街见闻-快讯",
@@ -595,28 +681,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "韩国2月出口物价指数年率 10.7%，前值由7.80%修正为7.8%。",
-          "url": "https://flash.jin10.com/detail/20260317050002371800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "韩国2月进口物价指数年率 1.2%，前值由-1.20%修正为-0.9%。",
-          "url": "https://flash.jin10.com/detail/20260317050002349800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
         },
         {
           "title": "非洲股市收盘播报｜周一（3月16日），南非富时/JSE非洲领先40可交易指数收涨1.50%，逼近10.9万点。 尼日利亚证交所全部股指收涨1.55%，逼近20.1万点，继续创收盘历史新高，最近三个交易日累计上涨2.85%。 毛里求斯证交所SEMDEX指数收跌0.41%，肯尼亚内罗毕证交所全股指数收涨0.15%。",
@@ -665,8 +729,114 @@
       ]
     },
     {
+      "keyword_group": "价格",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "新西兰2月食品价格指数月率 -0.1%，前值由2.50%修正为2.1%。",
+          "url": "https://flash.jin10.com/detail/20260317054502825800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时44分]"
+        },
+        {
+          "title": "土耳其财政部长：认为今年高能源价格对经常账户余额的影响将可控。",
+          "url": "https://flash.jin10.com/detail/20260317025644864800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "汇丰：欧洲天然气价格或维持高位至2027年，战争引发供应短缺",
+          "url": "https://wallstreetcn.com/livenews/3071198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "全球最大铝土矿生产国拟限制供应以支撑价格",
+          "url": "https://flash.jin10.com/detail/20260317055056329800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "周一（3月16日），彭博电动汽车价格回报指数涨1.20%，报3619.21点。",
+          "url": "https://wallstreetcn.com/livenews/3071147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "新西兰2月食品价格指数年率 4.5%，前值4.6%。",
+          "url": "https://flash.jin10.com/detail/20260317054524484800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "土耳其财政部长：若高油价持续，阶梯式燃油价格调整机制难以持续，将给预算带来沉重负担。",
+          "url": "https://flash.jin10.com/detail/20260317023751970800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国汽油价格飙升至2023年10月以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3071043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "几内亚考虑收紧铝土矿供应规则，来遏制价格暴跌",
+          "url": "https://wallstreetcn.com/livenews/3071025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
@@ -679,6 +849,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时51分]"
+        },
+        {
+          "title": "美国商务部宣布美国人工智能出口新计划阶段。",
+          "url": "https://flash.jin10.com/detail/20260317061250225800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "英伟达CEO黄仁勋：没有我们的机密计算能力，没有我们构建端到端系统的能力，以及提供整个加速计算和人工智能堆栈的能力，从数据处理，无论是向量还是结构，一直到人工智能，这一切都是不可能的。",
@@ -749,78 +930,6 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "新西兰2月食品价格指数月率 -0.1%，前值由2.50%修正为2.1%。",
-          "url": "https://flash.jin10.com/detail/20260317054502825800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "土耳其财政部长：认为今年高能源价格对经常账户余额的影响将可控。",
-          "url": "https://flash.jin10.com/detail/20260317025644864800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "周一（3月16日），彭博电动汽车价格回报指数涨1.20%，报3619.21点。",
-          "url": "https://wallstreetcn.com/livenews/3071147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "土耳其财政部长：若高油价持续，阶梯式燃油价格调整机制难以持续，将给预算带来沉重负担。",
-          "url": "https://flash.jin10.com/detail/20260317023751970800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "美国汽油价格飙升至2023年10月以来最高水平",
-          "url": "https://wallstreetcn.com/livenews/3071043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "几内亚考虑收紧铝土矿供应规则，来遏制价格暴跌",
-          "url": "https://wallstreetcn.com/livenews/3071025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -832,8 +941,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时44分]"
         },
         {
           "title": "航空业ETF收涨2.2%，领跑美股行业ETF",

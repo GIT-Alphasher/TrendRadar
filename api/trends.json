@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T14:11:08.766855+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-03-17T15:59:59.803474+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 07时42分]"
+        },
+        {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 15时59分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -34,15 +45,35 @@
           "time_info": "[01时14分 ~ 13时02分]"
         },
         {
-          "title": "于谦说怕AI偷看相册",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "title": "锐评B站AI大赛热门作品",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            6,
+            9,
+            23,
+            21,
+            13,
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 14时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 15时59分]"
+        },
+        {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时59分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -56,35 +87,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 07时42分]"
-        },
-        {
-          "title": "锐评B站AI大赛热门作品",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            23,
-            21,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时42分]"
-        },
-        {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时11分]"
         },
         {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
@@ -118,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "华为面向AI推理场景发布新一代AI数据基础设施",
+          "url": "https://wallstreetcn.com/livenews/3071491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -168,6 +181,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时01分 ~ 14时11分]"
+        },
+        {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 15时59分]"
         },
         {
           "title": "苹果发布AirPods Max 2",
@@ -266,17 +291,6 @@
           "time_info": "[06时44分 ~ 07时42分]"
         },
         {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
-        },
-        {
           "title": "摄影会被AI彻底淘汰吗",
           "url": "https://search.bilibili.com/all?keyword=%E6%91%84%E5%BD%B1%E4%BC%9A%E8%A2%ABAI%E5%BD%BB%E5%BA%95%E6%B7%98%E6%B1%B0%E5%90%97",
           "source": "bilibili 热搜",
@@ -333,6 +347,28 @@
           "time_info": "04时51分"
         },
         {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
           "url": "https://flash.jin10.com/detail/20260317043630290800",
           "source": "金十数据",
@@ -364,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "Kimi回应马斯克点赞AI论文：你的火箭造得不错",
+          "url": "https://wallstreetcn.com/livenews/3071485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "月内公募机构调研超1200次，AI相关个股成焦点",
@@ -520,6 +567,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "从夯到拉点评AI作品",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "AirPodsMax2发布",
           "url": "https://s.weibo.com/weibo?q=%23AirPodsMax2%E5%8F%91%E5%B8%83%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -534,7 +592,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
@@ -542,11 +600,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时14分 ~ 14时11分]"
+          "appearance_count": 14,
+          "time_info": "[01时14分 ~ 15时59分]"
         },
         {
           "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
@@ -568,8 +627,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时11分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时59分]"
         },
         {
           "title": "越南国家石油天然气集团：拟在越南北部投资2.94亿美元建设液化石油气码头和储罐。",
@@ -589,7 +648,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -611,7 +670,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -660,6 +719,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "印尼央行行长：将无本金交割远期外汇交易（NDF）的单笔交易销售门槛从500万美元提高至1000万美元。",
+          "url": "https://flash.jin10.com/detail/20260317155140907800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
           "url": "https://www.zhihu.com/question/2015734176020656294",
           "source": "知乎",
@@ -704,7 +774,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -715,7 +785,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -792,7 +862,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -850,6 +920,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "伦锡短线下挫，日内跌超3.00%，现报46670.00美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260317154221216800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "印尼央行行长：新的外汇政策将个人每月购买外汇的门槛从10万美元降至5万美元。货币政策旨在支持印尼盾汇率稳定。",
+          "url": "https://flash.jin10.com/detail/20260317154215605800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "周一（3月16日），韩元兑美元最终涨0.41%，报1492.16韩元。",
@@ -940,6 +1032,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "美元重登“避险王座”，但此轮反弹恐是昙花一现！",
+          "url": "https://flash.jin10.com/detail/20260317153608588800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "策略师：日企在90美元油价下也能保持韧性",
           "url": "https://flash.jin10.com/detail/20260317115945554800",
           "source": "金十数据",
@@ -976,7 +1079,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "恒生科技指数转跌，此前涨超2％，恒生指数涨幅收窄至0.15％。",
@@ -985,7 +1088,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -1132,7 +1235,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -1165,7 +1268,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -1253,7 +1356,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -1335,6 +1438,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "上证指数收报4049.91点，跌0.85%。 深证成指收报14039.73点，跌1.87%。 创业板指收报3280.06点，跌2.29%。 沪深300收报4637.44点，跌0.73%。 科创50收报1354.15点，跌2.23%。 中证500收报8016.03点，跌2.07%。 中证1000收报8019.86点，跌2.33%。",
+          "url": "https://wallstreetcn.com/livenews/3071457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "恒生科技指数涨超2%，中资券商、新消费、新能源车企等概念涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260317100550381800",
           "source": "金十数据",
@@ -1360,7 +1474,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "各大银行/品牌金条价格排行一览",
@@ -1372,6 +1486,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "因中东冲突扰乱燃料供应链，美国柴油价格突破每加仑5美元。",
+          "url": "https://flash.jin10.com/detail/20260317155529295800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "美国柴油价格突破每加仑5美元，中东冲突扰乱燃料供应链。",
+          "url": "https://wallstreetcn.com/livenews/3071494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "金十期货3月17日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨850元/吨，中间价报155350元/吨。",
@@ -1662,8 +1798,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时42分 ~ 14时11分]"
+          "appearance_count": 8,
+          "time_info": "[07时42分 ~ 15时59分]"
         },
         {
           "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
@@ -1675,8 +1811,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时11分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时59分]"
         },
         {
           "title": "国际原油快速拉升，WTI原油期货涨幅扩大至5%，突破97美元/桶关口，报97.113美元/桶。 美股股指期货短线跳水，纳指期货日内跌0.59%，标普500指数期货跌0.57%。 现货黄金持续下挫，日内涨幅收窄至0.1%，报5012美元/盎司；现货白银日内一度转跌，现涨0.09%。",
@@ -1685,7 +1821,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -1737,8 +1873,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时11分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时59分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1761,6 +1897,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "扬电科技在互动平台表示，子公司四川汉扬智能科技有限公司相关算力业务尚处于初期探索阶段，与大模型公司之间只限于API接口的调用，未有其他合作。",
+          "url": "https://flash.jin10.com/detail/20260317153625463800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         }
       ]
     }

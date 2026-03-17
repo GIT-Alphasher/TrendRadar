@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T19:01:47.287242+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-03-17T19:52:40.243183+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             5,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 19时01分]"
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 19时52分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -70,11 +71,12 @@
           "ranks": [
             8,
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时59分 ~ 19时01分]"
+          "appearance_count": 5,
+          "time_info": "[15时59分 ~ 19时52分]"
         },
         {
           "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
@@ -104,6 +106,20 @@
           "time_info": "[01时14分 ~ 07时42分]"
         },
         {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时10分 ~ 19时52分]"
+        },
+        {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
           "url": "https://flash.jin10.com/detail/20260317030428527800",
           "source": "金十数据",
@@ -124,19 +140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时10分 ~ 19时01分]"
         },
         {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
@@ -170,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -501,7 +515,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -616,6 +630,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/U7t3ECByVtBPn2V5yKJMT.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260317193805932800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "英伟达押注下一个万亿级机遇 入局AI服务器系统",
           "url": "https://wallstreetcn.com/livenews/3071516",
           "source": "华尔街见闻-快讯",
@@ -674,7 +699,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -685,8 +710,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 19时01分]"
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 19时52分]"
         },
         {
           "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
@@ -698,8 +723,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时14分 ~ 19时01分]"
+          "appearance_count": 18,
+          "time_info": "[01时14分 ~ 19时52分]"
         },
         {
           "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
@@ -862,6 +887,17 @@
           "time_info": "14时11分"
         },
         {
+          "title": "白宫国家经济委员会主任哈塞特：如有需要，协调石油储备释放量可增加。 伊朗冲突短期内就会结束。 4-6周是基本情景，我们目前进度超前。 特朗普绝不会退缩，一定会把这件事做到底。 期货显示油价将在今年晚些时候回到50多美元/桶。 密切研究向西海岸输送燃料的问题。 美国经济基本面依然强劲。 担心亚洲可能减少对美国的石油出口。 播种季快到了，所以肥料很重要。 成功找到了其他肥料来源。",
+          "url": "https://wallstreetcn.com/livenews/3071646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "WTI原油突破96美元/桶，日内涨3.5%。",
           "url": "https://wallstreetcn.com/livenews/3071412",
           "source": "华尔街见闻-快讯",
@@ -904,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "美元兑日元回吐涨幅，跌0.1%至158.97，创日内新低。",
+          "url": "https://wallstreetcn.com/livenews/3071641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "WTI原油周二小幅高开，现报94.4美元/桶。",
@@ -1077,7 +1124,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1184,7 +1231,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "恒生科技指数转跌，此前涨超2％，恒生指数涨幅收窄至0.15％。",
@@ -1439,7 +1486,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1472,7 +1519,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1516,7 +1563,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1549,7 +1596,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1574,6 +1621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "首批场外双创人工智能指数基金获批",
+          "url": "https://wallstreetcn.com/livenews/3071623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "泰国股市SET指数一度上涨2.1%至1,434.99点，创3月2日以来最高水平。",
@@ -1708,11 +1766,12 @@
           "url": "https://www.toutiao.com/trending/7617716556621024811/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 19时52分]"
         },
         {
           "title": "澳洲联储主席Bullock：通胀上行的风险大于就业下行的风险。 不希望看到经济衰退或失业率大幅上升。 我理解对于有房贷的人来说，这(指加息)是一个艰难的消息。 如果我们不把过剩需求降下来，企业就会将其计入成本和价格之中。 如果不加息，将会出现第二轮通胀效应。",
@@ -1811,7 +1870,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1844,7 +1903,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -1885,7 +1944,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
@@ -1966,6 +2025,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "马斯克对所有人工智能公司放狠话",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9%E6%89%80%E6%9C%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%94%BE%E7%8B%A0%E8%AF%9D%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
           "url": "https://flash.jin10.com/detail/20260317023121292800",
           "source": "金十数据",
@@ -1994,7 +2064,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         }
@@ -2002,7 +2072,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -2038,8 +2108,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 19时01分]"
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 19时52分]"
+        },
+        {
+          "title": "美股航空股盘前走高，达美航空涨近5%，美国航空、阿拉斯加航空、联合大陆航空均涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3071652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "国际原油快速拉升，WTI原油期货涨幅扩大至5%，突破97美元/桶关口，报97.113美元/桶。 美股股指期货短线跳水，纳指期货日内跌0.59%，标普500指数期货跌0.57%。 现货黄金持续下挫，日内涨幅收窄至0.1%，报5012美元/盎司；现货白银日内一度转跌，现涨0.09%。",
@@ -2085,6 +2166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "NEBIUS美股盘前跌超5%，公司拟发行37.5亿美元可转换高级债券，计划将募集资金用于建设数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3071633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -2101,8 +2193,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 19时01分]"
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 19时52分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",

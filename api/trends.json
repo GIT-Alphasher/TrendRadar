@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:04:53.865253+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-03-17T19:01:47.287242+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时04分]"
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 19时01分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -61,6 +62,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 15时59分]"
+        },
+        {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 19时01分]"
         },
         {
           "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
@@ -112,6 +126,19 @@
           "time_info": "04时51分"
         },
         {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时10分 ~ 19时01分]"
+        },
+        {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
           "url": "https://wallstreetcn.com/livenews/3071062",
           "source": "华尔街见闻-快讯",
@@ -129,7 +156,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -159,18 +186,6 @@
           "time_info": "[01时14分 ~ 05时51分]"
         },
         {
-          "title": "AI大厂月薪3万疯抢文科生",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 17时04分]"
-        },
-        {
           "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
           "url": "https://wallstreetcn.com/livenews/3071183",
           "source": "华尔街见闻-快讯",
@@ -193,19 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时51分]"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时10分 ~ 17时04分]"
         },
         {
           "title": "AI 裁员",
@@ -316,6 +318,17 @@
           "time_info": "[06时44分 ~ 07时42分]"
         },
         {
+          "title": "Lex锐评千万播放AI作品",
+          "url": "https://search.bilibili.com/all?keyword=Lex%E9%94%90%E8%AF%84%E5%8D%83%E4%B8%87%E6%92%AD%E6%94%BEAI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时01分]"
+        },
+        {
           "title": "摄影会被AI彻底淘汰吗",
           "url": "https://search.bilibili.com/all?keyword=%E6%91%84%E5%BD%B1%E4%BC%9A%E8%A2%ABAI%E5%BD%BB%E5%BA%95%E6%B7%98%E6%B1%B0%E5%90%97",
           "source": "bilibili 热搜",
@@ -378,7 +391,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -455,7 +468,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -480,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "微盟公布2025财报：总营收15.9亿，AI收入首次过亿",
+          "url": "https://wallstreetcn.com/livenews/3071596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "英伟达CEO黄仁勋：。与Corweave的合作非常出色，他们是全球首个AI原生云。这个公司成立的唯一目的就是提供和托管GPU，随着加速计算时代的到来，为AI云提供托管服务。他们拥有一些出色的客户，增长势头惊人。",
@@ -598,7 +622,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -631,7 +655,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -650,8 +674,20 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
+          "url": "https://wallstreetcn.com/articles/3767666",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 19时01分]"
+        },
         {
           "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
           "url": "https://wallstreetcn.com/articles/3767638",
@@ -662,8 +698,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时14分 ~ 17时04分]"
+          "appearance_count": 17,
+          "time_info": "[01时14分 ~ 19时01分]"
         },
         {
           "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
@@ -676,18 +712,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[05时50分 ~ 14时11分]"
-        },
-        {
-          "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
-          "url": "https://wallstreetcn.com/articles/3767666",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 17时04分]"
         },
         {
           "title": "越南国家石油天然气集团：拟在越南北部投资2.94亿美元建设液化石油气码头和储罐。",
@@ -1020,7 +1044,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1045,6 +1069,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
+          "url": "https://wallstreetcn.com/livenews/3071571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "美国证实特斯拉与LG新能源达成43亿美元电池交易",
@@ -1149,7 +1184,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "恒生科技指数转跌，此前涨超2％，恒生指数涨幅收窄至0.15％。",
@@ -1398,6 +1433,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "欧元区3月ZEW经济景气指数 -8.5，前值 39.4。",
+          "url": "https://wallstreetcn.com/livenews/3071587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.95%，报7215.84点，早盘涨至7323.32点刷新日高，随后逐步回吐涨幅。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.24%，中国科技指数ETF（CQQQ）收涨1.62%，中概互联网指数ETF（KWEB）收涨1.59%， 德银嘉实沪深300指数ETF（ASHR）收涨0.33%，XtrackersHarvest中证50（ASHS）收跌1.09%。",
           "url": "https://wallstreetcn.com/livenews/3071140",
           "source": "华尔街见闻-快讯",
@@ -1418,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "德国3月ZEW经济景气指数 -0.5，预期 39.2，前值 58.3。",
+          "url": "https://wallstreetcn.com/livenews/3071585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "澳大利亚S&P/ASX200指数3月17日（周二）收盘上涨30.90点，涨幅0.36%，报8614.30点。",
@@ -1453,6 +1510,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "德国3月ZEW经济现况指数 -62.9，预期 -68，前值 -65.9。",
+          "url": "https://wallstreetcn.com/livenews/3071584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收涨0.26%，报2138.14点。",
           "url": "https://wallstreetcn.com/livenews/3071040",
           "source": "华尔街见闻-快讯",
@@ -1475,6 +1543,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "欧洲斯托克600指数上涨0.5%，触及盘中高点。",
+          "url": "https://wallstreetcn.com/livenews/3071570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "上证指数开盘报4086.30点，涨0.04%。 深证成指开盘报14370.45点，涨0.44%。 创业板指开盘报3385.71点，涨0.85%。 沪深300开盘报4685.57点，涨0.30%。 科创50开盘报1386.26点，涨0.09%。 中证500开盘报8199.99点，涨0.18%。 中证1000开盘报8219.50点，涨0.10%。",
           "url": "https://wallstreetcn.com/livenews/3071289",
           "source": "华尔街见闻-快讯",
@@ -1492,7 +1571,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1555,7 +1634,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "各大银行/品牌金条价格排行一览",
@@ -1625,6 +1704,17 @@
           "time_info": "[05时51分 ~ 06时44分]"
         },
         {
+          "title": "进口头孢西力欣价格暴涨52倍",
+          "url": "https://www.toutiao.com/trending/7617716556621024811/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时01分]"
+        },
+        {
           "title": "澳洲联储主席Bullock：通胀上行的风险大于就业下行的风险。 不希望看到经济衰退或失业率大幅上升。 我理解对于有房贷的人来说，这(指加息)是一个艰难的消息。 如果我们不把过剩需求降下来，企业就会将其计入成本和价格之中。 如果不加息，将会出现第二轮通胀效应。",
           "url": "https://wallstreetcn.com/livenews/3071386",
           "source": "华尔街见闻-快讯",
@@ -1666,7 +1756,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1688,7 +1778,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1715,6 +1805,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "北京君正：目前DRAM芯片、Flash芯片和部分计算芯片价格有调整",
+          "url": "https://wallstreetcn.com/livenews/3071591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "新西兰2月食品价格指数年率 4.5%，前值4.6%。",
           "url": "https://flash.jin10.com/detail/20260317054524484800",
           "source": "金十数据",
@@ -1735,6 +1836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "随着汽油零售价格上涨，美国亚利桑那州民主党参议员鲁本·加列戈(Ruben Gallego)正向美国能源部施压，要求其提供战略石油储备的详细计划。",
+          "url": "https://flash.jin10.com/detail/20260317182157977800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "美国汽油价格飙升至2023年10月以来最高水平",
@@ -1773,7 +1885,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
@@ -1874,6 +1986,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "德意志银行首席执行官：我们能清楚地看到哪些企业将在人工智能领域胜出，以及在哪些方面应更加谨慎。",
+          "url": "https://flash.jin10.com/detail/20260317181603672800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
@@ -1915,8 +2038,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 17时04分]"
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 19时01分]"
         },
         {
           "title": "国际原油快速拉升，WTI原油期货涨幅扩大至5%，突破97美元/桶关口，报97.113美元/桶。 美股股指期货短线跳水，纳指期货日内跌0.59%，标普500指数期货跌0.57%。 现货黄金持续下挫，日内涨幅收窄至0.1%，报5012美元/盎司；现货白银日内一度转跌，现涨0.09%。",
@@ -1978,8 +2101,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 17时04分]"
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 19时01分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",

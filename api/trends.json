@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T15:59:59.803474+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-03-17T17:04:53.865253+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -23,11 +23,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 17时04分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -41,8 +42,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时14分 ~ 13时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 17时04分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -122,13 +123,24 @@
           "time_info": "01时14分"
         },
         {
+          "title": "知情人士：字节原计划推出的一代豆包AI眼镜或不会上市",
+          "url": "https://flash.jin10.com/detail/20260317165600023800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "华为面向AI推理场景发布新一代AI数据基础设施",
           "url": "https://wallstreetcn.com/livenews/3071491",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -145,6 +157,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时14分 ~ 05时51分]"
+        },
+        {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 17时04分]"
         },
         {
           "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
@@ -171,6 +195,19 @@
           "time_info": "[04时51分 ~ 05时51分]"
         },
         {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 17时04分]"
+        },
+        {
           "title": "AI 裁员",
           "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -181,18 +218,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时01分 ~ 14时11分]"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 15时59分]"
         },
         {
           "title": "苹果发布AirPods Max 2",
@@ -347,24 +372,24 @@
           "time_info": "04时51分"
         },
         {
+          "title": "知情人士：字节原计划推出的一代豆包AI眼镜或不会上市",
+          "url": "https://wallstreetcn.com/livenews/3071534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "AI对游戏版权有何影响",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "AI大厂月薪3万疯抢文科生",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -408,7 +433,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -422,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "百度集团执行副总裁、百度智能云事业群总裁沈抖：搜索能力是OpenClaw这类AI Agent落地的重要基础设施",
+          "url": "https://wallstreetcn.com/livenews/3071529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "全程直击黄仁勋“全栈AI”演讲：算力产业新蓝图开启",
@@ -556,6 +592,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "英伟达押注下一个万亿级机遇 入局AI服务器系统",
+          "url": "https://wallstreetcn.com/livenews/3071516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850485&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/CA_npreZkiWZtt1j4Xbc5.jpg/lite\" height=\"120\" /></a>",
           "url": "https://flash.jin10.com/detail/20260317120118876800",
           "source": "金十数据",
@@ -573,9 +620,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "科大讯飞发布桌面AI助理Loomy，已适配钉钉、QQ等主流IM工具",
+          "url": "https://flash.jin10.com/detail/20260317164152095800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "AirPodsMax2发布",
@@ -592,7 +650,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
@@ -604,8 +662,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时14分 ~ 15时59分]"
+          "appearance_count": 15,
+          "time_info": "[01时14分 ~ 17时04分]"
         },
         {
           "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
@@ -624,11 +682,12 @@
           "url": "https://wallstreetcn.com/articles/3767666",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 15时59分]"
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 17时04分]"
         },
         {
           "title": "越南国家石油天然气集团：拟在越南北部投资2.94亿美元建设液化石油气码头和储罐。",
@@ -725,7 +784,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -928,7 +987,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -939,7 +998,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -953,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8877，较上一交易日官方收盘价涨120点，较上日夜盘收盘涨31点。",
+          "url": "https://wallstreetcn.com/livenews/3071517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "WTI原油日内涨超1.00%，现报95.16美元/桶。",
@@ -1038,7 +1108,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1079,7 +1149,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "恒生科技指数转跌，此前涨超2％，恒生指数涨幅收窄至0.15％。",
@@ -1416,6 +1486,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.13%，恒生科技指数收跌0.08%。半导体板块走低，兆易创新跌超6%，华虹半导体跌超3%，锂电池板块走弱，宁德时代跌超3%，中创新航跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3071505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "泰国股市SET指数一度上涨2.1%至1,434.99点，创3月2日以来最高水平。",
           "url": "https://wallstreetcn.com/livenews/3071367",
           "source": "华尔街见闻-快讯",
@@ -1444,7 +1525,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1474,7 +1555,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "各大银行/品牌金条价格排行一览",
@@ -1494,7 +1575,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1505,7 +1586,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1579,6 +1660,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "赤天化：公司股票价格短期波动较大，存在非理性炒作风险",
+          "url": "https://flash.jin10.com/detail/20260317165155204800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "土耳其财政部长：认为今年高能源价格对经常账户余额的影响将可控。",
           "url": "https://flash.jin10.com/detail/20260317025644864800",
           "source": "金十数据",
@@ -1588,6 +1680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "铝土矿价格腰斩 全球最大铝土矿出口国几内亚要出手了",
+          "url": "https://wallstreetcn.com/livenews/3071528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "全球最大铝土矿生产国拟限制供应以支撑价格",
@@ -1808,11 +1911,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 15时59分]"
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 17时04分]"
         },
         {
           "title": "国际原油快速拉升，WTI原油期货涨幅扩大至5%，突破97美元/桶关口，报97.113美元/桶。 美股股指期货短线跳水，纳指期货日内跌0.59%，标普500指数期货跌0.57%。 现货黄金持续下挫，日内涨幅收窄至0.1%，报5012美元/盎司；现货白银日内一度转跌，现涨0.09%。",
@@ -1870,11 +1974,12 @@
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 15时59分]"
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 17时04分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1911,7 +2016,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }

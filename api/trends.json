@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:02:21.513977+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-03-18T19:01:33.766614+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 19时01分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，现货黄金跌0.02%，报5005.01美元/盎司，日内交投于5044.56-4973.81美元。 COMEX黄金期货涨0.12%，报5008.30美元/盎司。",
@@ -49,7 +49,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -74,6 +74,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "欧洲央行敦促银行密切关注美元流动性指标",
+          "url": "https://wallstreetcn.com/livenews/3072374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
+          "url": "https://wallstreetcn.com/articles/3767802",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 19时01分]"
         },
         {
           "title": "WTI 4月原油期货收涨2.71美元，涨幅将近2.90%，报96.21美元/桶。 中东Abu Dhabi Murban原油期货涨3.09%，报110.02美元/桶。 NYMEX 4月天然气期货收报3.0330美元/百万英热单位。 NYMEX 4月汽油期货收报3.1234美元/加仑，2月27日收盘以来累计上涨50.31%；NYMEX 3月取暖油期货收报4.0158美元/加仑，2月27日收盘以来累计上涨超过50.35%。",
@@ -136,16 +160,16 @@
           "time_info": "[05时49分 ~ 06时43分]"
         },
         {
-          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
-          "url": "https://wallstreetcn.com/articles/3767802",
-          "source": "华尔街见闻",
+          "title": "“芯”潮澎湃！美光市值首次突破5000亿美元 明早财报有何期待？",
+          "url": "https://www.cls.cn/detail/2316465",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 19时01分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8830元，较周一纽约尾盘涨60点，日内整体交投于6.8944-6.8797元区间。",
@@ -196,17 +220,6 @@
           "time_info": "[06时43分 ~ 07时41分]"
         },
         {
-          "title": "“芯”潮澎湃！美光市值首次突破5000亿美元 明早财报有何期待？",
-          "url": "https://www.cls.cn/detail/2316465",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
           "title": "金价继续持稳于5000美元整数位心理关口附近",
           "url": "https://wallstreetcn.com/livenews/3071903",
           "source": "华尔街见闻-快讯",
@@ -241,13 +254,35 @@
           "time_info": "15时15分"
         },
         {
+          "title": "现货黄金短线下挫20美元，一度逼近4960美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260318183628641800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "现货黄金5分钟内下跌15.81美元/盎司，报4966.59美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3072368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "腾讯控股(00700.HK)：受益于长青游戏的持续增长及内容驱动游戏的快速扩张，我们的国际市场游戏年收入突破100亿美元。",
           "url": "https://flash.jin10.com/detail/20260318163317291800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -280,7 +315,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -324,7 +359,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -346,7 +381,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -552,7 +587,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -563,11 +598,12 @@
             8,
             9,
             12,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时15分 ~ 17时02分]"
+          "appearance_count": 15,
+          "time_info": "[01时15分 ~ 19时01分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -638,6 +674,41 @@
           "time_info": "[10时56分 ~ 17时02分]"
         },
         {
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 19时01分]"
+        },
+        {
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时01分]"
+        },
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 19时01分]"
+        },
+        {
           "title": "官方辟谣“AI安全治理3年计划”",
           "url": "https://www.douyin.com/hot/2434741",
           "source": "抖音",
@@ -662,26 +733,28 @@
           "time_info": "13时05分"
         },
         {
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 19时01分]"
+        },
+        {
           "title": "腾讯：2025年第四季资本开支付款224亿元 主要用于支持AI业务发展",
           "url": "https://wallstreetcn.com/livenews/3072288",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
-        },
-        {
-          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 17时02分]"
         },
         {
           "title": "七部门发AI安全治理3年计划系谣言",
@@ -730,18 +803,6 @@
           "time_info": "[10时56分 ~ 17时02分]"
         },
         {
-          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
-          "url": "https://www.zhihu.com/question/2017541603019940502",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 17时02分]"
-        },
-        {
           "title": "网传“男二以下用AI演员” 于正发声",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -765,15 +826,15 @@
           "time_info": "[06时43分 ~ 07时41分]"
         },
         {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
           "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "time_info": "[19时00分 ~ 19时01分]"
         },
         {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
@@ -810,6 +871,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 13时05分]"
+        },
+        {
+          "title": "耀客AI演员 赵今麦翟子路",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时01分]"
         },
         {
           "title": "阿里云AI算力和存储产品最高涨价34%",
@@ -862,7 +934,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -873,7 +945,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -917,7 +989,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -950,7 +1022,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -964,6 +1036,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "腾讯2025年游戏营收同比增长22%，游戏AI应用成关键驱动力之一",
+          "url": "https://wallstreetcn.com/livenews/3072356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
@@ -1068,8 +1151,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "韩国指数一度涨至熔断",
+          "url": "https://www.toutiao.com/trending/7618190725896962090/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时01分]"
+        },
         {
           "title": "金十图示：2026年03月18日（周三）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260318004533548800",
@@ -1338,6 +1432,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "中证指数公司将于3月20日发布中证新兴产业60指数",
+          "url": "https://wallstreetcn.com/livenews/3072350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "创业板指盘中涨超2%，上证指数现涨0.22%，算力、存储芯片、CPO、6G、液冷、卫星互联网等概念涨幅居前，油服工程、白酒、渔业、粮食等概念跌幅居前；全市约3400股上涨，1900股下跌。",
           "url": "https://flash.jin10.com/detail/20260318143033955800",
           "source": "金十数据",
@@ -1410,7 +1515,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -1453,18 +1558,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -1478,6 +1572,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时01分]"
         },
         {
           "title": "周二（3月17日），彭博电动汽车价格回报指数涨0.16%，报3620.52点，亚太早盘曾显著走高、迅速在北京时间10:06刷新日高至3655.93点。",
@@ -1680,7 +1786,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         }
@@ -1699,8 +1805,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时40分 ~ 17时02分]"
+          "appearance_count": 9,
+          "time_info": "[07时40分 ~ 19时01分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1777,11 +1883,12 @@
           "ranks": [
             3,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 17时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 19时01分]"
         }
       ]
     },

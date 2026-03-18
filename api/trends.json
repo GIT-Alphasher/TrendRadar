@@ -1,22 +1,376 @@
 {
-  "generated_at": "2026-03-19T03:15:40.334857+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-19T04:51:20.517620+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "纽约银日内跌幅达6.0%，报75.09美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3072687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "欧元兑美元跌至1.1487，刷新日低，鲍威尔正在讲话。",
+          "url": "https://wallstreetcn.com/livenews/3072635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "WTI原油期货在电子交易盘涨至100美元/桶整数位心理关口，涨幅在纽约收盘之后超过4%。",
+          "url": "https://wallstreetcn.com/livenews/3072686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
+          "url": "https://wallstreetcn.com/articles/3767802",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
+        },
+        {
+          "title": "WTI原油站上100美元/桶，日内涨4.44%。",
+          "url": "https://flash.jin10.com/detail/20260319043452465800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "现货白银向下触及75美元/盎司，日内跌5.31%。",
+          "url": "https://flash.jin10.com/detail/20260319043154673800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "现货白银日内大跌5.00%，现报75.24美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260319042428712800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "WTI 4月原油期货收涨0.11美元，涨幅0.11%，报96.32美元/桶。 布伦特5月原油期货收涨3.96美元，涨幅3.83%，报107.38美元/桶。 NYMEX 4月天然气期货收报3.0650美元/百万英热单位。 NYMEX 4月汽油期货收报3.0985美元/加仑，NYMEX 3月取暖油期货收报4.1978美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3072627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
+          "url": "https://www.cls.cn/detail/2317196",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美光科技第二财季云存储营收77.5亿美元，核心数据中心营收56.9亿美元。第二财季营收238.6亿美元，分析师预期197.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国1月长期资本净流入 155.07亿美元，前值 280亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国1月国际资本净流入 -250.22亿美元，前值 449亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "布伦特原油日内暴涨6.00%，现报106.87美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260319041234424800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美元兑日元涨0.5%，报159.80日元。",
+          "url": "https://wallstreetcn.com/livenews/3072666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美元指数DXY在美联储决议日站上100，日内涨0.44%。",
+          "url": "https://flash.jin10.com/detail/20260319024745270800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美元/日元日内涨幅达0.5%，报159.78；美元/瑞郎日内涨幅达1.0%，报0.7924。",
+          "url": "https://wallstreetcn.com/livenews/3072663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "WTI原油期货朝着96美元回落。",
+          "url": "https://wallstreetcn.com/livenews/3072611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美光科技(MU.O)第二季度核心数据中心业务营收56.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260319040513684800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "LME期铜收跌380美元，报12396美元/吨。 LME期铝收平，报3400美元/吨。 LME期锌收跌94美元，报3134美元/吨。 LME期铅收跌16美元，报1914美元/吨。 LME期镍收跌44美元，报17151美元/吨。 LME期锡收跌1662美元，报45063美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3072607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月19日（周四）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260319004529742800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.7%，报375.17点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted AS跌4.0%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3072586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "标普500指数的11个板块全线溃败，日用消费品板块收跌2.44%，可选消费板块跌2.32%，原材料板块跌2.25%，信息技术/科技板块跌1.24%跌幅居中，能源板块跌0.16%“领跑”。",
+          "url": "https://wallstreetcn.com/livenews/3072678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌0.89%，报23520.63点。 法国股指初步收跌0.20%，意大利股指初步收跌0.50%、银行指数涨0.33%，英国股指初步收跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3072584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "金十图示：2026年03月18日（周三）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260319042059341800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.81%，报597.57点，北京时间20:00结束高位窄幅震荡状态并持续走低。 欧元区STOXX 50指数初步收跌0.60%，报5734.84点。 富时泛欧绩优300指数初步收跌0.90%，报2383.00点。",
+          "url": "https://wallstreetcn.com/livenews/3072583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.06%，报7015.70点，微幅高开之后，整体持续走低。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.19%，中国科技指数ETF（CQQQ）收跌1.54%。 德银嘉实沪深300指数ETF（ASHR）收跌1.19%，XtrackersHarvest中证50（ASHS）收跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3072672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美联储决议声明发布日，标普500指数初步收跌1.3%，可选消费、日用消费品板块跌超2.3%，原材料板块跌2.1%，金融、科技、电信板块至少跌1.1%，能源板块微跌不足0.1%“表现最佳”。 纳斯达克100指数初步收跌1.4%，成分股中，Strategy跌6.1%，特许通讯跌5.9%，星巴克跌5%，康卡斯特等跌超4%，天然气供应商Diamondback Energy涨1.5%，AMD涨1.7%，Datadog涨2%，英特尔涨2.4%，核电股CEG涨3.3%。 道指初步收跌超700点，成分股麦当劳、家得宝、宝洁、Visa、耐克至多跌3.3%领跌，摩根大通、雪佛龙至多涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3072670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "德国DAX30指数3月18日（周三）收盘下跌215.94点，跌幅0.91%，报23504.82点；<br/>英国富时100指数3月18日（周三）收盘下跌102.45点，跌幅0.98%，报10301.15点；<br/>法国CAC40指数3月18日（周三）收盘下跌4.61点，跌幅0.06%，报7969.88点；<br/>欧洲斯托克50指数3月18日（周三）收盘下跌32.30点，跌幅0.56%，报5736.95点；<br/>西班牙IBEX35指数3月18日（周三）收盘上涨34.91点，涨幅0.20%，报17282.01点；<br/>意大利富时MIB指数3月18日（周三）收盘下跌167.04点，跌幅0.37%，报44720.50点。",
+          "url": "https://flash.jin10.com/detail/20260319003719047800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "金十图示：2026年03月18日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260319040601942800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "道琼斯指数3月18日（周三）收盘下跌768.48点，跌幅1.64%，报46224.78点；<br/>标普500指数3月18日（周三）收盘下跌91.35点，跌幅1.36%，报6624.74点；<br/>纳斯达克综合指数3月18日（周三）收盘下跌327.11点，跌幅1.46%，报22152.42点。",
+          "url": "https://flash.jin10.com/detail/20260319040516857800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收跌0.62%，报2129.82点。",
+          "url": "https://wallstreetcn.com/livenews/3072564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
           "url": "https://www.zhihu.com/question/2017627475413262735",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
         },
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -49,8 +403,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -60,8 +414,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
         },
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
@@ -72,8 +426,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -83,8 +437,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -94,8 +448,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -103,11 +457,12 @@
           "source": "微博",
           "ranks": [
             23,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -119,12 +474,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "美光科技：AI服务器需求继续表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/3072679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "迪拜原油价格攻破150美元",
@@ -144,9 +521,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时51分]"
+        },
+        {
+          "title": "布伦特原油期货价格在电子交易盘涨穿110美元/桶，卡塔尔称伊朗导弹击中LNG枢纽，造成严重破坏。",
+          "url": "https://wallstreetcn.com/livenews/3072683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "美债价格跌幅扩大，鲍威尔称降息取决于通胀进展",
@@ -155,7 +555,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -166,7 +566,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -182,176 +582,21 @@
           "time_info": "01时13分"
         },
         {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
           "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
           "url": "https://wallstreetcn.com/livenews/3072608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "欧元兑美元跌至1.1487，刷新日低，鲍威尔正在讲话。",
-          "url": "https://wallstreetcn.com/livenews/3072635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
-          "url": "https://wallstreetcn.com/articles/3767802",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
-        },
-        {
-          "title": "WTI 4月原油期货收涨0.11美元，涨幅0.11%，报96.32美元/桶。 布伦特5月原油期货收涨3.96美元，涨幅3.83%，报107.38美元/桶。 NYMEX 4月天然气期货收报3.0650美元/百万英热单位。 NYMEX 4月汽油期货收报3.0985美元/加仑，NYMEX 3月取暖油期货收报4.1978美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3072627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "美元指数DXY在美联储决议日站上100，日内涨0.44%。",
-          "url": "https://flash.jin10.com/detail/20260319024745270800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "WTI原油期货朝着96美元回落。",
-          "url": "https://wallstreetcn.com/livenews/3072611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "LME期铜收跌380美元，报12396美元/吨。 LME期铝收平，报3400美元/吨。 LME期锌收跌94美元，报3134美元/吨。 LME期铅收跌16美元，报1914美元/吨。 LME期镍收跌44美元，报17151美元/吨。 LME期锡收跌1662美元，报45063美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3072607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月19日（周四）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260319004529742800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.7%，报375.17点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted AS跌4.0%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3072586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "德国DAX 30指数初步收跌0.89%，报23520.63点。 法国股指初步收跌0.20%，意大利股指初步收跌0.50%、银行指数涨0.33%，英国股指初步收跌1.14%。",
-          "url": "https://wallstreetcn.com/livenews/3072584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌0.81%，报597.57点，北京时间20:00结束高位窄幅震荡状态并持续走低。 欧元区STOXX 50指数初步收跌0.60%，报5734.84点。 富时泛欧绩优300指数初步收跌0.90%，报2383.00点。",
-          "url": "https://wallstreetcn.com/livenews/3072583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "德国DAX30指数3月18日（周三）收盘下跌215.94点，跌幅0.91%，报23504.82点；<br/>英国富时100指数3月18日（周三）收盘下跌102.45点，跌幅0.98%，报10301.15点；<br/>法国CAC40指数3月18日（周三）收盘下跌4.61点，跌幅0.06%，报7969.88点；<br/>欧洲斯托克50指数3月18日（周三）收盘下跌32.30点，跌幅0.56%，报5736.95点；<br/>西班牙IBEX35指数3月18日（周三）收盘上涨34.91点，涨幅0.20%，报17282.01点；<br/>意大利富时MIB指数3月18日（周三）收盘下跌167.04点，跌幅0.37%，报44720.50点。",
-          "url": "https://flash.jin10.com/detail/20260319003719047800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收跌0.62%，报2129.82点。",
-          "url": "https://wallstreetcn.com/livenews/3072564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
@@ -360,9 +605,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美光科技美股盘后跌幅扩大至3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3072684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -370,11 +626,45 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
+        },
+        {
+          "title": "日常消费品ETF收跌超2.4%，与可选消费ETF领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3072682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260319040554331800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "金十图示：2026年03月18日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260319040515992800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股盘中）",
@@ -402,7 +692,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -412,8 +702,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
+        },
+        {
+          "title": "中国、日本和英国在1月份增持美债",
+          "url": "https://flash.jin10.com/detail/20260319041245843800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "两年期美债收益率短线下挫2个基点，至3.69%下方。现货黄金持稳于4900美元下方，美元指数维持0.2%的涨幅。美联储按兵不动，理事米兰要求降息。",
@@ -422,7 +723,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -433,7 +734,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         }
@@ -451,8 +752,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
+          "url": "https://wallstreetcn.com/livenews/3072659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     }

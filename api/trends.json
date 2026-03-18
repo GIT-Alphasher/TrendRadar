@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T06:52:03.537997+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-03-19T07:39:00.773171+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
@@ -13,11 +13,46 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时39分]"
+        },
+        {
+          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
+          "url": "https://www.cls.cn/detail/2317196",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时52分]"
+          "time_info": "[04时51分 ~ 07时39分]"
+        },
+        {
+          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
+        },
+        {
+          "title": "据《华盛顿邮报》：五角大楼寻求超过2000亿美元的预算请求，用于对伊战争。",
+          "url": "https://flash.jin10.com/detail/20260319070714203800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "欧元兑美元跌至1.1487，刷新日低，鲍威尔正在讲话。",
@@ -29,18 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
-          "url": "https://www.cls.cn/detail/2317196",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时51分 ~ 06时52分]"
         },
         {
           "title": "纽约银日内跌幅达6.0%，报75.09美元/盎司。",
@@ -65,6 +88,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时44分]"
+        },
+        {
+          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
+          "url": "https://wallstreetcn.com/articles/3767848",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 07时39分]"
         },
         {
           "title": "WTI原油站上100美元/桶，日内涨4.44%。",
@@ -115,17 +150,6 @@
           "time_info": "[04时51分 ~ 05时44分]"
         },
         {
-          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
-          "url": "https://wallstreetcn.com/articles/3767848",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 06时52分]"
-        },
-        {
           "title": "美光科技第二财季云存储营收77.5亿美元，核心数据中心营收56.9亿美元。第二财季营收238.6亿美元，分析师预期197.4亿美元。",
           "url": "https://wallstreetcn.com/livenews/3072675",
           "source": "华尔街见闻-快讯",
@@ -136,6 +160,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时44分]"
+        },
+        {
+          "title": "WTI原油期货5月合约涨至98.60美元/桶，投资者关注中东局势加剧。",
+          "url": "https://wallstreetcn.com/livenews/3072711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时39分]"
         },
         {
           "title": "美国1月长期资本净流入 155.07亿美元，前值 280亿美元。",
@@ -150,6 +186,18 @@
           "time_info": "[04时51分 ~ 05时44分]"
         },
         {
+          "title": "纽元兑美元走低，新西兰四季度GDP数据逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3072710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时39分]"
+        },
+        {
           "title": "美国1月国际资本净流入 -250.22亿美元，前值 449亿美元。",
           "url": "https://wallstreetcn.com/livenews/3072673",
           "source": "华尔街见闻-快讯",
@@ -160,6 +208,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时44分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.00%，现报98.54美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260319060038530800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时39分]"
+        },
+        {
+          "title": "WTI原油向下触及99美元/桶，日内跌0.58%。",
+          "url": "https://flash.jin10.com/detail/20260319060032394800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时39分]"
         },
         {
           "title": "美光科技(MU.O)CEO：美光科技2027年资本支出将增加逾100亿美元。",
@@ -195,28 +267,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "WTI原油期货5月合约涨至98.60美元/桶，投资者关注中东局势加剧。",
-          "url": "https://wallstreetcn.com/livenews/3072711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "纽元兑美元走低，新西兰四季度GDP数据逊色于市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3072710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
           "title": "布伦特原油日内暴涨6.00%，现报106.87美元/桶。",
           "url": "https://flash.jin10.com/detail/20260319041234424800",
           "source": "金十数据",
@@ -228,17 +278,6 @@
           "time_info": "04时51分"
         },
         {
-          "title": "WTI原油日内跌幅达1.00%，现报98.54美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260319060038530800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
           "title": "布伦特原油向上触及108美元/桶，日内涨7.19%。",
           "url": "https://flash.jin10.com/detail/20260319044329612800",
           "source": "金十数据",
@@ -248,17 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
-        },
-        {
-          "title": "WTI原油向下触及99美元/桶，日内跌0.58%。",
-          "url": "https://flash.jin10.com/detail/20260319060032394800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
         },
         {
           "title": "美元兑日元涨0.5%，报159.80日元。",
@@ -330,7 +358,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -340,11 +368,52 @@
             1,
             2,
             3,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时39分]"
+        },
+        {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时39分]"
+        },
+        {
+          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时39分]"
+        },
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时39分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -359,45 +428,6 @@
           "time_info": "[01时13分 ~ 06时52分]"
         },
         {
-          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
-          "url": "https://www.zhihu.com/question/2017543464514974274",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时52分]"
-        },
-        {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时52分]"
-        },
-        {
-          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
-          "url": "https://wallstreetcn.com/articles/3767836",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时52分]"
-        },
-        {
           "title": "AI味太冲,英伟达DLSS5翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
@@ -405,8 +435,35 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时39分]"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时52分]"
+          "time_info": "[01时13分 ~ 07时39分]"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时51分 ~ 07时39分]"
         },
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -420,18 +477,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "AI短片流金谷恩仇录",
-          "url": "https://www.douyin.com/hot/2435233",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时52分]"
-        },
-        {
           "title": "被黑产投毒的AI还可信吗",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
           "source": "bilibili 热搜",
@@ -441,19 +486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "易小星参加B站AI创作大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时51分 ~ 06时52分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -468,6 +500,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时13分 ~ 05时44分]"
+        },
+        {
+          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
+          "url": "https://wallstreetcn.com/livenews/3072722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时39分]"
         },
         {
           "title": "美光科技：AI服务器需求继续表现强劲。",
@@ -493,15 +537,15 @@
           "time_info": "[06时51分 ~ 06时52分]"
         },
         {
-          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
-          "url": "https://wallstreetcn.com/livenews/3072722",
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时39分"
         }
       ]
     },
@@ -647,29 +691,18 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
-          "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3072726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "美光科技(MU.O)美股盘后跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260319063817922800",
-          "source": "金十数据",
+          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
+          "url": "https://www.cls.cn/detail/2317455",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -694,6 +727,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3072726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时39分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260319063817922800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时39分]"
         },
         {
           "title": "美光科技美股盘后跌幅扩大至3.4%。",
@@ -770,6 +827,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 07时39分]"
+        },
+        {
           "title": "迪拜原油价格攻破150美元",
           "url": "https://www.toutiao.com/trending/7618064062336876563/",
           "source": "今日头条",
@@ -779,18 +849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时15分 ~ 06时52分]"
         },
         {
           "title": "鲍威尔：不会说（维持价格稳定+实现充分就业这双重职责中）一个职责的风险大于另外一个。",
@@ -899,6 +957,18 @@
           "time_info": "[06时51分 ~ 06时52分]"
         },
         {
+          "title": "两年期美债收益率涨约10个基点，投资者关注美联储政策利率的前景和国际油价",
+          "url": "https://wallstreetcn.com/livenews/3072705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时39分]"
+        },
+        {
           "title": "中国、日本和英国在1月份增持美债",
           "url": "https://flash.jin10.com/detail/20260319041245843800",
           "source": "金十数据",
@@ -921,17 +991,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "两年期美债收益率涨约10个基点，投资者关注美联储政策利率的前景和国际油价",
-          "url": "https://wallstreetcn.com/livenews/3072705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
           "title": "美联储3月决议声明发布前，美元指数涨0.25%，暂报99.818点。 美国10年期国债收益率维持2.3个基点的涨幅，持稳于4.22%上方；两年期美债收益率涨3.8个基点，持稳于3.7%上方。 现货黄金跌2.3%，持稳于4900美元下方。",
           "url": "https://wallstreetcn.com/livenews/3072606",
           "source": "华尔街见闻-快讯",
@@ -941,6 +1000,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
+          "url": "https://flash.jin10.com/detail/20260319065232382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
+          "url": "https://wallstreetcn.com/livenews/3072659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
@@ -956,25 +1043,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
-          "url": "https://wallstreetcn.com/livenews/3072659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时39分]"
         }
       ]
     }

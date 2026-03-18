@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T15:15:19.583205+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-03-18T17:02:21.513977+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 17时02分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，现货黄金跌0.02%，报5005.01美元/盎司，日内交投于5044.56-4973.81美元。 COMEX黄金期货涨0.12%，报5008.30美元/盎司。",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "微博第四季度净营收4.733亿美元，预估4.439亿美元； 第四季度调整后每股收益0.25美元，预估0.32美元。",
+          "url": "https://wallstreetcn.com/livenews/3072297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "WTI原油期货跌幅扩大至2%，报93.62美元/桶。",
@@ -124,6 +136,18 @@
           "time_info": "[05时49分 ~ 06时43分]"
         },
         {
+          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
+          "url": "https://wallstreetcn.com/articles/3767802",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时02分]"
+        },
+        {
           "title": "周二（3月17日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8830元，较周一纽约尾盘涨60点，日内整体交投于6.8944-6.8797元区间。",
           "url": "https://wallstreetcn.com/livenews/3071911",
           "source": "华尔街见闻-快讯",
@@ -172,6 +196,17 @@
           "time_info": "[06时43分 ~ 07时41分]"
         },
         {
+          "title": "“芯”潮澎湃！美光市值首次突破5000亿美元 明早财报有何期待？",
+          "url": "https://www.cls.cn/detail/2316465",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
           "title": "金价继续持稳于5000美元整数位心理关口附近",
           "url": "https://wallstreetcn.com/livenews/3071903",
           "source": "华尔街见闻-快讯",
@@ -201,20 +236,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
         {
-          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
-          "url": "https://wallstreetcn.com/articles/3767802",
-          "source": "华尔街见闻",
+          "title": "腾讯控股(00700.HK)：受益于长青游戏的持续增长及内容驱动游戏的快速扩张，我们的国际市场游戏年收入突破100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318163317291800",
+          "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "17时02分"
         },
         {
           "title": "摩根大通把哔哩哔哩评级从中性上调至超配，目标价从27美元上调至35美元。",
@@ -237,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "欧元兑美元跌幅扩大至0.2%报1.1518，触及日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3072275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "英伟达CEO黄仁勋：1万亿美元+的收入预期具有强烈的“能见度”。 这样的预期还仅仅包含了Blackwell和Rubin芯片。 这个预期还不包括即将发布的新品，也不包括新增的地区和市场。 希望预定和发货等业务规模将超过1万亿美元。 1万亿美元这个目标将继续膨胀。 季度预期可以超过（市场）预期。 客户希望确保自己能获得（充足的）供应。",
@@ -272,6 +318,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "在岸人民币兑美元3月18日16:30收盘报6.8762，较上一交易日上涨115点。",
+          "url": "https://flash.jin10.com/detail/20260318163137308800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "达飞海运：更新所有区域内航线附加费标准，干货箱130美元/TEU，冷藏箱155美元/TEU。",
           "url": "https://flash.jin10.com/detail/20260318050330916800",
           "source": "金十数据",
@@ -281,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "前沿生物：收到与葛兰素史克签署的授权许可协议4000万美元首付款",
+          "url": "https://flash.jin10.com/detail/20260318163119051800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美国参议员桑德斯：伊朗战争已经花费了228亿美元。用这228亿美元，我们可以为680万儿童提供医疗补助/建造260万个公共住房单位/为130万儿童提供早期教育项目/雇佣24万名教师/为100万借款人取消2万美元的学生债务。",
@@ -377,7 +445,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -465,7 +533,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -484,7 +552,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -494,11 +562,12 @@
             5,
             8,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时15分 ~ 15时15分]"
+          "appearance_count": 13,
+          "time_info": "[01时15分 ~ 17时02分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -543,18 +612,6 @@
           "time_info": "[01时15分 ~ 07时41分]"
         },
         {
-          "title": "男二以下 AI演员",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 15时15分]"
-        },
-        {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
           "url": "https://www.cls.cn/detail/2315814",
           "source": "财联社热门",
@@ -567,6 +624,33 @@
           "time_info": "[01时15分 ~ 07时41分]"
         },
         {
+          "title": "男二以下 AI演员",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时02分]"
+        },
+        {
+          "title": "官方辟谣“AI安全治理3年计划”",
+          "url": "https://www.douyin.com/hot/2434741",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 17时02分]"
+        },
+        {
           "title": "金蝶徐少春：AI转型是生死之战",
           "url": "https://wallstreetcn.com/livenews/3072128",
           "source": "华尔街见闻-快讯",
@@ -576,6 +660,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "腾讯：2025年第四季资本开支付款224亿元 主要用于支持AI业务发展",
+          "url": "https://wallstreetcn.com/livenews/3072288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时02分]"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划系谣言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时02分]"
         },
         {
           "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
@@ -590,18 +707,6 @@
           "time_info": "[06时43分 ~ 07时41分]"
         },
         {
-          "title": "官方辟谣“AI安全治理3年计划”",
-          "url": "https://www.douyin.com/hot/2434741",
-          "source": "抖音",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 15时15分]"
-        },
-        {
           "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
           "url": "https://flash.jin10.com/detail/20260318052306073800",
           "source": "金十数据",
@@ -614,17 +719,6 @@
           "time_info": "[05时49分 ~ 06时43分]"
         },
         {
-          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 15时15分]"
-        },
-        {
           "title": "七部门发AI安全治理3年计划？谣言",
           "url": "https://www.toutiao.com/trending/7618388030847700530/",
           "source": "今日头条",
@@ -632,19 +726,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 17时02分]"
         },
         {
-          "title": "七部门发AI安全治理3年计划系谣言",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
+          "source": "知乎",
           "ranks": [
-            11
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时56分 ~ 15时15分]"
+          "time_info": "[15时15分 ~ 17时02分]"
+        },
+        {
+          "title": "网传“男二以下用AI演员” 于正发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时02分]"
         },
         {
           "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
@@ -658,6 +765,17 @@
           "time_info": "[06时43分 ~ 07时41分]"
         },
         {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3071904",
           "source": "华尔街见闻-快讯",
@@ -668,6 +786,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时43分]"
+        },
+        {
+          "title": "耀客签约AI演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%80%E5%AE%A2%E7%AD%BE%E7%BA%A6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "为何游戏大厂都在聊AI",
@@ -699,7 +829,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -726,15 +856,26 @@
           "time_info": "13时05分"
         },
         {
-          "title": "网传“男二以下用AI演员” 于正发声",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
+          "title": "腾讯控股(00700.HK)：2025年销售及市场推广开支同比增长15%至人民币417亿元，反映为支持我们的AI原生应用程序及游戏的发展而加大推广力度。",
+          "url": "https://flash.jin10.com/detail/20260318163436457800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "腾讯控股(00700.HK)：腾讯云实现规模化盈利，受益于企业AI需求的上升，领先市场的PaaS及SaaS产品贡献的增长，以及供应链的优化。",
+          "url": "https://flash.jin10.com/detail/20260318163353614800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "17时02分"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -770,15 +911,15 @@
           "time_info": "13时05分"
         },
         {
-          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
-          "url": "https://www.zhihu.com/question/2017541603019940502",
-          "source": "知乎",
+          "title": "腾讯控股(00700.HK)：我们通过在游戏中部署AI，加速了内容制作，改善了用户体验并提升了我们的营销效益。",
+          "url": "https://flash.jin10.com/detail/20260318163333282800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "17时02分"
         },
         {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
@@ -801,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "腾讯：AI能力提升推动了游戏的用户参与度",
+          "url": "https://wallstreetcn.com/livenews/3072278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
@@ -908,7 +1060,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
@@ -916,7 +1068,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "金十图示：2026年03月18日（周三）全球股市指数-欧洲市场",
@@ -1016,7 +1168,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -1126,7 +1278,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -1181,7 +1333,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -1192,7 +1344,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -1252,6 +1404,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.61%，恒生科技指数收涨0.01%",
+          "url": "https://wallstreetcn.com/livenews/3072254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "上证指数开盘报4053.31点，涨0.08%。 深证成指开盘报14108.92点，涨0.49%。 创业板指开盘报3307.82点，涨0.85%。 沪深300开盘报4648.75点，涨0.24%。 科创50开盘报1363.54点，涨0.69%。 中证500开盘报8044.92点，涨0.36%。 中证1000开盘报8050.71点，涨0.38%。",
           "url": "https://wallstreetcn.com/livenews/3072016",
           "source": "华尔街见闻-快讯",
@@ -1266,7 +1429,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "进口头孢西力欣价格暴涨52倍",
@@ -1282,6 +1445,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时15分 ~ 07时41分]"
+        },
+        {
+          "title": "化工巨头巴斯夫：自3月18日起，欧洲所有家居护理、工业与机构清洁以及工业配方产品价格将上涨，涨幅最高达30%或以上。",
+          "url": "https://wallstreetcn.com/livenews/3072291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "国内金饰价格基本持稳",
@@ -1346,7 +1531,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -1452,49 +1637,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时43分]"
-        },
-        {
-          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时40分 ~ 15时15分]"
-        },
-        {
-          "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
-          "url": "https://wallstreetcn.com/livenews/3071908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -1528,6 +1672,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "裕信银行CEO：人工智能未来五年可能将成本降低多达5亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3072259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时40分 ~ 17时02分]"
+        },
+        {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 06时43分]"
+        },
+        {
+          "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
+          "url": "https://wallstreetcn.com/livenews/3071908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时43分]"
         }
       ]
     },
@@ -1542,7 +1738,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -1553,7 +1749,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -1564,7 +1760,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
@@ -1580,11 +1776,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 15时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时02分]"
         }
       ]
     },
@@ -1602,8 +1799,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 15时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时02分]"
         }
       ]
     }

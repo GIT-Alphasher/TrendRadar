@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T16:56:32.878299+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-03-19T17:57:19.793940+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时38分 ~ 16时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 17时57分]"
         },
         {
           "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时51分 ~ 16时56分]"
+          "appearance_count": 9,
+          "time_info": "[06时51分 ~ 17时57分]"
         },
         {
           "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
@@ -92,6 +92,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "蚂蚁集团第三财季为阿里巴巴贡献5600万美元利润。",
+          "url": "https://wallstreetcn.com/livenews/3073168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "市场消息：印度为提振卢比而净抛售远期美元的规模接近1000亿美元。",
           "url": "https://flash.jin10.com/detail/20260319123515796800",
           "source": "金十数据",
@@ -114,24 +125,13 @@
           "time_info": "15时10分"
         },
         {
-          "title": "现货黄金跌破4700美元/盎司，日内下跌2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3073133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
           "title": "现货白银失守70美元关口，为2月6日以来新低，日内跌7.14%。",
           "url": "https://flash.jin10.com/detail/20260319164522463800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -158,6 +158,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时44分]"
+        },
+        {
+          "title": "现货黄金跌破4700美元/盎司，日内下跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3073133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时57分]"
+        },
+        {
+          "title": "油价“破百”背后 另一场风暴是美元“破百”？",
+          "url": "https://www.cls.cn/detail/2317749",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 17时57分]"
+        },
+        {
+          "title": "石油美元黄金到底是什么关系",
+          "url": "https://www.douyin.com/hot/2436064",
+          "source": "抖音",
+          "ranks": [
+            25,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 17时57分]"
         },
         {
           "title": "WTI原油站上100美元/桶，日内涨4.44%。",
@@ -196,6 +233,18 @@
           "time_info": "[05时44分 ~ 06时52分]"
         },
         {
+          "title": "现货白银向下触及71美元/盎司，日内跌超5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3073127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时57分]"
+        },
+        {
           "title": "现货白银向下触及75美元/盎司，日内跌5.31%。",
           "url": "https://flash.jin10.com/detail/20260319043154673800",
           "source": "金十数据",
@@ -206,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时44分]"
-        },
-        {
-          "title": "油价“破百”背后 另一场风暴是美元“破百”？",
-          "url": "https://www.cls.cn/detail/2317749",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 16时56分]"
         },
         {
           "title": "美光科技第二财季云存储营收77.5亿美元，核心数据中心营收56.9亿美元。第二财季营收238.6亿美元，分析师预期197.4亿美元。",
@@ -267,18 +305,6 @@
           "time_info": "[06时52分 ~ 07时39分]"
         },
         {
-          "title": "石油美元黄金到底是什么关系",
-          "url": "https://www.douyin.com/hot/2436064",
-          "source": "抖音",
-          "ranks": [
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 16时56分]"
-        },
-        {
           "title": "美国1月国际资本净流入 -250.22亿美元，前值 449亿美元。",
           "url": "https://wallstreetcn.com/livenews/3072673",
           "source": "华尔街见闻-快讯",
@@ -324,17 +350,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
-        },
-        {
-          "title": "现货白银向下触及71美元/盎司，日内跌超5.7%。",
-          "url": "https://wallstreetcn.com/livenews/3073127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
         },
         {
           "title": "WTI原油日内跌幅达3.00%，现报96.58美元/桶。",
@@ -409,7 +424,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -442,7 +457,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -486,7 +501,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -541,7 +556,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -574,7 +589,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -651,7 +666,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -681,7 +696,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -709,8 +724,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时13分 ~ 16时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时13分 ~ 17时57分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -721,11 +736,12 @@
             6,
             5,
             24,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 16时56分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 17时57分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -752,11 +768,12 @@
             8,
             19,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时51分 ~ 16时56分]"
+          "appearance_count": 12,
+          "time_info": "[04时51分 ~ 17时57分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -803,9 +820,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时57分]"
+        },
+        {
+          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
+          "url": "https://www.zhihu.com/question/2017531069054869898",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时57分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时57分]"
         },
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -819,17 +859,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
-          "url": "https://www.zhihu.com/question/2017531069054869898",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
           "title": "被黑产投毒的AI还可信吗",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
           "source": "bilibili 热搜",
@@ -841,17 +870,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
           "title": "小米推出三款自研大模型，雷军称今年在AI领域将投入超160亿",
           "url": "https://wallstreetcn.com/livenews/3072874",
           "source": "华尔街见闻-快讯",
@@ -861,6 +879,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 17时57分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -890,19 +922,6 @@
           "time_info": "[10时57分 ~ 15时10分]"
         },
         {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 16时56分]"
-        },
-        {
           "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
           "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
           "source": "澎湃新闻",
@@ -914,6 +933,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时57分 ~ 16时56分]"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 17时57分]"
         },
         {
           "title": "AI成家电标配，头部企业竞逐主动智能赛道",
@@ -940,16 +972,27 @@
           "time_info": "[04时51分 ~ 05时44分]"
         },
         {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
+          "title": "AI观众 AI粉丝 AI打分",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
             13,
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时10分 ~ 16时56分]"
+          "time_info": "[16时56分 ~ 17时57分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时57分]"
         },
         {
           "title": "日本自研AI被扒底层全是中国代码",
@@ -985,15 +1028,15 @@
           "time_info": "10时57分"
         },
         {
-          "title": "AI观众 AI粉丝 AI打分",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "阿里巴巴：AI相关产品收入保持强劲势头 实现连续第十个季度的三位数同比增长",
+          "url": "https://flash.jin10.com/detail/20260319174043329800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "17时57分"
         },
         {
           "title": "集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现",
@@ -1029,15 +1072,15 @@
           "time_info": "15时10分"
         },
         {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "阿里巴巴(09988.HK)：截至2025年12月31日止季度，AIDC亏损同比大幅收窄，主要由物流优化和投入效率共同提升所 致。速卖通Choice业务的单位经济效益环比持续改善。",
+          "url": "https://flash.jin10.com/detail/20260319173934476800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "17时57分"
         },
         {
           "title": "微短剧专业学生制作AI漫剧1分钟100元",
@@ -1049,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "阿里巴巴 ：即时零售规模扩大 AIDC持续提升效率",
+          "url": "https://flash.jin10.com/detail/20260319173846470800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元",
@@ -1084,6 +1138,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "阿里巴巴(09988.HK)：新成立的悟空事业部进一步将AI战略延伸至企业层面，将前沿模型能力直接融入工作流程之中，把阿里巴巴在MaaS的领先优势，转化为客户可量化的运营效率提升。",
+          "url": "https://flash.jin10.com/detail/20260319173757683800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "XR研究院：千问AI眼镜开售首周线上份额超70%",
           "url": "https://wallstreetcn.com/livenews/3072898",
           "source": "华尔街见闻-快讯",
@@ -1093,12 +1158,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)吴泳铭：千问app与阿里消费生态各应用场景加速融合，显著带动新用户增长和交易活跃度。未来，依托大模型+云+芯片全栈AI能力，以及与阿里商业生态的全面融合，我们将继续在AI to B和to C方向齐发力。",
+          "url": "https://flash.jin10.com/detail/20260319173729011800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：阿里云收入同比加速增长36%；C端旗舰AI应用千问app实现真实世界大规模办事能力，千问C端应用月活跃用户数突破3亿。",
+          "url": "https://flash.jin10.com/detail/20260319173700429800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "标普500指数的11个板块全线溃败，日用消费品板块收跌2.44%，可选消费板块跌2.32%，原材料板块跌2.25%，信息技术/科技板块跌1.24%跌幅居中，能源板块跌0.16%“领跑”。",
@@ -1246,6 +1333,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "印度Nifty 50指数因油价飙升和HDFC银行抛售下跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3073150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "3 月 19 日三大指数集体低开，有色金属、算力硬件、存储芯片等板块指数跌幅居前，如何看待今日行情？",
           "url": "https://www.zhihu.com/question/2017898437954281589",
           "source": "知乎",
@@ -1307,7 +1405,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1373,7 +1471,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1392,7 +1490,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "黄金价格下跌 普通人能入手吗",
@@ -1406,17 +1504,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时15分 ~ 07时39分]"
-        },
-        {
-          "title": "蓝莓价格大跳水了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 16时56分]"
         },
         {
           "title": "迪拜原油价格攻破150美元",
@@ -1436,7 +1523,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1494,6 +1581,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "蓝莓价格大跳水了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 17时57分]"
         },
         {
           "title": "沙特、卡塔尔能源设施遇袭 布伦特原油价格涨近4% | 环球市场",
@@ -1565,6 +1664,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "随着能源价格飙升，欧洲斯托克600指数跌幅扩大至2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3073154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "金十期货3月19日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌2050元/吨，中间价报152150元/吨。",
           "url": "https://flash.jin10.com/detail/20260319103228131800",
           "source": "金十数据",
@@ -1604,7 +1714,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1615,7 +1725,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1645,7 +1755,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -1743,6 +1853,17 @@
           "time_info": "[04时51分 ~ 05时44分]"
         },
         {
+          "title": "阿里巴巴第三财季营收2,848.4亿元人民币，同比增长1.7%，市场预估2,897.9亿元人民币。 第三财季调整后净利润167.1亿元人民币，同比下降67%，市场预估316亿元人民币。 第三财季云智能集团收入432.8亿元人民币，同比增长36%，市场预估423.6亿元人民币。 第三财季调整后每ADS收益7.09元人民币，上年同期21.39元人民币，市场预估12.34元人民币。 阿里巴巴美股盘前下跌3.7%，第三季度营收未达预期。",
+          "url": "https://wallstreetcn.com/livenews/3073158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260319040554331800",
           "source": "金十数据",
@@ -1793,7 +1914,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         }
@@ -1883,11 +2004,12 @@
           "ranks": [
             14,
             13,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 16时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 17时57分]"
         },
         {
           "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
@@ -1907,7 +2029,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1935,11 +2057,12 @@
           "ranks": [
             4,
             5,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 16时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 17时57分]"
         },
         {
           "title": "小米连发3款大模型",
@@ -1948,9 +2071,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时57分]"
         },
         {
           "title": "小米大模型",

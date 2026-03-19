@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-19T15:10:51.046473+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-03-19T16:56:32.878299+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 50,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时38分 ~ 16时56分]"
+        },
         {
           "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
           "url": "https://wallstreetcn.com/articles/3767802",
@@ -21,16 +33,17 @@
           "time_info": "[01时13分 ~ 10时57分]"
         },
         {
-          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
-          "url": "https://wallstreetcn.com/articles/3767807",
+          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
+          "url": "https://wallstreetcn.com/articles/3767848",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            1
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 15时10分]"
+          "appearance_count": 8,
+          "time_info": "[06时51分 ~ 16时56分]"
         },
         {
           "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
@@ -44,19 +57,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时51分 ~ 10时57分]"
-        },
-        {
-          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
-          "url": "https://wallstreetcn.com/articles/3767848",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时51分 ~ 15时10分]"
         },
         {
           "title": "据《华盛顿邮报》：五角大楼寻求超过2000亿美元的预算请求，用于对伊战争。",
@@ -109,9 +109,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "现货黄金跌破4700美元/盎司，日内下跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3073133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "现货白银失守70美元关口，为2月6日以来新低，日内跌7.14%。",
+          "url": "https://flash.jin10.com/detail/20260319164522463800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "纽约银日内跌幅达6.0%，报75.09美元/盎司。",
@@ -186,6 +208,17 @@
           "time_info": "[04时51分 ~ 05时44分]"
         },
         {
+          "title": "油价“破百”背后 另一场风暴是美元“破百”？",
+          "url": "https://www.cls.cn/detail/2317749",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时56分]"
+        },
+        {
           "title": "美光科技第二财季云存储营收77.5亿美元，核心数据中心营收56.9亿美元。第二财季营收238.6亿美元，分析师预期197.4亿美元。",
           "url": "https://wallstreetcn.com/livenews/3072675",
           "source": "华尔街见闻-快讯",
@@ -234,6 +267,18 @@
           "time_info": "[06时52分 ~ 07时39分]"
         },
         {
+          "title": "石油美元黄金到底是什么关系",
+          "url": "https://www.douyin.com/hot/2436064",
+          "source": "抖音",
+          "ranks": [
+            25,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时56分]"
+        },
+        {
           "title": "美国1月国际资本净流入 -250.22亿美元，前值 449亿美元。",
           "url": "https://wallstreetcn.com/livenews/3072673",
           "source": "华尔街见闻-快讯",
@@ -276,9 +321,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "现货白银向下触及71美元/盎司，日内跌超5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3073127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "WTI原油日内跌幅达3.00%，现报96.58美元/桶。",
@@ -298,7 +354,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -320,7 +376,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -347,6 +403,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "现货黄金向下触及4690美元/盎司，日内跌2.67%。",
+          "url": "https://flash.jin10.com/detail/20260319164346304800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "WTI 4月原油期货收涨0.11美元，涨幅0.11%，报96.32美元/桶。 布伦特5月原油期货收涨3.96美元，涨幅3.83%，报107.38美元/桶。 NYMEX 4月天然气期货收报3.0650美元/百万英热单位。 NYMEX 4月汽油期货收报3.0985美元/加仑，NYMEX 3月取暖油期货收报4.1978美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3072627",
           "source": "华尔街见闻-快讯",
@@ -364,20 +431,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
         {
-          "title": "油价“破百”背后 另一场风暴是美元“破百”？",
-          "url": "https://www.cls.cn/detail/2317749",
-          "source": "财联社热门",
+          "title": "高通CEO安蒙：2030年高通潜在市场规模9000亿美元",
+          "url": "https://flash.jin10.com/detail/20260319164158428800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "16时56分"
         },
         {
           "title": "一周烧掉110亿美元！五角大楼抛出惊天账单：对付伊朗还要2000亿",
@@ -413,6 +480,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "布伦特原油突破111美元/桶，日内涨3.55%。",
+          "url": "https://flash.jin10.com/detail/20260319163948476800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "布伦特原油日内暴涨6.00%，现报106.87美元/桶。",
           "url": "https://flash.jin10.com/detail/20260319041234424800",
           "source": "金十数据",
@@ -441,7 +519,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -452,9 +530,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "美元兑日元日内下跌0.5%，报159.09。",
+          "url": "https://wallstreetcn.com/livenews/3073109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "菲律宾比索兑美元一度下跌1.1%，跌至历史新低，报60.306。",
@@ -477,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "现货钯金下跌3%，至每盎司1,429.74美元。",
+          "url": "https://flash.jin10.com/detail/20260319163640584800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "美元指数DXY在美联储决议日站上100，日内涨0.44%。",
@@ -523,17 +623,6 @@
           "time_info": "10时57分"
         },
         {
-          "title": "石油美元黄金到底是什么关系",
-          "url": "https://www.douyin.com/hot/2436064",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
           "title": "美光科技(MU.O)第二季度核心数据中心业务营收56.9亿美元。",
           "url": "https://flash.jin10.com/detail/20260319040513684800",
           "source": "金十数据",
@@ -556,6 +645,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "现货黄金日内跌幅达2.0%，报4716.11美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3073097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "LME期铜收跌380美元，报12396美元/吨。 LME期铝收平，报3400美元/吨。 LME期锌收跌94美元，报3134美元/吨。 LME期铅收跌16美元，报1914美元/吨。 LME期镍收跌44美元，报17151美元/吨。 LME期锡收跌1662美元，报45063美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3072607",
           "source": "华尔街见闻-快讯",
@@ -573,7 +673,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         }
@@ -581,7 +681,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -609,8 +709,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 15时10分]"
+          "appearance_count": 13,
+          "time_info": "[01时13分 ~ 16时56分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -620,11 +720,12 @@
             7,
             6,
             5,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 15时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时13分 ~ 16时56分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -650,11 +751,12 @@
             12,
             8,
             19,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时51分 ~ 15时10分]"
+          "appearance_count": 11,
+          "time_info": "[04时51分 ~ 16时56分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -695,6 +797,17 @@
           "time_info": "[01时13分 ~ 06时52分]"
         },
         {
+          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
+          "url": "https://www.cls.cn/detail/2317944",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
           "url": "https://flash.jin10.com/detail/20260319005023876800",
           "source": "金十数据",
@@ -706,6 +819,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
+          "url": "https://www.zhihu.com/question/2017531069054869898",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "被黑产投毒的AI还可信吗",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
           "source": "bilibili 热搜",
@@ -715,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "小米推出三款自研大模型，雷军称今年在AI领域将投入超160亿",
@@ -764,8 +899,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 16时56分]"
         },
         {
           "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
@@ -777,8 +912,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 16时56分]"
         },
         {
           "title": "AI成家电标配，头部企业竞逐主动智能赛道",
@@ -803,6 +938,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时44分]"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时56分]"
         },
         {
           "title": "日本自研AI被扒底层全是中国代码",
@@ -838,15 +985,15 @@
           "time_info": "10时57分"
         },
         {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
+          "title": "AI观众 AI粉丝 AI打分",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "16时56分"
         },
         {
           "title": "集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现",
@@ -855,7 +1002,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -877,9 +1024,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "微短剧专业学生制作AI漫剧1分钟100元",
@@ -899,7 +1057,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -910,7 +1068,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -940,7 +1098,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "标普500指数的11个板块全线溃败，日用消费品板块收跌2.44%，可选消费板块跌2.32%，原材料板块跌2.25%，信息技术/科技板块跌1.24%跌幅居中，能源板块跌0.16%“领跑”。",
@@ -1094,7 +1252,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1105,7 +1263,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1138,9 +1296,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "德国DAX指数回落至23000点下方，日内跌2.25%。",
+          "url": "https://flash.jin10.com/detail/20260319163921206800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "美联储决议声明发布日，标普500指数初步收跌1.3%，可选消费、日用消费品板块跌超2.3%，原材料板块跌2.1%，金融、科技、电信板块至少跌1.1%，能源板块微跌不足0.1%“表现最佳”。 纳斯达克100指数初步收跌1.4%，成分股中，Strategy跌6.1%，特许通讯跌5.9%，星巴克跌5%，康卡斯特等跌超4%，天然气供应商Diamondback Energy涨1.5%，AMD涨1.7%，Datadog涨2%，英特尔涨2.4%，核电股CEG涨3.3%。 道指初步收跌超700点，成分股麦当劳、家得宝、宝洁、Visa、耐克至多跌3.3%领跌，摩根大通、雪佛龙至多涨0.4%。",
@@ -1198,6 +1367,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "港股收盘：恒生指数收跌2.02%，恒生科技指数收跌2.19%，南向资金净买入超250亿港元。AI应用、有色金属等板块全线下跌，腾讯控股收跌超6%；小米逆势涨超3%，小米推出三款自研大模型，雷军称今年在AI领域将投入超160亿。",
+          "url": "https://wallstreetcn.com/livenews/3073099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.62%，报2129.82点。",
           "url": "https://wallstreetcn.com/livenews/3072564",
           "source": "华尔街见闻-快讯",
@@ -1212,7 +1392,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "黄金价格下跌 普通人能入手吗",
@@ -1228,6 +1408,17 @@
           "time_info": "[03时15分 ~ 07时39分]"
         },
         {
+          "title": "蓝莓价格大跳水了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时56分]"
+        },
+        {
           "title": "迪拜原油价格攻破150美元",
           "url": "https://www.toutiao.com/trending/7618064062336876563/",
           "source": "今日头条",
@@ -1239,13 +1430,24 @@
           "time_info": "01时13分"
         },
         {
+          "title": "荷兰国际银行：高能源成本带来的通胀影响正在打压黄金价格",
+          "url": "https://flash.jin10.com/detail/20260319164950014800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "日本央行行长植田和男：全球经济前景受中东冲突持续时间影响。 还需关注物流影响、供应链约束及消费者心态。 将在4月会议重新审视对价格的核心观点。 我个人希望有更多时间来判断中东因素对价格是上行还是下行影响。 4月会议的最大看点将是物价中位数展望是否发生变化。 如果存在足够大的风险，我们可能会在政策制定时更加重视该风险。 将在4月短观报告发布后说明该报告是否充分反映了中东冲突的影响。",
           "url": "https://wallstreetcn.com/livenews/3073009",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1278,18 +1480,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "蓝莓价格大跳水了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1391,7 +1582,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1405,6 +1596,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "受欧洲天然气价格上涨影响，欧洲斯托克600指数下跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3073103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "瑞士央行：受能源价格上涨影响，未来几个季度的通胀预测上调。",
+          "url": "https://flash.jin10.com/detail/20260319163557472800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "当老公得知宝宝鞋子的价格",
@@ -1432,7 +1645,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -1572,6 +1785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "恒生指数公司：推出六条新指数，包含恒生港美超大型股指数、恒生港美大型股指数、恒生科技美股人工智能指数、恒生科技美股汽车指数、恒生港美机器人主题指数、恒生亚洲精选新经济指数。",
+          "url": "https://wallstreetcn.com/livenews/3073096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
@@ -1650,7 +1874,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
@@ -1662,8 +1886,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 16时56分]"
         },
         {
           "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
@@ -1675,6 +1899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
+          "url": "https://wallstreetcn.com/livenews/3073119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -1691,7 +1926,7 @@
     },
     {
       "keyword_group": "大模型",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米上线三款自研大模型",
@@ -1699,11 +1934,23 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时10分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时56分]"
+        },
+        {
+          "title": "小米连发3款大模型",
+          "url": "https://www.douyin.com/hot/2436060",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "小米大模型",

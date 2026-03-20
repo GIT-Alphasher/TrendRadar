@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T15:10:51.344231+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-03-20T16:54:52.941681+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
@@ -43,8 +43,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 15时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 16时54分]"
         },
         {
           "title": "黄金跌破 4600 美元，白银跌破 70 美元，比特币跌破 70000 美元，如何看待当下行情？",
@@ -62,6 +62,19 @@
           "time_info": "[01时57分 ~ 07时39分]"
         },
         {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时39分 ~ 16时54分]"
+        },
+        {
           "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
           "url": "https://www.zhihu.com/question/2017913786695186154",
           "source": "知乎",
@@ -74,18 +87,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时04分 ~ 07时39分]"
-        },
-        {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时39分 ~ 15时10分]"
         },
         {
           "title": "WTI原油日内涨超1.00%，现报100.65美元/桶。",
@@ -387,7 +388,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -401,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "特朗普说追加2000亿美元军费只是小代价",
+          "url": "https://wallstreetcn.com/livenews/3073946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "美国给中东三国补充损耗 批准165亿美元军售",
@@ -513,6 +525,17 @@
           "time_info": "06时39分"
         },
         {
+          "title": "来自沙特的推演！若供应中断持续到4月下旬 油价将飙破180美元",
+          "url": "https://www.cls.cn/detail/2319144",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：截至3月18日的一周，货币市场基金资产增加了386.8亿美元，达到了7.86万亿美元。",
           "url": "https://flash.jin10.com/detail/20260320035831178800",
           "source": "金十数据",
@@ -533,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "在岸人民币兑美元3月20日16:30收盘报6.8817，较上一交易日上涨196点。",
+          "url": "https://flash.jin10.com/detail/20260320163127434800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "国际油价回吐涨幅，WTI原油期货跌穿6美元。",
@@ -673,7 +707,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -747,7 +781,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "金十图示：2026年03月20日（周五）亚太市场股市指数（盘初）",
@@ -885,7 +919,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -907,7 +941,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1022,6 +1056,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "港股收盘：恒生科技指数跌2.48%，小米集团跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3073930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "恒指、恒生科技指数双双转涨。地平线机器人涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3073693",
           "source": "华尔街见闻-快讯",
@@ -1061,7 +1106,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1124,8 +1169,20 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 16时54分]"
+        },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
@@ -1137,17 +1194,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 10时49分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 15时10分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -1177,11 +1223,12 @@
             11,
             12,
             15,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 15时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 16时54分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -1350,6 +1397,28 @@
           "time_info": "01时57分"
         },
         {
+          "title": "曝AI短剧使用杨紫的脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "阿里妈妈发布“AI万相”，多智能体协同重构经营新范式",
+          "url": "https://flash.jin10.com/detail/20260320162945026800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "Cursor将面向软件开发领域发布一款更加有效的AI模型Composer 2。",
           "url": "https://wallstreetcn.com/livenews/3073450",
           "source": "华尔街见闻-快讯",
@@ -1416,13 +1485,24 @@
           "time_info": "07时39分"
         },
         {
+          "title": "上万条大厂春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "沪指尾盘跌幅扩大至1%，深成指涨0.06%，创业板指涨1.61%，算力租赁、AI应用、油气、多元金融等方向跌幅居前，沪深京三市下跌个股近4700只。",
           "url": "https://wallstreetcn.com/livenews/3073839",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         }
@@ -1430,7 +1510,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何看待内存条价格崩了？",
@@ -1438,11 +1518,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 15时10分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 16时54分]"
         },
         {
           "title": "伊朗称美军F35被击中后或坠毁 国际贵金属价格暴跌 | 环球市场",
@@ -1464,11 +1545,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 16时54分]"
         },
         {
           "title": "WTI原油期货价格涨幅扩大，突破100美元/桶。 据Politico报道，一名美国官员在会见石油行业高管们时宣称，美国不会实施原油出口禁令。",
@@ -1544,7 +1626,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1566,7 +1648,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1580,6 +1662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "俄总统特别代表：欧盟面临能源价格“海啸”",
+          "url": "https://wallstreetcn.com/livenews/3073927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "欧洲央行：预计2026年石油价格为81.3美元/桶，2027年料为72.1美元/桶，2028年料为70.2美元/桶。 在恶劣假设场景中，预计2026年通胀率将高出0.9个百分点，2027年将高出0.1个百分点。 在恶劣假设场景中，预计2026年调和CPI（HICP）将为1.8%，2027年将为2.8%。 在恶劣假设场景中，预计2027年一季度通胀将达到6.3%见顶。",
@@ -1599,7 +1692,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         }
@@ -1607,7 +1700,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -1747,13 +1840,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美国锑美股盘前涨超8%，公司第四季度业绩超出市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3073925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "超微电脑美股盘前跌超20%。",
+          "url": "https://wallstreetcn.com/livenews/3073923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
         {
           "title": "据Punchbowl：白宫计划发布人工智能监管框架。",
           "url": "https://flash.jin10.com/detail/20260320052330041800",
@@ -1810,11 +1936,12 @@
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 15时10分]"
+          "appearance_count": 7,
+          "time_info": "[10时48分 ~ 16时54分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",

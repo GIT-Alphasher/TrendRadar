@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T10:42:24.102817+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-03-21T12:45:26.549349+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 10时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 12时45分]"
         },
         {
           "title": "美国能源部：日本已承诺在美国各地投资5500亿美元。",
@@ -81,11 +81,12 @@
           "ranks": [
             2,
             11,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时39分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[06时39分 ~ 12时45分]"
         },
         {
           "title": "周五（3月20日），美联储隔夜逆回购协议（RRP）使用规模为8.22亿美元（交易对手5家），上个交易日报6.37亿美元。",
@@ -183,6 +184,18 @@
           "time_info": "[05时39分 ~ 06时39分]"
         },
         {
+          "title": "金价跌破4500美元 有人抄底后傻眼",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83+%E6%9C%89%E4%BA%BA%E6%8A%84%E5%BA%95%E5%90%8E%E5%82%BB%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 12时45分]"
+        },
+        {
           "title": "Janus Living Inc.美国IPO首日开盘报23.50美元，此前给出的IPO发行价为每股20美元。",
           "url": "https://wallstreetcn.com/livenews/3074270",
           "source": "华尔街见闻-快讯",
@@ -274,15 +287,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "金价跌破4500美元 有人抄底后傻眼",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83+%E6%9C%89%E4%BA%BA%E6%8A%84%E5%BA%95%E5%90%8E%E5%82%BB%E7%9C%BC",
-          "source": "百度热搜",
+          "title": "黄金失守 4500 美元，白银跌破 68 美元，是短期调整还是趋势终结？会继续下探吗？普通投资者如何应对？",
+          "url": "https://www.zhihu.com/question/2018600177959708307",
+          "source": "知乎",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "12时45分"
         },
         {
           "title": "WTI原油期货日内涨幅扩大至2.00%，现报97.47美元/桶。",
@@ -387,7 +400,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -398,11 +411,12 @@
             8,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 10时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 12时45分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -439,8 +453,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 12时45分]"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时38分 ~ 10时42分]"
+          "time_info": "[10时42分 ~ 12时45分]"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -452,17 +477,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
         },
         {
           "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
@@ -561,13 +575,24 @@
           "time_info": "[07时38分 ~ 10时42分]"
         },
         {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
           "url": "https://wallstreetcn.com/articles/3768039",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -619,7 +644,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "实探涨价后手机市场：价格敏感型消费者犹豫，店员建议“早点入手”",
@@ -633,8 +658,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 10时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 12时45分]"
         },
         {
           "title": "霍尔木兹海峡“锁喉”效应发酵，亚洲乙烯价格暴涨",
@@ -692,17 +717,6 @@
           "time_info": "[01时42分 ~ 10时42分]"
         },
         {
-          "title": "TrendForce 3月面板价格观察：电视和显示器面板价格上涨 笔电面板价格止跌",
-          "url": "https://flash.jin10.com/detail/20260321101701376800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
           "title": "荷兰首相：今天我们在内阁会议上讨论了伊朗冲突的全球影响，特别是急剧上涨的能源价格。我完全可以理解这让人们和企业感到担忧。内阁正在为所有可能的情景做准备，包括必要时可以采取的相关措施。",
           "url": "https://flash.jin10.com/detail/20260321004325433800",
           "source": "金十数据",
@@ -725,6 +739,18 @@
           "time_info": "05时39分"
         },
         {
+          "title": "TrendForce 3月面板价格观察：电视和显示器面板价格上涨 笔电面板价格止跌",
+          "url": "https://flash.jin10.com/detail/20260321101701376800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 12时45分]"
+        },
+        {
           "title": "如何看待内存条价格崩了？",
           "url": "https://www.zhihu.com/question/2017860793417356112",
           "source": "知乎",
@@ -737,6 +763,18 @@
           "time_info": "[03时02分 ~ 07时38分]"
         },
         {
+          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
+          "url": "https://www.cls.cn/detail/2320222",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 12时45分]"
+        },
+        {
           "title": "周五（3月20日），彭博电动汽车价格回报指数跌0.83%，报3481.29点，本周累计下跌2.66%。",
           "url": "https://wallstreetcn.com/livenews/3074332",
           "source": "华尔街见闻-快讯",
@@ -747,6 +785,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时39分]"
+        },
+        {
+          "title": "六氟磷酸锂价格回调，行业进入供需再平衡阶段",
+          "url": "https://wallstreetcn.com/livenews/3074390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 12时45分]"
         },
         {
           "title": "美国能源部长：政府并未讨论实施汽油价格管制",
@@ -772,28 +822,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
-          "url": "https://www.cls.cn/detail/2320222",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "六氟磷酸锂价格回调，行业进入供需再平衡阶段",
-          "url": "https://wallstreetcn.com/livenews/3074390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
           "title": "全球“芯荒”推升消费电子价格 行业专家：电脑、手机或涨20%以上",
           "url": "https://www.cls.cn/detail/2319779",
           "source": "财联社热门",
@@ -803,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "多家品牌金饰价格跌破1400元/克",
+          "url": "https://flash.jin10.com/detail/20260321110033851800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "美国内政部长Burgum：日本希望从美国购买能源。 美国能源供应将持续增长。 能源价格上涨将是暂时性的。 欧盟盟友们并不可靠。",
@@ -1022,7 +1061,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -1042,11 +1081,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 10时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 12时45分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -1058,11 +1098,12 @@
             20,
             18,
             17,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 10时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 12时45分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -1104,8 +1145,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 07时38分]"
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 12时45分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -1134,13 +1175,24 @@
           "time_info": "[01时42分 ~ 03时02分]"
         },
         {
+          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
+          "url": "https://www.zhihu.com/question/2017644548151616976",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "沦为AI素材杨紫尊严何在",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A6%E4%B8%BAAI%E7%B4%A0%E6%9D%90%E6%9D%A8%E7%B4%AB%E5%B0%8A%E4%B8%A5%E4%BD%95%E5%9C%A8%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -1151,7 +1203,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         }
@@ -1216,7 +1268,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -1224,11 +1276,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 10时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 12时45分]"
         },
         {
           "title": "惠誉：将举办关于私募信贷和杠杆贷款中人工智能软件风险的网络研讨会。",
@@ -1240,6 +1293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "Palantir人工智能系统获美国防部关键项目地位",
+          "url": "https://flash.jin10.com/detail/20260321113458071800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     },
@@ -1257,11 +1321,12 @@
             16,
             8,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 10时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 12时45分]"
         }
       ]
     }

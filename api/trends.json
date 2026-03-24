@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T06:42:05.476214+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-03-25T07:41:03.978204+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
@@ -13,11 +13,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时41分]"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至1.00%，现报71.77美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260325071651693800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "委内瑞拉反对派领导人马查多：委内瑞拉需要1500亿美元的能源投资。",
@@ -29,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "现货黄金盘中站上4500美元/盎司，日内涨幅0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3076253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "WTI 5月原油期货收报92.35美元/桶。 NYMEX 4月天然气期货收报2.9430美元/百万英热单位。 NYMEX 4月汽油期货收报3.1480美元/加仑，NYMEX 3月取暖油期货收报4.2909美元/加仑。",
@@ -77,6 +100,18 @@
           "time_info": "[04时53分 ~ 06时42分]"
         },
         {
+          "title": "WTI原油日内涨幅扩大至1.00%，现报89.71美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260325062557366800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时41分]"
+        },
+        {
           "title": "安哥拉在美元债市场融资25亿美元，押注伊朗战争带来的油价上涨行情将刺激投资者对这个产油国债务的需求。",
           "url": "https://wallstreetcn.com/livenews/3076184",
           "source": "华尔街见闻-快讯",
@@ -101,17 +136,6 @@
           "time_info": "[05时48分 ~ 06时42分]"
         },
         {
-          "title": "WTI原油日内涨幅扩大至1.00%，现报89.71美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260325062557366800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3076139",
           "source": "华尔街见闻-快讯",
@@ -129,7 +153,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -195,7 +219,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -206,7 +230,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -264,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
+          "url": "https://flash.jin10.com/detail/20260325064051929800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "OpenAI：介绍OpenAI Foundation的最新情况。 预计未来一年将投资至少10亿美元。 将在未来一个月介绍相关情况。",
@@ -335,7 +370,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -350,6 +385,69 @@
           "time_info": "[01时11分 ~ 06时42分]"
         },
         {
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时41分]"
+        },
+        {
+          "title": "报告称AI将全面取代这六大岗位",
+          "url": "https://www.toutiao.com/trending/7620795844911959606/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时41分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时41分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时41分]"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            22,
+            23,
+            20,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时41分]"
+        },
+        {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
           "url": "https://flash.jin10.com/detail/20260325043011532800",
           "source": "金十数据",
@@ -361,64 +459,15 @@
           "time_info": "04时53分"
         },
         {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
+          "title": "卡塔尔液化天然气田受损后，Airgas化工产品公司限制氦气订单。",
+          "url": "https://flash.jin10.com/detail/20260325071304352800",
+          "source": "金十数据",
           "ranks": [
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时42分]"
-        },
-        {
-          "title": "报告称AI将全面取代这六大岗位",
-          "url": "https://www.toutiao.com/trending/7620795844911959606/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时42分]"
-        },
-        {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时42分]"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时42分]"
-        },
-        {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            22,
-            23,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "Meta任命新负责人领导公司向“AI原生”转型",
@@ -444,6 +493,17 @@
           "time_info": "[04时53分 ~ 05时48分]"
         },
         {
+          "title": "如何看待 Ai 音乐创作这个趋势？",
+          "url": "https://www.zhihu.com/question/1937236067859306429",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时41分 ~ 07时41分]"
+        },
+        {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
           "url": "https://wallstreetcn.com/livenews/3076185",
           "source": "华尔街见闻-快讯",
@@ -456,15 +516,26 @@
           "time_info": "[04时53分 ~ 05时48分]"
         },
         {
-          "title": "如何看待 Ai 音乐创作这个趋势？",
-          "url": "https://www.zhihu.com/question/1937236067859306429",
-          "source": "知乎",
+          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
+          "url": "https://wallstreetcn.com/articles/3768225",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时41分 ~ 06时42分]"
+          "time_info": "[07时40分 ~ 07时41分]"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 07时41分]"
         },
         {
           "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
@@ -495,7 +566,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -544,6 +615,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "Anduril、Palantir向美国总统特朗普提倡的“金穹”反导系统提供软件支持。 这两家公司是“金穹”软件团体的一部分。 谷歌公司参与投资的Aalyria Tech和Scale AI也对此有贡献。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3076237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
           "title": "据华尔街日报：OpenAI也将停止提供面向开发者的Sora版本，并且不会在ChatGPT中支持视频功能。",
           "url": "https://flash.jin10.com/detail/20260325035809155800",
           "source": "金十数据",
@@ -553,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
+          "url": "https://flash.jin10.com/detail/20260325063733355800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
@@ -613,8 +706,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "澳大利亚S&P/ASX200指数3月25日（周三）开盘上涨108.30点，涨幅1.29%，报8487.70点。",
+          "url": "https://flash.jin10.com/detail/20260325071014306800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
         {
           "title": "韩国3月消费者信心指数 107，前值112.1。",
           "url": "https://flash.jin10.com/detail/20260325050002497800",
@@ -626,6 +730,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时42分]"
+        },
+        {
+          "title": "博鳌亚洲论坛发布旗舰报告：今年亚洲多数股票指数预计仍将保持上涨态势",
+          "url": "https://wallstreetcn.com/livenews/3076225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时41分]"
         },
         {
           "title": "金十图示：2026年03月25日（周三）全球股市指数-欧洲市场",
@@ -716,17 +832,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "博鳌亚洲论坛发布旗舰报告：今年亚洲多数股票指数预计仍将保持上涨态势",
-          "url": "https://wallstreetcn.com/livenews/3076225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
           "title": "道琼斯指数3月24日（周二）收盘下跌84.75点，跌幅0.18%，报46123.72点；<br/>标普500指数3月24日（周二）收盘下跌24.63点，跌幅0.37%，报6556.37点；<br/>纳斯达克综合指数3月24日（周二）收盘下跌184.87点，跌幅0.84%，报21761.89点。",
           "url": "https://flash.jin10.com/detail/20260325040308845800",
           "source": "金十数据",
@@ -755,7 +860,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -796,7 +901,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -816,11 +921,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时41分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -832,8 +938,30 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时41分]"
+        },
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 07时41分]"
+        },
+        {
+          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
+          "url": "https://www.cls.cn/detail/2323617",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 07时41分]"
         },
         {
           "title": "非美货币多数在美股盘后走高",
@@ -877,7 +1005,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -932,7 +1060,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -951,7 +1079,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "周二（3月24日）欧市尾盘，ICE英国天然气期货跌6.36%，报134.160便士/千卡。 TTF基准荷兰天然气期货跌5.78%，报52.793欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）涨3.28%，报70.12欧元/吨。",
@@ -969,22 +1097,46 @@
           "url": "https://wallstreetcn.com/livenews/3076230",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时41分]"
         },
         {
           "title": "澳大利亚国债价格涨幅扩大，三年期澳债收益率悉尼盘初跌8个基点。 WTI原油一度跌超4.5%，报87.17美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3076226",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时41分]"
+        },
+        {
+          "title": "供需格局变化，碳酸锂价格企稳回升",
+          "url": "https://wallstreetcn.com/livenews/3076249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee：降息前必须看到通胀降温。 能源价格上涨正推高通胀。 可能会目睹消费者信心下滑。 FOMC利率前景取决于（伊朗）战争持续的时间。 我们应该感到些许欣慰，我们正走在回归2%通胀率的道路上。",
+          "url": "https://wallstreetcn.com/livenews/3076243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时42分"
+          "time_info": "07时41分"
         },
         {
           "title": "WTI原油期货在电子交易盘下挫。 美元兑G10货币尾盘回吐涨幅。 标普500指数ETF涨幅迅速扩大，（美股盘后）一度达到1%。纳斯达克100指数ETF涨1.3%。 美国国债价格短线走高，使得日内整体跌幅收窄，10年期美债收益率目前报4.35%。",
@@ -1004,7 +1156,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -1015,7 +1167,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -1026,9 +1178,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "消息人士称，特朗普政府预计最快于周三放宽夏季汽油法规，以抑制能源价格。",
+          "url": "https://flash.jin10.com/detail/20260325063148791800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "硫磺价格飙升至2008年以来最高，海湾供应陷入枯竭",
@@ -1077,7 +1240,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         }
@@ -1124,8 +1287,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时41分]"
         }
       ]
     },

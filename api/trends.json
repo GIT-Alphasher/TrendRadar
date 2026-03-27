@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T11:23:56.840554+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-03-27T13:47:10.734986+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 40,
       "titles": [
         {
           "title": "女子网络成瘾 平台被判赔600万美元",
@@ -32,6 +32,28 @@
           "time_info": "[01时14分 ~ 07时46分]"
         },
         {
+          "title": "现货白银向上触及70美元/盎司，日内涨2.78%。",
+          "url": "https://flash.jin10.com/detail/20260327133226742800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "现货黄金突破4470美元/盎司，日内涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3077955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "现货黄金周五盘初升至4400美元/盎司，日内涨0.54%。",
           "url": "https://flash.jin10.com/detail/20260327060623790800",
           "source": "金十数据",
@@ -41,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "现货黄金向上触及4450美元/盎司，日内涨1.66%。",
+          "url": "https://flash.jin10.com/detail/20260327133050789800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "周四（3月26日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.9203元，较周三纽约尾盘跌175点，日内整体交投于6.9024-6.9229元区间。",
@@ -65,6 +98,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "现货白银向上触及70美元/盎司，日内涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3077950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "美国至3月27日当周外国央行持有美国国债 -231.77亿美元，前值-92.54亿美元。",
           "url": "https://flash.jin10.com/detail/20260327043712535800",
           "source": "金十数据",
@@ -77,6 +121,29 @@
           "time_info": "[04时45分 ~ 05时40分]"
         },
         {
+          "title": "黄金大买家的重大转向！土耳其央行在伊朗战争期间抛售80亿美元黄金",
+          "url": "https://wallstreetcn.com/articles/3768509",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时47分]"
+        },
+        {
+          "title": "美元纸币将印上特朗普签名",
+          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
           "title": "周四（3月26日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至99.980点，整体持续走高，北京时间19:11-20:02涨幅突出。 彭博美元指数涨0.36%，刷新日高至1215.82点。 美元兑日元涨0.22%，刷新日高至159.83日元；欧元兑日元跌0.08%，英镑兑日元跌0.33%。",
           "url": "https://wallstreetcn.com/livenews/3077665",
           "source": "华尔街见闻-快讯",
@@ -87,6 +154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时40分]"
+        },
+        {
+          "title": "美元纸币将印特朗普签名",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%83%E7%BA%B8%E5%B8%81%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -120,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "黄金大买家的重大转向！土耳其央行在伊朗战争期间抛售80亿美元黄金",
-          "url": "https://wallstreetcn.com/articles/3768509",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "纽约金日内涨幅达0.5%，报4432.4美元/盎司。 纽约银日内涨幅达1.0%，报68.62美元/盎司。 美国众议长约翰逊认为，美国能在不派遣地面部队的情况下解决掉伊朗问题。",
@@ -254,6 +321,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "富国银行：黄金跌出“黄金坑”，年底看到6200美元",
+          "url": "https://flash.jin10.com/detail/20260327131626435800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "LME期铜收跌174美元，报12147美元/吨。 LME期铝收涨27美元，报3270美元/吨。 LME期锌收涨2美元，报3082美元/吨。 LME期铅收跌20美元，报1892美元/吨。 LME期镍收跌91美元，报17253美元/吨。 LME期锡收跌693美元，报44125美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3077629",
           "source": "华尔街见闻-快讯",
@@ -293,9 +371,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "机构：2025年第四季度全球云基础设施服务支出达1109亿美元，同比增长29%",
+          "url": "https://wallstreetcn.com/livenews/3077928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.80万亿美元。",
@@ -367,7 +456,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "【每日收评】三大指数均跌超1%，全市场超4400股收绿，两市成交额不足2万亿",
@@ -380,6 +469,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 06时41分]"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低0.7%报33,112.59点。",
+          "url": "https://wallstreetcn.com/livenews/3077953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "韩国央行：韩国3月综合商业景气指数为94.1（2月为94.2）。",
@@ -436,9 +536,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数3月27日（周五）收盘下跌20.50点，跌幅0.24%，报8505.20点。",
+          "url": "https://flash.jin10.com/detail/20260327132341470800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "加拿大标普/TSX综合指数收跌1.53%，报31887.52点；小盘股指收跌2.11%，报1285.48点。 周四（3月26日）北美尾盘，加拿大10年期基准国债收益率涨7.2个基点，报3.557%。 两年期加债收益率涨7.3个基点，五年期加债收益率涨8.1个基点。 墨西哥综合指数收跌1.65%，巴西圣保罗证交所指数收跌1.45%，阿根廷MERVAL指数收跌1.42%。",
@@ -450,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "韩国首尔综合指数转涨，抹去早盘4.4%的跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3077943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "金十图示：2026年03月27日（周五）全球股市指数-欧洲市场",
@@ -469,7 +591,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -524,7 +646,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -562,13 +684,35 @@
           "time_info": "03时21分"
         },
         {
+          "title": "韩国KOSPI指数转涨，抹去早盘逾4%的跌幅。",
+          "url": "https://flash.jin10.com/detail/20260327131612334800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "上交所：2026年3月27日盘中即时起至收市暂停富国标普石油天然气勘探及生产精选行业交易型开放式指数证券投资基金（QDII）（证券代码：513350）交易业务。",
+          "url": "https://flash.jin10.com/detail/20260327131121130800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "港股恒生科技指数盘中涨超1%，恒生指数涨0.3%，此前一度跌近1%，美团(03690.HK)、零跑汽车(09863.HK)、比亚迪股份(01211.HK)涨超4%，京东健康(06618.HK)、阿里健康(00241.HK)、同程旅行(00780.HK)均涨超2%。",
           "url": "https://flash.jin10.com/detail/20260327104309043800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -601,7 +745,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -620,7 +764,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -687,11 +831,46 @@
           "url": "https://www.zhihu.com/question/2020423157757028308",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时47分]"
+        },
+        {
+          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
+          "url": "https://www.zhihu.com/question/2020472799739814121",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时47分]"
+        },
+        {
+          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
+          "url": "https://www.cls.cn/detail/2326528",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "腾讯汤道生：Harness工程能力是AI落地关键变量",
@@ -700,7 +879,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -760,24 +939,13 @@
           "time_info": "07时46分"
         },
         {
-          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
-          "url": "https://www.zhihu.com/question/2020472799739814121",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "据《财富》杂志：除提及Claude Mythos外，泄露的博客草稿还讨论了一类新的AI模型层级，称为Capybara。文件称：“‘Capybara’是一个新名称，对应一个新的模型层级：规模更大、智能水平更高，超过我们此前最强大的Opus模型。”Capybara与Mythos似乎指向同一底层模型。",
           "url": "https://flash.jin10.com/detail/20260327104413826800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -788,7 +956,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -799,7 +967,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
@@ -807,7 +975,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -832,6 +1000,18 @@
           "time_info": "[01时14分 ~ 04时45分]"
         },
         {
+          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
+          "url": "https://www.cls.cn/detail/2326291",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 13时47分]"
+        },
+        {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
           "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
@@ -844,6 +1024,29 @@
           "time_info": "[01时14分 ~ 06时41分]"
         },
         {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时47分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
+          "url": "https://www.cls.cn/detail/2326270",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时41分 ~ 13时47分]"
+        },
+        {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2326015",
           "source": "财联社热门",
@@ -853,18 +1056,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 05时40分]"
-        },
-        {
-          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
-          "url": "https://www.cls.cn/detail/2326291",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 11时23分]"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -879,17 +1070,6 @@
           "time_info": "[07时46分 ~ 11时23分]"
         },
         {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "谈判僵局重燃市场恐慌，全球债市大跌，油价重新走强，芯片股拖累美股，美元冲高回落",
           "url": "https://wallstreetcn.com/articles/3768430",
           "source": "华尔街见闻",
@@ -901,16 +1081,16 @@
           "time_info": "07时46分"
         },
         {
-          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
-          "url": "https://www.cls.cn/detail/2326270",
-          "source": "财联社热门",
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            2
+            6,
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时41分 ~ 11时23分]"
+          "time_info": "[11时23分 ~ 13时47分]"
         },
         {
           "title": "半导体ETF收跌4.6%，领跌美股行业ETF，能源业ETF则涨约1.6%",
@@ -937,15 +1117,15 @@
           "time_info": "[04时45分 ~ 05时40分]"
         },
         {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
+          "title": "美股大跳水",
+          "url": "https://www.douyin.com/hot/2445212",
+          "source": "抖音",
           "ranks": [
-            6
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -976,7 +1156,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
@@ -984,8 +1164,19 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "旧手机回收价格暴涨",
+          "url": "https://www.toutiao.com/trending/7620780024207392774/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
         {
           "title": "多家品牌金饰价格较昨日跌近46元/克",
           "url": "https://flash.jin10.com/detail/20260327110210769800",
@@ -993,7 +1184,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1008,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时40分]"
+        },
+        {
+          "title": "金饰价格一夜大跌45元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E4%B8%80%E5%A4%9C%E5%A4%A7%E8%B7%8C45%E5%85%83%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "周四（3月26日）欧市尾盘，ICE英国天然气期货涨4.65%，报138.940便士/千卡，整体持续走高。 TTF基准荷兰天然气期货涨6.44%，报55.422欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）涨1.05%，报70.47欧元/吨。",
@@ -1038,7 +1240,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1090,7 +1292,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据The Verge：维基百科已禁止使用人工智能撰写或重写条目。",
@@ -1129,6 +1331,17 @@
           "time_info": "[05时40分 ~ 06时41分]"
         },
         {
+          "title": "马斯克：人工智能可能在约3年后超越全人类智能。",
+          "url": "https://flash.jin10.com/detail/20260327132350419800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "消息人士：Anthropic公司获得法院命令，阻止特朗普政府禁止使用其人工智能工具的禁令。",
           "url": "https://flash.jin10.com/detail/20260327072108804800",
           "source": "金十数据",
@@ -1153,11 +1366,12 @@
             9,
             8,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 11时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 13时47分]"
         },
         {
           "title": "美联储理事米兰：缩减资产负债表（缩表）“可能要耗时好几年”。 如果美联储选择减持美债，可能需要缓慢地推进。 如果美联储的确缩表，可能需要降息。 缩表的好处是显而易见的。",
@@ -1208,11 +1422,29 @@
             20,
             18,
             8,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时40分 ~ 11时23分]"
+          "appearance_count": 6,
+          "time_info": "[05时40分 ~ 13时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大模型输出答案前在思考什么",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%AD%94%E6%A1%88%E5%89%8D%E5%9C%A8%E6%80%9D%E8%80%83%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         }
       ]
     }

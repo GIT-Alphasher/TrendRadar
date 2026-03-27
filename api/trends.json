@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T17:04:47.427444+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-03-27T18:59:20.363171+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "女子网络成瘾 平台被判赔600万美元",
@@ -41,8 +41,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 18时59分]"
+        },
+        {
+          "title": "美元纸币将印上特朗普签名",
+          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时23分 ~ 17时04分]"
+          "time_info": "[13时46分 ~ 18时59分]"
         },
         {
           "title": "现货白银向上触及70美元/盎司，日内涨2.78%。",
@@ -95,7 +107,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -131,18 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
-        },
-        {
-          "title": "美元纸币将印上特朗普签名",
-          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 17时04分]"
         },
         {
           "title": "美国至3月27日当周外国央行持有美国国债 -231.77亿美元，前值-92.54亿美元。",
@@ -230,7 +230,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -263,7 +263,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -373,7 +373,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -472,9 +472,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "广州极飞科技股份有限公司的香港IPO或将筹资至多2亿美元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3078134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "现货白银日内涨幅达1.5%，报68.95美元/盎司。 华尔街日报援引熟悉美国与伊朗和平磋商调解方报道称，伊朗并没有要求美国暂停袭击其能源工厂。 伊朗也没有对美方所谓的和平计划给出最终回应。",
@@ -535,7 +546,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "【每日收评】三大指数均跌超1%，全市场超4400股收绿，两市成交额不足2万亿",
@@ -567,7 +578,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -651,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "【每日收评】三大指数低开高走全线收涨，全市场超4300股飘红，锂电产业链全线爆发",
+          "url": "https://www.cls.cn/detail/2326994",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "澳大利亚S&P/ASX200指数3月27日（周五）收盘下跌20.50点，跌幅0.24%，报8505.20点。",
@@ -862,6 +884,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "香港交易所和马来西亚交易所推出联合冠名指数。",
+          "url": "https://wallstreetcn.com/livenews/3078133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "上交所：2026年3月27日盘中即时起至收市暂停富国标普石油天然气勘探及生产精选行业交易型开放式指数证券投资基金（QDII）（证券代码：513350）交易业务。",
           "url": "https://flash.jin10.com/detail/20260327131121130800",
           "source": "金十数据",
@@ -890,7 +923,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -942,7 +975,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -990,8 +1023,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 18时59分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            20,
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 18时59分]"
         },
         {
           "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
@@ -1007,17 +1053,26 @@
           "time_info": "[11时23分 ~ 17时04分]"
         },
         {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
           "ranks": [
-            20,
-            10,
             1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 17时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "纽约联储系统公开市场账户经理Perli：在充满不确定性的时期，看到国债拍卖出现“tail”（中标利率与二级市场的利差）并不令人意外。",
@@ -1061,11 +1116,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 18时59分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -1074,20 +1130,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时59分]"
         },
         {
           "title": "Naiyou终身禁赛",
           "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时59分]"
         },
         {
           "title": "AAII：美国投资者悲观情绪略有缓解，但仍处于高位",
@@ -1214,7 +1271,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -1235,8 +1292,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 17时04分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 18时59分]"
         },
         {
           "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
@@ -1262,6 +1319,19 @@
           "time_info": "[01时14分 ~ 04时45分]"
         },
         {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 18时59分]"
+        },
+        {
           "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
           "url": "https://www.cls.cn/detail/2326270",
           "source": "财联社热门",
@@ -1272,19 +1342,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时41分 ~ 15时22分]"
-        },
-        {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 17时04分]"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -1369,13 +1426,24 @@
           "time_info": "[04时45分 ~ 05时40分]"
         },
         {
+          "title": "美伊局势走向不明，美股期指全线转跌，美日债市承压，油价涨势扩大，现货金银涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "特朗普延长伊朗谈判时间，美股期指小幅反弹，美日债市承压，油价延续涨势，现货金银涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1386,7 +1454,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1696,7 +1764,7 @@
     },
     {
       "keyword_group": "大模型",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大模型输出答案前在思考什么",
@@ -1710,6 +1778,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时46分 ~ 17时04分]"
+        },
+        {
+          "title": "小米大模型负责人谈未来竞争",
+          "url": "https://www.douyin.com/hot/2445480",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     }

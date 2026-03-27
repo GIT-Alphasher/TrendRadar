@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T00:03:08.962644+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-03-28T01:55:31.940593+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "WTI原油期货涨3.29%，暂报97.59美元。 据伊朗IRNA报道，伊朗称Khondab核设施不存在放射性物质泄漏风险。",
@@ -14,18 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "彭博美元指数短线下挫，日内整体转跌，跌穿1216点，亚太午盘曾刷新日低至1214.14点。",
-          "url": "https://wallstreetcn.com/livenews/3078372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -34,11 +23,34 @@
           "url": "https://wallstreetcn.com/articles/3768509",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
+        },
+        {
+          "title": "彭博美元指数短线下挫，日内整体转跌，跌穿1216点，亚太午盘曾刷新日低至1214.14点。",
+          "url": "https://wallstreetcn.com/livenews/3078372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "周五（3月27日），美联储隔夜逆回购协议（RRP）使用规模为9.92亿美元（交易对手5家），上个交易日报8.85亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3078416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         },
         {
           "title": "WTI原油期货涨幅收窄至不足3.3%，一度逼近97美元。",
@@ -47,7 +59,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -69,7 +81,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -80,7 +92,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -91,7 +103,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -102,7 +114,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -113,7 +125,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -124,7 +136,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -135,26 +147,143 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         }
       ]
     },
     {
+      "keyword_group": "指数",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "纳斯达克100指数跌幅扩大至1.6%，刷新日低，当前下跌380点。 标普500指数跌1.3%，道指跌587点、跌幅1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3078421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "【每日收评】三大指数低开高走全线收涨，全市场超4300股飘红，锂电产业链全线爆发",
+          "url": "https://www.cls.cn/detail/2326994",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "标普500指数跌1%，道指跌1%，纳指跌1.4%，半导体指数跌0.9%，银行指数跌1.5%。 美国向盟友发出信号，暂无入侵伊朗的紧急计划。 国务卿卢比奥敦促七国集团（G7）就伊朗问题做出“最大程度的伙伴贡献”。",
+          "url": "https://wallstreetcn.com/livenews/3078414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "标普500指数重新跌超0.9%。 据Politico报道，美国警告盟友们，称伊朗战争可能会造成美方推迟对乌克兰发送武器货物。",
+          "url": "https://wallstreetcn.com/livenews/3078366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "波罗的海干散货运价指数连涨第三日，海岬型船运价攀升至三周高点",
+          "url": "https://flash.jin10.com/detail/20260327232520776800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "标普500指数目前跌0.8%，道指跌0.8%，纳指跌1.2%。 美国哥伦比亚广播公司（CBS）援引多位知情人士报道称，伊朗对美国和平提案的回应预计将在今天晚些时候公布。",
+          "url": "https://wallstreetcn.com/livenews/3078361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌1.6%，报354.75点，创12月3日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 诺基亚跌5.1%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3078400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌1.38%，报22301.95点，本周累跌约0.3%。 法国股指初步收跌0.91%，意大利股指初步收跌0.80%、银行指数跌0.70%，英国股指初步收跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3078395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.96%，报575.26点，本周累涨约0.2%。 欧元区STOXX 50指数初步收跌1.07%，报5506.11点，本周大致持平，周一北京时间19:00出现一波显著的拉升行情。 富时泛欧绩优300指数初步收跌0.90%，报2295.56点。",
+          "url": "https://wallstreetcn.com/livenews/3078394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周五（3月27日），南非富时/JSE非洲领先40可交易指数收跌0.97%，没能守住10.4万点，本周累计上涨1.78%。",
+          "url": "https://wallstreetcn.com/livenews/3078391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
           "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -164,8 +293,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -175,8 +304,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -186,8 +315,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -197,30 +326,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
           "title": "湘女多情AI陶喆版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
           "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
           "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
@@ -232,12 +363,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "Naiyou终身禁赛",
+          "url": "https://www.douyin.com/hot/2446027",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -247,8 +389,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
+        },
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -273,82 +427,33 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
-        },
-        {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2327400",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数低开高走全线收涨，全市场超4300股飘红，锂电产业链全线爆发",
-          "url": "https://www.cls.cn/detail/2326994",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
-          "title": "标普500指数重新跌超0.9%。 据Politico报道，美国警告盟友们，称伊朗战争可能会造成美方推迟对乌克兰发送武器货物。",
-          "url": "https://wallstreetcn.com/livenews/3078366",
-          "source": "华尔街见闻-快讯",
+          "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "波罗的海干散货运价指数连涨第三日，海岬型船运价攀升至三周高点",
-          "url": "https://flash.jin10.com/detail/20260327232520776800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "标普500指数目前跌0.8%，道指跌0.8%，纳指跌1.2%。 美国哥伦比亚广播公司（CBS）援引多位知情人士报道称，伊朗对美国和平提案的回应预计将在今天晚些时候公布。",
-          "url": "https://wallstreetcn.com/livenews/3078361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时55分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国人工智能走在世界前列",
@@ -358,8 +463,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
+          "url": "https://flash.jin10.com/detail/20260328013224717800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         },
         {
           "title": "美联储保尔森：目前尚不清楚人工智能在多大程度上推动了生产率的提升。",
@@ -368,7 +484,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -379,7 +495,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -390,7 +506,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         }
@@ -398,7 +514,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英国国债价格跌幅收窄，10年期英债收益率持稳于4.97%，此前一度达到5.10%。",
@@ -407,7 +523,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -419,8 +535,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         },
         {
           "title": "德国将评估是否需要重新激活那些被闲置的煤炭火电站，从而降低能源价格。",
@@ -429,9 +545,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：欧洲央行正对通胀预期和价格制定进行监测。",
+          "url": "https://flash.jin10.com/detail/20260328010430712800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         }
       ]
     },
@@ -444,11 +571,12 @@
           "url": "https://www.douyin.com/hot/2445480",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时55分]"
         }
       ]
     }

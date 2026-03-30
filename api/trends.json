@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T05:54:07.149614+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-03-31T06:49:17.239047+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时49分]"
         },
         {
           "title": "WTI原油自2022年以来首次收于每桶100美元上方",
@@ -45,11 +45,12 @@
           "url": "https://wallstreetcn.com/livenews/3079586",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时49分]"
         },
         {
           "title": "WTI原油日内涨幅达5.0%，报104.64美元/桶。",
@@ -62,6 +63,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时54分]"
+        },
+        {
+          "title": "周一（3月30日）纽约尾盘，现货黄金涨0.22%，报4503.88美元/盎司，北京时间08:13跌至4420.14刷新日低，随后持续走高，19:51刷新日高至4580.64美元。 COMEX黄金期货涨0.17%，报4531.90美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3079582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时49分]"
         },
         {
           "title": "美元指数涨0.4%，日元自160下方反弹",
@@ -98,17 +111,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "周一（3月30日）纽约尾盘，现货黄金涨0.22%，报4503.88美元/盎司，北京时间08:13跌至4420.14刷新日低，随后持续走高，19:51刷新日高至4580.64美元。 COMEX黄金期货涨0.17%，报4531.90美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3079582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
           "title": "WTI原油突破105美元/桶，日内涨3.44%。",
           "url": "https://flash.jin10.com/detail/20260331040938302800",
           "source": "金十数据",
@@ -137,7 +139,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -197,6 +199,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "智利部长委员会批准价值10亿美元的多个可再生能源项目。",
+          "url": "https://wallstreetcn.com/livenews/3079592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "美元指数30日上涨",
           "url": "https://flash.jin10.com/detail/20260331040302686800",
           "source": "金十数据",
@@ -236,7 +249,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -448,7 +461,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -481,7 +494,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -511,7 +524,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -522,8 +535,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时49分]"
         },
         {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
@@ -534,8 +547,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时49分]"
         },
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
@@ -554,11 +567,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时49分]"
         },
         {
           "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
@@ -573,6 +587,18 @@
           "time_info": "[04时57分 ~ 05时54分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
+          "url": "https://wallstreetcn.com/livenews/3079578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时49分]"
+        },
+        {
           "title": "美股三大指数高开 爱奇艺涨超12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
           "source": "百度热搜",
@@ -585,15 +611,15 @@
           "time_info": "[01时07分 ~ 03时13分]"
         },
         {
-          "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
-          "url": "https://wallstreetcn.com/livenews/3079578",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
+          "url": "https://www.cls.cn/detail/2329769",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时54分"
+          "time_info": "06时49分"
         },
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
@@ -627,12 +653,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
+          "url": "https://wallstreetcn.com/livenews/3079581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "牛奶价格卷起来了",
@@ -642,8 +679,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时49分]"
         },
         {
           "title": "猪肉价格为何下跌",
@@ -654,8 +691,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时49分]"
         },
         {
           "title": "内存条价格跳水，内存股集体下跌，内存超级周期见顶了？",
@@ -665,8 +702,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时49分]"
         },
         {
           "title": "周一（3月30日），彭博电动汽车价格回报指数跌1.19%，报3541.90点。",
@@ -685,11 +722,34 @@
           "url": "https://flash.jin10.com/detail/20260331050011088800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时49分]"
+        },
+        {
+          "title": "美联储威廉姆斯：能源价格的经济影响前景取决于市场定价水平。",
+          "url": "https://flash.jin10.com/detail/20260331060442776800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时54分"
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美联储威廉姆斯：到目前为止，预计能源价格将影响整体通胀，而非核心通胀。",
+          "url": "https://flash.jin10.com/detail/20260331060433226800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "IMF称伊朗战争将推高全球价格并拖累经济增长，或引发不对称冲击",
@@ -706,7 +766,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -719,8 +779,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时49分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -731,8 +791,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时49分]"
+        },
+        {
+          "title": "复旦教授解析AI冲击职场真相",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 06时49分]"
         },
         {
           "title": "文科生能吃到什么 ai 红利？",
@@ -747,15 +819,16 @@
           "time_info": "[03时13分 ~ 05时54分]"
         },
         {
-          "title": "复旦教授解析AI冲击职场真相",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
+          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
+          "url": "https://wallstreetcn.com/livenews/3079576",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "time_info": "[05时54分 ~ 06时49分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -769,15 +842,15 @@
           "time_info": "[03时13分 ~ 04时57分]"
         },
         {
-          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
-          "url": "https://wallstreetcn.com/livenews/3079576",
+          "title": "美国纽约联储主席（享有FOMC永久票委，号称美联储三把手）威廉姆斯：基本假设是，美国经济前景非常不错。 油价面临巨大的不确定性。 核心通胀预期还没有（显著地）受到油价冲击的影响。 监管的目标是银行业安全性，而不是储备金的规模。 2025年数据中可能存在AI的影响，但主要的仍然要未来才会体现出来。",
+          "url": "https://wallstreetcn.com/livenews/3079593",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时54分"
+          "time_info": "06时49分"
         }
       ]
     },
@@ -804,7 +877,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -815,7 +888,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         }
@@ -833,8 +906,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 06时49分]"
         },
         {
           "title": "短端美债收益率跌超9个基点",
@@ -860,11 +933,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 06时49分]"
         }
       ]
     }

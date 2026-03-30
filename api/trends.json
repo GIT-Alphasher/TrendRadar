@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T18:25:41.099033+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-03-30T20:02:27.031548+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时32分 ~ 20时02分]"
         },
         {
           "title": "现货黄金日内跌幅达1.00%，现报4450.49美元/盎司。",
@@ -99,9 +99,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "美、布两油短线一度下跌后反弹，波幅达2美元，现分别报101.4美元/桶和114.8美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260330193031533800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "WTI原油日内涨超2.00%，现报103.55美元/桶。",
@@ -132,9 +143,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.5%，报71.44美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3079314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "外国投资者3月创纪录抛售近120亿美元印度股票",
@@ -157,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "现货黄金日内涨幅达1.5%，报4566.08美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3079312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "现货黄金周一开盘跌破4470美元/盎司，日内跌0.58%。现货白银回落至69美元/盎司下方，日内跌1.16%。",
@@ -187,7 +220,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -209,7 +242,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -228,7 +261,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "富时中国A50指数期货转涨，此前跌超1%。",
@@ -274,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "美国总统特朗普发表讲话后，标普500指数期货涨0.7%至盘中高位。",
+          "url": "https://flash.jin10.com/detail/20260330193139237800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "澳大利亚S&P/ASX 200指数下跌1%。",
@@ -444,7 +488,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "内存条价格出现断崖式下跌",
@@ -500,11 +544,12 @@
             15,
             17,
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 20时02分]"
         },
         {
           "title": "内存条价格崩了",
@@ -551,8 +596,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 20时02分]"
         },
         {
           "title": "你能感受到猪肉价格下降吗",
@@ -577,13 +622,24 @@
           "time_info": "16时27分"
         },
         {
+          "title": "珠城科技：拟以5000万元-1亿元回购股份，回购股份的价格不超过人民币85.22元/股。",
+          "url": "https://wallstreetcn.com/livenews/3079307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "波兰政府：从周二起，汽油价格上限为每升6.16波兰兹罗提。",
           "url": "https://flash.jin10.com/detail/20260330181518320800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -594,7 +650,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -679,11 +735,12 @@
             1,
             8,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 20时02分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -707,11 +764,12 @@
             24,
             20,
             18,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 20时02分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -802,7 +860,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -823,6 +881,139 @@
           "source": "金十数据",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时32分]"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时32分 ~ 20时02分]"
+        },
+        {
+          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "中东局势升级，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时04分]"
+        },
+        {
+          "title": "布油高开逾3%，美股期货走低",
+          "url": "https://wallstreetcn.com/livenews/3078766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时42分]"
+        },
+        {
+          "title": "中东局势升级，日韩股市收跌约3%，美股期货续跌跌势，布油一度涨破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
+          "url": "https://flash.jin10.com/detail/20260330060152527800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美国铝业公司美股盘前涨近9%。",
+          "url": "https://wallstreetcn.com/livenews/3079101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货涨0.7%，道指期货涨0.7%，标普500指数期货涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3079300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "美股未到“威利狼时刻”？三大支柱或筑牢市场防线",
+          "url": "https://flash.jin10.com/detail/20260330105908628800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -868,11 +1059,12 @@
             4,
             13,
             12,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时32分 ~ 20时02分]"
         },
         {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
@@ -949,119 +1141,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 11时32分]"
-        },
-        {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 18时25分]"
-        },
-        {
-          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时04分]"
-        },
-        {
-          "title": "布油高开逾3%，美股期货走低",
-          "url": "https://wallstreetcn.com/livenews/3078766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时42分]"
-        },
-        {
-          "title": "中东局势升级，日韩股市收跌约3%，美股期货续跌跌势，布油一度涨破115美元、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
-          "url": "https://flash.jin10.com/detail/20260330060152527800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "美国铝业公司美股盘前涨近9%。",
-          "url": "https://wallstreetcn.com/livenews/3079101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "美股未到“威利狼时刻”？三大支柱或筑牢市场防线",
-          "url": "https://flash.jin10.com/detail/20260330105908628800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "避险情绪盖过通胀担忧 美债收益率走低",
@@ -1081,9 +1162,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "美债扩大涨幅，10年期收益率下跌5个基点至4.37%。",
+          "url": "https://wallstreetcn.com/livenews/3079290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },

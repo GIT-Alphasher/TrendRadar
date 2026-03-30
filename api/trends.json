@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T03:13:18.877474+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-03-31T04:57:47.223189+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
         },
         {
           "title": "WTI原油自2022年以来首次收于每桶100美元上方",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "WTI原油日内涨幅达5.0%，报104.64美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3079567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "伊朗议会批准法案，在霍尔木兹海峡收费。 目前，布伦特原油期货维持2.3%的涨幅，持稳于107.70美元附近。",
@@ -58,9 +69,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "WTI原油突破105美元/桶，日内涨3.44%。",
+          "url": "https://flash.jin10.com/detail/20260331040938302800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "巴帝电信携手凯雷、安克雷奇向Nxtra部门投资10亿美元",
@@ -69,7 +91,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -118,15 +140,37 @@
           "time_info": "01时07分"
         },
         {
+          "title": "美元指数涨0.4%，日元自160下方反弹",
+          "url": "https://wallstreetcn.com/livenews/3079557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "周一（3月30日），美联储隔夜逆回购协议（RRP）使用规模为7.52亿美元（交易对手5家），上个交易日报9.92亿美元。",
           "url": "https://wallstreetcn.com/livenews/3079525",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20260331040302686800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "LME期铜收涨28美元，报12224美元/吨。 LME期铝收涨105美元，报3401美元/吨。 LME期锌收涨67美元，报3182美元/吨。 LME期铅收涨12美元，报1909美元/吨。 LME期镍收涨77美元，报17263美元/吨。 LME期锡收涨946美元，报46734美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -135,9 +179,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "WTI原油日内大涨3.00%，现报104.56美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260331040121536800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9127元，较上周五夜盘收盘跌17点。成交量456.90亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3079544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美国原油期货自2022年以来首次收于100美元整数位关口上方，布油有望创历史最大单月涨幅",
+          "url": "https://wallstreetcn.com/livenews/3079542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "彭博美元指数涨幅扩大，创11月26日以来新高。",
@@ -154,18 +231,43 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "金十图示：2026年03月30日（周一）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260331042404703800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
         {
           "title": "恒生指数主连夜盘收跌0.25%，报24683点。 恒生科技指数主连夜盘收跌0.62%，报4662点。",
           "url": "https://wallstreetcn.com/livenews/3079543",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时57分]"
+        },
+        {
+          "title": "剑指SpaceX等独角兽！纳斯达克“快速纳入”指数新规5月1日生效",
+          "url": "https://www.cls.cn/detail/2329564",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
         },
         {
           "title": "SpaceX等巨型IPO将获准快速纳入纳斯达克100指数",
@@ -192,16 +294,59 @@
           "time_info": "[01时07分 ~ 03时13分]"
         },
         {
-          "title": "剑指SpaceX等独角兽！纳斯达克“快速纳入”指数新规5月1日生效",
-          "url": "https://www.cls.cn/detail/2329564",
-          "source": "财联社热门",
+          "title": "标普500指数的11个板块中，工业板块收跌1.61%，信息技术/科技板块跌1.49%，能源板块跌0.87%，金融板块则涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3079568",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.36%，报6569.63点。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.75%，中概互联网指数ETF（KWEB）收跌0.47%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3079562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "金十图示：2026年03月30日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260331040618728800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "标普500指数收跌25.13点，跌幅0.39%，报6343.72点。 道琼斯工业平均指数收涨49.50点，涨幅0.11%，报45216.14点。 纳斯达克综合指数（纳指）收跌153.716点，跌幅0.73%，报20794.641点。 纳斯达克100指数收跌179.394点，跌幅0.78%，报22953.378点。 费城半导体指数收跌4.23%，报7142.334点。 费城证交所KBW银行指数收涨0.19%，报149.04点。 道琼斯KBW地区银行指数收涨0.33%，报123.52点。 纳斯达克生物科技指数收涨0.63%，报5584.44点。",
+          "url": "https://wallstreetcn.com/livenews/3079560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "道琼斯指数3月30日（周一）收盘上涨49.68点，涨幅0.11%，报45216.32点；<br/>标普500指数3月30日（周一）收盘下跌25.09点，跌幅0.39%，报6343.76点；<br/>纳斯达克综合指数3月30日（周一）收盘下跌153.72点，跌幅0.73%，报20794.64点。",
+          "url": "https://flash.jin10.com/detail/20260331040540591800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "半导体指数跌超4%，相干公司跌约10%，美光跌超8%",
@@ -210,9 +355,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "周一（3月30日）纽约尾盘，彭博谷物分类指数跌0.51%，报31.4908点。 CBOT玉米期货跌1.46%，CBOT小麦期货涨0.37%，CBOT大豆期货跌0.05%，豆粕期货跌0.22%，豆油期货涨1.47%。 CBOT瘦肉猪期货跌0.19%，活牛期货涨0.62%，饲牛期货涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3079553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨1.2%，创3月10日以来最大单日涨幅，报359.19点。 在十个板块中，北欧金融板块涨幅最大。 挪威海德鲁涨9.5%，在一众北欧个股里领跑。",
@@ -248,6 +404,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "纳指跌超1%，纳斯达克100指数的成分股中，美光科技跌10%，西部数据跌8.9%，迈威尔科技跌8.4%，希捷科技跌5.9%，拉姆研究、Arm控股、英特尔、MPWR至多跌5.7%，Workday涨3%，派拓网络PANW涨4%，Insmed涨超4.8%。 标普500指数跌0.6%，科技板块跌1.8%，工业板块跌超1.7%，能源板块跌1%，金融板块涨0.9%。 道指转跌。",
+          "url": "https://wallstreetcn.com/livenews/3079546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "德国DAX 30指数初步收涨0.79%，报22477.07点。 法国股指初步收涨0.71%，意大利股指初步收涨0.78%、银行指数跌0.65%，英国股指初步收涨1.50%。",
           "url": "https://wallstreetcn.com/livenews/3079489",
           "source": "华尔街见闻-快讯",
@@ -272,71 +439,116 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 5,
+      "keyword_group": "美股",
+      "match_count": 9,
       "titles": [
         {
-          "title": "复旦教授解析AI冲击职场真相",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
+          "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            22
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
         },
         {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            20
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
         },
         {
-          "title": "文科生能吃到什么 ai 红利？",
-          "url": "https://www.zhihu.com/question/2016910965501871946",
-          "source": "知乎",
+          "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
+          "url": "https://wallstreetcn.com/livenews/3079573",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时57分"
         },
         {
-          "title": "AI 会让年轻人的机会变多还是变少？",
-          "url": "https://www.zhihu.com/question/2016930184062789503",
-          "source": "知乎",
+          "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3079569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股三大指数高开 爱奇艺涨超12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时13分]"
+        },
+        {
+          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260331040539391800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260331040537263800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
+          "url": "https://flash.jin10.com/detail/20260331040226554800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时57分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "牛奶价格卷起来了",
@@ -346,8 +558,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
         },
         {
           "title": "猪肉价格为何下跌",
@@ -357,8 +569,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
         },
         {
           "title": "内存条价格跳水，内存股集体下跌，内存超级周期见顶了？",
@@ -368,8 +580,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
+        },
+        {
+          "title": "周一（3月30日），彭博电动汽车价格回报指数跌1.19%，报3541.90点。",
+          "url": "https://wallstreetcn.com/livenews/3079566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "IMF称伊朗战争将推高全球价格并拖累经济增长，或引发不对称冲击",
@@ -385,54 +608,66 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "AI",
+      "match_count": 5,
       "titles": [
         {
-          "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            17,
+            22,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时57分]"
+        },
+        {
+          "title": "复旦教授解析AI冲击职场真相",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 03时13分]"
         },
         {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
+          "title": "AI 会让年轻人的机会变多还是变少？",
+          "url": "https://www.zhihu.com/question/2016930184062789503",
+          "source": "知乎",
           "ranks": [
-            4
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "time_info": "[03时13分 ~ 04时57分]"
         },
         {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
+          "title": "文科生能吃到什么 ai 红利？",
+          "url": "https://www.zhihu.com/question/2016910965501871946",
+          "source": "知乎",
           "ranks": [
-            4,
-            5
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
-        },
-        {
-          "title": "美股三大指数高开 爱奇艺涨超12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     },
@@ -445,11 +680,46 @@
           "url": "https://www.toutiao.com/trending/7622965821714730505/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短端美债收益率跌超9个基点",
+          "url": "https://wallstreetcn.com/livenews/3079558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
+          "url": "https://flash.jin10.com/detail/20260331042636136800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     }

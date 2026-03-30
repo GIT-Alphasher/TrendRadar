@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T07:42:42.210032+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-03-30T11:32:54.711723+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
@@ -29,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -44,6 +44,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时47分 ~ 05时42分]"
+        },
+        {
+          "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
+          "url": "https://wallstreetcn.com/articles/3768680",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至3%，报1417.76美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3078941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "周一汇市盘初，美元兑瑞郎USD/CHF日内跌幅达0.5%，报0.7947、欧元兑美元EUR/USD跌0.1%、澳元兑美元AUD/USD跌0.17%。",
@@ -87,7 +109,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -112,12 +134,161 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "现货白银突破70美元/盎司，日内涨0.41%。",
+          "url": "https://flash.jin10.com/detail/20260330110647378800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "富时中国A50指数期货转涨，此前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3078942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "越南股指VN指数日内跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3078938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "白日提灯播放指数超逐玉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E6%92%AD%E6%94%BE%E6%8C%87%E6%95%B0%E8%B6%85%E9%80%90%E7%8E%89%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX 200指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3078794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "韩国KOSPI指数日内跌幅有所收窄，现跌3%，此前一度跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260330111533497800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "富时中国A50指数期货转涨，此前跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260330111147402800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "港股开盘恒生指数跌1.68%",
+          "url": "https://www.douyin.com/hot/2448265",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数3月30日（周一）开盘下跌79.20点，跌幅0.93%，报8437.10点。",
+          "url": "https://flash.jin10.com/detail/20260330071010087800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "新西兰证交所拟推基准指数期货 以重振本土衍生品交易",
+          "url": "https://flash.jin10.com/detail/20260330110805734800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数跌4.6%，东证指数跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3078915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/3078913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "香港恒生指数跌超2%，恒生科技指数跌2.8%。蔚来跌超6%，华虹半导体、中芯国际跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3078908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "内存条价格出现断崖式下跌",
@@ -126,21 +297,6 @@
           "ranks": [
             5,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
-        },
-        {
-          "title": "DDR5 内存价格 3 月出现明显下降，请问这是短期现象，还是内存供需紧张真的缓和了？",
-          "url": "https://www.zhihu.com/question/2021602205866684610",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            7,
-            9,
-            5
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -163,16 +319,33 @@
           "time_info": "[00时46分 ~ 07时42分]"
         },
         {
+          "title": "DDR5 内存价格 3 月出现明显下降，请问这是短期现象，还是内存供需紧张真的缓和了？",
+          "url": "https://www.zhihu.com/question/2021602205866684610",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            7,
+            9,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时32分]"
+        },
+        {
           "title": "内存价格跳水,等等党大胜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352479&amp;topic_name=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4%2C%E7%AD%89%E7%AD%89%E5%85%9A%E5%A4%A7%E8%83%9C",
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时32分]"
         },
         {
           "title": "内存条价格崩了",
@@ -189,13 +362,24 @@
           "time_info": "[00时46分 ~ 07时42分]"
         },
         {
+          "title": "应对能源价格上涨 澳大利亚将实行燃油税减半措施",
+          "url": "https://wallstreetcn.com/livenews/3078943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "现货价格",
           "url": "https://flash.jin10.com/detail/20260330073511941800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -209,24 +393,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 00时47分]"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报166750元/吨，较上日16:30价格上涨6400元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3078917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "能源通胀传导建筑业 新西兰挖掘成本随柴油价格飙升",
+          "url": "https://flash.jin10.com/detail/20260330110630721800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "多家品牌金饰价格保持稳定",
+          "url": "https://flash.jin10.com/detail/20260330110326164800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
-        },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
@@ -240,6 +446,18 @@
           "time_info": "[00时46分 ~ 07时42分]"
         },
         {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时32分]"
+        },
+        {
           "title": "伊朗战争的账单，“AI牛市”来买？",
           "url": "https://wallstreetcn.com/articles/3768662",
           "source": "华尔街见闻",
@@ -247,8 +465,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时32分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -258,11 +476,12 @@
             21,
             22,
             19,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时32分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -300,52 +519,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
         },
         {
-          "title": "布油高开逾3%，美股期货走低",
-          "url": "https://wallstreetcn.com/livenews/3078766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时42分]"
-        },
-        {
-          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
-          "url": "https://flash.jin10.com/detail/20260330060152527800",
+          "title": "AI生态爆发助推台积电 花旗看好2纳米制程统治力并上调目标价",
+          "url": "https://flash.jin10.com/detail/20260330105835392800",
           "source": "金十数据",
           "ranks": [
-            11
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "11时32分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -372,34 +562,152 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 07时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 2,
-      "titles": [
+        },
         {
-          "title": "澳大利亚S&P/ASX 200指数下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3078794",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
           "ranks": [
-            6
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "11时32分"
         },
         {
-          "title": "澳大利亚S&P/ASX200指数3月30日（周一）开盘下跌79.20点，跌幅0.93%，报8437.10点。",
-          "url": "https://flash.jin10.com/detail/20260330071010087800",
-          "source": "金十数据",
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "DeepSeek已恢复服务",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%9C%8D%E5%8A%A1",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "11时32分"
+        },
+        {
+          "title": "DeepSeek服务恢复正常 此前崩溃约12小时",
+          "url": "https://wallstreetcn.com/livenews/3078918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 11时32分]"
+        },
+        {
+          "title": "布油高开逾3%，美股期货走低",
+          "url": "https://wallstreetcn.com/livenews/3078766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时42分]"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
+          "url": "https://flash.jin10.com/detail/20260330060152527800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美股未到“威利狼时刻”？三大支柱或筑牢市场防线",
+          "url": "https://flash.jin10.com/detail/20260330105908628800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谁在给选基大模型喂答案？小心营销污染，基金信息不能被流量逻辑带偏",
+          "url": "https://www.cls.cn/detail/2328122",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     }

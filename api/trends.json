@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T14:04:58.161178+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-03-30T16:27:23.964181+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "指数",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "富时中国A50指数期货转涨，此前跌超1%。",
@@ -92,9 +92,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "恒生指数收盘跌0.81%，恒生科技指数跌1.84%",
+          "url": "https://wallstreetcn.com/livenews/3079100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "印度股指Sensex指数下跌1.5%。",
@@ -103,7 +114,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -136,7 +147,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -163,6 +174,17 @@
           "time_info": "11时32分"
         },
         {
+          "title": "摩根士丹利的Wilson称标普500指数的回调已接近尾声",
+          "url": "https://wallstreetcn.com/livenews/3079087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "香港恒生指数跌超2%，恒生科技指数跌2.8%。蔚来跌超6%，华虹半导体、中芯国际跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3078908",
           "source": "华尔街见闻-快讯",
@@ -180,7 +202,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -191,7 +213,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
@@ -199,7 +221,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "内存条价格出现断崖式下跌",
@@ -253,11 +275,12 @@
             7,
             9,
             15,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 14时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 16时27分]"
         },
         {
           "title": "内存条价格崩了",
@@ -307,13 +330,35 @@
           "time_info": "[00时46分 ~ 00时47分]"
         },
         {
+          "title": "内存条价格跳水，内存股集体下跌，内存超级周期见顶了？",
+          "url": "https://wallstreetcn.com/articles/3768696",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "中东局势推高燃油价格 德国加油站每日限涨一次",
+          "url": "https://wallstreetcn.com/livenews/3079105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "能源价格高企推升增长风险 摩根士丹利看好美债避险价值",
           "url": "https://flash.jin10.com/detail/20260330133813876800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -346,7 +391,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -365,7 +410,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
@@ -391,8 +436,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 16时27分]"
         },
         {
           "title": "现货黄金日内跌幅达1.00%，现报4450.49美元/盎司。",
@@ -464,6 +509,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "杰瑞股份：全资子公司GenSystems Power Solutions LLC与美国某客户签署了燃气轮机发电机组销售合同，合同金额为3.41亿美元（约合23.59亿元人民币），约占公司2024年度经审计营业收入的17.66%。",
+          "url": "https://wallstreetcn.com/livenews/3079106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "外国投资者3月创纪录抛售近120亿美元印度股票",
           "url": "https://flash.jin10.com/detail/20260330072147369800",
           "source": "金十数据",
@@ -508,15 +564,187 @@
           "time_info": "11时32分"
         },
         {
+          "title": "狂揽10亿美元！道达尔能源趁乱“做庄”原油，或创油市历史最大盈利",
+          "url": "https://flash.jin10.com/detail/20260330153921521800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "新台币兑美元下跌0.4%至32.008。",
           "url": "https://wallstreetcn.com/livenews/3078955",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时42分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 16时27分]"
+        },
+        {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 14时04分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22,
+            19,
+            24,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 16时27分]"
+        },
+        {
+          "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
+          "url": "https://www.zhihu.com/question/2019836769743423292",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时41分]"
+        },
+        {
+          "title": "雷军：小米AI人才招聘专项正式启动",
+          "url": "https://flash.jin10.com/detail/20260330160410563800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3078735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时42分]"
+        },
+        {
+          "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
+          "url": "https://wallstreetcn.com/livenews/3078783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时42分]"
+        },
+        {
+          "title": "奥尼电子：与沐曦股份联合开发沐曦桌面AI工作站系列产品",
+          "url": "https://flash.jin10.com/detail/20260330155102770800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "雷军：小米AI人才招聘专项正式启动",
+          "url": "https://wallstreetcn.com/livenews/3079092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "奥尼电子：与沐曦股份签署战略合作协议书，就沐曦桌面AI工作站等硬件产品进行全方位、多层次、长期稳固的合作，建立战略合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3079085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "AI生态爆发助推台积电 花旗看好2纳米制程统治力并上调目标价",
+          "url": "https://flash.jin10.com/detail/20260330105835392800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
@@ -556,11 +784,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 16时27分]"
         },
         {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
@@ -568,11 +797,24 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 16时27分]"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时04分]"
+          "time_info": "[14时04分 ~ 16时27分]"
         },
         {
           "title": "DeepSeek已恢复服务",
@@ -598,17 +840,6 @@
           "time_info": "11时32分"
         },
         {
-          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
-          "url": "https://www.zhihu.com/question/2021724542909903612",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
           "title": "DeepSeek服务恢复正常 此前崩溃约12小时",
           "url": "https://wallstreetcn.com/livenews/3078918",
           "source": "华尔街见闻-快讯",
@@ -626,120 +857,15 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时42分]"
-        },
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 14时04分]"
-        },
-        {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 14时04分]"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            22,
-            19,
-            24,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 14时04分]"
-        },
-        {
-          "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
-          "url": "https://www.zhihu.com/question/2019836769743423292",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时41分]"
-        },
-        {
-          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3078735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时42分]"
-        },
-        {
-          "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
-          "url": "https://wallstreetcn.com/livenews/3078783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时42分]"
-        },
-        {
-          "title": "AI生态爆发助推台积电 花旗看好2纳米制程统治力并上调目标价",
-          "url": "https://flash.jin10.com/detail/20260330105835392800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -759,11 +885,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时04分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 16时27分]"
         },
         {
           "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
@@ -790,6 +917,17 @@
           "time_info": "[06时41分 ~ 07时42分]"
         },
         {
+          "title": "中东局势升级，日韩股市收跌约3%，美股期货续跌跌势，布油一度涨破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
           "url": "https://flash.jin10.com/detail/20260330060152527800",
           "source": "金十数据",
@@ -799,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "美国铝业公司美股盘前涨近9%。",
+          "url": "https://wallstreetcn.com/livenews/3079101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美股未到“威利狼时刻”？三大支柱或筑牢市场防线",
@@ -824,7 +973,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
@@ -841,7 +990,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }

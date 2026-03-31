@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T11:23:04.010055+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-03-31T13:49:27.009264+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 13时49分]"
         },
         {
           "title": "WTI原油自2022年以来首次收于每桶100美元上方",
@@ -74,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 13时49分]"
         },
         {
           "title": "WTI原油日内涨幅达5.0%，报104.64美元/桶。",
@@ -153,7 +153,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -178,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "微软(MSFT.O)：计划到2028年为止在泰国云计算和人工智能基础设施领域投资超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260331131231740800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "WTI原油期货涨3.9%，刷新日高至103美元上方。",
@@ -290,6 +301,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "泰国政府：微软计划在泰国投资10亿美元，用于人工智能和云计算领域。",
+          "url": "https://wallstreetcn.com/livenews/3079834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "WTI原油日内大涨3.00%，现报104.56美元/桶。",
           "url": "https://flash.jin10.com/detail/20260331040121536800",
           "source": "金十数据",
@@ -351,7 +373,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -370,8 +392,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "中国台湾证交所加权股价指数收低2.4%报31,722.99点。",
+          "url": "https://wallstreetcn.com/livenews/3079862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
         {
           "title": "剑指SpaceX等独角兽！纳斯达克“快速纳入”指数新规5月1日生效",
           "url": "https://www.cls.cn/detail/2329564",
@@ -458,13 +491,24 @@
           "time_info": "[04时57分 ~ 05时54分]"
         },
         {
+          "title": "澳大利亚S&P/ASX200指数3月31日（周二）收盘上涨39.50点，涨幅0.47%，报8500.50点。",
+          "url": "https://flash.jin10.com/detail/20260331132030860800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "A股三大指数回落，沪指翻绿，深成指跌近1%，创业板指跌1.5%，全市场超3000家个股下跌。",
           "url": "https://flash.jin10.com/detail/20260331110139676800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -546,15 +590,37 @@
           "time_info": "07时46分"
         },
         {
+          "title": "恒生科技指数午后跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3079841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "截至早盘收盘，日经225指数跌0.1%，日本东证指数涨0.1%。",
           "url": "https://wallstreetcn.com/livenews/3079766",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "恒生科技指数跌超1%，此前涨1%。",
+          "url": "https://flash.jin10.com/detail/20260331130056525800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨1.2%，创3月10日以来最大单日涨幅，报359.19点。 在十个板块中，北欧金融板块涨幅最大。 挪威海德鲁涨9.5%，在一众北欧个股里领跑。",
@@ -574,7 +640,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -599,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数高开1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3079832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "德国DAX30指数3月30日（周一）收盘上涨247.94点，涨幅1.11%，报22563.18点；<br/>英国富时100指数3月30日（周一）收盘上涨164.92点，涨幅1.65%，报10132.27点；<br/>法国CAC40指数3月30日（周一）收盘上涨70.50点，涨幅0.92%，报7772.45点；<br/>欧洲斯托克50指数3月30日（周一）收盘上涨36.30点，涨幅0.66%，报5542.10点；<br/>西班牙IBEX35指数3月30日（周一）收盘上涨142.15点，涨幅0.84%，报16980.05点；<br/>意大利富时MIB指数3月30日（周一）收盘上涨446.40点，涨幅1.03%，报43825.50点。",
@@ -662,15 +739,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "中国汽车流通协会：3月中国汽车经销商库存预警指数为57.5%",
+          "url": "https://flash.jin10.com/detail/20260331124543661800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -679,11 +767,24 @@
           "ranks": [
             19,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 11时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 13时49分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时49分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -701,28 +802,6 @@
           "time_info": "[01时07分 ~ 07时46分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
-        },
-        {
           "title": "复旦教授解析AI冲击职场真相",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
           "source": "bilibili 热搜",
@@ -733,6 +812,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 07时46分]"
+        },
+        {
+          "title": "瑞银：中国市场调整或已过度 优质AI股票迎来布局窗口",
+          "url": "https://flash.jin10.com/detail/20260331133034033800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时49分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时49分]"
         },
         {
           "title": "文科生能吃到什么 ai 红利？",
@@ -752,17 +866,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
-        },
-        {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -803,13 +906,24 @@
           "time_info": "[11时22分 ~ 11时23分]"
         },
         {
+          "title": "瑞银：中国市场调整或已过度 优质AI股票迎来布局窗口",
+          "url": "https://wallstreetcn.com/livenews/3079855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "中兴通讯：正与字节跳动等生态伙伴深化合作，推进新一代豆包AI手机研发与落地",
           "url": "https://wallstreetcn.com/livenews/3079776",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -825,13 +939,24 @@
           "time_info": "06时49分"
         },
         {
+          "title": "AI演员 拼尸块",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E6%8B%BC%E5%B0%B8%E5%9D%97&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "中兴通讯：正与字节跳动等生态伙伴深化合作 推进新一代豆包AI手机研发与落地",
           "url": "https://flash.jin10.com/detail/20260331105022459800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -842,7 +967,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
@@ -878,6 +1003,20 @@
           "time_info": "[01时07分 ~ 07时46分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
+          "url": "https://www.cls.cn/detail/2329769",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时49分 ~ 13时49分]"
+        },
+        {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
@@ -887,19 +1026,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 04时57分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
-          "url": "https://www.cls.cn/detail/2329769",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时49分 ~ 11时23分]"
         },
         {
           "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
@@ -927,6 +1053,18 @@
           "time_info": "[04时57分 ~ 05时54分]"
         },
         {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时49分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
           "url": "https://wallstreetcn.com/livenews/3079578",
           "source": "华尔街见闻-快讯",
@@ -937,17 +1075,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 06时49分]"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
         },
         {
           "title": "美股三大指数高开 爱奇艺涨超12%",
@@ -1009,7 +1136,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "猪肉价格为何下跌",
@@ -1048,6 +1175,18 @@
           "time_info": "[01时07分 ~ 07时46分]"
         },
         {
+          "title": "内存价格大跳水原因找到了",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时49分]"
+        },
+        {
           "title": "周一（3月30日），彭博电动汽车价格回报指数跌1.19%，报3541.90点。",
           "url": "https://wallstreetcn.com/livenews/3079566",
           "source": "华尔街见闻-快讯",
@@ -1072,17 +1211,6 @@
           "time_info": "[05时54分 ~ 06时49分]"
         },
         {
-          "title": "内存价格大跳水原因找到了",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
-        },
-        {
           "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3079624",
           "source": "华尔街见闻-快讯",
@@ -1092,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "伊朗石油部长：伊朗石油的折扣大幅减少，而平均销售价格则大幅上升。",
+          "url": "https://wallstreetcn.com/livenews/3079854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "美联储威廉姆斯：能源价格的经济影响前景取决于市场定价水平。",
@@ -1141,7 +1280,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -1151,8 +1290,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 13时49分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -1176,6 +1315,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时54分]"
+        },
+        {
+          "title": "820亿美元出逃！美伊开战一月多国狂抛美债",
+          "url": "https://flash.jin10.com/detail/20260331131540920800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },

@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-01T21:59:42.578502+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-04-01T23:21:01.706481+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "指数",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "【每日收评】三大指数均涨超1%，医药板块持续爆发，科技股集体回暖",
+          "url": "https://www.cls.cn/detail/2332093",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 23时21分]"
+        },
         {
           "title": "巴基斯坦KSE-30指数上涨6%，触发交易暂停。",
           "url": "https://wallstreetcn.com/livenews/3080747",
@@ -17,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "标普500指数日内涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20260401230338322800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "日本一季度短观大型制造业前景指数 14，预期 12，前值 15。",
@@ -61,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "标普500指数涨幅扩大至1%，工业板块目前涨2.1%，电信、科技、可选消费、原材料板块至少涨1.3%，能源板块重挫3.8%。 道指目前涨418点、涨幅0.9%，纳指涨314点、涨幅1.4%，生物科技指数涨1%，半导体指数涨3.6%，银行指数涨1.7%，罗素2000指数也涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3081001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "韩国KOSPI指数尾盘大涨9%，现报5507.50点。日经225指数日内大涨5.00%，现报53625.91点。",
@@ -173,19 +209,6 @@
           "time_info": "14时02分"
         },
         {
-          "title": "【每日收评】三大指数均涨超1%，医药板块持续爆发，科技股集体回暖",
-          "url": "https://www.cls.cn/detail/2332093",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时59分]"
-        },
-        {
           "title": "新兴市场股票指数在3月份累计下跌13%，创六年来最差单月表现。",
           "url": "https://wallstreetcn.com/livenews/3080367",
           "source": "华尔街见闻-快讯",
@@ -281,7 +304,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -325,7 +348,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -435,7 +458,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -490,7 +513,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -575,7 +598,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
@@ -589,6 +612,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时10分 ~ 16时20分]"
+        },
+        {
+          "title": "美伊释放停战信号，纳指涨超1%，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         },
         {
           "title": "布伦特原油转跌，下破102美元/桶，最低至101.78美元/桶。",
@@ -646,6 +680,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "墨西哥央行民调：私营部门分析师预计2026年底整体通胀率为4.21%，上一期调查为4.0%；预计2026年GDP增长率为1.49%，上一期调查为1.50%；预计2026年底汇率为1美元兑18.10墨西哥比索，与上一期调查持平；预计2026年底基准利率为6.50%，与上一期调查持平。",
+          "url": "https://flash.jin10.com/detail/20260401230208979800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "LME期铜收涨112美元，报12336美元/吨。 LME期铝收涨66美元，报3467美元/吨。 LME期锌收涨44美元，报3226美元/吨。 LME期铅收跌6美元，报1903美元/吨。 LME期镍收跌153美元，报17110美元/吨。 LME期锡收涨13美元，报46747美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3080297",
           "source": "华尔街见闻-快讯",
@@ -663,7 +708,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -956,7 +1001,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1022,7 +1067,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1052,21 +1097,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时43分 ~ 21时59分]"
-        },
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
           "url": "https://wallstreetcn.com/articles/3768819",
@@ -1075,8 +1107,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时02分 ~ 21时59分]"
+          "appearance_count": 10,
+          "time_info": "[08时02分 ~ 23时21分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[06时43分 ~ 23时21分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -1159,7 +1205,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1170,7 +1216,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1192,7 +1238,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1208,6 +1254,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时10分 ~ 04时53分]"
+        },
+        {
+          "title": "美股三大指数高开 耐克跌超12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         },
         {
           "title": "美股三大股指悉数收高",
@@ -1282,7 +1339,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1315,7 +1372,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1392,7 +1449,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1414,7 +1471,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
@@ -1425,16 +1482,30 @@
       "match_count": 28,
       "titles": [
         {
+          "title": "下周国内成品油价格将调整",
+          "url": "https://www.douyin.com/hot/2451393",
+          "source": "抖音",
+          "ranks": [
+            8,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 23时21分]"
+        },
+        {
           "title": "内存条价格大跳水",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4",
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 23时21分]"
         },
         {
           "title": "美国加州柴油价格再创历史新高",
@@ -1446,19 +1517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
-        },
-        {
-          "title": "下周国内成品油价格将调整",
-          "url": "https://www.douyin.com/hot/2451393",
-          "source": "抖音",
-          "ranks": [
-            8,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时59分]"
         },
         {
           "title": "现货价格",
@@ -1668,7 +1726,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1742,7 +1800,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -1755,11 +1813,12 @@
             20,
             24,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时10分 ~ 21时59分]"
+          "appearance_count": 17,
+          "time_info": "[01时10分 ~ 23时21分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -1798,6 +1857,18 @@
           "time_info": "08时02分"
         },
         {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时57分 ~ 23时21分]"
+        },
+        {
           "title": "AI清明短片《纸手机》爆火",
           "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -1808,17 +1879,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时13分 ~ 19时58分]"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 21时59分]"
         },
         {
           "title": "UP主用AI还原奶奶的笑脸",
@@ -1855,6 +1915,17 @@
           "time_info": "[19时57分 ~ 19时58分]"
         },
         {
+          "title": "如果 AI 能提供完美情绪价值，人需要 / 不需要真实的关系？",
+          "url": "https://www.zhihu.com/question/2021960266758317386",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
           "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
           "url": "https://www.zhihu.com/question/2021882744435646530",
           "source": "知乎",
@@ -1864,6 +1935,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时51分]"
+        },
+        {
+          "title": "OpenAI二级市场失宠 投资者蜂拥转投Anthropic",
+          "url": "https://flash.jin10.com/detail/20260401225643648800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "重仓“隐藏款”浮出水面，基金经理沿AI主线布局",
@@ -1955,7 +2037,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1966,7 +2048,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1977,7 +2059,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1999,7 +2081,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },

@@ -1,11 +1,436 @@
 {
-  "generated_at": "2026-04-01T11:35:43.612791+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-04-01T14:02:22.086357+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "指数",
+      "match_count": 38,
+      "titles": [
+        {
+          "title": "日本一季度短观大型制造业前景指数 14，预期 12，前值 15。",
+          "url": "https://wallstreetcn.com/livenews/3080457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "上证指数早盘收报3944.80点，涨1.36%。 深证成指早盘收报13640.05点，涨1.20%。 创业板指早盘收报3222.59点，涨1.18%。 沪深300早盘收报4513.65点，涨1.43%。 科创50早盘收报1293.48点，涨2.96%。 中证500早盘收报7714.32点，涨1.27%。 中证1000早盘收报7726.62点，涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3080588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内大跌近15%。",
+          "url": "https://wallstreetcn.com/livenews/3080645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "韩国KOSPI指数尾盘大涨9%，现报5507.50点。日经225指数日内大涨5.00%，现报53625.91点。",
+          "url": "https://flash.jin10.com/detail/20260401134727898800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "日本一季度短观大型非制造业景气判断指数 36，预期 33，前值 34。",
+          "url": "https://wallstreetcn.com/livenews/3080456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "4月1日午间收评：三大指数均涨超1%，创新药、太空光伏概念集体走强",
+          "url": "https://wallstreetcn.com/livenews/3080587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "日本一季度短观大型非制造业前景指数 29，预期 27，前值 28。",
+          "url": "https://wallstreetcn.com/livenews/3080455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "日经225指数日内涨幅扩大至5%。 韩国首尔综指尾盘大涨9%，现报5507.50点。",
+          "url": "https://wallstreetcn.com/livenews/3080641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内下跌302.7点，现报2122.0点，跌幅12.48%。",
+          "url": "https://flash.jin10.com/detail/20260401134439550800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "日本一季度短观大型制造业景气判断指数 17，预期 16，前值 15。",
+          "url": "https://wallstreetcn.com/livenews/3080454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内跌超12%，现报2122.0点。",
+          "url": "https://wallstreetcn.com/livenews/3080640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "新兴市场股票指数在3月份累计下跌13%，创六年来最差单月表现。",
+          "url": "https://wallstreetcn.com/livenews/3080367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时51分]"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高4.6%报33,174.82点。",
+          "url": "https://wallstreetcn.com/livenews/3080638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "道指狂飙超千点，纳指涨超3.3%，半导体指数涨5%",
+          "url": "https://wallstreetcn.com/livenews/3080293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数4月1日（周三）开盘上涨139.60点，涨幅1.65%，报8621.40点。",
+          "url": "https://flash.jin10.com/detail/20260401071010457800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内下跌11.00%，现报2155.0点。",
+          "url": "https://flash.jin10.com/detail/20260401134142305800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内跌超10%，现报2180.1点。",
+          "url": "https://wallstreetcn.com/livenews/3080636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "金十图示：2026年03月31日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260401040555546800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "道琼斯指数3月31日（周二）收盘上涨1125.07点，涨幅2.49%，报46341.21点；<br/>标普500指数3月31日（周二）收盘上涨184.75点，涨幅2.91%，报6528.47点；<br/>纳斯达克综合指数3月31日（周二）收盘上涨795.99点，涨幅3.83%，报21590.63点。",
+          "url": "https://flash.jin10.com/detail/20260401040518790800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "韩国交易所启动KOSDAQ指数熔断机制 ，此前KOSDAQ150指数期货上涨6％，程序化交易暂停5分钟。",
+          "url": "https://wallstreetcn.com/livenews/3080629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
+          "url": "https://flash.jin10.com/detail/20260401060121394800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "台湾加权指数4月1日（周三）收盘上涨1451.83点，涨幅4.58%，报33174.82点。",
+          "url": "https://flash.jin10.com/detail/20260401133532650800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "标普500指数目前涨2.3%，伊朗外长告诉半岛电视台：“在与美国交换信息，没有进行对话”。",
+          "url": "https://wallstreetcn.com/livenews/3080318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块收涨4.42%，信息技术/科技板块涨4.24%，可选消费板块涨3.28%表现第三，能源板块跌1.12%——创最近三周最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3080356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "MSCI亚太指数大涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3080568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "澳大利亚3月AIG建筑业表现指数 -31.4，前值-8.2。",
+          "url": "https://flash.jin10.com/detail/20260401060044293800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内跌超10%，现报2180.1点。",
+          "url": "https://flash.jin10.com/detail/20260401133128062800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨2.80%，报6753.34点，3月份累计下跌7.20%，一季度累计下跌10.31%。 ETF中，中国科技指数ETF（CQQQ）收涨2.91%，一季度累跌11.50%； 中概互联网指数ETF（KWEB）收涨2.34%，一季度累跌16.51%； 德银嘉实沪深300指数ETF（ASHR）收涨1.33%，一季度累跌0.64%； XtrackersHarvest中证50（ASHS）收涨0.31%，一季度累涨4.66%。",
+          "url": "https://wallstreetcn.com/livenews/3080353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "3月份，标普累跌约5.1%、能源板块涨10%，道指跌约5.5%，纳指跌4.8%，半导体指数跌6.5%，银行指数跌3.1%，科技股七巨头指数跌7.9%。 一季度，标普累跌4.6%，道指累跌3.7%，纳指累跌7.2%。 周二当天，标普500指数初步收 %，电信板块涨4.3%，科技板块涨4.1%，可选消费板块涨3.2%，能源板块跌1.2%。 纳斯达克100指数初步收 %，成分股中，迈威尔科技/美满科技涨12.8%，Arm控股涨10.5%，MPWR涨9.3%，希捷科技涨8%，西部数据涨7.5%，T-Mobile跌1.8%，特许通讯跌2.3%，核电股CEG跌6.5%。",
+          "url": "https://wallstreetcn.com/livenews/3080350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周二（3月31日），南非富时/JSE非洲领先40可交易指数收涨1.57%，报逼近10.65万点，3月份累跌11.64%，一季度累跌1.56%。",
+          "url": "https://wallstreetcn.com/livenews/3080312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数涨4%，东证指数涨3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3080559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数日内涨幅扩大至2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3080616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "微软(MSFT.O)第一季度暴跌23%，领跌科技同行及纳斯达克指数，为自2008年金融危机以来最差单季表现。",
+          "url": "https://flash.jin10.com/detail/20260401043020165800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "金十图示：2026年03月31日（周二）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260401042731923800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.9%，报362.26点。 在十个板块中，北欧工业板块涨幅最大。 应用工具制造商Sandvik AB（山特维克）涨3.4%，对指数上涨的贡献最大；博利登Boliden AB涨4.7%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3080273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨0.75%，报22731.41点，3月份累跌约10%。 法国股指初步收涨0.77%，意大利股指初步收涨1.23%、银行指数涨1.40%，英国股指初步收涨0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3080270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收涨0.66%，报584.55点，3月份累跌约7.8%。 欧元区STOXX 50指数初步收涨0.84%，报5588.14点，3月份累跌约9%。 富时泛欧绩优300指数初步收涨0.65%，报2333.60点。",
+          "url": "https://wallstreetcn.com/livenews/3080269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨1.76%，报25191点。 恒生科技指数主连夜盘收涨2.69%，报4764点。",
+          "url": "https://wallstreetcn.com/livenews/3080337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
@@ -17,8 +442,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 11时35分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 14时02分]"
+        },
+        {
+          "title": "布伦特原油转跌，下破102美元/桶，最低至101.78美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260401135030729800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "巴西雷亚尔对美元上涨1%。",
@@ -41,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达0.5%，报103.34美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3080643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "LME期铜收涨112美元，报12336美元/吨。 LME期铝收涨66美元，报3467美元/吨。 LME期锌收涨44美元，报3226美元/吨。 LME期铅收跌6美元，报1903美元/吨。 LME期镍收跌153美元，报17110美元/吨。 LME期锡收涨13美元，报46747美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -89,6 +536,18 @@
           "time_info": "[04时53分 ~ 05时51分]"
         },
         {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时02分]"
+        },
+        {
           "title": "Beyond Meat第四财季净营收6160万美元，分析师预期6290万美元。",
           "url": "https://wallstreetcn.com/livenews/3080362",
           "source": "华尔街见闻-快讯",
@@ -99,6 +558,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时51分]"
+        },
+        {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时02分]"
         },
         {
           "title": "耐克第三财季营收112.8亿美元，分析师预期112.4亿美元。 第三财季库存74.9亿美元，分析师预期75.3亿美元。 第三财季毛利润率40.2%，分析师预期39.8%。 第三财季耐克品牌总体营收110.1亿美元，分析师预期109.4亿美元。 第三财季每股收益（EPS）为0.35美元，分析师预期0.31美元。 第三财季大中华区EBIT为4.67亿美元，分析师预期2.695亿美元。",
@@ -157,17 +628,6 @@
           "time_info": "04时53分"
         },
         {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
           "title": "美元指数DXY短线走低30点，现报99.89。",
           "url": "https://flash.jin10.com/detail/20260401004336266800",
           "source": "金十数据",
@@ -177,17 +637,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
         },
         {
           "title": "周二（3月31日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8892元，较周一纽约尾盘271点，日内整体交投于6.9216-6.8866元区间。",
@@ -262,7 +711,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -306,7 +755,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -346,299 +795,6 @@
       ]
     },
     {
-      "keyword_group": "指数",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "日本一季度短观大型制造业前景指数 14，预期 12，前值 15。",
-          "url": "https://wallstreetcn.com/livenews/3080457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "上证指数早盘收报3944.80点，涨1.36%。 深证成指早盘收报13640.05点，涨1.20%。 创业板指早盘收报3222.59点，涨1.18%。 沪深300早盘收报4513.65点，涨1.43%。 科创50早盘收报1293.48点，涨2.96%。 中证500早盘收报7714.32点，涨1.27%。 中证1000早盘收报7726.62点，涨1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3080588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "日本一季度短观大型非制造业景气判断指数 36，预期 33，前值 34。",
-          "url": "https://wallstreetcn.com/livenews/3080456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "4月1日午间收评：三大指数均涨超1%，创新药、太空光伏概念集体走强",
-          "url": "https://wallstreetcn.com/livenews/3080587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "日本一季度短观大型非制造业前景指数 29，预期 27，前值 28。",
-          "url": "https://wallstreetcn.com/livenews/3080455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "日本一季度短观大型制造业景气判断指数 17，预期 16，前值 15。",
-          "url": "https://wallstreetcn.com/livenews/3080454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "新兴市场股票指数在3月份累计下跌13%，创六年来最差单月表现。",
-          "url": "https://wallstreetcn.com/livenews/3080367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时51分]"
-        },
-        {
-          "title": "道指狂飙超千点，纳指涨超3.3%，半导体指数涨5%",
-          "url": "https://wallstreetcn.com/livenews/3080293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数4月1日（周三）开盘上涨139.60点，涨幅1.65%，报8621.40点。",
-          "url": "https://flash.jin10.com/detail/20260401071010457800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "金十图示：2026年03月31日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260401040555546800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "道琼斯指数3月31日（周二）收盘上涨1125.07点，涨幅2.49%，报46341.21点；<br/>标普500指数3月31日（周二）收盘上涨184.75点，涨幅2.91%，报6528.47点；<br/>纳斯达克综合指数3月31日（周二）收盘上涨795.99点，涨幅3.83%，报21590.63点。",
-          "url": "https://flash.jin10.com/detail/20260401040518790800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
-          "url": "https://flash.jin10.com/detail/20260401060121394800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "标普500指数目前涨2.3%，伊朗外长告诉半岛电视台：“在与美国交换信息，没有进行对话”。",
-          "url": "https://wallstreetcn.com/livenews/3080318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "标普500指数的11个板块中，电信板块收涨4.42%，信息技术/科技板块涨4.24%，可选消费板块涨3.28%表现第三，能源板块跌1.12%——创最近三周最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3080356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "MSCI亚太指数大涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3080568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "澳大利亚3月AIG建筑业表现指数 -31.4，前值-8.2。",
-          "url": "https://flash.jin10.com/detail/20260401060044293800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨2.80%，报6753.34点，3月份累计下跌7.20%，一季度累计下跌10.31%。 ETF中，中国科技指数ETF（CQQQ）收涨2.91%，一季度累跌11.50%； 中概互联网指数ETF（KWEB）收涨2.34%，一季度累跌16.51%； 德银嘉实沪深300指数ETF（ASHR）收涨1.33%，一季度累跌0.64%； XtrackersHarvest中证50（ASHS）收涨0.31%，一季度累涨4.66%。",
-          "url": "https://wallstreetcn.com/livenews/3080353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "3月份，标普累跌约5.1%、能源板块涨10%，道指跌约5.5%，纳指跌4.8%，半导体指数跌6.5%，银行指数跌3.1%，科技股七巨头指数跌7.9%。 一季度，标普累跌4.6%，道指累跌3.7%，纳指累跌7.2%。 周二当天，标普500指数初步收 %，电信板块涨4.3%，科技板块涨4.1%，可选消费板块涨3.2%，能源板块跌1.2%。 纳斯达克100指数初步收 %，成分股中，迈威尔科技/美满科技涨12.8%，Arm控股涨10.5%，MPWR涨9.3%，希捷科技涨8%，西部数据涨7.5%，T-Mobile跌1.8%，特许通讯跌2.3%，核电股CEG跌6.5%。",
-          "url": "https://wallstreetcn.com/livenews/3080350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（3月31日），南非富时/JSE非洲领先40可交易指数收涨1.57%，报逼近10.65万点，3月份累跌11.64%，一季度累跌1.56%。",
-          "url": "https://wallstreetcn.com/livenews/3080312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "截至早盘收盘，日经225指数涨4%，东证指数涨3.8%。",
-          "url": "https://wallstreetcn.com/livenews/3080559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "微软(MSFT.O)第一季度暴跌23%，领跌科技同行及纳斯达克指数，为自2008年金融危机以来最差单季表现。",
-          "url": "https://flash.jin10.com/detail/20260401043020165800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "金十图示：2026年03月31日（周二）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260401042731923800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.9%，报362.26点。 在十个板块中，北欧工业板块涨幅最大。 应用工具制造商Sandvik AB（山特维克）涨3.4%，对指数上涨的贡献最大；博利登Boliden AB涨4.7%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3080273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "德国DAX 30指数初步收涨0.75%，报22731.41点，3月份累跌约10%。 法国股指初步收涨0.77%，意大利股指初步收涨1.23%、银行指数涨1.40%，英国股指初步收涨0.73%。",
-          "url": "https://wallstreetcn.com/livenews/3080270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收涨0.66%，报584.55点，3月份累跌约7.8%。 欧元区STOXX 50指数初步收涨0.84%，报5588.14点，3月份累跌约9%。 富时泛欧绩优300指数初步收涨0.65%，报2333.60点。",
-          "url": "https://wallstreetcn.com/livenews/3080269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨1.76%，报25191点。 恒生科技指数主连夜盘收涨2.69%，报4764点。",
-          "url": "https://wallstreetcn.com/livenews/3080337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 24,
       "titles": [
@@ -662,8 +818,35 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 11时35分]"
+          "appearance_count": 5,
+          "time_info": "[06时43分 ~ 14时02分]"
+        },
+        {
+          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
+          "url": "https://www.cls.cn/detail/2331277",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时51分 ~ 14时02分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时43分 ~ 14时02分]"
         },
         {
           "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
@@ -680,31 +863,27 @@
           "time_info": "[01时10分 ~ 08时02分]"
         },
         {
-          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
-          "url": "https://www.cls.cn/detail/2331277",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时51分 ~ 11时35分]"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 14时02分]"
+        },
+        {
+          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
+          "url": "https://www.cls.cn/detail/2331350",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 14时02分]"
         },
         {
           "title": "美伊结束冲突信号提振华尔街，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -716,29 +895,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 06时44分]"
-        },
-        {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 11时35分]"
-        },
-        {
-          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
-          "url": "https://www.cls.cn/detail/2331350",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 11时35分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -771,7 +927,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -903,7 +1059,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -922,8 +1078,20 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "内存条价格大跳水",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时02分]"
+        },
         {
           "title": "美国加州柴油价格再创历史新高",
           "url": "https://wallstreetcn.com/livenews/3080591",
@@ -931,7 +1099,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -945,17 +1113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "内存条价格大跳水",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
         },
         {
           "title": "中指研究院：3月百城二手房价格跌幅连续3个月收窄",
@@ -1027,6 +1184,17 @@
           "time_info": "06时44分"
         },
         {
+          "title": "印度国家证券交易所与印度天然气交易所合作，推出基于后者基准价格指数的衍生品。",
+          "url": "https://flash.jin10.com/detail/20260401134045398800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "3月上海上涨！百城二手房价格跌幅连续3个月收窄",
           "url": "https://wallstreetcn.com/livenews/3080449",
           "source": "华尔街见闻-快讯",
@@ -1044,7 +1212,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -1060,13 +1228,24 @@
           "time_info": "06时44分"
         },
         {
+          "title": "以色列上调燃油价格约15%",
+          "url": "https://wallstreetcn.com/livenews/3080622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "马来西亚能源委员会首席执行官：面临煤炭价格上涨，包括运输和保险费用的上涨。",
           "url": "https://flash.jin10.com/detail/20260401110924680800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -1088,7 +1267,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -1121,7 +1300,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
@@ -1137,11 +1316,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 11时35分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 14时02分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -1149,11 +1329,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 11时35分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 14时02分]"
         },
         {
           "title": "男子靠AI开一人公司年营收达150万",
@@ -1162,7 +1343,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -1176,6 +1357,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865901",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时02分]"
         },
         {
           "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
@@ -1200,24 +1393,13 @@
           "time_info": "06时44分"
         },
         {
-          "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865901",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
           "title": "英伟达再度动用“钞能力” 入股迈威尔科技并开展AI互联、硅光子合作",
           "url": "https://www.cls.cn/detail/2331128",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -1228,7 +1410,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -1297,25 +1479,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2022371409997947809",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
@@ -1327,6 +1492,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "港股人工智能板块午后冲高，智谱(02513.HK)涨近30%，MINIMAX-W(00100.HK)涨超16%，兆易创新(03986.HK)涨超8%，哔哩哔哩(09626.HK)涨超7%，百度(09888.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260401132954043800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2022371409997947809",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时02分]"
         }
       ]
     }

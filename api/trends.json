@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T06:51:17.912485+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-04-02T07:45:50.832516+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊释放停战信号，纳指涨超1%，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
@@ -26,11 +26,23 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
+        },
+        {
+          "title": "现货黄金盘中站上4800美元关口，日内涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3081162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8750元，较周二夜盘收盘涨131点。成交量494.04亿美元。",
@@ -57,6 +69,18 @@
           "time_info": "[03时16分 ~ 04时57分]"
         },
         {
+          "title": "现货白银日内跌幅达2.0%，报73.4美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时45分]"
+        },
+        {
           "title": "周三（4月1日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8774元，较周二纽约尾盘涨118点，日内整体交投于6.8909-6.8710元区间。",
           "url": "https://wallstreetcn.com/livenews/3081116",
           "source": "华尔街见闻-快讯",
@@ -67,6 +91,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时51分]"
+        },
+        {
+          "title": "纽约金日内跌幅达0.5%，报4781.9美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时45分]"
         },
         {
           "title": "WTI 5月原油期货收跌1.26美元，跌幅超过1.24%，报100.12美元/桶。 布伦特6月原油期货收跌2.81美元，跌幅超过2.70%，报101.16美元/桶。 中东Abu Dhabi Murban原油期货跌3.64%，报102.92美元/桶。 NYMEX 5月天然气期货收报2.8190美元/百万英热单位。 NYMEX 5月汽油期货收报3.0914美元/加仑，NYMEX 5月取暖油期货收报4.0568美元/加仑。",
@@ -105,17 +141,6 @@
           "time_info": "[05时53分 ~ 06时51分]"
         },
         {
-          "title": "现货白银日内跌幅达2.0%，报73.4美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
           "title": "钻探设备供应商HMH Holdings Inc.（HMH）美国IPO首日开盘破发，报18.90美元，此前给出的IPO发行价为每股20美元。",
           "url": "https://wallstreetcn.com/livenews/3081035",
           "source": "华尔街见闻-快讯",
@@ -125,17 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "纽约金日内跌幅达0.5%，报4781.9美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -160,13 +174,35 @@
           "time_info": "05时53分"
         },
         {
+          "title": "亚马逊洽谈90亿美元收购卫星集团GlobalStar。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3081149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "文件显示，英特尔(INTC.O)计划向人工智能芯片初创公司Sambanova Systems再投资1500万美元。",
+          "url": "https://flash.jin10.com/detail/20260402064514420800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "现货白银日内跌超2.00%，现报73.52美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260402060727987800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -188,7 +224,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -218,7 +254,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -243,6 +279,18 @@
           "time_info": "[05时53分 ~ 06时51分]"
         },
         {
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时45分]"
+        },
+        {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
@@ -256,6 +304,17 @@
           "time_info": "[01时07分 ~ 04时57分]"
         },
         {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股大类资产类ETF，能源业ETF跌超3.7%",
           "url": "https://wallstreetcn.com/livenews/3081109",
           "source": "华尔街见闻-快讯",
@@ -265,17 +324,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        },
-        {
-          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2332707",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
         },
         {
           "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
@@ -347,6 +395,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "GlobalStar美股盘后涨24%，报道称亚马逊洽谈按90亿美元收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3081151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260402003143069800",
           "source": "金十数据",
@@ -369,6 +428,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "全球星(GSAT.O)美股盘后涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260402064156553800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
           "url": "https://wallstreetcn.com/livenews/3081023",
           "source": "华尔街见闻-快讯",
@@ -386,7 +456,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         }
@@ -394,8 +464,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "澳大利亚S&P/ASX200指数4月2日（周四）开盘上涨32.60点，涨幅0.38%，报8704.40点。",
+          "url": "https://flash.jin10.com/detail/20260402071012812800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
         {
           "title": "金十图示：2026年04月01日（周三）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260402042406468800",
@@ -559,19 +640,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
-          "url": "https://wallstreetcn.com/livenews/3081142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
           "url": "https://www.zhihu.com/question/2022254775757009403",
@@ -579,11 +649,12 @@
           "ranks": [
             14,
             17,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -591,11 +662,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -605,8 +677,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
+        },
+        {
+          "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
+          "url": "https://wallstreetcn.com/livenews/3081142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时45分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -618,8 +702,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
@@ -627,11 +711,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时51分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时45分]"
         },
         {
           "title": "如何把 AI 训练成自己的「第二大脑」？",
@@ -654,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
+          "url": "https://www.zhihu.com/question/2011753780459300532",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         }
       ]
     },
@@ -667,11 +763,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "周三（4月1日）欧市尾盘，TTF基准荷兰天然气期货跌5.84%，报47.325欧元/兆瓦时，北京时间14:00显著下挫。 ICE欧盟碳排放交易许可（期货价格）涨2.97%，报73.59欧元/吨。 英国天然气期货没有交易数据。",
@@ -683,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 07时45分]"
         },
         {
           "title": "周三（4月1日），彭博电动汽车价格回报指数涨2.90%，报3619.76点，亚太盘初以来持续上涨，北京时间14:00过后持续高位窄幅震荡。 成分股Ola Electric Mobility Ltd.收涨13.55%，蔚来集团H股收涨10.31%，浙江零跑科技H股收涨9%表现第三，日本电产株式会社涨7.48%涨幅第五大，Panasonic株式会社涨7.29%表现靠前。 文远知行则跌2.7%，雅迪集团控股H股收跌2.72%，微宏控股跌3%。",
@@ -697,15 +805,16 @@
           "time_info": "[04时57分 ~ 05时53分]"
         },
         {
-          "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
-          "source": "澎湃新闻",
+          "title": "内存条价格大跳水",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时53分]"
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 07时45分]"
         },
         {
           "title": "德国国债价格高开低走",
@@ -728,23 +837,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "内存条价格大跳水",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
@@ -756,6 +854,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "韩国总统李在明：人工智能、核能、氢能技术是创新与韧性的关键，呼吁与法国就此展开合作。",
+          "url": "https://flash.jin10.com/detail/20260402064015575800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
@@ -779,11 +888,12 @@
           "url": "https://wallstreetcn.com/livenews/3081131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时45分]"
         }
       ]
     }

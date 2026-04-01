@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-01T14:02:22.086357+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-04-01T16:20:35.934014+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "指数",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "巴基斯坦KSE-30指数上涨6%，触发交易暂停。",
+          "url": "https://wallstreetcn.com/livenews/3080747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
         {
           "title": "日本一季度短观大型制造业前景指数 14，预期 12，前值 15。",
           "url": "https://wallstreetcn.com/livenews/3080457",
@@ -36,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数上涨5.1%，报156,582.50点。",
+          "url": "https://wallstreetcn.com/livenews/3080744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "韩国KOSPI指数尾盘大涨9%，现报5507.50点。日经225指数日内大涨5.00%，现报53625.91点。",
@@ -47,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -74,6 +96,17 @@
           "time_info": "11时35分"
         },
         {
+          "title": "香港恒生指数4月1日（周三）收盘上涨505.89点，涨幅2.04%，报25294.03点；<br/>香港恒生科技指数4月1日（周三）收盘上涨106.63点，涨幅2.29%，报4756.45点；<br/>国企指数4月1日（周三）收盘上涨130.51点，涨幅1.56%，报8504.81点；<br/>红筹指数4月1日（周三）收盘上涨56.33点，涨幅1.37%，报4176.39点。",
+          "url": "https://flash.jin10.com/detail/20260401161111249800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "日本一季度短观大型非制造业前景指数 29，预期 27，前值 28。",
           "url": "https://wallstreetcn.com/livenews/3080455",
           "source": "华尔街见闻-快讯",
@@ -91,9 +124,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "恒生指数收盘涨2.04%，恒生科技指数涨2.29%",
+          "url": "https://wallstreetcn.com/livenews/3080741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "集运指数（欧线）主力合约日内下跌302.7点，现报2122.0点，跌幅12.48%。",
@@ -102,7 +146,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -124,7 +168,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -147,7 +191,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -180,7 +224,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -191,7 +235,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -205,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "CBOE波动率指数跌至逾一周低点，最新下跌0.48点，报24.77点。",
+          "url": "https://flash.jin10.com/detail/20260401160817678800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "道琼斯指数3月31日（周二）收盘上涨1125.07点，涨幅2.49%，报46341.21点；<br/>标普500指数3月31日（周二）收盘上涨184.75点，涨幅2.91%，报6528.47点；<br/>纳斯达克综合指数3月31日（周二）收盘上涨795.99点，涨幅3.83%，报21590.63点。",
@@ -224,7 +279,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -246,7 +301,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -301,7 +356,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -339,6 +394,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "雅典证券交易所指数上涨4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3080724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "截至早盘收盘，日经225指数涨4%，东证指数涨3.8%。",
           "url": "https://wallstreetcn.com/livenews/3080559",
           "source": "华尔街见闻-快讯",
@@ -356,7 +422,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -430,7 +496,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
@@ -442,8 +508,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 14时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 16时20分]"
         },
         {
           "title": "布伦特原油转跌，下破102美元/桶，最低至101.78美元/桶。",
@@ -452,7 +518,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -485,7 +551,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -536,6 +602,18 @@
           "time_info": "[04时53分 ~ 05时51分]"
         },
         {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 16时20分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
           "url": "https://www.cls.cn/detail/2331334",
           "source": "财联社热门",
@@ -558,18 +636,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时51分]"
-        },
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 14时02分]"
         },
         {
           "title": "耐克第三财季营收112.8亿美元，分析师预期112.4亿美元。 第三财季库存74.9亿美元，分析师预期75.3亿美元。 第三财季毛利润率40.2%，分析师预期39.8%。 第三财季耐克品牌总体营收110.1亿美元，分析师预期109.4亿美元。 第三财季每股收益（EPS）为0.35美元，分析师预期0.31美元。 第三财季大中华区EBIT为4.67亿美元，分析师预期2.695亿美元。",
@@ -694,6 +760,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "澳元兑美元AUD/USD站上0.69，日内涨0.70%。",
           "url": "https://flash.jin10.com/detail/20260401034848142800",
           "source": "金十数据",
@@ -703,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "现货黄金日内涨幅达1.5%，报4737.51美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3080725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "白银极度虚值期权刷屏，押注银价年底涨至1000美元，分析师直呼骗局！",
@@ -796,7 +884,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -822,6 +910,30 @@
           "time_info": "[06时43分 ~ 14时02分]"
         },
         {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 16时20分]"
+        },
+        {
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 16时20分]"
+        },
+        {
           "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
           "url": "https://www.cls.cn/detail/2331277",
           "source": "财联社热门",
@@ -836,19 +948,6 @@
           "time_info": "[05时51分 ~ 14时02分]"
         },
         {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时43分 ~ 14时02分]"
-        },
-        {
           "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2330950",
           "source": "财联社热门",
@@ -861,17 +960,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 08时02分]"
-        },
-        {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 14时02分]"
         },
         {
           "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
@@ -930,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "耐克美股盘前跌超9%，此前公司意外下调第四财季销售额预期。",
+          "url": "https://wallstreetcn.com/livenews/3080739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "美股创下去年5月以来的最大单日涨幅 月线仍跌约5%",
@@ -1190,7 +1289,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -1234,7 +1333,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -1317,11 +1416,12 @@
           "ranks": [
             14,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 14时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 16时20分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -1330,11 +1430,12 @@
           "ranks": [
             22,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 14时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 16时20分]"
         },
         {
           "title": "男子靠AI开一人公司年营收达150万",
@@ -1429,7 +1530,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -1442,6 +1543,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 06时44分]"
+        },
+        {
+          "title": "瑞穗证券：如果伊朗局势趋稳 美债收益率的风险溢价有望进一步收窄",
+          "url": "https://wallstreetcn.com/livenews/3080740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "最重要的变化？美债“脱钩”，市场嗅到了“全球财政刺激”的味道",
@@ -1464,6 +1576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美债及欧洲国债全线上扬 市场猜测伊朗冲突或将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3080732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "2/10年期美债收益率周二跌超3个基点，两年期美债收益率在3月份累涨约42个基点",
@@ -1500,7 +1623,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         }
@@ -1516,11 +1639,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 16时20分]"
         }
       ]
     }

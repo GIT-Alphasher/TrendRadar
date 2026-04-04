@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T00:48:38.653283+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-05T01:41:07.651970+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时41分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -26,41 +26,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时41分]"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
           "url": "https://www.zhihu.com/question/2023363667584927528",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
-          "url": "https://www.zhihu.com/question/2023543499937576139",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时41分]"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E9%B8%A1%E7%85%B2%E5%BA%97%E8%80%81%E6%9D%BF%E7%B4%AF%E7%98%AB%E7%85%A7%E7%B3%BBAI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时41分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -68,6 +59,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时41分]"
+        },
+        {
+          "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
+          "url": "https://www.zhihu.com/question/2023543499937576139",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -87,8 +89,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时41分]"
         },
         {
           "title": "美国油价升至每加仑4.1美元 伊朗战争爆发后已上涨37%",
@@ -100,6 +102,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "布油价格创2008年来新高",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%83%E6%B2%B9%E4%BB%B7%E6%A0%BC%E5%88%9B2008%E5%B9%B4%E6%9D%A5%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
         }
       ]
     }

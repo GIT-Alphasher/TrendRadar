@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T07:40:39.868976+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-04-05T11:31:21.911716+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             1,
-            23
+            23,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时31分]"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
@@ -43,11 +44,12 @@
           "ranks": [
             12,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时31分]"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
@@ -82,9 +84,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "新型AI模型可通过血检识别多种神经退行性疾病",
+          "url": "https://wallstreetcn.com/livenews/3082524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "多部短剧AI角色“撞脸”易烊千玺，工作室声明：已委请律师开展维权工作",
+          "url": "https://wallstreetcn.com/livenews/3082517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
@@ -96,12 +120,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "易烊千玺方回应被AI短剧换脸",
+          "url": "https://www.baidu.com/s?wd=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E6%8D%A2%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "AI如何影响现代战争",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%8E%B0%E4%BB%A3%E6%88%98%E4%BA%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗号召民众找到美国飞行员就开枪，富商悬赏5万美元",
@@ -111,8 +157,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时31分]"
+        },
+        {
+          "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
+          "url": "https://wallstreetcn.com/articles/3769250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国油价升至每加仑4.1美元 伊朗战争爆发后已上涨37%",
@@ -129,7 +186,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "布油价格创2008年来新高",
@@ -145,6 +202,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时40分 ~ 06时40分]"
+        },
+        {
+          "title": "3月中国大宗商品价格指数环比上涨4%",
+          "url": "https://wallstreetcn.com/livenews/3082503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     }

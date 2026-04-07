@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T11:23:41.122035+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-04-07T13:52:17.715565+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "WTI 5月原油期货收涨涨0.87美元，涨幅将近0.78%，报112.41美元/桶。 布伦特6月原油期货收涨0.74美元，涨幅将近0.68%，报109.77美元/桶。 中东Abu Dhabi Murban原油期货涨2.69%，报117.93美元/桶。 NYMEX 5月天然气期货收报2.8110美元/百万英热单位。 NYMEX 5月汽油期货收报3.3082美元/加仑，NYMEX 5月取暖油期货收报4.3284美元/加仑。",
@@ -221,7 +221,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -243,7 +243,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -281,6 +281,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "WTI原油期货站上116美元/桶关口，日内涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3083142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "以太坊短线从2160美元上方回落至接近2131美元的水平，日内涨幅收窄至3.4%。",
           "url": "https://wallstreetcn.com/livenews/3082908",
           "source": "华尔街见闻-快讯",
@@ -290,13 +301,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "据英国金融时报：美国战略与国际研究中心的高级国防与安全顾问Mark Cancian表示，他估计这场行动每天给美国带来的成本约为五亿美元。",
+          "url": "https://flash.jin10.com/detail/20260407131059081800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "中国台湾证交所加权股价指数收高2%报33,229.82点。",
+          "url": "https://wallstreetcn.com/livenews/3083175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
         {
           "title": "标普道琼斯指数公司：Casey’s General Stores Inc.（CASY）将被纳入标普500指数。",
           "url": "https://wallstreetcn.com/livenews/3082982",
@@ -381,15 +414,37 @@
           "time_info": "01时02分"
         },
         {
+          "title": "A股三大指数午后集体翻绿，保险、银行、贵金属、白酒等板块跌幅居前，沪深京三市下跌个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3083168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "截至早盘收盘，日经225指数下跌0.2%，东证指数下跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3083108",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "台湾加权指数4月7日（周二）收盘上涨657.39点，涨幅2.02%，报33229.82点。",
+          "url": "https://flash.jin10.com/detail/20260407133510807800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "标普500指数涨幅重新收窄至不足0.1%。 美国总统特朗普继续宣称，无法让伊朗拥有核武器。 伊朗人“想要我们继续轰炸”。 美军飞行员被手持肩扛式导弹击中。 不希望库尔德武装参与（伊朗战争）。 希望“我不必袭击伊朗发电站和基础设施”。 被问及是否会缩减战争规模，称“我无法告诉你们”。 被问及战争结束问题，称“取决于伊朗的行动”。 伊朗正在真诚地谈判。",
@@ -414,13 +469,24 @@
           "time_info": "04时50分"
         },
         {
+          "title": "巴基斯坦KSE-100指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3083148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "A股三大指数集体高开",
           "url": "https://www.toutiao.com/trending/7625487620486742043/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -442,7 +508,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -464,7 +530,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -475,7 +541,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
@@ -483,7 +549,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -589,6 +655,17 @@
           "time_info": "[06时49分 ~ 07时46分]"
         },
         {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 13时52分]"
+        },
+        {
           "title": "公司用AI复刻离职员工继续工作",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%94%A8AI%E5%A4%8D%E5%88%BB%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E7%BB%A7%E7%BB%AD%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -606,18 +683,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
-          "url": "https://www.zhihu.com/question/667901263",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -633,13 +699,24 @@
           "time_info": "07时46分"
         },
         {
+          "title": "芭比大战AI偶像",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "Sand.ai旗下产品VidMuse ARR最快破千万美金，公司完成新一轮超五千万美金融资",
           "url": "https://wallstreetcn.com/livenews/3083088",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -688,11 +765,24 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 11时23分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 13时52分]"
+        },
+        {
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 13时52分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -704,18 +794,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时45分 ~ 11时23分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股盘中）",
@@ -738,6 +816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
+          "url": "https://www.cls.cn/detail/2335967",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 13时52分]"
         },
         {
           "title": "布油基金收涨1%，和新兴市场ETF领涨美股大类资产类ETF",
@@ -788,17 +877,6 @@
           "time_info": "[04时50分 ~ 05时47分]"
         },
         {
-          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
-          "url": "https://www.cls.cn/detail/2335967",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
           "url": "https://flash.jin10.com/detail/20260407040042993800",
           "source": "金十数据",
@@ -824,7 +902,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "伟星新材：主要产品原材料价格均有不同程度上涨",
@@ -833,7 +911,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -864,13 +942,35 @@
           "time_info": "[04时50分 ~ 06时49分]"
         },
         {
+          "title": "内存价格要上天！三星Q1营利暴增八倍 Q2将再提价30%",
+          "url": "https://www.cls.cn/detail/2336052",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "通胀压力飙升！美国3月ISM服务业PMI回落至54，支付价格创近三年新高",
+          "url": "https://wallstreetcn.com/articles/3769325",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "摩根大通顶级策略师警告：伊朗局势冲击能源价格，美国难独善其身！",
           "url": "https://flash.jin10.com/detail/20260407104559139800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -892,9 +992,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "印尼上调燃油附加费和机票价格应对高油价",
+          "url": "https://wallstreetcn.com/livenews/3083135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "金十期货4月7日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格与上日持平，中间价报158000元/吨。",
@@ -903,7 +1014,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }

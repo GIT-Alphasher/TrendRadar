@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T06:20:44.773189+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-04-08T06:51:24.392193+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "黑石机会型信贷基金募资达到100亿美元上限",
@@ -19,15 +19,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "现货白银日内涨幅扩大至1.00%，现报73.74美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260408060207819800",
+          "title": "WTI原油日内重挫7.00%，现报102.60美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260408063554397800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "06时51分"
         },
         {
           "title": "美元指数7日下跌",
@@ -39,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
-        },
-        {
-          "title": "现货黄金盘初站上4740美元/盎司，日内涨0.87%。",
-          "url": "https://flash.jin10.com/detail/20260408060114230800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
         },
         {
           "title": "伊朗战争升级，贝莱德印度ETF遭遇数十亿美元资金外流",
@@ -74,26 +63,88 @@
           "time_info": "03时18分"
         },
         {
+          "title": "现货白银日内涨幅扩大至1.00%，现报73.74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260408060207819800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
+        },
+        {
+          "title": "现货黄金盘初站上4740美元/盎司，日内涨0.87%。",
+          "url": "https://flash.jin10.com/detail/20260408060114230800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
+        },
+        {
           "title": "达美航空、美国西南航空加入同行阵列，因航油飙升将托运行李费上调10美元",
           "url": "https://wallstreetcn.com/livenews/3083736",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
         },
         {
           "title": "布伦特原油5分钟内上涨0.52美元/桶，报103.61美元/桶。 伊朗驻巴基斯坦大使发表了一条含义模糊的信息，内容是：“目前，我们已经从关键敏感阶段向前迈进了一步……下一阶段，尊重和礼节将被辞令和冗余所取代。敬请期待……。”",
           "url": "https://wallstreetcn.com/livenews/3083735",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
+        },
+        {
+          "title": "WTI原油盘初跌破108美元/桶，日内跌2.15%。",
+          "url": "https://flash.jin10.com/detail/20260408060045356800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
+        },
+        {
+          "title": "周二（4月7日）纽约尾盘，欧元兑美元涨0.50%，英镑兑美元涨0.44%，美元兑瑞郎跌0.05%。 商品货币对中，澳元兑美元涨0.92%，纽元兑美元涨0.24%，美元兑加元跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3083733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
+        },
+        {
+          "title": "周二（4月7日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8554元，较周一纽约尾盘涨193点，日内整体交投于6.8837-6.8537元区间。",
+          "url": "https://wallstreetcn.com/livenews/3083726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
         },
         {
           "title": "美国2月消费信贷 94.8亿美元，预期102.5亿美元，前值由80.5亿美元修正为76.7亿美元。",
@@ -107,17 +158,6 @@
           "time_info": "03时18分"
         },
         {
-          "title": "WTI原油盘初跌破108美元/桶，日内跌2.15%。",
-          "url": "https://flash.jin10.com/detail/20260408060045356800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
           "title": "PIMCO考虑为甲骨文数据中心提供大约140亿美元债务融资，该公司正与美国银行洽谈。",
           "url": "https://wallstreetcn.com/livenews/3083669",
           "source": "华尔街见闻-快讯",
@@ -127,17 +167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "周二（4月7日）纽约尾盘，欧元兑美元涨0.50%，英镑兑美元涨0.44%，美元兑瑞郎跌0.05%。 商品货币对中，澳元兑美元涨0.92%，纽元兑美元涨0.24%，美元兑加元跌0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3083733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
         },
         {
           "title": "Pimco考虑为甲骨文数据中心提供140亿美元的债务融资",
@@ -173,6 +202,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "纽约银日内涨幅达3.0%，报74.18美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3083740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "布伦特原油期货目前跌3.16%，报106.30美元，此前（布油收盘之后）一度跳水至104.76美元。 据福克斯新闻： 特朗普拒就巴基斯坦提出的两周期限置评，特朗普称不便发表评论，因为目前我们正处于激烈谈判中。",
           "url": "https://wallstreetcn.com/livenews/3083705",
           "source": "华尔街见闻-快讯",
@@ -182,17 +222,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
-        },
-        {
-          "title": "周二（4月7日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8554元，较周一纽约尾盘涨193点，日内整体交投于6.8837-6.8537元区间。",
-          "url": "https://wallstreetcn.com/livenews/3083726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
         },
         {
           "title": "EIA短期能源展望报告：预计布伦特原油与WTI原油价差将在4月达到每桶15美元的峰值，届时中东原油供应中断将达到最大。",
@@ -234,7 +263,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -278,7 +307,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -319,7 +348,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "国家继续出手调控油价，国内成品油价格适当调整",
@@ -330,8 +359,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时51分]"
         },
         {
           "title": "今晚油价上调 国家继续实施成品油价格调控",
@@ -341,8 +370,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时51分]"
         },
         {
           "title": "国际石油价格还会继续上涨吗？",
@@ -355,8 +384,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时51分]"
         },
         {
           "title": "美国交通部长Duffy：更高的航空燃油价格是一个短期问题。",
@@ -368,6 +397,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "半导体掀全产业链涨价潮，行业从价格战转向利润修复",
+          "url": "https://wallstreetcn.com/livenews/3083748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：持续高企的能源价格会拖累消费者和企业支出。",
+          "url": "https://flash.jin10.com/detail/20260408055106863800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
         },
         {
           "title": "即期布伦特原油价格涨至144.42美元/桶，创历史新高。",
@@ -390,17 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：持续高企的能源价格会拖累消费者和企业支出。",
-          "url": "https://flash.jin10.com/detail/20260408055106863800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
         },
         {
           "title": "美国能源部：将今年WTI原油价格预期上调将近19%",
@@ -475,17 +516,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "标普500指数期货上涨1.0%，纳斯达克指数期货上涨1.2%。",
-          "url": "https://flash.jin10.com/detail/20260408060103658800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
           "title": "财联社C50风向指数调查：3月新增信贷及社融或同比少增，M2同比增速或小幅回落",
           "url": "https://www.cls.cn/detail/2336686",
           "source": "财联社热门",
@@ -496,6 +526,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时17分 ~ 06时20分]"
+        },
+        {
+          "title": "标普500指数期货上涨1.0%，纳斯达克指数期货上涨1.2%。",
+          "url": "https://flash.jin10.com/detail/20260408060103658800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
         },
         {
           "title": "富时罗素指数公司：印度尼西亚（印尼）市场地位保持不变。 将越南归类为二级新兴市场，9月21日生效。",
@@ -550,7 +592,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -624,7 +666,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -634,8 +676,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时51分]"
         },
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -656,9 +698,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
         },
         {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
@@ -689,22 +731,35 @@
           "url": "https://wallstreetcn.com/livenews/3083722",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
         },
         {
           "title": "纳斯达克100 ETF期货美股盘后一度涨0.3%。 CNN援引消息人士报道称，在巴基斯坦要求特朗普延长伊朗谈判最后期限后，预计很快将传来“好消息”。",
           "url": "https://wallstreetcn.com/livenews/3083721",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时51分]"
+        },
+        {
+          "title": "美股收盘：巴基斯坦斡旋提议救场 标普纳指惊险收获五连涨",
+          "url": "https://www.cls.cn/detail/2337193",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "06时51分"
         },
         {
           "title": "金十图示：2026年04月07日（周二）美股热门股票行情一览（美股收盘）",
@@ -743,7 +798,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -753,8 +808,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时51分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -764,8 +819,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时51分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -788,6 +843,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         }
       ]
     },
@@ -822,8 +888,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时51分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T11:26:31.869875+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-04-08T13:53:04.251099+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "黑石机会型信贷基金募资达到100亿美元上限",
@@ -191,6 +191,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "离岸人民币兑美元日内涨近300点，报6.8253，为2023年3月以来最高水平。 在岸人民币兑美元日内上涨0.5%，报6.8262。 韩元日内涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3084015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "Pimco考虑为甲骨文数据中心提供140亿美元的债务融资",
           "url": "https://flash.jin10.com/detail/20260408042338382800",
           "source": "金十数据",
@@ -340,7 +351,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -439,7 +450,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -453,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "在伊朗停火消息公布后，土耳其里拉兑美元汇率升至44.57，较周二收盘价44.62有所走强。",
+          "url": "https://flash.jin10.com/detail/20260408132014660800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "布伦特原油期货跌穿109美元/桶，跌幅在收盘之后扩大至超过1.4%。",
@@ -483,7 +505,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -497,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "现货钯金涨幅扩大，上涨超5%至1543.99美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3083983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "欧元兑美元EUR/USD突破1.16，日内涨0.50%。",
@@ -535,7 +568,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 23,
+      "match_count": 37,
       "titles": [
         {
           "title": "泰国股指SET指数高开1.6%。",
@@ -544,7 +577,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -597,6 +630,28 @@
           "time_info": "[04时59分 ~ 06时20分]"
         },
         {
+          "title": "财联社C50风向指数调查：4月资金面或季节性转松，短端市场利率与政策利率倒挂料难持续",
+          "url": "https://www.cls.cn/detail/2337516",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "台湾加权指数4月8日（周三）收盘上涨1531.56点，涨幅4.61%，报34761.38点。",
+          "url": "https://flash.jin10.com/detail/20260408133602969800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "标普500指数跌幅收窄至0.4%，Axios援引美国和以色列官员的讲话报道称，伊朗谈判在过去24小时出现些许进展，美国总统特朗普所谓的最后期限正不断临近。",
           "url": "https://wallstreetcn.com/livenews/3083634",
           "source": "华尔街见闻-快讯",
@@ -619,6 +674,61 @@
           "time_info": "07时49分"
         },
         {
+          "title": "中国台湾证交所加权股价指数收高4.6%报34,761.38点。",
+          "url": "https://wallstreetcn.com/livenews/3084017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "科创50指数日内涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260408133547648800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "科创50指数涨幅扩大至6%，成份股全部上涨。",
+          "url": "https://wallstreetcn.com/livenews/3084016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "MSCI亚太指数涨幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20260408133356591800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "MSCI亚太指数上涨5%至248.72点。",
+          "url": "https://wallstreetcn.com/livenews/3084012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "金十图示：2026年04月07日（周二）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260408042055618800",
           "source": "金十数据",
@@ -630,6 +740,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "富时中国A50指数期货涨幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/3084010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "日经225指数期货涨幅扩大至4%。",
           "url": "https://wallstreetcn.com/livenews/3083778",
           "source": "华尔街见闻-快讯",
@@ -639,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "恒生科技指数涨幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3084007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅收红，全市场超百股涨停，化工板块集体爆发",
@@ -658,7 +790,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -669,7 +801,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -713,7 +845,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -724,9 +856,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "恒生指数涨幅扩大至3%，恒生科技指数现涨4.5%。美团涨超10%，阿里巴巴涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3083996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "金十图示：2026年04月07日（周二）全球股市指数-美洲市场（收盘）",
@@ -751,6 +894,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "斯里兰卡证券交易所综合指数上涨4.2%。",
+          "url": "https://flash.jin10.com/detail/20260408132318474800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "道琼斯指数4月7日（周二）收盘下跌85.42点，跌幅0.18%，报46584.46点；<br/>标普500指数4月7日（周二）收盘上涨5.02点，涨幅0.08%，报6616.85点；<br/>纳斯达克综合指数4月7日（周二）收盘上涨21.51点，涨幅0.10%，报22017.85点。",
           "url": "https://flash.jin10.com/detail/20260408040519365800",
           "source": "金十数据",
@@ -762,13 +916,46 @@
           "time_info": "04时59分"
         },
         {
+          "title": "恒生科技指数午后涨超5%，半导体板块持续发力，华虹半导体(01347.HK)涨超15%。",
+          "url": "https://flash.jin10.com/detail/20260408132251053800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "日本3月经济观察家现况指数 42.2，预期 48，前值 48.9。",
+          "url": "https://wallstreetcn.com/livenews/3083991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "日本3月经济观察家前景指数 38.7，预期 48，前值 50。",
+          "url": "https://wallstreetcn.com/livenews/3083990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "金十图示：2026年04月08日（周三）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20260408104400990800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -790,7 +977,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
@@ -798,7 +985,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "国家继续出手调控油价，国内成品油价格适当调整",
@@ -856,7 +1043,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -870,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "全球陷入抢油恐慌：即期布伦特价格创历史新高",
+          "url": "https://www.cls.cn/detail/2337177",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时53分]"
         },
         {
           "title": "美联储副主席杰斐逊：持续高企的能源价格会拖累消费者和企业支出。",
@@ -890,7 +1088,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -904,17 +1102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "全球陷入抢油恐慌：即期布伦特价格创历史新高",
-          "url": "https://www.cls.cn/detail/2337177",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
         },
         {
           "title": "周二（4月7日），彭博电动汽车价格回报指数跌0.28%，报3589.83点。",
@@ -967,7 +1154,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -1000,7 +1187,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -1014,6 +1201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "印度央行货币政策报告：2027-28财年原油价格基准假设为每桶75美元。",
+          "url": "https://flash.jin10.com/detail/20260408131716404800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
@@ -1045,6 +1243,31 @@
           "time_info": "[01时12分 ~ 04时59分]"
         },
         {
+          "title": "美股收盘：巴基斯坦斡旋提议救场 标普纳指惊险收获五连涨",
+          "url": "https://www.cls.cn/detail/2337193",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时51分 ~ 13时53分]"
+        },
+        {
+          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时53分]"
+        },
+        {
           "title": "“调解人”巴基斯坦提出停火延期请求，美股抹平跌幅，油价跳水，黄金重回4700美元",
           "url": "https://wallstreetcn.com/articles/3769370",
           "source": "华尔街见闻",
@@ -1057,28 +1280,16 @@
           "time_info": "[06时20分 ~ 07时49分]"
         },
         {
-          "title": "美股收盘：巴基斯坦斡旋提议救场 标普纳指惊险收获五连涨",
-          "url": "https://www.cls.cn/detail/2337193",
+          "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
+          "url": "https://www.cls.cn/detail/2337241",
           "source": "财联社热门",
           "ranks": [
-            12,
-            5,
-            4
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 11时26分]"
-        },
-        {
-          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
-          "url": "https://wallstreetcn.com/articles/3769370",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 13时53分]"
         },
         {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
@@ -1091,18 +1302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时20分]"
-        },
-        {
-          "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
-          "url": "https://www.cls.cn/detail/2337241",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 11时26分]"
         },
         {
           "title": "Levi Strauss一季度净营收17.4亿美元，分析师预期16.5亿美元。 一季度调整后每股收益（EPS）为0.42美元，分析师预期0.37美元。 预计全年净营收将增长5.5%-6.5%，公司原本预计会增长5%-6%。 预计全年调整后EPS为1.42-1.48美元，公司原本预计1.40-1.46美元。 Levi Strauss美股盘后涨5%。",
@@ -1177,7 +1376,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -1185,11 +1384,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 11时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 13时53分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -1197,11 +1397,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 11时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 13时53分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
@@ -1221,20 +1422,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "强脑科技发布BrainCo Revo 3智能灵巧手",
+          "url": "https://wallstreetcn.com/livenews/3084019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
           "url": "https://www.zhihu.com/question/2023389785188745917",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时53分]"
         },
         {
           "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
@@ -1269,6 +1482,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "苹果自研AI服务器芯片Baltra曝光 直接采购三星玻璃基板",
+          "url": "https://wallstreetcn.com/livenews/3084000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "美团李树斌：当AI生成内容越来越多，大众点评上的“真人真评价”就更有价值",
+          "url": "https://wallstreetcn.com/livenews/3083987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
@@ -1281,22 +1516,24 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时53分]"
         },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
           "url": "https://www.zhihu.com/question/2024876426596291384",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时53分]"
         }
       ]
     },
@@ -1318,6 +1555,23 @@
       ]
     },
     {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
+          "url": "https://www.zhihu.com/question/2025124518817973047",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "ChatGPT",
       "match_count": 1,
       "titles": [
@@ -1329,11 +1583,12 @@
             16,
             15,
             14,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 11时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 13时53分]"
         }
       ]
     }

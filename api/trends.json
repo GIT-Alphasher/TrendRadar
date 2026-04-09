@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-10T00:23:53.688050+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-10T02:04:38.856255+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "高盛警告：若霍尔木兹再封一个月 布油2026年均价或破100美元",
+          "url": "https://www.cls.cn/detail/2339573",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
         {
           "title": "据Axios报道，以色列与黎巴嫩之间的直接对话将于下周在美国华盛顿启动。 消息出炉后，WTI原油5分钟内下跌0.52美元/桶，报97.64美元/桶。 现货黄金5分钟内下跌5.37美元/盎司，报4790.96美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3085235",
@@ -30,15 +41,26 @@
           "time_info": "00时23分"
         },
         {
-          "title": "高盛警告：若霍尔木兹再封一个月 布油2026年均价或破100美元",
-          "url": "https://www.cls.cn/detail/2339573",
-          "source": "财联社热门",
+          "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
+          "url": "https://wallstreetcn.com/livenews/3085269",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "02时04分"
+        },
+        {
+          "title": "周四（4月9日），韩元兑美元最终涨0.22%，报1474.79韩元。 日内绝大部分时间维持微幅下跌状态，震荡于1480韩元附近，北京时间23:00过后显著反弹，00:35刷新日高至1471.01韩元。",
+          "url": "https://wallstreetcn.com/livenews/3085268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
@@ -48,8 +70,30 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "美国对伊战事日均“烧钱”超5亿美元",
+          "url": "https://www.toutiao.com/trending/7626758231716761098/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "OpenAI：即将推出新的每月100美元的ChatGPT Pro会员套餐。",
+          "url": "https://flash.jin10.com/detail/20260410013906393800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "02时04分"
         },
         {
           "title": "现货白银日内涨2.00美元，现报76.10美元/盎司，涨幅2.70%。",
@@ -63,6 +107,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "WTI原油失守96美元/桶，日内跌幅0.74%。",
+          "url": "https://flash.jin10.com/detail/20260410013614498800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
           "title": "布伦特原油日内跌超1.00%，现报93.47美元/桶。",
           "url": "https://flash.jin10.com/detail/20260410000454169800",
           "source": "金十数据",
@@ -72,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "周四（4月9日），美联储隔夜逆回购协议（RRP）使用规模为4.02亿美元（交易对手4家），上个交易日报1.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3085262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "现货黄金向上触及4800美元",
@@ -85,15 +151,48 @@
           "time_info": "00时23分"
         },
         {
-          "title": "美国对伊战事日均“烧钱”超5亿美元",
-          "url": "https://www.toutiao.com/trending/7626758231716761098/",
-          "source": "今日头条",
+          "title": "标普500指数涨幅扩大至0.7%，刷新日高。 现货白银日内涨幅达3.0%，报76.28美元/盎司。 布伦特原油5分钟内下跌0.51美元/桶，报95.13美元/桶。 WTI原油5分钟内下跌0.92美元/桶，报96.55美元/桶。 美国总统特朗普声称，对达成伊朗和平协议“持乐观态度”。",
+          "url": "https://wallstreetcn.com/livenews/3085261",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "02时04分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.02亿美元。",
+          "url": "https://flash.jin10.com/detail/20260410012802144800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "博利登将减记7亿瑞典克朗（折合0.756亿美元）资产，因为旗下Garpenberg矿场3月份异常的地震活动造成重大破坏的缘故。",
+          "url": "https://wallstreetcn.com/livenews/3085259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.876%（3月12日为4.871%），投标倍数2.39（前次为2.45）。",
+          "url": "https://wallstreetcn.com/livenews/3085254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "现货铂金涨3%，报2090美元/盎司。",
@@ -107,6 +206,28 @@
           "time_info": "00时23分"
         },
         {
+          "title": "布伦特原油日内走低2.00%，现报92.58美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260410011959526800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "LME期铜收跌28美元，报12682美元/吨。 LME期铝收跌11美元，报3444美元/吨。 LME期锌收涨34美元，报3327美元/吨。 LME期铅收跌14美元，报1927美元/吨。 LME期镍收跌214美元，报17088美元/吨。 LME期锡收涨59美元，报47686美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3085249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
           "title": "布伦特原油回落至94美元/桶下方，日内转跌。",
           "url": "https://flash.jin10.com/detail/20260409234847918800",
           "source": "金十数据",
@@ -118,6 +239,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "现货白银日内涨幅扩大至3.00%，现报76.33美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260410011803201800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
           "title": "现货铂金上涨近3%，至每盎司2090美元。",
           "url": "https://flash.jin10.com/detail/20260409234602150800",
           "source": "金十数据",
@@ -127,12 +259,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.34%，暂报2510.64点，一度实现宽底U形反转。 MarketVectorTM数字资产100中盘指数跌0.91%，报2795.08点。 MarketVector数字资产100指数持平，报14321.46点。 目前，Solana涨0.05%，狗狗币跌0.88%，XPR持平。 比特币涨0.79%，暂报71841美元；以太坊跌0.36%，暂报2198.36美元。",
+          "url": "https://wallstreetcn.com/livenews/3085246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "美国国会预算办公室（CBO）：预计美国3月预算赤字1630亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3085245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -142,8 +296,66 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
+          "url": "https://www.cls.cn/detail/2339282",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
+          "url": "https://www.cls.cn/detail/2338824",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
@@ -157,59 +369,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
-          "url": "https://www.cls.cn/detail/2339282",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
-          "url": "https://www.cls.cn/detail/2338824",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "02时04分"
         }
       ]
     },
@@ -222,11 +390,12 @@
           "url": "https://www.cls.cn/detail/2339213",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "美国股指刷新日高，标普500指数涨0.5%，道指涨0.5%，纳指涨0.6%。",
@@ -287,19 +456,8 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "蓝莓价格为何崩盘",
-          "url": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%8E%93%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%B4%A9%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
         {
           "title": "人民日报政策问答·回应关切：我国国内成品油价格是如何调整的",
           "url": "https://m.thepaper.cn/newsDetail_forward_32930493",
@@ -308,8 +466,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "蓝莓价格为何崩盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%8E%93%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%B4%A9%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "三部门指导平台企业落实《互联网平台价格行为规则》",
@@ -319,8 +489,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "霍尔木兹海峡开放后，石油价格还能降回去吗？",
+          "url": "https://www.zhihu.com/question/2018961287871251795",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "02时04分"
         }
       ]
     },
@@ -336,8 +517,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -347,8 +528,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "美股开盘：蔚来涨超3%",
@@ -360,6 +541,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "字节发布全双工语音大模型Seeduplex",
+          "url": "https://www.toutiao.com/trending/7626368681664626731/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         }
       ]
     }

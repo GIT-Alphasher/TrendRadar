@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T07:50:26.009873+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-04-09T11:20:21.902276+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
@@ -51,9 +51,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 11时20分]"
         },
         {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
@@ -84,7 +84,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -97,8 +97,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时50分]"
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 11时20分]"
         },
         {
           "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
@@ -229,7 +229,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -240,7 +240,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -248,7 +248,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "现货黄金日内转跌，此前一度涨超3%，现报4700美元/盎司。",
@@ -260,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "中汽协：1-2月中国出口到“一带一路”沿线国家的汽车商品累计金额达263.3亿美元",
+          "url": "https://flash.jin10.com/detail/20260409110811518800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "三个新创建账户通过押注4月7日前达成停火并在高点抛售头寸，获利超过48万美元",
@@ -302,9 +313,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "韩国央行：韩国3月境外资金净流出本地债券市场，创历史最大月度流出纪录。韩国3月份外国投资者净流出本地股市297.8亿美元，创历史新高，而2月份为净流出135亿美元。",
+          "url": "https://flash.jin10.com/detail/20260409110404873800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "国际金融公司（IFC）与第一量子矿业签署协议，推进阿根廷铜矿项目的可持续发展。 该合作伙伴关系将帮助第一量子矿业为这一耗资52.5亿美元的项目确保债务融资。",
@@ -327,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "韩国央行：3月韩国本土债券的外国净投资额为-67.7亿美元，而2月份为57.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260409110346676800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "纽约期金日内涨超1.00%，现报4731.60美元/盎司。",
@@ -431,7 +464,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "日经225指数期货在早盘交易中上涨0.43%。",
@@ -440,7 +473,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -509,9 +542,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数跌0.6%，东证指数跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3084730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "英国3月三个月RICS房价指数为-23，创2024年1月以来新低。",
@@ -520,7 +564,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -531,7 +575,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -556,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "越南股指VN指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3084718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "金十图示：2026年04月08日（周三）全球股市指数-美洲市场（收盘）",
@@ -591,6 +646,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "MSCI亚太指数下跌1%至246.29点。",
+          "url": "https://wallstreetcn.com/livenews/3084706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "德国DAX 30指数初步收涨4.72%，报24003.06点。 法国股指初步收涨4.37%，意大利股指初步收涨3.18%、银行指数涨5.40%，英国股指初步收涨2.40%。",
           "url": "https://wallstreetcn.com/livenews/3084461",
           "source": "华尔街见闻-快讯",
@@ -615,150 +681,31 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美国能源部长Wright：预计汽油价格将在数周内下降。",
-          "url": "https://wallstreetcn.com/livenews/3084537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "内存价格为何会崩盘",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%B4%A9%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            26,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时37分 ~ 07时50分]"
-        },
-        {
-          "title": "澳大利亚国债价格下跌，10年期澳债收益率悉尼盘初涨7个基点。",
-          "url": "https://wallstreetcn.com/livenews/3084620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时50分]"
-        },
-        {
-          "title": "EIA年度能源展望报告：预计布伦特原油价格到2030年将低于每桶70美元，到2030年代末则将高于75美元。",
-          "url": "https://flash.jin10.com/detail/20260409030129500800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "白宫顾问哈塞特：石油价格飙涨可能会对美国CPI通胀报告造成一次性的影响。",
-          "url": "https://wallstreetcn.com/livenews/3084567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "周三（4月8日）欧市尾盘，ICE英国天然气期货跌15.40%，报114.21便士/千卡，北京时间14:00低开至107.18便士刷新日低，随后在18:25回升至115.75便士刷新日高。 TTF基准荷兰天然气期货跌9.67%，报45.205欧元/兆瓦时，14:00低开至42.800欧元。 ICE欧盟碳排放交易许可（期货价格）涨0.38%，报70.75欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3084528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
-          "url": "https://wallstreetcn.com/livenews/3084561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "“新美联储通讯社”Nick Timiraos：美联储会议纪要显示，“绝大多数”官员认为通胀缓解的步伐可能慢于预期，这主要源于三项相互交织的担忧。 关税对商品价格的影响可能需要更长时间才能消退。 油价对核心通胀的传导效应。 以及多年通胀率高于目标水平，导致通胀预期更容易受到新一轮冲击的影响。",
-          "url": "https://wallstreetcn.com/livenews/3084527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "“水果贵族”蓝莓为何价格跳水",
-          "url": "https://www.toutiao.com/trending/7626266792994242602/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：周五公布的CPI数据将反映能源价格飙升",
-          "url": "https://wallstreetcn.com/livenews/3084567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "市场专家：停火缓解有限 燃料价格将“涨快跌慢”",
-          "url": "https://flash.jin10.com/detail/20260409035251260800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 11时20分]"
+        },
+        {
+          "title": "新研究：长期使用AI陪伴或影响心理健康",
+          "url": "https://flash.jin10.com/detail/20260409111324207800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -778,7 +725,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -851,6 +798,28 @@
           "time_info": "05时54分"
         },
         {
+          "title": "淘宝闪购商家端AI Agent全量上线语音搜索功能",
+          "url": "https://flash.jin10.com/detail/20260409110521204800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "两人用AI洗稿编造车企谣言被抓",
+          "url": "https://www.toutiao.com/trending/7625974933612773417/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
           "url": "https://flash.jin10.com/detail/20260409051237886800",
           "source": "金十数据",
@@ -862,6 +831,17 @@
           "time_info": "05时54分"
         },
         {
+          "title": "高盛资产管理：AI投资热持续 应布局半导体和相关“铲与镐”股",
+          "url": "https://wallstreetcn.com/livenews/3084724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3084581",
           "source": "华尔街见闻-快讯",
@@ -871,6 +851,192 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "华为AI眼镜即将发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAAI%E7%9C%BC%E9%95%9C%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3084698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美国能源部长Wright：预计汽油价格将在数周内下降。",
+          "url": "https://wallstreetcn.com/livenews/3084537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "内存价格为何会崩盘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%B4%A9%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            26,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时37分 ~ 07时50分]"
+        },
+        {
+          "title": "澳大利亚国债价格下跌，10年期澳债收益率悉尼盘初涨7个基点。",
+          "url": "https://wallstreetcn.com/livenews/3084620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时50分]"
+        },
+        {
+          "title": "EIA年度能源展望报告：预计布伦特原油价格到2030年将低于每桶70美元，到2030年代末则将高于75美元。",
+          "url": "https://flash.jin10.com/detail/20260409030129500800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "白宫顾问哈塞特：石油价格飙涨可能会对美国CPI通胀报告造成一次性的影响。",
+          "url": "https://wallstreetcn.com/livenews/3084567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报156000元/吨，较上日16:30价格下跌2650元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3084729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "人民日报政策问答·回应关切：我国国内成品油价格是如何调整的",
+          "url": "https://www.cls.cn/detail/2338575",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "周三（4月8日）欧市尾盘，ICE英国天然气期货跌15.40%，报114.21便士/千卡，北京时间14:00低开至107.18便士刷新日低，随后在18:25回升至115.75便士刷新日高。 TTF基准荷兰天然气期货跌9.67%，报45.205欧元/兆瓦时，14:00低开至42.800欧元。 ICE欧盟碳排放交易许可（期货价格）涨0.38%，报70.75欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3084528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
+          "url": "https://wallstreetcn.com/livenews/3084561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "人民日报政策问答·回应关切：我国国内成品油价格是如何调整的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32930493",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "“新美联储通讯社”Nick Timiraos：美联储会议纪要显示，“绝大多数”官员认为通胀缓解的步伐可能慢于预期，这主要源于三项相互交织的担忧。 关税对商品价格的影响可能需要更长时间才能消退。 油价对核心通胀的传导效应。 以及多年通胀率高于目标水平，导致通胀预期更容易受到新一轮冲击的影响。",
+          "url": "https://wallstreetcn.com/livenews/3084527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "“水果贵族”蓝莓为何价格跳水",
+          "url": "https://www.toutiao.com/trending/7626266792994242602/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：周五公布的CPI数据将反映能源价格飙升",
+          "url": "https://wallstreetcn.com/livenews/3084567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "市场专家：停火缓解有限 燃料价格将“涨快跌慢”",
+          "url": "https://flash.jin10.com/detail/20260409035251260800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         }
       ]
     },
@@ -916,6 +1082,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股大模型股走高，智谱涨近14%，MINIMAX涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3084734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },

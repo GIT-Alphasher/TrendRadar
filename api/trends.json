@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T21:56:10.156582+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2026-04-10T22:58:09.441385+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "高盛警告：若霍尔木兹再封一个月 布油2026年均价或破100美元",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "现货白银日内涨超2.00%，现报76.73美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260410222408283800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "华尔街大行股票交易收入料创纪录新高，或达180亿美元",
@@ -209,9 +220,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.0%，报76.78美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3085985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "现货白银日内涨2.00美元，现报76.10美元/盎司，涨幅2.70%。",
@@ -256,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）三个月期铜在格林尼治标准时间14:15上涨1.7%，至每吨12,901美元，创3月17日以来盘中新高。本周迄今已累计上涨约4%。 纽约COMEX期铜上涨2.8%，触及一个月来的高点，报每磅5.92 美元。",
+          "url": "https://wallstreetcn.com/livenews/3085983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "霍尔木兹海峡“迟迟未通”，“全球最重要现货油价”升至147美元，创历史新高！",
@@ -322,6 +355,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "巴西雷亚尔兑美元涨1%。",
+          "url": "https://flash.jin10.com/detail/20260410221617231800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "北美科技软件股指数ETF一度下跌3.47%，报73.98美元。",
+          "url": "https://wallstreetcn.com/livenews/3085988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.02亿美元。",
@@ -506,7 +561,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -572,7 +627,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -594,7 +649,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -613,7 +668,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI红利和普通人有何关系",
@@ -631,6 +686,21 @@
           "time_info": "[00时23分 ~ 16时26分]"
         },
         {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时33分 ~ 22时58分]"
+        },
+        {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
           "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
           "source": "澎湃新闻",
@@ -641,20 +711,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 07时49分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时33分 ~ 21时56分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
@@ -805,6 +861,17 @@
           "time_info": "[21时55分 ~ 21时56分]"
         },
         {
+          "title": "据德国商报：消息人士称，OpenAI 将受欧盟《数字服务法》（DSA）监管，并被归类为超大型在线搜索引擎。",
+          "url": "https://flash.jin10.com/detail/20260410221958864800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
           "url": "https://wallstreetcn.com/livenews/3085230",
           "source": "华尔街见闻-快讯",
@@ -814,6 +881,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "CoreWeave下跌11%，根据最新协议，该公司的AI算力将支持Anthropic的Claude。",
+          "url": "https://wallstreetcn.com/livenews/3085991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "最高涨价463% 你的AI员工变贵了",
@@ -899,7 +977,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1006,18 +1084,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3769555",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时49分 ~ 21时56分]"
+          "appearance_count": 12,
+          "time_info": "[07时49分 ~ 22时58分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）华尔街恐惧与贪婪指数（美盘初）",
@@ -1026,7 +1105,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1070,11 +1149,12 @@
           "url": "https://www.cls.cn/detail/2340931",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时58分]"
         },
         {
           "title": "富时中国A50指数期货涨幅扩大至2%。",
@@ -1105,7 +1185,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1160,7 +1240,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1198,13 +1278,24 @@
           "time_info": "18时15分"
         },
         {
+          "title": "波罗的海干散货运价指数创两个月来最大单周涨幅",
+          "url": "https://flash.jin10.com/detail/20260410221629738800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "标普500指数高开14.58点，涨幅0.21%，报6839.24点； 道琼斯工业平均指数高开13.59点，涨幅0.03%，报48199.39点； 纳斯达克综合指数高开91.49点，涨幅0.40%，报22913.91点。",
           "url": "https://wallstreetcn.com/livenews/3085935",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1253,6 +1344,17 @@
           "time_info": "14时05分"
         },
         {
+          "title": "金十图示：2026年04月10日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260410220044272800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报377.57点。 在十个板块中，北欧工业板块跌幅最大。 Coloplast A/S跌3.2%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3085211",
           "source": "华尔街见闻-快讯",
@@ -1281,9 +1383,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "美国4月密歇根大学消费者信心指数初值跌至纪录低点47.6，预期为51.5。",
+          "url": "https://flash.jin10.com/detail/20260410220037131800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "鉴于通胀担忧，美国消费者信心指数跌至历史新低",
+          "url": "https://wallstreetcn.com/livenews/3085975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "德国DAX 30指数初步收跌1.61%，报23698.47点。 法国股指初步收跌0.80%，意大利股指初步收涨0.16%、银行指数跌0.76%，英国股指初步收跌0.44%。",
@@ -1314,6 +1438,20 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "上交所：拟将主板风险警示股票价格的涨跌幅限制比例由5%调整为10%",
+          "url": "https://www.cls.cn/detail/2340548",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 22时58分]"
+        },
+        {
           "title": "人民日报政策问答·回应关切：我国国内成品油价格是如何调整的",
           "url": "https://m.thepaper.cn/newsDetail_forward_32930493",
           "source": "澎湃新闻",
@@ -1338,19 +1476,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时05分 ~ 21时56分]"
-        },
-        {
-          "title": "上交所：拟将主板风险警示股票价格的涨跌幅限制比例由5%调整为10%",
-          "url": "https://www.cls.cn/detail/2340548",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 21时56分]"
         },
         {
           "title": "蓝莓价格为何崩盘",
@@ -1412,6 +1537,18 @@
           "time_info": "05时53分"
         },
         {
+          "title": "创新高！稀土精矿价格连续第7个季度上调，二季度环比大涨45%",
+          "url": "https://www.cls.cn/detail/2340491",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时58分]"
+        },
+        {
           "title": "霍尔木兹海峡开放后，石油价格还能降回去吗？",
           "url": "https://www.zhihu.com/question/2018961287871251795",
           "source": "知乎",
@@ -1425,6 +1562,18 @@
           "time_info": "[02时04分 ~ 07时49分]"
         },
         {
+          "title": "猪肉价格下降背后藏着什么经济信号",
+          "url": "https://www.toutiao.com/trending/7627081362708631094/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时58分]"
+        },
+        {
           "title": "三部门指导平台企业落实《互联网平台价格行为规则》",
           "url": "https://www.cls.cn/detail/2339207",
           "source": "财联社热门",
@@ -1434,28 +1583,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 04时05分]"
-        },
-        {
-          "title": "创新高！稀土精矿价格连续第7个季度上调，二季度环比大涨45%",
-          "url": "https://www.cls.cn/detail/2340491",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "猪肉价格下降背后藏着什么经济信号",
-          "url": "https://www.toutiao.com/trending/7627081362708631094/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "【证监会：推出更多创业板相关ETF和期权，适时推出创业板股指期货】中国证监会新闻发言人就《关于深化创业板改革 更好服务新质生产力发展的意见》答记者问：加快推进投资端改革，是健全投资和融资相协调的资本市场功能、支持服务实体经济的重要一环。这次改革主要推出了以下举措。一是优化交易制度。引入做市商制度，促进创业板参与主体和交易策略多元化，减少价格波动，增强市场韧性。将协议大宗交易调整为实时成交确认，提高投资者证券和资金使用效率，增强成交确定性和中长期资金参与意愿。引入创业板相关ETF盘后固定价格交易机制，更好满足投资者多元化的交易需求，有利于降低大额交易对二级市场的冲击。二是丰富产品服务体系。优化创业板相关指数编制，推出更多创业板相关ETF和期权，适时推出创业板股指期货，支持基金投顾配置创业板ETF，将创业板ETF纳入基金通平台转让，更好满足不同投资者资产配置和风险管理需求，提升投资便利度和吸引力。",
@@ -1497,7 +1624,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1508,7 +1635,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1519,7 +1646,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1629,7 +1756,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1651,7 +1778,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1739,7 +1866,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1761,7 +1888,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         }
@@ -1772,21 +1899,6 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
-          "ranks": [
-            14,
-            17,
-            10,
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时33分 ~ 21时56分]"
-        },
-        {
           "title": "人工智能将纳入教师资格考试和认证内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
@@ -1795,11 +1907,28 @@
             7,
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时05分 ~ 21时56分]"
+          "appearance_count": 9,
+          "time_info": "[14时05分 ~ 22时58分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17,
+            10,
+            29,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时33分 ~ 22时58分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
@@ -1831,7 +1960,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1949,6 +2078,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债收益率刷新日高，投资者关注美国短期通胀预期",
+          "url": "https://wallstreetcn.com/livenews/3085978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ChatGPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据德国商报：消息人士称，欧盟委员会计划未来对ChatGPT实施更严格的监管。",
+          "url": "https://flash.jin10.com/detail/20260410221739226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     }

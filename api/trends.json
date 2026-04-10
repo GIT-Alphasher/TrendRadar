@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T11:34:11.061808+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-04-10T14:05:18.307243+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -110,6 +110,19 @@
           "time_info": "06时54分"
         },
         {
+          "title": "高盛：霍尔木兹若再封锁一个月，布油全年均价将在100美元以上",
+          "url": "https://wallstreetcn.com/articles/3769562",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 14时05分]"
+        },
+        {
           "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
           "url": "https://wallstreetcn.com/articles/3769555",
           "source": "华尔街见闻",
@@ -144,19 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时49分]"
-        },
-        {
-          "title": "高盛：霍尔木兹若再封锁一个月，布油全年均价将在100美元以上",
-          "url": "https://wallstreetcn.com/articles/3769562",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 11时34分]"
         },
         {
           "title": "刚果首次发行美元债券，筹集12.5亿美元",
@@ -220,7 +220,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -341,7 +341,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -374,7 +374,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -514,8 +514,23 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15,
+            28,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 14时05分]"
+        },
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
           "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
@@ -529,21 +544,6 @@
           "time_info": "[00时23分 ~ 07时49分]"
         },
         {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15,
-            28,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 11时34分]"
-        },
-        {
           "title": "玩具也要闯闯AI赛道",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
           "source": "bilibili 热搜",
@@ -552,22 +552,12 @@
             22,
             19,
             25,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 11时34分]"
-        },
-        {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 14时05分]"
         },
         {
           "title": "Wait清唱挑战",
@@ -610,6 +600,29 @@
           "time_info": "[00时23分 ~ 07时49分]"
         },
         {
+          "title": "AI写作年赚200万夫妻被封号",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 14时05分]"
+        },
+        {
+          "title": "AI写作年赚200万夫妻被封号",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
           "url": "https://www.cls.cn/detail/2338824",
           "source": "财联社热门",
@@ -633,22 +646,23 @@
           "time_info": "[06时54分 ~ 07时49分]"
         },
         {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 14时05分]"
+        },
+        {
           "title": "微信回应夫妻用AI写公众号年赚200万",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -664,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "最高涨价463% 你的AI员工变贵了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B7463%25+%E4%BD%A0%E7%9A%84AI%E5%91%98%E5%B7%A5%E5%8F%98%E8%B4%B5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "HappyHorse登顶AI视频测评榜首",
@@ -694,7 +719,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -721,13 +746,35 @@
           "time_info": "07时49分"
         },
         {
+          "title": "小鹏GX联合福耀玻璃打造并量产交付首块AI调光隐私玻璃",
+          "url": "https://wallstreetcn.com/livenews/3085599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "千问旗舰AI眼镜S1开启预约，最低到手价3499起",
+          "url": "https://wallstreetcn.com/livenews/3085594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
           "title": "A股欧菲光盘中异动拉升，现涨超5%；消息面上，华为即将发布的AI眼镜摄像头模组由欧菲光独供。",
           "url": "https://flash.jin10.com/detail/20260410110143411800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -782,9 +829,215 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 14时05分]"
+        },
+        {
+          "title": "泰国股指SET指数上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3085535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "【每日收评】三大指数缩量调整，全市场近4300股飘绿，算力硬件股持续爆发",
+          "url": "https://www.cls.cn/detail/2339213",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时53分]"
+        },
+        {
+          "title": "新西兰3月制造业表现指数 53.2，前值55。",
+          "url": "https://flash.jin10.com/detail/20260410063002184800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时49分]"
+        },
+        {
+          "title": "富时中国A50指数期货涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3085614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "美国股指刷新日高，标普500指数涨0.5%，道指涨0.5%，纳指涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3085228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "A股创业板指午后涨超4%，深证成指涨近3%，上证指数涨0.74%，两市超4300家个股上涨。",
+          "url": "https://flash.jin10.com/detail/20260410134955123800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "富时中国A50指数期货涨幅扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20260410134920666800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.70%，报25900点。 恒生科技指数主连夜盘收涨0.44%，报4839点。",
+          "url": "https://wallstreetcn.com/livenews/3085292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高1.6%报35,417.83点。",
+          "url": "https://wallstreetcn.com/livenews/3085604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "标普500指数、纳斯达克100指数涨至盘中高位，最新上涨0.5%。",
+          "url": "https://flash.jin10.com/detail/20260410000318894800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数涨1.5%，日本东证指数跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3085509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "台湾加权指数4月10日（周五）收盘上涨556.67点，涨幅1.6%，报35417.83点。",
+          "url": "https://flash.jin10.com/detail/20260410133513266800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "印度SENSEX指数上涨1%至77,402.94点。",
+          "url": "https://wallstreetcn.com/livenews/3085584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.2%，报377.57点。 在十个板块中，北欧工业板块跌幅最大。 Coloplast A/S跌3.2%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3085211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡宣称，将继续强有力地袭击真主党，黎巴嫩没有停火。 内塔尼亚胡讲话之际，标普500指数、纳斯达克100指数涨幅收窄。",
+          "url": "https://wallstreetcn.com/livenews/3085277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌1.61%，报23698.47点。 法国股指初步收跌0.80%，意大利股指初步收涨0.16%、银行指数跌0.76%，英国股指初步收跌0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3085207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.57%，报610.08点。 欧元区STOXX 50指数初步收跌0.81%，报5865.30点。 富时泛欧绩优300指数初步收跌0.56%，报2433.67点。",
+          "url": "https://wallstreetcn.com/livenews/3085206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
@@ -802,8 +1055,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 11时34分]"
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 14时05分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -943,148 +1196,8 @@
       ]
     },
     {
-      "keyword_group": "指数",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3769555",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 11时34分]"
-        },
-        {
-          "title": "泰国股指SET指数上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3085535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "【每日收评】三大指数缩量调整，全市场近4300股飘绿，算力硬件股持续爆发",
-          "url": "https://www.cls.cn/detail/2339213",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时53分]"
-        },
-        {
-          "title": "新西兰3月制造业表现指数 53.2，前值55。",
-          "url": "https://flash.jin10.com/detail/20260410063002184800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时49分]"
-        },
-        {
-          "title": "美国股指刷新日高，标普500指数涨0.5%，道指涨0.5%，纳指涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3085228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.70%，报25900点。 恒生科技指数主连夜盘收涨0.44%，报4839点。",
-          "url": "https://wallstreetcn.com/livenews/3085292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "标普500指数、纳斯达克100指数涨至盘中高位，最新上涨0.5%。",
-          "url": "https://flash.jin10.com/detail/20260410000318894800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "截至早盘收盘，日经225指数涨1.5%，日本东证指数跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3085509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.2%，报377.57点。 在十个板块中，北欧工业板块跌幅最大。 Coloplast A/S跌3.2%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3085211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡宣称，将继续强有力地袭击真主党，黎巴嫩没有停火。 内塔尼亚胡讲话之际，标普500指数、纳斯达克100指数涨幅收窄。",
-          "url": "https://wallstreetcn.com/livenews/3085277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "德国DAX 30指数初步收跌1.61%，报23698.47点。 法国股指初步收跌0.80%，意大利股指初步收涨0.16%、银行指数跌0.76%，英国股指初步收跌0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3085207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌0.57%，报610.08点。 欧元区STOXX 50指数初步收跌0.81%，报5865.30点。 富时泛欧绩优300指数初步收跌0.56%，报2433.67点。",
-          "url": "https://wallstreetcn.com/livenews/3085206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "价格",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "人民日报政策问答·回应关切：我国国内成品油价格是如何调整的",
@@ -1168,13 +1281,36 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 04时05分]"
+        },
+        {
+          "title": "“贵族水果”价格大跳水",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B4%B5%E6%97%8F%E6%B0%B4%E6%9E%9C%E2%80%9D%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 14时05分]"
+        },
         {
           "title": "人工智能将纳入教师资格考试",
           "url": "https://www.toutiao.com/trending/7626947174772772393/",
@@ -1188,14 +1324,25 @@
         },
         {
           "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%86%E7%BA%B3%E5%85%A5%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95",
+          "source": "百度热搜",
           "ranks": [
-            14
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -1204,7 +1351,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1215,7 +1362,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         }
@@ -1232,7 +1379,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         }
@@ -1254,8 +1401,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时04分 ~ 11时34分]"
+          "appearance_count": 8,
+          "time_info": "[02时04分 ~ 14时05分]"
         }
       ]
     }

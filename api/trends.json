@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T02:59:55.237824+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-04-12T03:45:27.147463+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时45分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时45分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时45分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -49,11 +49,12 @@
           "ranks": [
             17,
             19,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时45分]"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
@@ -80,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时45分]"
         },
         {
           "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
@@ -109,8 +110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时45分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -122,8 +123,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时45分]"
         }
       ]
     },
@@ -131,6 +132,18 @@
       "keyword_group": "人工智能",
       "match_count": 2,
       "titles": [
+        {
+          "title": "人工智能卖瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时45分]"
+        },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3086252",
@@ -143,18 +156,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 02时59分]"
-        },
-        {
-          "title": "人工智能卖瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时59分]"
         }
       ]
     }

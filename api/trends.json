@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T11:34:03.958312+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-04-14T14:18:14.246008+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "伊朗政府：美以军事行动致伊朗损失2700亿美元",
+          "url": "https://wallstreetcn.com/livenews/3087459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "获美国支持，KoBold在刚果启动5000万美元锂矿勘探计划",
@@ -184,7 +195,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -217,7 +228,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -228,7 +239,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -305,9 +316,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至2%，现报77.1美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3087423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "现货黄金一度突破4750美元/盎司，日内涨0.02%。",
@@ -349,7 +371,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -393,7 +415,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -470,7 +492,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -488,253 +510,8 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "文章在上海开面馆 菜品价格引热议",
-          "url": "https://www.baidu.com/s?wd=%E6%96%87%E7%AB%A0%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%86+%E8%8F%9C%E5%93%81%E4%BB%B7%E6%A0%BC%E5%BC%95%E7%83%AD%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时55分]"
-        },
-        {
-          "title": "杰克小兔和LKs体验不同价格香港酒店",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E5%85%8B%E5%B0%8F%E5%85%94%E5%92%8CLKs%E4%BD%93%E9%AA%8C%E4%B8%8D%E5%90%8C%E4%BB%B7%E6%A0%BC%E9%A6%99%E6%B8%AF%E9%85%92%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时10分 ~ 07时55分]"
-        },
-        {
-          "title": "智利国家铜业公司董事长：受中东战争带来的价格影响，公司直接成本每磅上升0.10美元。",
-          "url": "https://flash.jin10.com/detail/20260414020147073800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "智利国家铜业公司董事长：公司在价格上涨前已为2026年运营锁定硫酸采购。",
-          "url": "https://flash.jin10.com/detail/20260414020119309800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "金饰价格一夜跌了11元",
-          "url": "https://www.douyin.com/hot/2464920",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时10分 ~ 05时57分]"
-        },
-        {
-          "title": "美国副总统万斯：能源价格虽然令人痛苦，但也不会一直维持在高位。",
-          "url": "https://flash.jin10.com/detail/20260414064202659800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时55分]"
-        },
-        {
-          "title": "周一（4月13日），彭博电动汽车价格回报指数涨1.18%，报3822.27点。 亚太盘初微幅低开，北京时间21:30美股开盘之前窄幅震荡于平盘附近，之后加速上涨，00:00以来持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3087152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 05时57分]"
-        },
-        {
-          "title": "澳新银行：上调布伦特原油价格预期，现在预计2026年年底为88美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3087206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时55分]"
-        },
-        {
-          "title": "两大稀土巨头价格七连涨",
-          "url": "https://www.toutiao.com/trending/7627736978733350954/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时56分 ~ 06时55分]"
-        },
-        {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
-        },
-        {
-          "title": "澳洲联储副主席Hauser：对澳大利亚而言，能源价格上涨是一个重大的收入冲击。 央行的噩梦就是通胀上扬、经济活动下滑。 对于某些国家而言，财政主导型可能会成为一个问题。 不希望中期通胀预期上扬。 能源价格对经济活动的影响是一个重大问题。",
-          "url": "https://wallstreetcn.com/livenews/3087196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时55分]"
-        },
-        {
-          "title": "欧洲央行管委武伊契奇：能源价格仍最接近欧洲央行基本情景",
-          "url": "https://flash.jin10.com/detail/20260413234406049800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "美国能源部长赖特：就目前情况来看，若想让石油和天然气价格在今年夏季开始回落，将是一个非常激进的时间表。",
-          "url": "https://flash.jin10.com/detail/20260414050156790800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美国能源部长Wright：美国能源价格可能会上涨，直至霍尔木兹海峡的船只通行量“实质性地”恢复。 预计“未来几周”将发生这样的事。 委内瑞拉石油产量超过120万桶/日，三个月增长了25%。 1月3日以来，销售了1.5亿桶委内瑞拉石油。",
-          "url": "https://wallstreetcn.com/livenews/3087158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美国财长贝森特：美国在降息之前应“观望并等待”；有信心近期的价格上涨不会“植入通胀预期之中”。（美国财经媒体Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3087361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "美联储古尔斯比：原油期货价格显示，人们认为这将是一个短期现象。",
-          "url": "https://flash.jin10.com/detail/20260414013620430800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "美联储古尔斯比：如果油价连续数月维持在每桶90美元，就会开始向其他价格传导。",
-          "url": "https://flash.jin10.com/detail/20260414013454634800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "美国副总统万斯：我们知道，美国民众受到能源价格的伤害。",
-          "url": "https://wallstreetcn.com/livenews/3087191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "美国能源部长赖特：在霍尔木兹海峡恢复实质性通航之前，美国能源价格可能会持续走高，这一过程预计将耗时“数周”。",
-          "url": "https://flash.jin10.com/detail/20260414045154923800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "智利化工矿业公司（SQM）：预计碳酸锂价格将于2026年维持在15-18美元/公斤左右。",
-          "url": "https://wallstreetcn.com/livenews/3087056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "国内品牌金饰价格较昨日上涨",
-          "url": "https://flash.jin10.com/detail/20260414110607728800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "指数",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊交涉现进展，标普收复年内跌幅，半导体指数历史性站上9000点，油价冲高回落",
@@ -754,9 +531,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "德国3月批发物价指数月率 2.7%，前值0.6%。",
+          "url": "https://flash.jin10.com/detail/20260414140004914800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "德国3月批发物价指数年率 4.1%，前值1.2%。",
+          "url": "https://flash.jin10.com/detail/20260414140004908800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "标普500指数的11个板块普遍收涨，金融板块收涨1.73%，信息技术/科技板块涨1.72%，可选消费、电信板块涨约0.8%，能源板块涨0.33%，日用消费品、公用事业板块则收跌超1%。",
@@ -837,6 +636,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "中国台湾证交所加权股价指数收高2.4%报36,296.12点。",
+          "url": "https://wallstreetcn.com/livenews/3087437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260413234059855800",
           "source": "金十数据",
@@ -881,6 +691,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "台湾加权指数4月14日（周二）收盘上涨838.83点，涨幅2.37%，报36296.12点。",
+          "url": "https://flash.jin10.com/detail/20260414133549008800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "德国DAX 30指数初步收跌0.22%，报23750.26点。 法国股指初步收跌0.35%，意大利股指初步收跌0.14%、银行指数跌0.22%，英国股指初步收跌0.15%。",
           "url": "https://wallstreetcn.com/livenews/3087062",
           "source": "华尔街见闻-快讯",
@@ -903,6 +724,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "花旗预计MSCI全球指数到2026年底将达到1380点。花旗将MSCI新兴市场指数2026年年末目标点位由1540点上调至1770点。",
+          "url": "https://flash.jin10.com/detail/20260414132918181800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨1.01%，报25924点。 恒生科技指数主连夜盘收涨0.65%，报4867点。",
           "url": "https://wallstreetcn.com/livenews/3087129",
           "source": "华尔街见闻-快讯",
@@ -912,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数涨2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3087416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.72%，报6855.75点。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，中国科技指数ETF（CQQQ）收涨1.13%，中概互联网指数ETF（KWEB）收涨0.07%。 德银嘉实沪深300指数ETF（ASHR）收涨1.01%，XtrackersHarvest中证50（ASHS）收涨0.70%。",
@@ -949,22 +792,278 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 13,
+      "keyword_group": "价格",
+      "match_count": 23,
       "titles": [
         {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
+          "title": "文章在上海开面馆 菜品价格引热议",
+          "url": "https://www.baidu.com/s?wd=%E6%96%87%E7%AB%A0%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%BC%80%E9%9D%A2%E9%A6%86+%E8%8F%9C%E5%93%81%E4%BB%B7%E6%A0%BC%E5%BC%95%E7%83%AD%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            6,
-            10
+            14,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 11时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时55分]"
         },
+        {
+          "title": "杰克小兔和LKs体验不同价格香港酒店",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%B0%E5%85%8B%E5%B0%8F%E5%85%94%E5%92%8CLKs%E4%BD%93%E9%AA%8C%E4%B8%8D%E5%90%8C%E4%BB%B7%E6%A0%BC%E9%A6%99%E6%B8%AF%E9%85%92%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时10分 ~ 14时18分]"
+        },
+        {
+          "title": "智利国家铜业公司董事长：受中东战争带来的价格影响，公司直接成本每磅上升0.10美元。",
+          "url": "https://flash.jin10.com/detail/20260414020147073800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "英国石油公司：预计第一季度上游产量基本持平。 预计第一季度资本支出基本持平。 预计第一季度末净债务将在250亿至270亿美元之间。 预计市场状况将影响财务业绩。 预计第一季度基准价格与实际价格之间的背离加大。 预期包括中东局势带来的影响。",
+          "url": "https://wallstreetcn.com/livenews/3087458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "智利国家铜业公司董事长：公司在价格上涨前已为2026年运营锁定硫酸采购。",
+          "url": "https://flash.jin10.com/detail/20260414020119309800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "金饰价格一夜跌了11元",
+          "url": "https://www.douyin.com/hot/2464920",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时10分 ~ 05时57分]"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 14时18分]"
+        },
+        {
+          "title": "美国副总统万斯：能源价格虽然令人痛苦，但也不会一直维持在高位。",
+          "url": "https://flash.jin10.com/detail/20260414064202659800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时55分]"
+        },
+        {
+          "title": "周一（4月13日），彭博电动汽车价格回报指数涨1.18%，报3822.27点。 亚太盘初微幅低开，北京时间21:30美股开盘之前窄幅震荡于平盘附近，之后加速上涨，00:00以来持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3087152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时11分 ~ 05时57分]"
+        },
+        {
+          "title": "澳新银行：上调布伦特原油价格预期，现在预计2026年年底为88美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3087206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时55分]"
+        },
+        {
+          "title": "两大稀土巨头价格七连涨",
+          "url": "https://www.toutiao.com/trending/7627736978733350954/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 06时55分]"
+        },
+        {
+          "title": "澳洲联储副主席Hauser：对澳大利亚而言，能源价格上涨是一个重大的收入冲击。 央行的噩梦就是通胀上扬、经济活动下滑。 对于某些国家而言，财政主导型可能会成为一个问题。 不希望中期通胀预期上扬。 能源价格对经济活动的影响是一个重大问题。",
+          "url": "https://wallstreetcn.com/livenews/3087196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时55分]"
+        },
+        {
+          "title": "欧洲央行管委武伊契奇：能源价格仍最接近欧洲央行基本情景",
+          "url": "https://flash.jin10.com/detail/20260413234406049800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "美国能源部长赖特：就目前情况来看，若想让石油和天然气价格在今年夏季开始回落，将是一个非常激进的时间表。",
+          "url": "https://flash.jin10.com/detail/20260414050156790800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国能源部长Wright：美国能源价格可能会上涨，直至霍尔木兹海峡的船只通行量“实质性地”恢复。 预计“未来几周”将发生这样的事。 委内瑞拉石油产量超过120万桶/日，三个月增长了25%。 1月3日以来，销售了1.5亿桶委内瑞拉石油。",
+          "url": "https://wallstreetcn.com/livenews/3087158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国财长贝森特：美国在降息之前应“观望并等待”；有信心近期的价格上涨不会“植入通胀预期之中”。（美国财经媒体Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3087361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美联储古尔斯比：原油期货价格显示，人们认为这将是一个短期现象。",
+          "url": "https://flash.jin10.com/detail/20260414013620430800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "美联储古尔斯比：如果油价连续数月维持在每桶90美元，就会开始向其他价格传导。",
+          "url": "https://flash.jin10.com/detail/20260414013454634800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "美国副总统万斯：我们知道，美国民众受到能源价格的伤害。",
+          "url": "https://wallstreetcn.com/livenews/3087191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "美国能源部长赖特：在霍尔木兹海峡恢复实质性通航之前，美国能源价格可能会持续走高，这一过程预计将耗时“数周”。",
+          "url": "https://flash.jin10.com/detail/20260414045154923800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "智利化工矿业公司（SQM）：预计碳酸锂价格将于2026年维持在15-18美元/公斤左右。",
+          "url": "https://wallstreetcn.com/livenews/3087056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "应对能源价格上涨 德国拟减免16亿欧元能源税",
+          "url": "https://wallstreetcn.com/livenews/3087422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "国内品牌金饰价格较昨日上涨",
+          "url": "https://flash.jin10.com/detail/20260414110607728800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 15,
+      "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
           "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
@@ -980,17 +1079,43 @@
           "time_info": "[00时20分 ~ 11时34分]"
         },
         {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时18分]"
+        },
+        {
           "title": "央视重锤!AI造黄产业链被扒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
           "source": "贴吧",
           "ranks": [
             8,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 11时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时18分]"
+        },
+        {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时18分]"
         },
         {
           "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
@@ -1067,9 +1192,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "诺和诺德与OpenAI合作，旨在革新药物研发方式。",
+          "url": "https://wallstreetcn.com/livenews/3087448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "北京最火饺子馆开始喂AI龙虾",
@@ -1111,6 +1247,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
+          "url": "https://www.cls.cn/detail/2342867",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时55分 ~ 14时18分]"
+        },
+        {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
           "url": "https://wallstreetcn.com/articles/3769784",
           "source": "华尔街见闻",
@@ -1120,19 +1270,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 04时11分]"
-        },
-        {
-          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
-          "url": "https://www.cls.cn/detail/2342867",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时55分 ~ 11时34分]"
         },
         {
           "title": "贝莱德恢复超配美股观点 认为伊朗战争冲击可控",
@@ -1226,7 +1363,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1248,7 +1385,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T11:32:59.575556+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-04-15T14:06:53.321872+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
@@ -112,6 +112,17 @@
           "time_info": "[05时59分 ~ 06时59分]"
         },
         {
+          "title": "特朗普引爆的两场冲突让华尔街“血赚”：三大行一季度狂揽逾250亿美元",
+          "url": "https://flash.jin10.com/detail/20260415135228261800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "华尔街大行私募信贷敞口达1000亿美元，摩根大通CEO：“不是特别担心”",
           "url": "https://wallstreetcn.com/livenews/3087910",
           "source": "华尔街见闻-快讯",
@@ -151,7 +162,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -184,7 +195,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -387,13 +398,24 @@
           "time_info": "04时12分"
         },
         {
+          "title": "Jefferies把摩根大通目标价从310美元上调至320美元，把Moderna目标价从37美元上调至45美元。",
+          "url": "https://wallstreetcn.com/livenews/3088184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "巴基斯坦财政部：沙特宣布向巴基斯坦追加30亿美元援助，并延长50亿美元存款期限。",
           "url": "https://flash.jin10.com/detail/20260415105353097800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -426,7 +448,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -434,7 +456,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -467,6 +489,29 @@
           "time_info": "[00时18分 ~ 06时59分]"
         },
         {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时12分 ~ 14时06分]"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时06分]"
+        },
+        {
           "title": "守护未成年,AI伴侣全禁售",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
           "source": "贴吧",
@@ -487,18 +532,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 07时55分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时12分 ~ 11时32分]"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -523,17 +556,6 @@
           "time_info": "02时13分"
         },
         {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
           "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
           "url": "https://wallstreetcn.com/livenews/3087952",
           "source": "华尔街见闻-快讯",
@@ -551,7 +573,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -596,11 +618,23 @@
           "url": "https://www.cls.cn/detail/2344320",
           "source": "财联社热门",
           "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时06分]"
+        },
+        {
+          "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3088208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "14时06分"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
@@ -705,7 +739,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何看待同济大学王教授的百万经费 Nature 论文被指数据造假？",
@@ -716,8 +750,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 14时06分]"
         },
         {
           "title": "标普500指数的11个板块中，电信板块收涨3.18%，可选消费板块涨2.54%，信息技术/科技板块涨1.66%，能源板块收跌2.16%。",
@@ -786,6 +820,28 @@
           "time_info": "04时12分"
         },
         {
+          "title": "沙特3月份消费者物价指数环比上涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20260415135204778800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高1.2%报36,722.14点。",
+          "url": "https://wallstreetcn.com/livenews/3088213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "金十图示：2026年04月14日（周二）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260414234104391800",
           "source": "金十数据",
@@ -836,7 +892,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -847,7 +903,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -896,6 +952,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "巴基斯坦KSE-100指数上涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3088188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.88%，报26145点。 恒生科技指数主连夜盘收涨1.75%，报4943点。",
           "url": "https://wallstreetcn.com/livenews/3087929",
           "source": "华尔街见闻-快讯",
@@ -907,13 +974,24 @@
           "time_info": "04时12分"
         },
         {
+          "title": "台湾加权指数4月15日（周三）收盘上涨426.02点，涨幅1.17%，报36722.14点。",
+          "url": "https://flash.jin10.com/detail/20260415133546754800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "科创50指数涨超2%，寒武纪涨6.75%领涨成分股。",
           "url": "https://flash.jin10.com/detail/20260415105239485800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -921,7 +999,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "我国将健全药品价格形成机制 引导药品价格运行在合理区间",
@@ -1000,7 +1078,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1025,6 +1103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "硅业分会：多晶硅价格跌幅收窄 成交初现回暖",
+          "url": "https://wallstreetcn.com/livenews/3088215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "美国能源部长赖特：汽油价格可能还要再上涨几周。",
@@ -1066,7 +1155,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1077,9 +1166,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "惠丰钻石：5月1日起，对公司工业金刚石系列产品价格进行8%—12%的结构性上调",
+          "url": "https://wallstreetcn.com/livenews/3088194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "硅业分会：多晶硅价格跌幅收窄，成交初现回暖",
+          "url": "https://flash.jin10.com/detail/20260415134259812800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "周二（4月14日），彭博电动汽车价格回报指数涨1.66%，报3880.16点。",
@@ -1099,15 +1210,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "国家医保局：积极推动同一药品在不同渠道的价格信息更加公开透明，引导不同渠道公平合理定价",
+          "url": "https://wallstreetcn.com/livenews/3088180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -1152,9 +1274,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时06分]"
+        },
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 14时06分]"
         },
         {
           "title": "美股收盘：中概股集体大涨",
@@ -1168,15 +1302,15 @@
           "time_info": "07时55分"
         },
         {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
+          "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
+          "url": "https://wallstreetcn.com/livenews/3088207",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "14时06分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
@@ -1193,7 +1327,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国联邦机构绕过特朗普对Anthropic公司的禁令，测试其先进人工智能模型。（Politico）",
@@ -1202,7 +1336,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1215,8 +1349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 14时06分]"
         },
         {
           "title": "美国联邦机构绕过特朗普对Anthropic公司的禁令，测试其先进的人工智能模型。",
@@ -1225,7 +1359,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1239,6 +1373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
+          "url": "https://wallstreetcn.com/livenews/3088191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     },
@@ -1284,8 +1429,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 11时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 14时06分]"
         }
       ]
     }

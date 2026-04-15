@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T14:06:53.321872+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-04-15T16:50:45.141987+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
@@ -67,6 +67,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "亚康股份：下属公司新加坡科技有限公司与供应商A公司签订了《设备采购合同》，合同含税总金额 2.34亿美元；客户B公司与新加坡科技签订了《设备采购合同》，合同含税金额2.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3088348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "WTI原油向下触及90美元/桶，日内跌2.56%。",
           "url": "https://flash.jin10.com/detail/20260415073427532800",
           "source": "金十数据",
@@ -118,7 +129,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -231,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "现货白银跌破79美元/盎司，日内跌0.68%。",
+          "url": "https://flash.jin10.com/detail/20260415161050751800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "周二（4月14日），美联储隔夜逆回购协议（RRP）使用规模为3.06亿美元（交易对手13家），上个交易日报2.27亿美元。",
@@ -404,7 +426,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -456,8 +478,20 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时12分 ~ 16时50分]"
+        },
         {
           "title": "UP主揭秘AI短剧制作流程",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
@@ -475,6 +509,18 @@
           "time_info": "[00时18分 ~ 11时32分]"
         },
         {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 16时50分]"
+        },
+        {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
@@ -487,29 +533,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 06时59分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时12分 ~ 14时06分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时06分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -590,6 +613,19 @@
           "time_info": "[05时59分 ~ 06时59分]"
         },
         {
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 16时50分]"
+        },
+        {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
           "url": "https://flash.jin10.com/detail/20260415052923283800",
           "source": "金十数据",
@@ -614,27 +650,26 @@
           "time_info": "[05时59分 ~ 06时59分]"
         },
         {
-          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
-          "url": "https://www.cls.cn/detail/2344320",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时06分]"
-        },
-        {
           "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3088208",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达推出面向量子计算的AI模型 全球量子科技产业加速发展",
+          "url": "https://www.cls.cn/detail/2344233",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
@@ -703,6 +738,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "哪个艺人授权AI了",
+          "url": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%B8%AA%E8%89%BA%E4%BA%BA%E6%8E%88%E6%9D%83AI%E4%BA%86&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
           "url": "https://wallstreetcn.com/livenews/3087968",
           "source": "华尔街见闻-快讯",
@@ -739,7 +785,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "如何看待同济大学王教授的百万经费 Nature 论文被指数据造假？",
@@ -750,8 +796,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 14时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 16时50分]"
         },
         {
           "title": "标普500指数的11个板块中，电信板块收涨3.18%，可选消费板块涨2.54%，信息技术/科技板块涨1.66%，能源板块收跌2.16%。",
@@ -826,7 +872,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -837,7 +883,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -919,6 +965,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "香港恒生指数4月15日（周三）收盘上涨75.0点，涨幅0.29%，报25947.32点；<br/>香港恒生科技指数4月15日（周三）收盘上涨59.83点，涨幅1.23%，报4911.79点；<br/>国企指数4月15日（周三）收盘上涨46.65点，涨幅0.54%，报8718.26点；<br/>红筹指数4月15日（周三）收盘下跌10.66点，跌幅0.25%，报4321.56点。",
+          "url": "https://flash.jin10.com/detail/20260415161116147800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "韩国3月进口物价指数年率 18.4%，前值由1.20%修正为1.6%。",
           "url": "https://flash.jin10.com/detail/20260415050002481800",
           "source": "金十数据",
@@ -941,6 +998,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "港股收盘，恒生指数收涨0.29%，恒生科技指数收涨1.23%。科网股走高，京东涨超4%，阿里巴巴、百度涨超3%。创新药表现强势，荣昌生物涨超9%，君实生物涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3088318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.87%，报619.22点。 欧元区STOXX 50指数初步收涨1.19%，报5975.25点。 富时泛欧绩优300指数初步收涨0.83%，报2469.28点。",
           "url": "https://wallstreetcn.com/livenews/3087856",
           "source": "华尔街见闻-快讯",
@@ -958,7 +1026,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -980,7 +1048,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -999,7 +1067,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "我国将健全药品价格形成机制 引导药品价格运行在合理区间",
@@ -1111,7 +1179,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -1125,6 +1193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "国办9号文落地 创新药定价松绑 首发价格机制文件正在制定中",
+          "url": "https://www.cls.cn/detail/2344771",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "阿根廷国家统计局：3月消费者价格环比上涨3.4%。截至3月的12个月累计通胀率为32.6%。",
@@ -1177,7 +1256,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -1188,7 +1267,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -1202,6 +1281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "印尼能源部：将4月下半月5300大卡级别的煤炭基准价格设定为每吨77.71美元。将4月下半月4100大卡级别的煤炭基准价格设定为每吨52.84美元。",
+          "url": "https://flash.jin10.com/detail/20260415160558836800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "阿里云：7月15日起上调DDoS防护产品价格",
@@ -1221,7 +1311,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         }
@@ -1229,7 +1319,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -1287,8 +1377,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时06分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 16时50分]"
         },
         {
           "title": "美股收盘：中概股集体大涨",
@@ -1302,15 +1392,48 @@
           "time_info": "07时55分"
         },
         {
+          "title": "美股率先收复所有失地！美伊冲突第七周 全球市场正迎来“大洗牌”？",
+          "url": "https://www.cls.cn/detail/2344302",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
           "url": "https://wallstreetcn.com/livenews/3088207",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "博通美股盘前涨2.9%，公司与Meta延长定制芯片合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3088315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "耐克美股盘前上涨2.4%，此前首席执行官增持公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3088311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
@@ -1381,7 +1504,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         }
@@ -1429,8 +1552,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 14时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 16时50分]"
         }
       ]
     }

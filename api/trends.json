@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-17T03:28:13.960500+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-04-17T04:59:59.085917+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "中巴拟签百亿美元国防大单",
+          "url": "https://www.toutiao.com/trending/7628939953220681755/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
           "url": "https://wallstreetcn.com/livenews/3089502",
@@ -19,15 +31,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产缩水1758.1万亿美元，创历史上最大降幅，至7.64万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3089547",
-          "source": "华尔街见闻-快讯",
+          "title": "美国证交会文件显示：Meta公司首席执行官扎克伯格2025年总薪酬为2510万美元。",
+          "url": "https://flash.jin10.com/detail/20260417043659305800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "04时59分"
         },
         {
           "title": "LME期铜收涨23美元，报13270美元/吨。 LME期铝收涨22美元，报3644美元/吨。 LME期锌收涨27美元，报3424美元/吨。 LME期铅收跌13美元，报1952美元/吨。 LME期镍收涨106美元，报18239美元/吨。 LME期锡收涨涨498美元，报50104美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "中巴拟签百亿美元国防大单",
-          "url": "https://www.toutiao.com/trending/7628939953220681755/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
         },
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -75,6 +75,18 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产缩水1758.1万亿美元，创历史上最大降幅，至7.64万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3089547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时59分]"
+        },
+        {
           "title": "巴媒：中巴拟签百亿美元国防大单",
           "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%B7%B4%E6%8B%9F%E7%AD%BE%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9B%BD%E9%98%B2%E5%A4%A7%E5%8D%95",
           "source": "百度热搜",
@@ -83,8 +95,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8230元，较周三夜盘收盘跌42点。成交量332.96亿美元。",
@@ -93,9 +105,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417043100409800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "彭博美元指数涨幅扩大，报道称，海湾国家与欧洲官员们认为，美国需要六个月时间才能与伊朗达成协议。",
@@ -109,15 +132,37 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美国铝业一季度销售31.9亿美元，分析师预期32.7亿美元。 维持全年铝产量预期在240万-260万吨不变，维持铝发货量预期在260万-280万吨不变。 维持全年氧化铝发货量预期在1180万-1200万吨不变。",
+          "url": "https://wallstreetcn.com/livenews/3089569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
           "title": "WTI 5月原油期货收涨3.40美元，涨幅3.72%，报94.69美元/桶。 布伦特6月原油期货收报99.39美元/桶。 中东Abu Dhabi Murban原油期货涨0.65%，报101.51美元/桶。 NYMEX 5月天然气期货收报2.6470美元/百万英热单位。 NYMEX 5月汽油期货收报3.1637美元/加仑，NYMEX 5月取暖油期货收报3.8329美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3089537",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美国铝业(AA.N)一季度营收31.9亿美元，市场预期32.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417041138412800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "周四（4月16日），韩元兑美元最终跌0.32%，报1479.80韩元，北京时间11:06涨至1466.53韩元刷新日高，随后逐步走低",
@@ -126,9 +171,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "奈飞(NFLX.O)维持全年营收预期在507亿-517亿美元不变，市场预期513.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417041119547800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "奈飞(NFLX.O)第一季度营收122.5亿美元，市场预估121.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417041104015800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "周四（4月16日）纽约尾盘，ICE美元指数涨0.14%，报98.194点，日内交投区间为97.832-98.292点，北京时间16:00之前呈现出V形反转行情，随后持续交投于98.200点附近。 彭博美元指数涨0.07%，报1193.23点，日内交投区间为1189.77-1194.49点。 美元兑日元涨0.07%，报159.11日元，日内交投区间为158.27-159.31日元。 欧元兑日元跌0.05%，英镑兑日元跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3089556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "WTI原油向上触及94美元/桶，日内涨2.80%。",
@@ -148,9 +226,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
+          "url": "https://wallstreetcn.com/livenews/3089555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "美国银行寻求发行100亿美元高评级债券。",
@@ -159,7 +248,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -177,8 +266,126 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
+        },
+        {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
+        },
+        {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
+        },
+        {
+          "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "奈飞一季度营收122.5亿美元，分析师预期121.7亿美元。 一季度每股收益（EPS）为1.23美元，上年同期0.66美元。 维持全年营收预期在507亿-517亿美元不变，分析师预期513.7亿美元。 维持全年运营利润率预期在31.5%不变，分析师预期32%。 预计二季度营收125.7亿美元，分析师预期126.4亿美元。 预计二季度EPS为0.78美元，分析师预期0.84美元。 奈飞美股盘后跌9.3%。",
+          "url": "https://wallstreetcn.com/livenews/3089565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260417040757477800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260417040755428800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260417003213963800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 金龙指数涨1.7%",
+          "url": "https://flash.jin10.com/detail/20260417040204226800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260417003029748800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -188,8 +395,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -209,7 +416,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -218,11 +425,12 @@
           "url": "https://www.cls.cn/detail/2346308",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -232,8 +440,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -243,8 +451,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -253,7 +461,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -275,77 +483,98 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3089544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "指数",
+      "match_count": 6,
       "titles": [
         {
-          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
+          "title": "恒生指数主连夜盘收跌0.46%，报26229点。 恒生科技指数主连夜盘收跌0.18%，报5077点。",
+          "url": "https://wallstreetcn.com/livenews/3089541",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
-        },
-        {
-          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
-          "url": "https://wallstreetcn.com/articles/3770123",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
-        },
-        {
-          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2346625",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
-        },
-        {
-          "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260417003213963800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "03时28分"
         },
         {
-          "title": "金十图示：2026年04月16日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260417003029748800",
+          "title": "标普500指数的11个板块多数收涨，能源板块涨1.55%，房地产板块涨1.01%，信息技术/科技板块涨0.78%，保健板块则收跌0.77%。",
+          "url": "https://wallstreetcn.com/livenews/3089570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260417041404871800",
           "source": "金十数据",
           "ranks": [
-            23
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "04时59分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260417040801179800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "道琼斯指数4月16日（周四）收盘上涨115.13点，涨幅0.24%，报48578.85点；<br/>标普500指数4月16日（周四）收盘上涨18.32点，涨幅0.26%，报7041.27点；<br/>纳斯达克综合指数4月16日（周四）收盘上涨86.69点，涨幅0.36%，报24102.70点。",
+          "url": "https://flash.jin10.com/detail/20260417040758675800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "国家统计局谈国际能源价格大涨：我国能源资源供应充裕、平稳有序",
@@ -355,8 +584,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
+        },
+        {
+          "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3089568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "原油期货价格延续涨势，布伦特原油期货日内上涨超过4美元，WTI原油期货上涨超过3美元，有报道称美国达成伊朗协议大约仍需六个月时间。",
@@ -376,26 +616,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "欧洲央行管委Dolenc：能源价格下跌可能让加息变得没必要。 欧洲现在更加接近央行基准假设，而不是接近假设的糟糕场景。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3089549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     },
     {
-      "keyword_group": "指数",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "恒生指数主连夜盘收跌0.46%，报26229点。 恒生科技指数主连夜盘收跌0.18%，报5077点。",
-          "url": "https://wallstreetcn.com/livenews/3089541",
+          "title": "30年期美债收益率涨约3.1个基点",
+          "url": "https://wallstreetcn.com/livenews/3089557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "04时59分"
         }
       ]
     },
@@ -411,8 +662,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时59分]"
         }
       ]
     }

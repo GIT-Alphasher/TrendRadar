@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T07:53:37.447086+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-04-17T11:36:15.974461+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "中巴拟签百亿美元国防大单",
@@ -104,6 +104,17 @@
           "time_info": "[04时59分 ~ 05时56分]"
         },
         {
+          "title": "台积电Q1净利润同比增58%，毛利率历史性突破66%，资本支出111亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770116",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 11时36分]"
+        },
+        {
           "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
           "url": "https://flash.jin10.com/detail/20260417043100409800",
           "source": "金十数据",
@@ -164,6 +175,17 @@
           "time_info": "[05时56分 ~ 06时54分]"
         },
         {
+          "title": "Anthropic据悉遭资方“哄抢”：估值要约直逼8000亿美元 公司暂未接受",
+          "url": "https://www.cls.cn/detail/2346716",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
           "title": "周四（4月16日）纽约尾盘，现货黄金跌0.04%，报4788.96美元/盎司，亚太早盘显著走高，北京时间08:40达到4837.68美元，日内大部分时间持稳于4820美元附近。 COMEX黄金期货跌0.26%，报4810.50美元/盎司，13:06也曾刷新日高至4861.30美元。",
           "url": "https://wallstreetcn.com/livenews/3089581",
           "source": "华尔街见闻-快讯",
@@ -211,17 +233,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "台积电Q1净利润同比增58%，毛利率历史性突破66%，资本支出111亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770116",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
           "title": "彭博美元指数涨幅扩大，报道称，海湾国家与欧洲官员们认为，美国需要六个月时间才能与伊朗达成协议。",
           "url": "https://wallstreetcn.com/livenews/3089494",
           "source": "华尔街见闻-快讯",
@@ -239,7 +250,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -343,6 +354,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "民主党人炮轰沃什超1亿美元资产“未披露”，听证会前已火药味十足",
+          "url": "https://flash.jin10.com/detail/20260417105244388800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "世界银行打算提供高达20亿美元担保，用于帮助阿根廷债务再融资。",
           "url": "https://wallstreetcn.com/livenews/3089473",
           "source": "华尔街见闻-快讯",
@@ -356,9 +378,415 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 14,
+      "keyword_group": "AI",
+      "match_count": 19,
       "titles": [
+        {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 11时36分]"
+        },
+        {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.toutiao.com/trending/7628666147721740329/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时53分]"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时53分]"
+        },
+        {
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时53分]"
+        },
+        {
+          "title": "AI来了消博会 消费行业会怎么变",
+          "url": "https://www.baidu.com/s?wd=AI%E6%9D%A5%E4%BA%86%E6%B6%88%E5%8D%9A%E4%BC%9A+%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8F%98",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
+          "url": "https://flash.jin10.com/detail/20260417005843333800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "OpenAI发布用于药物研发的新款AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3089544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "曝常春藤名校用打字机对抗AI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 11时36分]"
+        },
+        {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
+          "title": "搭上AI数据中心热潮 美工业公司股价上市首日即涨两成",
+          "url": "https://www.cls.cn/detail/2346819",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "用 AI 写的代码，最终会不会让整个项目成为屎山？",
+          "url": "https://www.zhihu.com/question/2013899380286047376",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
+          "url": "https://www.zhihu.com/question/2025259986431787811",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
+          "url": "https://flash.jin10.com/detail/20260417030201225800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
+          "url": "https://wallstreetcn.com/livenews/3089493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "OpenAI发布Codex更新",
+          "url": "https://wallstreetcn.com/livenews/3089521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3089544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "国家统计局谈国际能源价格大涨：我国能源资源供应充裕、平稳有序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32982677",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时53分]"
+        },
+        {
+          "title": "新西兰3月食品价格指数年率 3.4%，前值4.5%。",
+          "url": "https://flash.jin10.com/detail/20260417064550580800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "日本央行行长植田和男：原油价格上涨恶化了日本的贸易条件，并对经济产生下行压力。 必须将此类下行压力，与政府刺激措施，及强劲的企业利润对增长的提振作用进行综合权衡。 增长放缓将对通胀构成压力。 货币环境依然高度宽松。 油价上涨将对潜在通胀产生上行压力。 日本央行将在每次会议上，通过全面审视届时可获得的各种信息来做出决策。",
+          "url": "https://wallstreetcn.com/livenews/3089636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "新西兰3月食品价格指数月率 -0.6%，前值-0.10%。",
+          "url": "https://flash.jin10.com/detail/20260417064502788800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "日本央行行长植田和男：我们将从可持续实现我们的价格目标的角度做出最合适的决定。",
+          "url": "https://flash.jin10.com/detail/20260417074331841800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "日本央行行长植田和男：我们现在看到的是由能源驱动的冲击，这推动了价格上涨并对增长造成压力。",
+          "url": "https://flash.jin10.com/detail/20260417074210890800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "Meta上调VR头显价格 原油反弹铝价升至多年新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2346898",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3089568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时56分]"
+        },
+        {
+          "title": "又改口？特朗普称汽油价格“不算很高” 经济支持率却跌至任内低位",
+          "url": "https://www.cls.cn/detail/2346903",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "日本央行行长植田和男：上涨的原油价格恶化了日本的贸易条件，并对经济造成下行压力。",
+          "url": "https://flash.jin10.com/detail/20260417073457237800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "原油期货价格延续涨势，布伦特原油期货日内上涨超过4美元，WTI原油期货上涨超过3美元，有报道称美国达成伊朗协议大约仍需六个月时间。",
+          "url": "https://flash.jin10.com/detail/20260417004657034800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报167900元/吨，较上日16:30价格上涨1000元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3089724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格并不是很高。",
+          "url": "https://wallstreetcn.com/livenews/3089526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "欧洲央行管委Dolenc：能源价格下跌可能让加息变得没必要。 欧洲现在更加接近央行基准假设，而不是接近假设的糟糕场景。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3089549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "国家发展改革委：一季度投资、消费、价格等指标明显改善",
+          "url": "https://flash.jin10.com/detail/20260417104955749800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 11时36分]"
+        },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
           "url": "https://wallstreetcn.com/articles/3770109",
@@ -372,16 +800,28 @@
           "time_info": "[01时25分 ~ 04时59分]"
         },
         {
-          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
-          "url": "https://wallstreetcn.com/articles/3770123",
-          "source": "华尔街见闻",
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            6
+            5,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时53分]"
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 11时36分]"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 11时36分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -396,29 +836,6 @@
           "time_info": "[01时25分 ~ 07时53分]"
         },
         {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时53分]"
-        },
-        {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
           "url": "https://wallstreetcn.com/livenews/3089571",
           "source": "华尔街见闻-快讯",
@@ -429,6 +846,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时56分]"
+        },
+        {
+          "title": "美股收盘：百度涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 11时36分]"
+        },
+        {
+          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
+          "url": "https://wallstreetcn.com/articles/3770147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
         },
         {
           "title": "NiSource美股盘后涨3.7%，该公司宣布与谷歌母公司Alphabet附属公司达成长期能源供应协议，用于后者在美国印第安纳州北部开发和运营大规模数据中心。",
@@ -453,17 +893,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时56分]"
-        },
-        {
-          "title": "美股收盘：百度涨超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -523,278 +952,20 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时53分]"
-        },
-        {
-          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
-          "url": "https://www.cls.cn/detail/2346308",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时53分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时53分]"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时53分]"
-        },
-        {
-          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
-          "url": "https://flash.jin10.com/detail/20260417005843333800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "OpenAI发布用于药物研发的新款AI模型。",
-          "url": "https://wallstreetcn.com/livenews/3089544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "解读AI蒸馏攻防战",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时54分]"
-        },
-        {
-          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
-          "url": "https://flash.jin10.com/detail/20260417030201225800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
-          "url": "https://wallstreetcn.com/livenews/3089493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "曝常春藤名校用打字机对抗AI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "OpenAI发布Codex更新",
-          "url": "https://wallstreetcn.com/livenews/3089521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
-          "url": "https://wallstreetcn.com/livenews/3089544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "国家统计局谈国际能源价格大涨：我国能源资源供应充裕、平稳有序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32982677",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时53分]"
-        },
-        {
-          "title": "新西兰3月食品价格指数年率 3.4%，前值4.5%。",
-          "url": "https://flash.jin10.com/detail/20260417064550580800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "日本央行行长植田和男：原油价格上涨恶化了日本的贸易条件，并对经济产生下行压力。 必须将此类下行压力，与政府刺激措施，及强劲的企业利润对增长的提振作用进行综合权衡。 增长放缓将对通胀构成压力。 货币环境依然高度宽松。 油价上涨将对潜在通胀产生上行压力。 日本央行将在每次会议上，通过全面审视届时可获得的各种信息来做出决策。",
-          "url": "https://wallstreetcn.com/livenews/3089636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "新西兰3月食品价格指数月率 -0.6%，前值-0.10%。",
-          "url": "https://flash.jin10.com/detail/20260417064502788800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "日本央行行长植田和男：我们将从可持续实现我们的价格目标的角度做出最合适的决定。",
-          "url": "https://flash.jin10.com/detail/20260417074331841800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "日本央行行长植田和男：我们现在看到的是由能源驱动的冲击，这推动了价格上涨并对增长造成压力。",
-          "url": "https://flash.jin10.com/detail/20260417074210890800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3089568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时56分]"
-        },
-        {
-          "title": "日本央行行长植田和男：上涨的原油价格恶化了日本的贸易条件，并对经济造成下行压力。",
-          "url": "https://flash.jin10.com/detail/20260417073457237800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "原油期货价格延续涨势，布伦特原油期货日内上涨超过4美元，WTI原油期货上涨超过3美元，有报道称美国达成伊朗协议大约仍需六个月时间。",
-          "url": "https://flash.jin10.com/detail/20260417004657034800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "美国总统特朗普：汽油价格并不是很高。",
-          "url": "https://wallstreetcn.com/livenews/3089526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "欧洲央行管委Dolenc：能源价格下跌可能让加息变得没必要。 欧洲现在更加接近央行基准假设，而不是接近假设的糟糕场景。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3089549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "指数",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "MSCI亚太指数下跌1%至253.81点。",
+          "url": "https://wallstreetcn.com/livenews/3089752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
         {
           "title": "标普500指数的11个板块多数收涨，能源板块涨1.55%，房地产板块涨1.01%，信息技术/科技板块涨0.78%，保健板块则收跌0.77%。",
           "url": "https://wallstreetcn.com/livenews/3089570",
@@ -874,6 +1045,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "越南股指VN指数上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3089710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "香港恒生指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3089705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "警惕人工智能让人类陷入“自恋”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时53分]"
+        },
+        {
+          "title": "国家发改委：今年将重点在“人工智能+”基础设施等领域，开展一系列扩大有效投资行动",
+          "url": "https://flash.jin10.com/detail/20260417111544216800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "国家发改委：今年将重点在“人工智能+”基础设施等领域，开展一系列扩大有效投资行动",
+          "url": "https://wallstreetcn.com/livenews/3089750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "苏林试戴人工智能眼镜",
+          "url": "https://www.toutiao.com/trending/7629525766065864714/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
         }
       ]
     },
@@ -914,24 +1158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "警惕人工智能让人类陷入“自恋”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时53分]"
         }
       ]
     }

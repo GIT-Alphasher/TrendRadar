@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T14:10:32.266580+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-04-17T16:50:31.743097+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "中巴拟签百亿美元国防大单",
@@ -255,6 +255,28 @@
           "time_info": "07时53分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8263，较上一交易日官方收盘价跌66点，较上日夜盘收盘跌33点。",
+          "url": "https://wallstreetcn.com/livenews/3089926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "在岸人民币兑美元4月17日16:30收盘报6.8263，较上一交易日下跌66点。",
+          "url": "https://flash.jin10.com/detail/20260417163155915800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "WTI 5月原油期货收涨3.40美元，涨幅3.72%，报94.69美元/桶。 布伦特6月原油期货收报99.39美元/桶。 中东Abu Dhabi Murban原油期货涨0.65%，报101.51美元/桶。 NYMEX 5月天然气期货收报2.6470美元/百万英热单位。 NYMEX 5月汽油期货收报3.1637美元/加仑，NYMEX 5月取暖油期货收报3.8329美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3089537",
           "source": "华尔街见闻-快讯",
@@ -294,7 +316,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -360,7 +382,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -410,11 +432,12 @@
           "ranks": [
             4,
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 14时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 16时50分]"
         },
         {
           "title": "AI来了消博会 消费行业会怎么变",
@@ -462,6 +485,17 @@
           "time_info": "[01时25分 ~ 07时53分]"
         },
         {
+          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
+          "url": "https://www.cls.cn/detail/2347047",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 16时50分]"
+        },
+        {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
           "url": "https://flash.jin10.com/detail/20260417005843333800",
           "source": "金十数据",
@@ -478,11 +512,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 16时50分]"
         },
         {
           "title": "国产AI激光“灭蚊神器”海外爆单",
@@ -495,17 +530,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 14时10分]"
-        },
-        {
-          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
-          "url": "https://www.cls.cn/detail/2347047",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
         },
         {
           "title": "OpenAI发布用于药物研发的新款AI模型。",
@@ -545,23 +569,24 @@
           "time_info": "[07时53分 ~ 14时10分]"
         },
         {
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 16时50分]"
+        },
+        {
           "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
           "url": "https://www.zhihu.com/question/2025259986431787811",
           "source": "知乎",
           "ranks": [
             20,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 14时10分]"
-        },
-        {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -591,6 +616,17 @@
           "time_info": "[11时35分 ~ 11时36分]"
         },
         {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 16时50分]"
+        },
+        {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
           "url": "https://flash.jin10.com/detail/20260417030201225800",
           "source": "金十数据",
@@ -613,24 +649,13 @@
           "time_info": "01时25分"
         },
         {
-          "title": "国产AI激光“灭蚊神器”海外爆单",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
           "title": "苹果公司负责手表、AirPods和智能家居的营销副总裁Stan Ng即将退休。Stan Ng在网页发文称，将在任职31年后离开公司。",
           "url": "https://wallstreetcn.com/livenews/3089779",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -655,6 +680,236 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "北证50指数涨幅扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20260417135955168800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "恒生中国高股息率指数公布季检结果",
+          "url": "https://wallstreetcn.com/livenews/3089934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "MSCI亚太指数下跌1%至253.81点。",
+          "url": "https://wallstreetcn.com/livenews/3089752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内涨幅达6%，现报2118.0点。",
+          "url": "https://wallstreetcn.com/livenews/3089803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低0.9%报36,804.34点。",
+          "url": "https://wallstreetcn.com/livenews/3089801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，能源板块涨1.55%，房地产板块涨1.01%，信息技术/科技板块涨0.78%，保健板块则收跌0.77%。",
+          "url": "https://wallstreetcn.com/livenews/3089570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时56分]"
+        },
+        {
+          "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
+          "url": "https://www.cls.cn/detail/2347163",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 16时50分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时56分]"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260417041404871800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时56分]"
+        },
+        {
+          "title": "恒生中国高股息率指数公布季检结果",
+          "url": "https://flash.jin10.com/detail/20260417163803089800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.46%，报26229点。 恒生科技指数主连夜盘收跌0.18%，报5077点。",
+          "url": "https://wallstreetcn.com/livenews/3089541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内涨幅达6.00%，现报2118.0点。",
+          "url": "https://flash.jin10.com/detail/20260417134600973800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260417040801179800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "台湾加权指数4月17日（周五）收盘下跌327.68点，跌幅0.88%，报36804.34点。",
+          "url": "https://flash.jin10.com/detail/20260417133518937800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "道琼斯指数4月16日（周四）收盘上涨115.13点，涨幅0.24%，报48578.85点；<br/>标普500指数4月16日（周四）收盘上涨18.32点，涨幅0.26%，报7041.27点；<br/>纳斯达克综合指数4月16日（周四）收盘上涨86.69点，涨幅0.36%，报24102.70点。",
+          "url": "https://flash.jin10.com/detail/20260417040758675800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "铜铝“双雄”驱动LME金属指数创历史新高，铝业“黑洞”降临！",
+          "url": "https://flash.jin10.com/detail/20260417132726575800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌0.89%，恒生科技指数收跌0.97%。群核科技上市首日涨144%，长光辰芯涨超75%。光通信板块走强，剑桥科技涨近35%，汇聚科技涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3089904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "纳斯达克100指数连涨12天，创2009年7月份以来最长连涨天数",
+          "url": "https://wallstreetcn.com/livenews/3089564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "越南股指VN指数上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3089710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "香港恒生指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3089705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     },
@@ -735,11 +990,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 16时50分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
@@ -771,7 +1027,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -793,7 +1049,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -815,7 +1071,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -866,205 +1122,22 @@
       ]
     },
     {
-      "keyword_group": "指数",
-      "match_count": 17,
+      "keyword_group": "美股",
+      "match_count": 18,
       "titles": [
         {
-          "title": "北证50指数涨幅扩大至2%。",
-          "url": "https://flash.jin10.com/detail/20260417135955168800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "MSCI亚太指数下跌1%至253.81点。",
-          "url": "https://wallstreetcn.com/livenews/3089752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "集运指数（欧线）主力合约日内涨幅达6%，现报2118.0点。",
-          "url": "https://wallstreetcn.com/livenews/3089803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收低0.9%报36,804.34点。",
-          "url": "https://wallstreetcn.com/livenews/3089801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "标普500指数的11个板块多数收涨，能源板块涨1.55%，房地产板块涨1.01%，信息技术/科技板块涨0.78%，保健板块则收跌0.77%。",
-          "url": "https://wallstreetcn.com/livenews/3089570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时56分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3089562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时56分]"
-        },
-        {
-          "title": "金十图示：2026年04月16日（周四）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260417041404871800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时56分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.46%，报26229点。 恒生科技指数主连夜盘收跌0.18%，报5077点。",
-          "url": "https://wallstreetcn.com/livenews/3089541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
-          "url": "https://www.cls.cn/detail/2347163",
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "集运指数（欧线）主力合约日内涨幅达6.00%，现报2118.0点。",
-          "url": "https://flash.jin10.com/detail/20260417134600973800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "金十图示：2026年04月16日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260417040801179800",
-          "source": "金十数据",
-          "ranks": [
-            18
+            5,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "appearance_count": 6,
+          "time_info": "[06时54分 ~ 16时50分]"
         },
-        {
-          "title": "台湾加权指数4月17日（周五）收盘下跌327.68点，跌幅0.88%，报36804.34点。",
-          "url": "https://flash.jin10.com/detail/20260417133518937800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "道琼斯指数4月16日（周四）收盘上涨115.13点，涨幅0.24%，报48578.85点；<br/>标普500指数4月16日（周四）收盘上涨18.32点，涨幅0.26%，报7041.27点；<br/>纳斯达克综合指数4月16日（周四）收盘上涨86.69点，涨幅0.36%，报24102.70点。",
-          "url": "https://flash.jin10.com/detail/20260417040758675800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "铜铝“双雄”驱动LME金属指数创历史新高，铝业“黑洞”降临！",
-          "url": "https://flash.jin10.com/detail/20260417132726575800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "纳斯达克100指数连涨12天，创2009年7月份以来最长连涨天数",
-          "url": "https://wallstreetcn.com/livenews/3089564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "越南股指VN指数上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3089710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "香港恒生指数下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3089705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 16,
-      "titles": [
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
           "url": "https://wallstreetcn.com/articles/3770123",
@@ -1079,19 +1152,6 @@
           "time_info": "[01时25分 ~ 14时10分]"
         },
         {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时54分 ~ 14时10分]"
-        },
-        {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
@@ -1099,8 +1159,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 16时50分]"
         },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -1192,9 +1252,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "瑞银：投资者将把关注点从中东问题转移到经济和盈利基本面 美股仍具吸引力",
+          "url": "https://flash.jin10.com/detail/20260417162447835800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -1250,6 +1321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "奈飞美股盘前跌近10%，Q1业绩超预期增长但指引逊色，公司董事长将离任。",
+          "url": "https://wallstreetcn.com/livenews/3089899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
@@ -1298,7 +1380,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
@@ -1353,6 +1435,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 14时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋：DeepSeek如果先在华为平台适配，对美国来说非常糟糕。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3089919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T17:13:55.342733+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-04-20T19:26:35.179007+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -40,11 +40,12 @@
             14,
             16,
             13,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时50分 ~ 17时13分]"
+          "appearance_count": 9,
+          "time_info": "[04时50分 ~ 19时26分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -64,11 +65,38 @@
           "ranks": [
             8,
             4,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 19时26分]"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时45分 ~ 17时13分]"
+          "time_info": "[14时24分 ~ 19时26分]"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E7%AA%9D%E8%B6%85%E5%A4%A7%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 19时26分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -82,28 +110,28 @@
           "time_info": "[00时53分 ~ 03时04分]"
         },
         {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            19
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时24分 ~ 17时13分]"
+          "time_info": "[17时13分 ~ 19时26分]"
         },
         {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E7%AA%9D%E8%B6%85%E5%A4%A7%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%98%AFAI",
-          "source": "百度热搜",
+          "title": "未授权AI艺人",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            16,
-            6
+            13,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时24分 ~ 17时13分]"
+          "time_info": "[17时13分 ~ 19时26分]"
         },
         {
           "title": "张若昀工作室 没签过AI授权",
@@ -142,26 +170,48 @@
           "time_info": "[00时53分 ~ 01时45分]"
         },
         {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "AI养马能代替养虾吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E9%A9%AC%E8%83%BD%E4%BB%A3%E6%9B%BF%E5%85%BB%E8%99%BE%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "【华为发布首款鸿蒙AI眼镜】4月20日，华为首款鸿蒙AI眼镜正式发布，其搭载1200万超感光摄像头，支持AI构图矫正，具备0.7s超清晰AI闪拍功能，内置小艺智能体，可提供AI实时视频交互，且支持“看一下”支付宝支付。",
           "url": "https://wallstreetcn.com/livenews/3090978",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
         {
-          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
-          "url": "https://wallstreetcn.com/articles/3770370",
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "19时26分"
         },
         {
           "title": "AI观众",
@@ -175,15 +225,15 @@
           "time_info": "14时24分"
         },
         {
-          "title": "未授权AI艺人",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA&t=31&band_rank=13&Refer=top",
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "19时26分"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜",
@@ -192,7 +242,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -219,6 +269,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "演员集体辟谣AI授权",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%9B%86%E4%BD%93%E8%BE%9F%E8%B0%A3AI%E6%8E%88%E6%9D%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
           "url": "https://flash.jin10.com/detail/20260419221748740800",
           "source": "金十数据",
@@ -236,7 +297,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -258,7 +319,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }
@@ -266,7 +327,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "原油市场再现“绝妙”押注 神秘空头卡点下单 一小时盈利7000万美元",
@@ -296,6 +357,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 07时49分]"
+        },
+        {
+          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
+          "url": "https://www.cls.cn/detail/2348969",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 19时26分]"
+        },
+        {
+          "title": "两名巴基斯坦安全消息人士及一名外交消息人士表示，在沙特要求终止协议并表示不会为该交易提供融资后，巴基斯坦已搁置一项向苏丹供应武器和战机、价值15亿美元的交易。",
+          "url": "https://flash.jin10.com/detail/20260420190950583800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "美元/日元盘中触及159关口，日内涨超0.2%。",
@@ -379,18 +464,6 @@
           "time_info": "[05时47分 ~ 06时47分]"
         },
         {
-          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
-          "url": "https://www.cls.cn/detail/2348969",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 17时13分]"
-        },
-        {
           "title": "汇市盘初，澳元兑美元AUD/USD领跌，跌幅近0.6%，报0.7123；欧元兑美元EUR/USD跌0.2%，报1.1737；美元兑日元USD/JPY微涨0.08%，报158.73。",
           "url": "https://flash.jin10.com/detail/20260420050505338800",
           "source": "金十数据",
@@ -432,9 +505,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "布雷迪（Brady）：将收购霍尼韦尔的生产力解决方案与服务业务。该交易为14亿美元的全现金交易。预计，该交易将立即对调整后每股收益产生两位数增厚效应。将通过现有现金及新增债务融资为该交易提供资金。",
+          "url": "https://flash.jin10.com/detail/20260420190317837800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "印度和韩国计划通过新协议推动500亿美元双边贸易",
+          "url": "https://flash.jin10.com/detail/20260420185521090800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "男子美国摆摊进货1元卖5美元",
@@ -465,7 +560,222 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "蒙特利尔银行：将高盛(GS.N)目标价从905美元上调至972美元。将摩根士丹利(MS.N)目标价从190美元上调至220美元。将贝莱德(BLK.N)目标价从1200美元上调至1250美元。",
+          "url": "https://flash.jin10.com/detail/20260420184826397800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "国产光纤全球爆单 价格涨650%",
+          "url": "https://www.douyin.com/hot/2471330",
+          "source": "抖音",
+          "ranks": [
+            15,
+            12,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 07时49分]"
+        },
+        {
+          "title": "美国交通部长Duffy：如果伊朗战争结束，航空燃油价格将低于（美国和以色列发动）伊朗战争之前。",
+          "url": "https://wallstreetcn.com/livenews/3090645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时47分]"
+        },
+        {
+          "title": "国产光纤全球爆单，部分产品价格暴涨 650%，背后是怎样的行业逻辑？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2029114416180851719",
+          "source": "知乎",
+          "ranks": [
+            18,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 19时26分]"
+        },
+        {
+          "title": "化学工业公司Fertiglobe首席执行官：氮肥价格可能进一步上涨。",
+          "url": "https://flash.jin10.com/detail/20260420190828087800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "美国能源部长Wright：到2027年，汽油价格可能会跌穿3美元/加仑，也可能不会跌穿。 就CPI调整后条款来说，汽油价格是低于3美元的。 汽油价格可能已经见顶。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3090620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时04分]"
+        },
+        {
+          "title": "华为Pura90价格",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPura90%E4%BB%B7%E6%A0%BC&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时26分]"
+        },
+        {
+          "title": "宁德时代：初步确定的本次询价转让价格为410.34元/股",
+          "url": "https://wallstreetcn.com/livenews/3091071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "全美国平均汽油价格目前低于4美元，周一可能会看到均价上涨5-10美分/加仑，甚至接近近期高点4.165美元/加仑。",
+          "url": "https://flash.jin10.com/detail/20260420055706072800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "德意志银行CEO兼德国银行业协会主席泽温：能源价格将维持在高位。",
+          "url": "https://flash.jin10.com/detail/20260420170256180800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "伊朗第一副总统阿雷夫：霍尔木兹海峡的安全并非免费。限制伊朗的石油出口时，不要期待他国获得免费的安全。选择很明确：要么实现对所有人而言都自由的石油市场，要么所有人承担重大成本的风险。全球燃料价格的稳定取决于有保证且永久地消除对伊朗及其盟友的经济和军事压力。",
+          "url": "https://flash.jin10.com/detail/20260420065034255800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报170800元/吨，较上日16:30价格上涨1300元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3090774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "西班牙能源大臣：联合采购也可能是获得更好价格的一个选项。",
+          "url": "https://flash.jin10.com/detail/20260420185351199800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "棉花期货价格也在冲突中上涨 对冲基金两年来首次转为看多",
+          "url": "https://wallstreetcn.com/livenews/3090964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "霍尼韦尔公司据悉即将以14亿美元的价格将PSS（生产力解决方案与服务部门）业务出售给Brady公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3091049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "美能源部长：汽油价格可能到明年才会回到每加仑3美元以下",
+          "url": "https://flash.jin10.com/detail/20260419223415004800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "仲量联行张冀苏：告别周期性调整，北京办公楼进入价格重构期",
+          "url": "https://flash.jin10.com/detail/20260420135027319800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "Pura90大杯超大杯价格不涨反降",
+          "url": "https://s.weibo.com/weibo?q=%23Pura90%E5%A4%A7%E6%9D%AF%E8%B6%85%E5%A4%A7%E6%9D%AF%E4%BB%B7%E6%A0%BC%E4%B8%8D%E6%B6%A8%E5%8F%8D%E9%99%8D%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }
@@ -632,164 +942,6 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "国产光纤全球爆单 价格涨650%",
-          "url": "https://www.douyin.com/hot/2471330",
-          "source": "抖音",
-          "ranks": [
-            15,
-            12,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时49分]"
-        },
-        {
-          "title": "美国交通部长Duffy：如果伊朗战争结束，航空燃油价格将低于（美国和以色列发动）伊朗战争之前。",
-          "url": "https://wallstreetcn.com/livenews/3090645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 06时47分]"
-        },
-        {
-          "title": "国产光纤全球爆单，部分产品价格暴涨 650%，背后是怎样的行业逻辑？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2029114416180851719",
-          "source": "知乎",
-          "ranks": [
-            18,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 17时13分]"
-        },
-        {
-          "title": "美国能源部长Wright：到2027年，汽油价格可能会跌穿3美元/加仑，也可能不会跌穿。 就CPI调整后条款来说，汽油价格是低于3美元的。 汽油价格可能已经见顶。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3090620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 03时04分]"
-        },
-        {
-          "title": "华为Pura90价格",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPura90%E4%BB%B7%E6%A0%BC&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "全美国平均汽油价格目前低于4美元，周一可能会看到均价上涨5-10美分/加仑，甚至接近近期高点4.165美元/加仑。",
-          "url": "https://flash.jin10.com/detail/20260420055706072800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "德意志银行CEO兼德国银行业协会主席泽温：能源价格将维持在高位。",
-          "url": "https://flash.jin10.com/detail/20260420170256180800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "伊朗第一副总统阿雷夫：霍尔木兹海峡的安全并非免费。限制伊朗的石油出口时，不要期待他国获得免费的安全。选择很明确：要么实现对所有人而言都自由的石油市场，要么所有人承担重大成本的风险。全球燃料价格的稳定取决于有保证且永久地消除对伊朗及其盟友的经济和军事压力。",
-          "url": "https://flash.jin10.com/detail/20260420065034255800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报170800元/吨，较上日16:30价格上涨1300元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3090774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "棉花期货价格也在冲突中上涨 对冲基金两年来首次转为看多",
-          "url": "https://wallstreetcn.com/livenews/3090964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "美能源部长：汽油价格可能到明年才会回到每加仑3美元以下",
-          "url": "https://flash.jin10.com/detail/20260419223415004800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "仲量联行张冀苏：告别周期性调整，北京办公楼进入价格重构期",
-          "url": "https://flash.jin10.com/detail/20260420135027319800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "Pura90大杯超大杯价格不涨反降",
-          "url": "https://s.weibo.com/weibo?q=%23Pura90%E5%A4%A7%E6%9D%AF%E8%B6%85%E5%A4%A7%E6%9D%AF%E4%BB%B7%E6%A0%BC%E4%B8%8D%E6%B6%A8%E5%8F%8D%E9%99%8D%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
@@ -822,11 +974,12 @@
           "url": "https://wallstreetcn.com/articles/3770361",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时26分]"
         },
         {
           "title": "国际油价大幅高开，美股期货跌近1%",
@@ -918,9 +1071,50 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 19时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
+          "url": "https://www.zhihu.com/question/659215909",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时04分 ~ 05时47分]"
+        },
+        {
+          "title": "我国持续完善人工智能、大数据等新兴领域知识产权保护制度",
+          "url": "https://flash.jin10.com/detail/20260420111946138800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "韩国总统李在明：印度的人工智能能力与韩国的先进制造业可以形成巨大的协同效应。",
+          "url": "https://flash.jin10.com/detail/20260420184838287800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "19时26分"
         }
       ]
     },
@@ -960,36 +1154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
-          "url": "https://www.zhihu.com/question/659215909",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 05时47分]"
-        },
-        {
-          "title": "我国持续完善人工智能、大数据等新兴领域知识产权保护制度",
-          "url": "https://flash.jin10.com/detail/20260420111946138800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         }
       ]
     },

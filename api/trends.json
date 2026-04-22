@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T20:05:01.552492+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-04-22T22:52:44.404969+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "现货黄金短线回落8美元，现报4760美元/盎司。",
@@ -129,23 +129,24 @@
           "time_info": "04时11分"
         },
         {
+          "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
+          "url": "https://wallstreetcn.com/articles/3770558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 22时52分]"
+        },
+        {
           "title": "苹果拒绝提交财务数据被印度重罚风险推至 380 亿美元，如何看待此事？苹果真的可能被罚掉 380 亿美元吗？",
           "url": "https://www.zhihu.com/question/2030236011557544965",
           "source": "知乎",
           "ranks": [
             12,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 20时05分]"
-        },
-        {
-          "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
-          "url": "https://wallstreetcn.com/articles/3770558",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -234,6 +235,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "达美航空、美国航空公司、美联航股价跌幅扩大，华尔街日报报道称，特朗普政府接近达成对Spirit Airlines的救助协议——金额大约5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "受美元和中东局势导致铜价下跌影响，智利比索兑美元日内下跌1.5%。",
           "url": "https://flash.jin10.com/detail/20260422013029500800",
           "source": "金十数据",
@@ -276,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "美国暂停向伊拉克运送约5亿美元现金并中止部分安全合作",
+          "url": "https://wallstreetcn.com/livenews/3092698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国防部拟斥资300亿美元增购关键弹药",
@@ -394,7 +417,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -471,7 +494,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -515,7 +538,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -584,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "法兴银行：特朗普在抑制美元涨势",
+          "url": "https://flash.jin10.com/detail/20260422215914157800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.80%，暂报2611.33点，整体保持上涨状态，北京时间19:37涨至2646.76点刷新日高。 MarketVectorTM数字资产100中盘指数涨1.84%，报2881.90点。 MarketVector数字资产100指数涨0.75%，报15082.87点。 目前，Solana跌0.07%，狗狗币跌0.69%，XRP持平。 比特币跌0.46%，暂报75942.84美元；以太坊跌0.80%，暂报2312.33美元。",
@@ -710,7 +744,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -755,11 +789,12 @@
           "ranks": [
             8,
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时07分 ~ 20时05分]"
+          "appearance_count": 8,
+          "time_info": "[14时07分 ~ 22时52分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -770,11 +805,24 @@
             17,
             11,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时34分 ~ 20时05分]"
+          "appearance_count": 9,
+          "time_info": "[11时34分 ~ 22时52分]"
+        },
+        {
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 22时52分]"
         },
         {
           "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
@@ -788,6 +836,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时07分 ~ 20时05分]"
+        },
+        {
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 22时52分]"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -838,29 +900,15 @@
           "time_info": "[18时25分 ~ 18时26分]"
         },
         {
-          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
-          "url": "https://www.cls.cn/detail/2352172",
-          "source": "财联社热门",
+          "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
+          "url": "https://wallstreetcn.com/livenews/3092705",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 20时05分]"
-        },
-        {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 20时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "报道：谷歌经营策略使其在AI编程领域处于追赶地位",
@@ -887,6 +935,18 @@
           "time_info": "[11时34分 ~ 16时54分]"
         },
         {
+          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
+          "url": "https://www.cls.cn/detail/2352317",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时04分 ~ 22时52分]"
+        },
+        {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
           "url": "https://wallstreetcn.com/livenews/3092121",
           "source": "华尔街见闻-快讯",
@@ -897,17 +957,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时50分]"
-        },
-        {
-          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
-          "url": "https://www.cls.cn/detail/2352317",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 20时05分]"
         },
         {
           "title": "丈夫用AI做“跳河轻生”图 妻子报警",
@@ -965,6 +1014,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
@@ -1066,6 +1126,17 @@
           "time_info": "11时34分"
         },
         {
+          "title": "美国联邦贸易委员会（FTC）批准OpenAI收购Astral Software。",
+          "url": "https://flash.jin10.com/detail/20260422215909121800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
           "url": "https://wallstreetcn.com/livenews/3092003",
           "source": "华尔街见闻-快讯",
@@ -1102,7 +1173,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "【每日收评】三大指数探底回升全线收红，锂电股反复活跃，电力、工业气体逆势走强",
@@ -1299,9 +1370,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
+        },
+        {
+          "title": "欧元区4月消费者信心指数初值 -20.6，前值-16.3。",
+          "url": "https://flash.jin10.com/detail/20260422220100922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "英国2月DCLG房价指数年率 1.2%，前值1.30%。",
@@ -1337,6 +1419,17 @@
           "time_info": "11时34分"
         },
         {
+          "title": "金十图示：2026年04月22日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260422220028499800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "德国DAX 30指数初步收跌0.45%，报24307.25点。 法国股指初步收跌1.06%，意大利股指初步收跌0.46%、银行指数跌0.63%，英国股指初步收跌1.01%。",
           "url": "https://wallstreetcn.com/livenews/3091963",
           "source": "华尔街见闻-快讯",
@@ -1370,6 +1463,17 @@
           "time_info": "14时07分"
         },
         {
+          "title": "纳斯达克100指数涨幅扩大至1.1%，纳指也涨约1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3092680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "截至早盘收盘，日经225指数涨0.5%，东证指数跌0.6%。",
           "url": "https://wallstreetcn.com/livenews/3092238",
           "source": "华尔街见闻-快讯",
@@ -1379,6 +1483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "欧元区4月消费者信心指数初值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260422215000001800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "汇丰前海在报告中表示，恒生科技指数在经历自2025年四季度高点的明显回调后，当前估值已具吸引力，叠加AI在广告等领域扩大收入空间的潜力，维持对该指数整体积极看法。（彭博）",
@@ -1395,7 +1510,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "石油价格上涨或导致维生素变贵",
@@ -1409,6 +1524,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 07时45分]"
+        },
+        {
+          "title": "美国财政部长贝森特：否认伊朗通过制裁减免获得140亿美元。 如果不是出台制裁手段的话，石油价格可能已经涨至150美元。",
+          "url": "https://wallstreetcn.com/livenews/3092703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "Xbox：从今天起，Game Pass Ultimate月度订阅价格将从29.99美元下调至22.99美元。",
@@ -1493,6 +1619,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "印度将以伊朗冲突前的近两倍价格购买化肥",
+          "url": "https://flash.jin10.com/detail/20260422220927595800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社，伊朗收到“一些信号”暗示美国准备破除封锁。 国际原油价格短线走低，布油、WTI日内跌超1%；现货黄金短线拉升，日内涨超1%；美元指数走低，日内跌0.15%。",
           "url": "https://wallstreetcn.com/livenews/3092314",
           "source": "华尔街见闻-快讯",
@@ -1565,7 +1702,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -1595,7 +1732,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -1606,8 +1743,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时45分 ~ 20时05分]"
+          "appearance_count": 10,
+          "time_info": "[07时45分 ~ 22时52分]"
         },
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -1691,9 +1828,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
+        },
+        {
+          "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
+          "url": "https://wallstreetcn.com/articles/3770587",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "阿里巴巴美股盘前抹去早前跌幅，现上涨1%。",
@@ -1702,7 +1850,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -1742,6 +1890,28 @@
           "time_info": "[06时50分 ~ 07时45分]"
         },
         {
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美股涨幅扩大，纳指上涨1%。",
+          "url": "https://flash.jin10.com/detail/20260422220253216800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美股盘前，半导体股普涨，阿斯麦涨约1%，ARM涨约2.5%，美光科技涨约1.5%。",
           "url": "https://wallstreetcn.com/livenews/3092421",
           "source": "华尔街见闻-快讯",
@@ -1770,7 +1940,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         }
@@ -1815,7 +1985,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -1826,7 +1996,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         }
@@ -1843,7 +2013,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         }

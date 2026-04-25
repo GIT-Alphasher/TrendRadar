@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T06:50:09.240260+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-04-26T07:50:38.749157+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时50分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时50分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -39,8 +40,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时50分]"
+        },
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时50分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -55,21 +67,21 @@
           "time_info": "[00时56分 ~ 06时50分]"
         },
         {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
+          "title": "AI帮忙投资靠谱吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            27
+            7
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
@@ -80,19 +92,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时50分]"
-        },
-        {
-          "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
-          "url": "https://wallstreetcn.com/livenews/3094410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时50分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -104,8 +105,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时50分]"
+        },
+        {
+          "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
+          "url": "https://wallstreetcn.com/livenews/3094410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时50分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -117,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "DeepSeek V4全面评测",
+          "url": "https://www.douyin.com/hot/2479058",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
@@ -133,8 +157,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时06分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[03时06分 ~ 07时50分]"
         },
         {
           "title": "5月8日24时国内成品油价格将迎调整",
@@ -147,8 +171,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时50分]"
         },
         {
           "title": "预测市场Polymarket数据显示，随着美伊谈判取消，本月底原油价格回升至100美元/桶以上的概率为64%。",
@@ -165,39 +189,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时50分]"
-        },
-        {
-          "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
-          "url": "https://www.zhihu.com/question/2031283079852110233",
-          "source": "知乎",
-          "ranks": [
-            5,
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时50分 ~ 06时50分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "阿塞拜疆主权基金一季度出售超30亿美元黄金 是购入以来首次减持！",
@@ -221,6 +214,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 04时51分]"
+        },
+        {
+          "title": "牵涉黑石、阿波罗等巨头数十亿美元贷款！两笔违约加剧美国私募信贷困境",
+          "url": "https://wallstreetcn.com/articles/3770878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时50分]"
+        },
+        {
+          "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
+          "url": "https://www.zhihu.com/question/2031283079852110233",
+          "source": "知乎",
+          "ranks": [
+            5,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 06时50分]"
         }
       ]
     },

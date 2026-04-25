@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T01:50:52.864403+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-04-26T03:07:06.883058+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -37,8 +37,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -49,8 +49,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -60,8 +60,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         }
       ]
     },
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -88,8 +88,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时07分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -100,8 +100,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -117,6 +117,47 @@
       ]
     },
     {
+      "keyword_group": "价格",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待网传武汉大学以 7 万元价格从上海交通大学购买 Sci-Hub 数据集？涉及侵权问题吗？",
+          "url": "https://www.zhihu.com/question/2031414223767433472",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 03时07分]"
+        },
+        {
+          "title": "5月8日24时国内成品油价格将迎调整",
+          "url": "https://www.toutiao.com/trending/7632148993200898094/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
+        },
+        {
+          "title": "预测市场Polymarket数据显示，随着美伊谈判取消，本月底原油价格回升至100美元/桶以上的概率为64%。",
+          "url": "https://flash.jin10.com/detail/20260426024807632800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -128,37 +169,48 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
           "url": "https://www.zhihu.com/question/2031283079852110233",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 03时07分]"
         }
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "5月8日24时国内成品油价格将迎调整",
-          "url": "https://www.toutiao.com/trending/7632148993200898094/",
-          "source": "今日头条",
+          "title": "美国总统谈及鲍威尔：我想要弄明白的是，一栋我花2500万美元就能够建造的大楼，为何造价竟高达40亿美元？这可是个非常重大的问题，当时他负责此事——我们肯定会彻查到底。",
+          "url": "https://flash.jin10.com/detail/20260426025840223800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            27
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "阿塞拜疆主权基金一季度出售超30亿美元黄金 是购入以来首次减持！",
+          "url": "https://www.cls.cn/detail/2355647",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         }
       ]
     },
@@ -180,23 +232,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿塞拜疆主权基金一季度出售超30亿美元黄金 是购入以来首次减持！",
-          "url": "https://www.cls.cn/detail/2355647",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "指数",
       "match_count": 1,
       "titles": [
@@ -205,11 +240,12 @@
           "url": "https://wallstreetcn.com/articles/3770867",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时07分]"
         }
       ]
     }

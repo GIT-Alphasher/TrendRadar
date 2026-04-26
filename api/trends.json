@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T19:47:55.999765+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-04-26T21:25:29.822650+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,21 @@
           "time_info": "[00时56分 ~ 14时16分]"
         },
         {
+          "title": "DeepSeek V4全面评测",
+          "url": "https://www.douyin.com/hot/2479058",
+          "source": "抖音",
+          "ranks": [
+            14,
+            12,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时50分 ~ 21时25分]"
+        },
+        {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
@@ -48,19 +63,18 @@
           "time_info": "[00时56分 ~ 11时49分]"
         },
         {
-          "title": "DeepSeek V4全面评测",
-          "url": "https://www.douyin.com/hot/2479058",
-          "source": "抖音",
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            12,
+            10,
+            7,
             6,
-            4,
             5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时50分 ~ 19时47分]"
+          "time_info": "[11时48分 ~ 21时25分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -68,11 +82,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 21时25分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 21时25分]"
         },
         {
           "title": "DeepSeek V4评测解析",
@@ -86,17 +114,18 @@
           "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
+            4,
             7,
-            6
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 19时47分]"
+          "appearance_count": 5,
+          "time_info": "[14时16分 ~ 21时25分]"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -114,31 +143,6 @@
           "time_info": "[11时49分 ~ 19时47分]"
         },
         {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时16分 ~ 19时47分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时47分]"
-        },
-        {
           "title": "DeepSeek V4成OpenClaw默认模型",
           "url": "https://wallstreetcn.com/livenews/3094445",
           "source": "华尔街见闻-快讯",
@@ -151,6 +155,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时16分 ~ 19时47分]"
+        },
+        {
+          "title": "DeepSeek多位核心骨干离职去大厂",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时25分]"
         },
         {
           "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
@@ -185,23 +201,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "DeepSeek多位核心骨干离职去大厂",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -237,11 +242,12 @@
             18,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 19时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 21时25分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -279,6 +285,19 @@
           "time_info": "[07时50分 ~ 11时49分]"
         },
         {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            18,
+            21,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 21时25分]"
+        },
+        {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
           "url": "https://flash.jin10.com/detail/20260426150306413800",
           "source": "金十数据",
@@ -303,18 +322,6 @@
           "time_info": "[14时16分 ~ 16时21分]"
         },
         {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时47分]"
-        },
-        {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
           "url": "https://www.toutiao.com/trending/7632259248220422187/",
           "source": "今日头条",
@@ -326,13 +333,24 @@
           "time_info": "[11时48分 ~ 11时49分]"
         },
         {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "从英伟达市值看AI革命的激进超越",
           "url": "https://www.toutiao.com/trending/7633001660754693695/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
@@ -389,9 +407,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "余承东：尊界新车价格在200万左右",
+          "url": "https://www.toutiao.com/trending/7632305048357666879/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 21时25分]"
         },
         {
           "title": "北京发布土地经营权流转价格模型",
@@ -406,19 +438,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时49分 ~ 18时02分]"
-        },
-        {
-          "title": "余承东：尊界新车价格在200万左右",
-          "url": "https://www.toutiao.com/trending/7632305048357666879/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时47分]"
         },
         {
           "title": "预测市场Polymarket数据显示，随着美伊谈判取消，本月底原油价格回升至100美元/桶以上的概率为64%。",
@@ -491,8 +510,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 21时25分]"
         },
         {
           "title": "美国总统谈及鲍威尔：我想要弄明白的是，一栋我花2500万美元就能够建造的大楼，为何造价竟高达40亿美元？这可是个非常重大的问题，当时他负责此事——我们肯定会彻查到底。",
@@ -558,6 +577,22 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "妩媚指数拉满,凯尔希好评如潮",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353738&amp;topic_name=%E5%A6%A9%E5%AA%9A%E6%8C%87%E6%95%B0%E6%8B%89%E6%BB%A1%2C%E5%87%AF%E5%B0%94%E5%B8%8C%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            7,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 21时25分]"
+        },
+        {
           "title": "费城半导体指数再度大涨，创纪录连涨18天，一文看清有多超买",
           "url": "https://wallstreetcn.com/articles/3770867",
           "source": "华尔街见闻",
@@ -568,21 +603,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 06时50分]"
-        },
-        {
-          "title": "妩媚指数拉满,凯尔希好评如潮",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353738&amp;topic_name=%E5%A6%A9%E5%AA%9A%E6%8C%87%E6%95%B0%E6%8B%89%E6%BB%A1%2C%E5%87%AF%E5%B0%94%E5%B8%8C%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 19时47分]"
         }
       ]
     },
@@ -600,6 +620,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
+          "url": "https://wallstreetcn.com/livenews/3094517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     }

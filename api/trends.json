@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-04-27T11:53:29.840544+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-04-27T14:38:13.111216+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 11时53分]"
-        },
         {
           "title": "一条视频看懂DeepSeek V4",
           "url": "https://www.douyin.com/hot/2479851",
@@ -26,6 +14,18 @@
           "ranks": [
             2,
             4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 14时38分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
             1
           ],
           "is_new": false,
@@ -85,6 +85,17 @@
           "time_info": "[00时57分 ~ 07时51分]"
         },
         {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 14时38分]"
+        },
+        {
           "title": "DeepSeek输入缓存降价",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
           "source": "百度热搜",
@@ -96,6 +107,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时57分 ~ 07时51分]"
+        },
+        {
+          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
+          "url": "https://wallstreetcn.com/articles/3770923",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 14时38分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -114,26 +137,15 @@
           "time_info": "[00时57分 ~ 06时52分]"
         },
         {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
+          "title": "网传公司给DeepSeek提供算力服务？浙数文化：与DeepSeek未开展业务合作",
+          "url": "https://wallstreetcn.com/livenews/3094754",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "14时38分"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -150,15 +162,59 @@
           "time_info": "[04时52分 ~ 07时51分]"
         },
         {
+          "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
+          "url": "https://www.cls.cn/detail/2356166",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
           "title": "DeepSeek调整API计费",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
           "source": "bilibili 热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
+          "url": "https://wallstreetcn.com/livenews/3094744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "中国石化完成DeepSeek-V4私有化部署",
+          "url": "https://flash.jin10.com/detail/20260427141234701800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -178,9 +234,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "浙数文化在互动平台表示，截至目前，公司及公司子公司与DeepSeek不存在任何直接或者间接的股权关系，也未开展业务合作。",
+          "url": "https://flash.jin10.com/detail/20260427140658460800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "深入解读DeepSeek V1-V4",
@@ -189,7 +256,423 @@
           "ranks": [
             22
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 14时38分]"
+        },
+        {
+          "title": "网红蔬菜价格大涨30倍",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E8%94%AC%E8%8F%9C%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A830%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时51分]"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260427073406643800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "国家能源局：将持续完善绿证价格形成机制 研究制定绿证价格指数并适时向社会公布",
+          "url": "https://flash.jin10.com/detail/20260427114349081800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "工业金刚石企业密集上调价格",
+          "url": "https://wallstreetcn.com/livenews/3094575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "工业金刚石企业密集上调价格",
+          "url": "https://flash.jin10.com/detail/20260427072852126800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "4月27日：“农产品批发价格200指数”比上周五下降0.19个点",
+          "url": "https://flash.jin10.com/detail/20260427142935170800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "余承东：尊界新车价格在200万左右",
+          "url": "https://www.toutiao.com/trending/7632305048357666879/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            17,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 07时51分]"
+        },
+        {
+          "title": "因中东地区原油产量下降，高盛将2026年第四季度布伦特原油价格预期上调至每桶90美元，将WTI原油价格预期上调至每桶83美元。",
+          "url": "https://flash.jin10.com/detail/20260427064429659800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时51分]"
+        },
+        {
+          "title": "近期内存条价格算回调了吗？你们以往会拿来升级什么设备?",
+          "url": "https://www.zhihu.com/question/2030301213795857662",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报175250元/吨，较上日16:30价格上涨2200元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3094662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "能源价格飙升削弱收入预期，德国消费者信心创逾三年低点",
+          "url": "https://flash.jin10.com/detail/20260427140411991800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "妩媚指数拉满,凯尔希好评如潮",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353738&amp;topic_name=%E5%A6%A9%E5%AA%9A%E6%8C%87%E6%95%B0%E6%8B%89%E6%BB%A1%2C%E5%87%AF%E5%B0%94%E5%B8%8C%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 14时38分]"
+        },
+        {
+          "title": "上证指数早盘收报4085.88点，涨0.15%。 深证成指早盘收报15018.54点，涨0.52%。 创业板指早盘收报3660.53点，跌0.20%。 沪深300早盘收报4779.32点，涨0.21%。 科创50早盘收报1503.95点，涨3.46%。 中证500早盘收报8301.48点，涨0.65%。 中证1000早盘收报8337.54点，涨0.40%。",
+          "url": "https://wallstreetcn.com/livenews/3094692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "4月27日午间收评：科创50指数半日涨超3%，芯片、算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3094691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数4月27日（周一）收盘下跌26.00点，跌幅0.30%，报8760.50点。",
+          "url": "https://flash.jin10.com/detail/20260427142216111800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "泰国股指SET指数日内涨幅扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3094686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "金十图示：2026年04月27日（周一）富时中国A50指数成分股午盘收盘行情一览：银行板块涨少跌多，半导体、消费电子板块走高。",
+          "url": "https://flash.jin10.com/detail/20260427113544383800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高1.8%报39,616.63点。",
+          "url": "https://wallstreetcn.com/livenews/3094738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "科创50指数午后涨幅扩大至4%，华大智造、中科飞测、中控技术涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3094736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "德国5月Gfk消费者信心指数录得-33.3，为2023年2月以来新低。",
+          "url": "https://flash.jin10.com/detail/20260427140033299800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数涨1.5%，东证指数涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3094659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "德国5月Gfk消费者信心指数 -33.3，预期-29.3，前值由-28修正为-28.1。",
+          "url": "https://flash.jin10.com/detail/20260427140002460800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            9,
+            20,
+            10,
+            11,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 14时38分]"
+        },
+        {
+          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2029541889469096343",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时51分]"
+        },
+        {
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时51分]"
+        },
+        {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时52分]"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
+          "url": "https://www.zhihu.com/question/2031001231607296969",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
+          "url": "https://flash.jin10.com/detail/20260427010358748800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 05时50分]"
+        },
+        {
+          "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
+          "url": "https://wallstreetcn.com/articles/3770917",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 14时38分]"
+        },
+        {
+          "title": "太空“拥堵”催生新基建——商业航天如何迈向“AI智驾”？",
+          "url": "https://www.cls.cn/detail/2356011",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "AI 筛选简历正在成为企业标配，这会带来求职不公吗？「AI 友好型」简历应该怎么写？",
+          "url": "https://www.zhihu.com/question/2028419946921620186",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "当AI跑进县城医院当“实习医生”",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93AI%E8%B7%91%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%8C%BB%E9%99%A2%E5%BD%93%E2%80%9C%E5%AE%9E%E4%B9%A0%E5%8C%BB%E7%94%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
@@ -302,7 +785,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -313,322 +796,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            9,
-            20,
-            10,
-            11,
-            12,
-            6
-          ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 11时53分]"
-        },
-        {
-          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2029541889469096343",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时52分]"
-        },
-        {
-          "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
-          "url": "https://www.zhihu.com/question/2031001231607296969",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
-          "url": "https://flash.jin10.com/detail/20260427010358748800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时50分 ~ 05时50分]"
-        },
-        {
-          "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
-          "url": "https://wallstreetcn.com/articles/3770917",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "太空“拥堵”催生新基建——商业航天如何迈向“AI智驾”？",
-          "url": "https://www.cls.cn/detail/2356011",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "AI 筛选简历正在成为企业标配，这会带来求职不公吗？「AI 友好型」简历应该怎么写？",
-          "url": "https://www.zhihu.com/question/2028419946921620186",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "当AI跑进县城医院当“实习医生”",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93AI%E8%B7%91%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%8C%BB%E9%99%A2%E5%BD%93%E2%80%9C%E5%AE%9E%E4%B9%A0%E5%8C%BB%E7%94%9F%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
-          "url": "https://wallstreetcn.com/articles/3770919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 11时53分]"
-        },
-        {
-          "title": "网红蔬菜价格大涨30倍",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E8%94%AC%E8%8F%9C%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A830%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260427073406643800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "国家能源局：将持续完善绿证价格形成机制 研究制定绿证价格指数并适时向社会公布",
-          "url": "https://flash.jin10.com/detail/20260427114349081800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "工业金刚石企业密集上调价格",
-          "url": "https://wallstreetcn.com/livenews/3094575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "工业金刚石企业密集上调价格",
-          "url": "https://flash.jin10.com/detail/20260427072852126800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "余承东：尊界新车价格在200万左右",
-          "url": "https://www.toutiao.com/trending/7632305048357666879/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "因中东地区原油产量下降，高盛将2026年第四季度布伦特原油价格预期上调至每桶90美元，将WTI原油价格预期上调至每桶83美元。",
-          "url": "https://flash.jin10.com/detail/20260427064429659800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报175250元/吨，较上日16:30价格上涨2200元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3094662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "妩媚指数拉满,凯尔希好评如潮",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353738&amp;topic_name=%E5%A6%A9%E5%AA%9A%E6%8C%87%E6%95%B0%E6%8B%89%E6%BB%A1%2C%E5%87%AF%E5%B0%94%E5%B8%8C%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 11时53分]"
-        },
-        {
-          "title": "上证指数早盘收报4085.88点，涨0.15%。 深证成指早盘收报15018.54点，涨0.52%。 创业板指早盘收报3660.53点，跌0.20%。 沪深300早盘收报4779.32点，涨0.21%。 科创50早盘收报1503.95点，涨3.46%。 中证500早盘收报8301.48点，涨0.65%。 中证1000早盘收报8337.54点，涨0.40%。",
-          "url": "https://wallstreetcn.com/livenews/3094692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "4月27日午间收评：科创50指数半日涨超3%，芯片、算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3094691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "泰国股指SET指数日内涨幅扩大至1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3094686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "金十图示：2026年04月27日（周一）富时中国A50指数成分股午盘收盘行情一览：银行板块涨少跌多，半导体、消费电子板块走高。",
-          "url": "https://flash.jin10.com/detail/20260427113544383800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "截至早盘收盘，日经225指数涨1.5%，东证指数涨0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3094659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
@@ -636,7 +804,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
@@ -649,6 +817,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时51分]"
+        },
+        {
+          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
+          "url": "https://www.cls.cn/detail/2356401",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "美股三大股指期货周一小幅低开0.2%。",

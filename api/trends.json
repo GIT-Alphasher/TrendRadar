@@ -1,770 +1,33 @@
 {
-  "generated_at": "2026-04-27T22:21:17.351877+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-04-28T00:49:20.467949+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 11时53分]"
-        },
-        {
-          "title": "一条视频看懂DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2479851",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            1,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 19时53分]"
-        },
-        {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 19时53分]"
-        },
-        {
-          "title": "龙虾官宣接入DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "DeepSeek V4发布意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 19时53分]"
-        },
-        {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://wallstreetcn.com/livenews/3094547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时53分]"
-        },
-        {
-          "title": "DeepSeek V4全面评测",
-          "url": "https://www.douyin.com/hot/2479058",
-          "source": "抖音",
-          "ranks": [
-            23,
-            9,
-            8,
-            12,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时52分]"
-        },
-        {
-          "title": "网传公司给DeepSeek提供算力服务？浙数文化：与DeepSeek未开展业务合作",
-          "url": "https://wallstreetcn.com/livenews/3094754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            28,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时52分 ~ 07时51分]"
-        },
-        {
-          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
-          "url": "https://wallstreetcn.com/articles/3770936",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时52分 ~ 22时21分]"
-        },
-        {
-          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
-          "url": "https://www.zhihu.com/question/2031824748590494923",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时53分]"
-        },
-        {
-          "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 17时27分]"
-        },
-        {
-          "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
-          "url": "https://www.cls.cn/detail/2356166",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
-        },
-        {
-          "title": "DeepSeek调整API计费",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
-          "url": "https://wallstreetcn.com/livenews/3094744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "DeepSeek V4哪些点被低估了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%93%AA%E4%BA%9B%E7%82%B9%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "中国石化完成DeepSeek-V4私有化部署",
-          "url": "https://flash.jin10.com/detail/20260427141234701800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "DeepSeek V4成OpenClaw默认模型",
-          "url": "https://www.toutiao.com/trending/7632564309457141806/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "MiniMax港股一度跌超14%，为3月中旬以来最大盘中跌幅；智谱跌幅最高超过6.7%。DeepSeek上周五发布新模型，并在周六宣布限时优惠。",
-          "url": "https://wallstreetcn.com/livenews/3094667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "浙数文化在互动平台表示，截至目前，公司及公司子公司与DeepSeek不存在任何直接或者间接的股权关系，也未开展业务合作。",
-          "url": "https://flash.jin10.com/detail/20260427140658460800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "深入解读DeepSeek V1-V4",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BBDeepSeek%20V1-V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "白宫晚宴枪手系酒店住客？曾捐款哈里斯25美元，FBI正搜家",
-          "url": "https://news.ifeng.com/c/8sdhLcKk53P",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时52分]"
-        },
-        {
-          "title": "路透调查显示，LME现货铜2026年均价预计为每吨12428美元，2027年为每吨12308美元，而2025年为每吨9939美元。",
-          "url": "https://flash.jin10.com/detail/20260427220252146800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "路透调查显示，LME现货锌2026年均价预计为每吨3078美元，2027年为每吨2881美元，而2025年为每吨2867美元。",
-          "url": "https://flash.jin10.com/detail/20260427220234247800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "路透调查显示，LME现货镍2026年均价预计为每吨17150美元，2027年为每吨17043美元，而2025年为每吨15154美元。",
-          "url": "https://flash.jin10.com/detail/20260427220147599800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "美国太空军披露“金穹”合同细节：SpaceX、安杜里尔等12家公司获32亿美元订单",
-          "url": "https://www.cls.cn/detail/2355816",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时52分]"
-        },
-        {
-          "title": "油轮追踪数据显示，美国海岸警卫队在印度洋扣押了价值约3.8亿美元的伊朗原油，该批原油似乎正运往美国。",
-          "url": "https://flash.jin10.com/detail/20260427001332853800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时08分]"
-        },
-        {
-          "title": "油轮追踪数据显示，美国海军拦截后，价值10亿美元的石油货物被重新运回伊朗。",
-          "url": "https://flash.jin10.com/detail/20260427001017623800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时08分]"
-        },
-        {
-          "title": "现货白银失守75美元/盎司，日内跌幅0.89%。",
-          "url": "https://flash.jin10.com/detail/20260427061116567800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "周一开盘，现货黄金跳空低开15美元，报4696.98美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260427060155465800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "WTI原油日内涨幅达1.00%，现报98.08美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260427060121271800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "WTI原油周一开盘上涨0.5%，现报97.6美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260427060044194800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "现货白银日内涨幅达1.00%，现报76.44美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260427114133368800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "路透调查显示，LME现货铅价2026年均价预计为每吨1950美元，2027年为每吨2010美元，而2025年为每吨1962美元。",
-          "url": "https://flash.jin10.com/detail/20260427220100059800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "壳牌CEO：以每桶70美元的油价计算，收购加拿大能源公司Arc Resources将带来每年约15亿美元的自由现金流。",
-          "url": "https://flash.jin10.com/detail/20260427215844451800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "瑞杰金融：将康菲石油(COP.N)目标价从118美元上调至145美元。",
-          "url": "https://flash.jin10.com/detail/20260427192324960800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "美国多家廉价航空公司联合请求白宫提供25亿美元纾困",
-          "url": "https://wallstreetcn.com/livenews/3094673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "摩根大通：将贝克休斯油服(BKR.O)目标价从60美元上调至74美元。",
-          "url": "https://flash.jin10.com/detail/20260427171105641800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "摩根大通：将斯伦贝谢(SLB.N)目标价从54美元上调至61美元。",
-          "url": "https://flash.jin10.com/detail/20260427171009700800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.8239，较上一交易日官方收盘价涨103点，较上日夜盘收盘涨71点。",
-          "url": "https://wallstreetcn.com/livenews/3094860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "美国天然气期货日内涨超3.00%，现报2.764美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260427191740336800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "Verizon(VZ.N)CEO：人工智能支持将为公司带来数十亿美元的收入。",
-          "url": "https://flash.jin10.com/detail/20260427214117155800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达3.0%，报102.14美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3094843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "机构：预估2026年全球手机直连卫星市场规模将成长至76亿美元 年成长率约49%",
-          "url": "https://flash.jin10.com/detail/20260427170356652800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "礼来将以最高23亿美元现金收购Ajax Therapeutics。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3094946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
           "source": "贴吧",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 22时21分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            9,
-            20,
-            10,
-            11,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 14时38分]"
-        },
-        {
-          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2029541889469096343",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时52分]"
-        },
-        {
-          "title": "AI 香港身份证",
-          "url": "https://s.weibo.com/weibo?q=AI%20%E9%A6%99%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AF%81&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "歌手 AI海报",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时53分]"
-        },
-        {
-          "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
-          "url": "https://www.zhihu.com/question/2031001231607296969",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
-          "url": "https://flash.jin10.com/detail/20260427010358748800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时50分 ~ 05时50分]"
-        },
-        {
-          "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
-          "url": "https://wallstreetcn.com/articles/3770917",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 17时27分]"
+          "time_info": "00时49分"
         },
         {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
           "url": "https://wallstreetcn.com/articles/3770953",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 22时21分]"
-        },
-        {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 22时21分]"
-        },
-        {
-          "title": "被AI骗去毒蛇窝徒步",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时52分 ~ 22时21分]"
-        },
-        {
-          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时53分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -773,723 +36,364 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "00时49分"
         },
         {
-          "title": "太空“拥堵”催生新基建——商业航天如何迈向“AI智驾”？",
-          "url": "https://www.cls.cn/detail/2356011",
-          "source": "财联社热门",
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "00时49分"
         },
         {
-          "title": "小红书首次公布AI治理主张：可借助AI放大创意，对AI不良行为零容忍",
-          "url": "https://wallstreetcn.com/livenews/3094978",
+          "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095139",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "00时49分"
         },
         {
-          "title": "AI 筛选简历正在成为企业标配，这会带来求职不公吗？「AI 友好型」简历应该怎么写？",
-          "url": "https://www.zhihu.com/question/2028419946921620186",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "高通(QCOM.O)盘前涨10%，此前分析师爆料称公司正在与OpenAI合作开发智能手机处理器。",
-          "url": "https://flash.jin10.com/detail/20260427170928667800",
+          "title": "谷歌表示，欧盟毫无依据的干预将剥夺设备制造商定制AI服务的自主权，推高成本，并削弱隐私保护。",
+          "url": "https://flash.jin10.com/detail/20260428002123603800",
           "source": "金十数据",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "00时49分"
         },
         {
-          "title": "当AI跑进县城医院当“实习医生”",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93AI%E8%B7%91%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%8C%BB%E9%99%A2%E5%BD%93%E2%80%9C%E5%AE%9E%E4%B9%A0%E5%8C%BB%E7%94%9F%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "“全球AI光算力第一股”曦智科技港股暗盘一度涨超360%",
-          "url": "https://wallstreetcn.com/livenews/3094849",
+          "title": "报道：谷歌员工敦促Pichai阻止美国军方使用其AI技术",
+          "url": "https://wallstreetcn.com/livenews/3095134",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "00时49分"
         },
         {
-          "title": "微软：将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
-          "url": "https://wallstreetcn.com/livenews/3095041",
-          "source": "华尔街见闻-快讯",
+          "title": "日媒称美军AI计划深度参与对伊打击",
+          "url": "https://flash.jin10.com/detail/20260428001113808800",
+          "source": "金十数据",
           "ranks": [
-            28
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "00时49分"
+        },
+        {
+          "title": "AI短剧 融脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E8%9E%8D%E8%84%B8&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "美依礼芽回应歌手AI海报",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9E%E5%BA%94%E6%AD%8C%E6%89%8BAI%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 19,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "妩媚指数拉满,凯尔希好评如潮",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353738&amp;topic_name=%E5%A6%A9%E5%AA%9A%E6%8C%87%E6%95%B0%E6%8B%89%E6%BB%A1%2C%E5%87%AF%E5%B0%94%E5%B8%8C%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            21,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 17时27分]"
-        },
-        {
-          "title": "上证指数早盘收报4085.88点，涨0.15%。 深证成指早盘收报15018.54点，涨0.52%。 创业板指早盘收报3660.53点，跌0.20%。 沪深300早盘收报4779.32点，涨0.21%。 科创50早盘收报1503.95点，涨3.46%。 中证500早盘收报8301.48点，涨0.65%。 中证1000早盘收报8337.54点，涨0.40%。",
-          "url": "https://wallstreetcn.com/livenews/3094692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "4月27日午间收评：科创50指数半日涨超3%，芯片、算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3094691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "【每日收评】科创50指数高开高走涨3.76%，半导体芯片链全线爆发，算力硬件股回暖",
-          "url": "https://www.cls.cn/detail/2356755",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 22时21分]"
-        },
-        {
-          "title": "欧洲斯托克600指数盘中涨幅扩大至0.5%。",
-          "url": "https://flash.jin10.com/detail/20260427192729386800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，全市场超百股涨逾10%，国产算力概念活跃依旧",
           "url": "https://www.cls.cn/detail/2356822",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数4月27日（周一）收盘下跌26.00点，跌幅0.30%，报8760.50点。",
-          "url": "https://flash.jin10.com/detail/20260427142216111800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "泰国股指SET指数日内涨幅扩大至1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3094686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "00时49分"
         },
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "金十图示：2026年04月27日（周一）富时中国A50指数成分股午盘收盘行情一览：银行板块涨少跌多，半导体、消费电子板块走高。",
-          "url": "https://flash.jin10.com/detail/20260427113544383800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "00时49分"
         },
         {
-          "title": "欧洲斯托克600指数延续涨势，触及盘中高点。",
-          "url": "https://wallstreetcn.com/livenews/3094976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收高1.8%报39,616.63点。",
-          "url": "https://wallstreetcn.com/livenews/3094738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "标普500指数低开12.36点，跌幅0.17%，报7152.72点； 道琼斯工业平均指数低开118.51点，跌幅0.24%，报49112.20点； 纳斯达克综合指数低开36.96点，跌幅0.15%，报24799.64点。",
-          "url": "https://wallstreetcn.com/livenews/3095060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "科创50指数午后涨幅扩大至4%，华大智造、中科飞测、中控技术涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3094736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "金十图示：2026年04月27日（周一）华尔街恐惧与贪婪指数（美盘初）",
-          "url": "https://flash.jin10.com/detail/20260427215157551800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "德国5月Gfk消费者信心指数录得-33.3，为2023年2月以来新低。",
-          "url": "https://flash.jin10.com/detail/20260427140033299800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "截至早盘收盘，日经225指数涨1.5%，东证指数涨0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3094659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "德国5月Gfk消费者信心指数 -33.3，预期-29.3，前值由-28修正为-28.1。",
-          "url": "https://flash.jin10.com/detail/20260427140002460800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "恒生指数收盘跌0.2%，恒生科技指数涨0.77%",
-          "url": "https://wallstreetcn.com/livenews/3094842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
-          "url": "https://wallstreetcn.com/articles/3770919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 17时27分]"
-        },
-        {
-          "title": "网红蔬菜价格大涨30倍",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E8%94%AC%E8%8F%9C%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A830%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260427073406643800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "国家能源局：将持续完善绿证价格形成机制 研究制定绿证价格指数并适时向社会公布",
-          "url": "https://flash.jin10.com/detail/20260427114349081800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "工业金刚石企业密集上调价格",
-          "url": "https://wallstreetcn.com/livenews/3094575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "白宫贸易顾问纳瓦罗：特朗普政府正在调查肉类价格高企问题。",
-          "url": "https://wallstreetcn.com/livenews/3094993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "工业金刚石企业密集上调价格",
-          "url": "https://flash.jin10.com/detail/20260427072852126800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "4月27日：“农产品批发价格200指数”比上周五下降0.19个点",
-          "url": "https://flash.jin10.com/detail/20260427142935170800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "余承东：尊界新车价格在200万左右",
-          "url": "https://www.toutiao.com/trending/7632305048357666879/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 07时51分]"
-        },
-        {
-          "title": "因中东地区原油产量下降，高盛将2026年第四季度布伦特原油价格预期上调至每桶90美元，将WTI原油价格预期上调至每桶83美元。",
-          "url": "https://flash.jin10.com/detail/20260427064429659800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "近期内存条价格算回调了吗？你们以往会拿来升级什么设备?",
-          "url": "https://www.zhihu.com/question/2030301213795857662",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
-        },
-        {
-          "title": "方正科技：一季度净利润同比增长195% PCB业务平均销售价格和销量增加",
-          "url": "https://flash.jin10.com/detail/20260427171729103800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "美国汽油价格升至4.11美元/加仑 原油供应风险持续",
-          "url": "https://flash.jin10.com/detail/20260427191947592800",
+          "title": "墨西哥主要股票指数下跌超过1%。",
+          "url": "https://flash.jin10.com/detail/20260428001438568800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "00时49分"
         },
         {
-          "title": "郑商所：近期影响尿素市场不确定性因素较多，尿素期货品种价格波动加大",
-          "url": "https://wallstreetcn.com/livenews/3094961",
+          "title": "明晟公司MSCI北欧国家指数跌0.2%，连续六个交易日走低，报382.36点，创4月10日以来收盘新低。 在十个板块中，北欧工业板块跌幅最大。 Verisure Plc.跌5.9%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3095127",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报175250元/吨，较上日16:30价格上涨2200元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3094662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "能源价格飙升削弱收入预期，德国消费者信心创逾三年低点",
-          "url": "https://flash.jin10.com/detail/20260427140411991800",
-          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时38分"
+          "time_info": "00时49分"
         },
         {
-          "title": "美国联合航空CEO：不会提出会导致客户价格上涨的合并方案。",
-          "url": "https://flash.jin10.com/detail/20260427190509666800",
-          "source": "金十数据",
+          "title": "德国DAX 30指数初步收跌0.21%，报24079.46点。 法国股指初步收跌0.31%，意大利股指初步收涨0.01%、银行指数涨0.52%，英国股指初步收跌0.53%。",
+          "url": "https://wallstreetcn.com/livenews/3095123",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "00时49分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收跌0.30%，报608.84点。 欧元区STOXX 50指数收跌0.39%，报5860.32点，整体冲高回落，北京时间19:35曾涨至5932.33点刷新日高。 富时泛欧绩优300指数收跌0.33%，报2426.69点。",
+          "url": "https://wallstreetcn.com/livenews/3095122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260428003152536800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "金十图示：2026年04月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260428003031463800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
           "url": "https://wallstreetcn.com/articles/3770961",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
-          "url": "https://www.cls.cn/detail/2356401",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 19时53分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
           "url": "https://wallstreetcn.com/articles/3770942",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时52分 ~ 22时21分]"
-        },
-        {
-          "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3094557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "美股三大股指期货周一小幅低开0.2%。",
-          "url": "https://flash.jin10.com/detail/20260427060114579800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "高通美股盘前涨超10%",
-          "url": "https://wallstreetcn.com/livenews/3094880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
-        },
+          "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "美股盘初，主要行业ETF多数上涨，区域银行ETF、能源业ETF涨超1%，银行业ETF涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3095065",
+          "title": "英伟达涨超2%，刷新盘中历史高位至212.6美元，盘中市值5.17万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3095148",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "00时49分"
         },
         {
-          "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
-          "url": "https://www.cls.cn/detail/2356367",
+          "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
+          "url": "https://wallstreetcn.com/livenews/3095146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.0%，报97.26美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3095119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "原谷歌Deepmind研究员David Silver为自家新公司Ineffable Intelligence在种子轮按照51亿美元估值融资11亿美元。 红杉资本与Lightspeed Venture Partners领投，英伟达、Alphabet旗下谷歌公司、英国政府等参投。",
+          "url": "https://wallstreetcn.com/livenews/3095118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
+          "url": "https://www.cls.cn/detail/2357012",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "00时49分"
         },
         {
-          "title": "美股盘初：三大股指小幅下跌，高通涨约7%，微软跌约1%",
-          "url": "https://wallstreetcn.com/livenews/3095061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "美股三大指数集体低开 高通涨逾6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "高通美股盘前涨超14%。",
-          "url": "https://wallstreetcn.com/livenews/3094965",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "00时49分"
         },
         {
-          "title": "POET Technologies美股盘前跌超40%，公司失去Celestial AI的采购订单。",
-          "url": "https://wallstreetcn.com/livenews/3095052",
-          "source": "华尔街见闻-快讯",
+          "title": "中国石化完成DeepSeek-V4私有化部署",
+          "url": "https://www.toutiao.com/trending/7632654178616213547/",
+          "source": "今日头条",
           "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "威瑞森第一季度调整后EBITDA 134亿美元，预估131.4亿美元。 第一季度营运收入344.4亿美元，预估348亿美元。 第一季度调整后每股收益1.28美元，预估1.21美元。 威瑞森仍然预测全年自由现金流至少215亿美元，市场预估214.3亿美元。 威瑞森预计全年调整后每股收益4.95美元至4.99美元，市场预估4.90美元，此前预估4.9美元-4.95美元。 威瑞森仍然预测全年资本支出160亿美元至165亿美元。 威瑞森仍然预测全年营业现金流375亿美元至380亿美元。 威瑞森美股盘前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3094956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260427214412955800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3095068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "00时49分"
         }
       ]
     },
     {
-      "keyword_group": "大模型",
+      "keyword_group": "人工智能",
       "match_count": 3,
       "titles": [
         {
-          "title": "国产开源大模型下载量破100亿次",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
-          "url": "https://wallstreetcn.com/livenews/3094517",
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
+          "url": "https://wallstreetcn.com/livenews/3095142",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时50分]"
-        },
-        {
-          "title": "国产开源大模型密集迭代升级 国产开源大模型下载量破100亿次",
-          "url": "https://wallstreetcn.com/livenews/3094869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "00时49分"
+        },
+        {
+          "title": "欧盟监管机构表示，相关措施将允许用户轻松激活相互竞争的人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20260428002053093800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
+          "url": "https://flash.jin10.com/detail/20260428000212502800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
+          "url": "https://wallstreetcn.com/livenews/3095143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
         }
       ]
     },
@@ -1498,33 +402,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美债市场聚焦美联储会议与美债拍卖，交易员押注年底降息",
-          "url": "https://flash.jin10.com/detail/20260427032034249800",
-          "source": "金十数据",
+          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.812%（3月24日为3.936%），投标倍数2.65（前次为2.44）。 两年期美债收益率涨2.95个基点，刷新日高至3.8078%。",
+          "url": "https://wallstreetcn.com/livenews/3095125",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            13
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时50分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
         }
       ]
     },
     {
-      "keyword_group": "人工智能",
+      "keyword_group": "大模型",
       "match_count": 1,
       "titles": [
         {
-          "title": "俄罗斯总统普京：俄罗斯需要找到适合自己的人工智能监管最佳模式，同时考虑外国经验。",
-          "url": "https://flash.jin10.com/detail/20260427191714695800",
-          "source": "金十数据",
+          "title": "国产开源大模型下载量破100亿次",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "00时49分"
         }
       ]
     }

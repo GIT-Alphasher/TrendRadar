@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T01:02:05.635444+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-29T02:47:42.307105+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -26,41 +26,55 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
+        },
+        {
+          "title": "报道：苹果计划在今年发布的iOS 27中利用AI全面革新照片编辑功能",
+          "url": "https://wallstreetcn.com/livenews/3095958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
           "url": "https://www.zhihu.com/question/2032163714355263384",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
         },
         {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
           "url": "https://wallstreetcn.com/livenews/3095934",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时47分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
         },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -70,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
         },
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -81,8 +95,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
+        },
+        {
+          "title": "苹果(AAPL.O)计划在iOS 27和macOS 27中对照片编辑功能进行AI全面升级，旨在更好地与安卓展开竞争。新功能包括利用Apple Intelligence的设备端模型，对照片进行扩展、增强及重新构图。",
+          "url": "https://flash.jin10.com/detail/20260429021912504800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "英伟达推出NEMOTRON 3 NANO OMNI模型，实现视觉、音频和语言的统一，使AI智能体的效率提高至9倍。",
@@ -91,7 +116,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -102,9 +127,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
+          "url": "https://wallstreetcn.com/livenews/3095943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -113,7 +149,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -124,7 +160,168 @@
           "ranks": [
             17
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
+          "url": "https://flash.jin10.com/detail/20260429015838005800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
+          "url": "https://wallstreetcn.com/livenews/3095938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "岗位被AI替代怎么办？杭州发布指引",
+          "url": "https://www.baidu.com/s?wd=%E5%B2%97%E4%BD%8D%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8C%87%E5%BC%95",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美国原油期货结算价为每桶99.93美元，上涨3.56美元，涨幅3.69%。",
+          "url": "https://flash.jin10.com/detail/20260429023054506800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "铜价跌至两周低点，受累于美元走强及通胀担忧",
+          "url": "https://wallstreetcn.com/livenews/3095935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时47分]"
+        },
+        {
+          "title": "周二（4月28日），韩元兑美元最终涨0.13%，报1472.56韩元，北京时间19:57曾跌至1478.81韩元刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3095953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
+          "url": "https://wallstreetcn.com/articles/3771067",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国银行：预计5月美国高评级（投资级）公司债销售额将突破1900亿美元，创新冠疫情以来的新高。 鉴于上半年发行规模如此庞大，预计供应量将在下半年放缓。",
+          "url": "https://wallstreetcn.com/livenews/3095949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "周二（4月28日），美联储隔夜逆回购协议（RRP）使用规模为6.43亿美元（交易对手6家），上个交易日报3.63亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3095942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "巴西总统卢拉将在大选前公布200亿美元债务减免计划",
+          "url": "https://flash.jin10.com/detail/20260429020408490800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.175%（3月26日为4.255），投标倍数2.51（前次为2.43）。",
+          "url": "https://wallstreetcn.com/livenews/3095940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.59%，暂报2633.22点，北京时间07:55刷新日高至2688.46点，随后逐步下挫。 MarketVectorTM数字资产100中盘指数跌0.65%，报2834.73点。 MarketVector数字资产100指数跌0.52%，报15047.93点，08:48刷新日高至15274.89点，之后也逐步下挫。 目前，Solana跌0.70%，狗狗币涨1.97%，XRP涨1.11%。 比特币跌0.89%，暂报76078.21美元；以太坊跌0.02%，暂报2285.45美元。",
+          "url": "https://wallstreetcn.com/livenews/3095937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "据知情人士透露，Airtel Africa Plc.考虑将Mobile Money部门英国IPO，寻求按高达100亿美元估值融资至多20亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -142,8 +339,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
         },
         {
           "title": "德国DAX 30指数初步收跌0.18%，报24041.32点。 法国股指初步收跌0.27%，意大利股指初步收涨0.84%、银行指数涨1.87%，英国股指初步收涨0.07%。",
@@ -152,7 +349,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -163,7 +360,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -174,7 +371,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -185,7 +382,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -193,29 +390,42 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "李想称理想比上汽大众竞品至少领先两代，大众高管回应「仅价格和营销领先」，真正的「领先」有哪些衡量维度？",
           "url": "https://www.zhihu.com/question/2032096021916988183",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
         },
         {
           "title": "世行预测今年全球能源价格将大涨24%",
           "url": "https://www.toutiao.com/trending/7633461520567402506/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
+        },
+        {
+          "title": "干旱和化肥成本冲击供应，美国小麦价格创2024年以来新高",
+          "url": "https://flash.jin10.com/detail/20260429014959191800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "两名伊拉克石油部门官员称，伊拉克不打算退出OPEC、或OPEC+，需要通过强大的联盟来稳定石油价格。（路透）",
@@ -224,7 +434,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -242,8 +452,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -255,34 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "铜价跌至两周低点，受累于美元走强及通胀担忧",
-          "url": "https://wallstreetcn.com/livenews/3095935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "据知情人士透露，Airtel Africa Plc.考虑将Mobile Money部门英国IPO，寻求按高达100亿美元估值融资至多20亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3095904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
         }
       ]
     },
@@ -314,7 +496,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }

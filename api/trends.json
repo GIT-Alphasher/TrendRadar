@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T08:01:25.385407+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-04-28T12:02:26.312993+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "日元兑美元持续走高，一度突破159水平，此前日本央行公布利率决议。",
+          "url": "https://wallstreetcn.com/livenews/3095423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "英伟达涨超2%，刷新盘中历史高位至212.6美元，盘中市值5.17万亿美元。",
@@ -209,6 +220,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "菲律宾比索进一步走低，美元兑菲律宾比索报60.937，刷新历史高位。",
+          "url": "https://flash.jin10.com/detail/20260428112956331800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美国国会预算办公室主任：关税政策调整或使赤字增加1.1万亿美元",
           "url": "https://wallstreetcn.com/livenews/3095226",
           "source": "华尔街见闻-快讯",
@@ -218,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "日元兑美元短线拉升。",
+          "url": "https://wallstreetcn.com/livenews/3095397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "WTI原油短线走高近0.8美元，最高至99.53美元/桶。",
@@ -242,6 +275,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "菲律宾比索兑美元跌至历史低点。",
+          "url": "https://wallstreetcn.com/livenews/3095389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "铿腾电子一季度营收14.7亿美元，分析师预期14.6亿美元。 一季度调整后每股收益（EPS）为1.96美元，分析师预期1.89美元。 预计全年营收61.3亿-62.3亿美元，公司原本预计59亿-60亿美元。",
           "url": "https://wallstreetcn.com/livenews/3095218",
           "source": "华尔街见闻-快讯",
@@ -259,7 +303,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -289,7 +333,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -297,11 +341,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 12时02分]"
         },
         {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
@@ -309,11 +354,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 12时02分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -321,11 +367,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 12时02分]"
         },
         {
           "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
@@ -359,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
+          "url": "https://www.cls.cn/detail/2357540",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
@@ -434,6 +492,17 @@
           "time_info": "[00时49分 ~ 02时13分]"
         },
         {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "谷歌表示，欧盟毫无依据的干预将剥夺设备制造商定制AI服务的自主权，推高成本，并削弱隐私保护。",
           "url": "https://flash.jin10.com/detail/20260428002123603800",
           "source": "金十数据",
@@ -443,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "继“AI付”后，支付宝再推“AI收”：为AI产业提供按次收款服务",
+          "url": "https://wallstreetcn.com/livenews/3095409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "报道：谷歌员工敦促Pichai阻止美国军方使用其AI技术",
@@ -484,7 +564,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -528,7 +608,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         }
@@ -536,7 +616,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，全市场超百股涨逾10%，国产算力概念活跃依旧",
@@ -576,6 +656,17 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "MSCI新兴市场股票指数收涨1.2%，突破美国与以色列发动伊朗战争之前出现的顶部，台积电、SK海力士等亚洲半导体概念股贡献突出。 MSCI新兴市场外汇指数涨0.3%，马来西亚林吉特、泰国泰铢、以色列谢克尔等货币涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3095250",
           "source": "华尔街见闻-快讯",
@@ -585,6 +676,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "日经225指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3095426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "日本央行利率决议公布后，日经225指数继续走低，回落至60000点下方，日内跌约0.90%。",
+          "url": "https://flash.jin10.com/detail/20260428113734648800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "上证指数早盘收报4083.47点，跌0.07%。 深证成指早盘收报14934.83点，跌0.41%。 创业板指早盘收报3629.17点，跌0.54%。 沪深300早盘收报4773.98点，涨0.06%。 科创50早盘收报1505.11点，跌0.22%。 中证500早盘收报8264.25点，跌0.42%。 中证1000早盘收报8280.64点，跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3095415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "金十图示：2026年04月28日（周二）富时中国A50指数成分股午盘收盘行情一览：证券、煤炭、航运股走高，半导体、消费电子板块涨跌互现。",
+          "url": "https://flash.jin10.com/detail/20260428113339384800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "金十图示：2026年04月27日（周一）华尔街恐惧与贪婪指数（美盘后）",
@@ -604,7 +739,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -706,12 +841,195 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "越南股指VN指数上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3095385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260428073848668800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
+          "url": "https://wallstreetcn.com/livenews/3095143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 02时13分]"
+        },
+        {
+          "title": "价格大降超三成 2万吨榴莲来了",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E5%A4%A7%E9%99%8D%E8%B6%85%E4%B8%89%E6%88%90+2%E4%B8%87%E5%90%A8%E6%A6%B4%E8%8E%B2%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "宁德时代在香港配股价格定在推介区间下限",
+          "url": "https://wallstreetcn.com/livenews/3095278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "英国零售价格回落，但中东战争的全面影响尚待显现",
+          "url": "https://flash.jin10.com/detail/20260428070449176800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "英国4月BRC商店价格指数同比 1%，预期 1.4%，前值 1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3095276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "日本央行预计，原油价格将从每桶105美元跌至每桶70-80美元左右。",
+          "url": "https://wallstreetcn.com/livenews/3095406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "日本央行：经济前景风险偏向下行，通胀风险偏向上行。 日本经济增速可能在2026财年放缓；预计经济将继续温和增长，尽管增速有所放缓。 由于预计高油价的不利影响将减弱，日本经济增速可能从2027财年起温和回升。 原油价格上涨预计将压低企业利润和家庭实际收入。 受原油价格上涨影响，2026财年CPI预测同比涨幅显著提高。 需特别关注中东局势未来走向对金融及外汇市场的影响。 必须妥善关注，防止通胀大幅向上偏离目标的风险成为现实。 若原油价格维持高位的时间长于预期，由于企业利润和家庭实际收入大幅下降，经济可能进一步放缓。 原油价格上涨可能比以往更容易转嫁至各类商品和服务价格中。 还需关注原材料市场价格上涨导致食品价格涨幅超预期的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3095405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
+          "url": "https://wallstreetcn.com/livenews/3095230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "日本央行：中川、高田及田村提议将短期利率目标从0.75%上调至1.0%，提议被多数票否决。 中川指出，尽管中东局势仍不明朗，但鉴于经济发展状况，在宽松的金融环境下，物价风险偏向上行。 高田指出，物价稳定目标已基本实现，受海外形势引发的价格上涨二轮效应影响，日本物价风险已经偏向上行。",
+          "url": "https://wallstreetcn.com/livenews/3095401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "日本央行：原油价格上涨可能比以往更容易传导至各类商品和服务价格。",
+          "url": "https://flash.jin10.com/detail/20260428112027215800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "日本央行：还需关注食品价格可能因原材料市场价格上涨而超出预期的风险。",
+          "url": "https://flash.jin10.com/detail/20260428111959348800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "日本央行：相比过去，汇率变动如今影响价格的可能性更大。",
+          "url": "https://flash.jin10.com/detail/20260428111855613800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "周一（4月27日），彭博电动汽车价格回报指数涨0.89%，报4002.92点。",
+          "url": "https://wallstreetcn.com/livenews/3095217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "日本央行：关于人工智能，强劲的商业固定投资可能会推动全球经济增长，但如果企业利润未能与此类投资同步扩张，可能会出现回调压力，资产价格也会发生变化。",
+          "url": "https://flash.jin10.com/detail/20260428111808544800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -729,22 +1047,24 @@
           "url": "https://www.cls.cn/detail/2357431",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时00分 ~ 12时02分]"
         },
         {
           "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
           "url": "https://www.cls.cn/detail/2357399",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时00分 ~ 12时02分]"
         },
         {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -767,6 +1087,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
@@ -809,7 +1140,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -841,90 +1172,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260428073848668800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
-          "url": "https://wallstreetcn.com/livenews/3095143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 02时13分]"
-        },
-        {
-          "title": "宁德时代在香港配股价格定在推介区间下限",
-          "url": "https://wallstreetcn.com/livenews/3095278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "英国零售价格回落，但中东战争的全面影响尚待显现",
-          "url": "https://flash.jin10.com/detail/20260428070449176800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "英国4月BRC商店价格指数同比 1%，预期 1.4%，前值 1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3095276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
-          "url": "https://wallstreetcn.com/livenews/3095230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "周一（4月27日），彭博电动汽车价格回报指数涨0.89%，报4002.92点。",
-          "url": "https://wallstreetcn.com/livenews/3095217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,

@@ -1,11 +1,348 @@
 {
-  "generated_at": "2026-04-29T04:24:53.656128+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-04-29T06:07:52.649554+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "美国原油期货结算价为每桶99.93美元，上涨3.56美元，涨幅3.69%。",
+          "url": "https://flash.jin10.com/detail/20260429023054506800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "T-Mobile一季度营收231.1亿美元，分析师预期229.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3095994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "Booking一季度营收55.3亿美元，分析师预期55.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3095993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "铜价跌至两周低点，受累于美元走强及通胀担忧",
+          "url": "https://wallstreetcn.com/livenews/3095935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时47分]"
+        },
+        {
+          "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
+          "url": "https://wallstreetcn.com/articles/3771067",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 06时07分]"
+        },
+        {
+          "title": "对冲基金经理比尔·阿克曼（Bill Ackman）正逼近其期盼已久的公开上市目标，预计此次上市的募资额将达到其最高目标的一半。据三位知情人士透露，潘兴广场美国公司（Pershing Square USA）这支新的封闭式基金的上市预计将募集约50亿美元。潘兴广场最初曾表示，此次上市的募资额可能高达100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260429034057930800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国五角大楼已正式提出更名申请，拟将“国防部”更名为“战争部”，预计相关调整成本将超过5000万美元。据悉，五角大楼总法律顾问办公室已发布相关提案，推动修改法律以完成正式更名。",
+          "url": "https://flash.jin10.com/detail/20260429054636287800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "周二（4月28日），韩元兑美元最终涨0.13%，报1472.56韩元，北京时间19:57曾跌至1478.81韩元刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3095953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国银行：预计5月美国高评级（投资级）公司债销售额将突破1900亿美元，创新冠疫情以来的新高。 鉴于上半年发行规模如此庞大，预计供应量将在下半年放缓。",
+          "url": "https://wallstreetcn.com/livenews/3095949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
+          "url": "https://wallstreetcn.com/livenews/3095984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "紫金矿业计划投资15亿美元开发秘鲁La Arena铜矿",
+          "url": "https://wallstreetcn.com/livenews/3096022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "美元指数28日上涨",
+          "url": "https://flash.jin10.com/detail/20260429050156496800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "周二（4月28日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8402元，较周一纽约尾盘跌140点，日内整体交投于6.8241-6.8428元区间。 日线图上，离岸人民币4月7日以来持续交投于6.85元上方，一度逼近6.8元关口。",
+          "url": "https://wallstreetcn.com/livenews/3096020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "周二（4月28日），美联储隔夜逆回购协议（RRP）使用规模为6.43亿美元（交易对手6家），上个交易日报3.63亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3095942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "周二（4月28日）纽约尾盘，ICE原糖期货涨1.58%，ICE白糖期货涨1.55%。 ICE阿拉比卡咖啡期货涨1.46%，咖啡“C”期货涨0.70%。罗布斯塔咖啡期货涨1.63%。 纽约可可期货涨2.09%，报3365美元/吨。伦敦可可期货涨2.36%。 芝加哥WCE双低油菜籽期货涨0.80%。 ICE棉花期货涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3095980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "Robinhood预计2026年调整后运营开支和SBC为27亿-28.25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "加拿大矿业公司第一量子一季度销售14亿美元，分析师预期13.2亿美元。 一季度调整后每股亏损0.18美元，分析师预期每股收益（EPS）为0.055美元。 该公司维持镍产量指引不变。",
+          "url": "https://wallstreetcn.com/livenews/3096017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "巴西总统卢拉将在大选前公布200亿美元债务减免计划",
+          "url": "https://flash.jin10.com/detail/20260429020408490800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.175%（3月26日为4.255），投标倍数2.51（前次为2.43）。",
+          "url": "https://wallstreetcn.com/livenews/3095940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "周二（4月28日）纽约尾盘，现货黄金跌1.86%，报4595.11美元/盎司，亚太早盘以来持续走低，北京时间20:01刷新日低至4555.02美元，19:00以来持续低位窄幅震荡。 COMEX黄金期货跌1.84%，报4607.40美元/盎司。 现货白银跌3.21%，报73.0888美元/盎司，14:00以来持续低位窄幅震荡——持续交投于73美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3096016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.59%，暂报2633.22点，北京时间07:55刷新日高至2688.46点，随后逐步下挫。 MarketVectorTM数字资产100中盘指数跌0.65%，报2834.73点。 MarketVector数字资产100指数跌0.52%，报15047.93点，08:48刷新日高至15274.89点，之后也逐步下挫。 目前，Solana跌0.70%，狗狗币涨1.97%，XRP涨1.11%。 比特币跌0.89%，暂报76078.21美元；以太坊跌0.02%，暂报2285.45美元。",
+          "url": "https://wallstreetcn.com/livenews/3095937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月份的穆尔班原油官方售价定为每桶110.75美元。",
+          "url": "https://flash.jin10.com/detail/20260429025354754800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司（ADNOC）：已将其基准穆尔班（Murban）原油5月份的官方售价（OSP）定为每桶110.75美元，较4月份每桶69.45美元的官方售价大幅上调。",
+          "url": "https://wallstreetcn.com/livenews/3095973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "据知情人士透露，Airtel Africa Plc.考虑将Mobile Money部门英国IPO，寻求按高达100亿美元估值融资至多20亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8372元，较周一夜盘收盘跌97点。成交量522.63亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3095969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "光伏逆变器供应商Enphase Energy一季度营收2.829亿美元，分析师预期2.838亿美元。 一季度美国营收季环比锐减23%，欧洲营收季环比增长36%。 一季度资本开支0.199亿美元，分析师预期0.13亿美元。 一季度调整后每股收益（EPS）为0.47美元，分析师预期0.44美元。 预计二季度营收2.8亿-3.1亿美元，分析师预期2.968亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "WTI 6月原油期货收涨3.56美元，涨幅3.69%，报99.93美元/桶。 布伦特6月原油期货收涨3.03美元，涨幅2.80%，报111.26美元/桶。 中东Abu Dhabi Murban原油期货涨2.91%，报107.22美元/桶。 NYMEX 5月天然气期货收报2.5590美元/百万英热单位。 NYMEX 5月汽油期货收报3.5604美元/加仑，NYMEX 5月取暖油期货收报3.9712美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3095965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "南方铜业公司一季度销售42.5亿美元，分析师预期42.1亿美元。 一季度净利润15.8亿美元，分析师预期15.8亿美元。 一季度调整后EBITDA为27.1亿美元，分析师预期27.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -15,8 +352,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时07分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -26,8 +363,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时07分]"
         },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
@@ -36,11 +373,68 @@
           "ranks": [
             5,
             11,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时07分]"
+        },
+        {
+          "title": "OpenAI与Anthropic向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时07分]"
+        },
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时07分]"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "报道：苹果计划在今年发布的iOS 27中利用AI全面革新照片编辑功能",
@@ -54,16 +448,15 @@
           "time_info": "02时47分"
         },
         {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
           "ranks": [
-            7,
-            6
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时07分]"
         },
         {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
@@ -78,38 +471,17 @@
           "time_info": "[01时02分 ~ 02时47分]"
         },
         {
-          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
-          "url": "https://wallstreetcn.com/articles/3771068",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时24分]"
-        },
-        {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时24分]"
-        },
-        {
           "title": "岗位被AI替代怎么办？杭州发布指引",
           "url": "https://www.baidu.com/s?wd=%E5%B2%97%E4%BD%8D%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8C%87%E5%BC%95",
           "source": "百度热搜",
           "ranks": [
             25,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 06时07分]"
         },
         {
           "title": "苹果(AAPL.O)计划在iOS 27和macOS 27中对照片编辑功能进行AI全面升级，旨在更好地与安卓展开竞争。新功能包括利用Apple Intelligence的设备端模型，对照片进行扩展、增强及重新构图。",
@@ -129,7 +501,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -195,7 +567,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -228,7 +600,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -239,236 +611,116 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 20,
+      "keyword_group": "价格",
+      "match_count": 9,
       "titles": [
         {
-          "title": "美国原油期货结算价为每桶99.93美元，上涨3.56美元，涨幅3.69%。",
-          "url": "https://flash.jin10.com/detail/20260429023054506800",
-          "source": "金十数据",
+          "title": "李想称理想比上汽大众竞品至少领先两代，大众高管回应「仅价格和营销领先」，真正的「领先」有哪些衡量维度？",
+          "url": "https://www.zhihu.com/question/2032096021916988183",
+          "source": "知乎",
           "ranks": [
-            2
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时24分]"
         },
         {
-          "title": "T-Mobile一季度营收231.1亿美元，分析师预期229.8亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3095994",
-          "source": "华尔街见闻-快讯",
+          "title": "世行预测今年全球能源价格将大涨24%",
+          "url": "https://www.toutiao.com/trending/7633461520567402506/",
+          "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "Booking一季度营收55.3亿美元，分析师预期55.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3095993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "铜价跌至两周低点，受累于美元走强及通胀担忧",
-          "url": "https://wallstreetcn.com/livenews/3095935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时47分]"
         },
         {
-          "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
-          "url": "https://wallstreetcn.com/articles/3771067",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 04时24分]"
-        },
-        {
-          "title": "对冲基金经理比尔·阿克曼（Bill Ackman）正逼近其期盼已久的公开上市目标，预计此次上市的募资额将达到其最高目标的一半。据三位知情人士透露，潘兴广场美国公司（Pershing Square USA）这支新的封闭式基金的上市预计将募集约50亿美元。潘兴广场最初曾表示，此次上市的募资额可能高达100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260429034057930800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "周二（4月28日），韩元兑美元最终涨0.13%，报1472.56韩元，北京时间19:57曾跌至1478.81韩元刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3095953",
+          "title": "周二（4月28日）纽约尾盘，彭博电动汽车价格回报指数跌1.37%，报3947.82点，亚太早盘以来整体持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3095988",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3095950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "美国银行：预计5月美国高评级（投资级）公司债销售额将突破1900亿美元，创新冠疫情以来的新高。 鉴于上半年发行规模如此庞大，预计供应量将在下半年放缓。",
-          "url": "https://wallstreetcn.com/livenews/3095949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
-          "url": "https://wallstreetcn.com/livenews/3095984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "04时24分"
         },
         {
-          "title": "周二（4月28日），美联储隔夜逆回购协议（RRP）使用规模为6.43亿美元（交易对手6家），上个交易日报3.63亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3095942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "周二（4月28日）纽约尾盘，ICE原糖期货涨1.58%，ICE白糖期货涨1.55%。 ICE阿拉比卡咖啡期货涨1.46%，咖啡“C”期货涨0.70%。罗布斯塔咖啡期货涨1.63%。 纽约可可期货涨2.09%，报3365美元/吨。伦敦可可期货涨2.36%。 芝加哥WCE双低油菜籽期货涨0.80%。 ICE棉花期货涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3095980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "巴西总统卢拉将在大选前公布200亿美元债务减免计划",
-          "url": "https://flash.jin10.com/detail/20260429020408490800",
+          "title": "委内瑞拉临时总统罗德里格斯：尽管近期部分水果和蔬菜的价格出现反弹，但我们预计通胀接近恢复向3%目标逐步下降的趋势。",
+          "url": "https://flash.jin10.com/detail/20260429045014434800",
           "source": "金十数据",
           "ranks": [
-            18
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时47分"
+          "time_info": "06时07分"
         },
         {
-          "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.175%（3月26日为4.255），投标倍数2.51（前次为2.43）。",
-          "url": "https://wallstreetcn.com/livenews/3095940",
-          "source": "华尔街见闻-快讯",
+          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月乌姆卢卢（UMM Lulu）原油价格设定为与穆尔班原油持平。",
+          "url": "https://flash.jin10.com/detail/20260429025700770800",
+          "source": "金十数据",
           "ranks": [
-            18
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时47分"
+          "time_info": "04时24分"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.59%，暂报2633.22点，北京时间07:55刷新日高至2688.46点，随后逐步下挫。 MarketVectorTM数字资产100中盘指数跌0.65%，报2834.73点。 MarketVector数字资产100指数跌0.52%，报15047.93点，08:48刷新日高至15274.89点，之后也逐步下挫。 目前，Solana跌0.70%，狗狗币涨1.97%，XRP涨1.11%。 比特币跌0.89%，暂报76078.21美元；以太坊跌0.02%，暂报2285.45美元。",
-          "url": "https://wallstreetcn.com/livenews/3095937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月份的穆尔班原油官方售价定为每桶110.75美元。",
-          "url": "https://flash.jin10.com/detail/20260429025354754800",
+          "title": "干旱和化肥成本冲击供应，美国小麦价格创2024年以来新高",
+          "url": "https://flash.jin10.com/detail/20260429014959191800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "02时47分"
         },
         {
-          "title": "阿联酋阿布扎比国家石油公司（ADNOC）：已将其基准穆尔班（Murban）原油5月份的官方售价（OSP）定为每桶110.75美元，较4月份每桶69.45美元的官方售价大幅上调。",
-          "url": "https://wallstreetcn.com/livenews/3095973",
+          "title": "光伏逆变器供应商Enphase Energy：将欧洲电池价格下调10%。",
+          "url": "https://wallstreetcn.com/livenews/3096011",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "06时07分"
         },
         {
-          "title": "据知情人士透露，Airtel Africa Plc.考虑将Mobile Money部门英国IPO，寻求按高达100亿美元估值融资至多20亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3095904",
+          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
+          "url": "https://wallstreetcn.com/livenews/3096010",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8372元，较周一夜盘收盘跌97点。成交量522.63亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3095969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "06时07分"
         },
         {
-          "title": "WTI 6月原油期货收涨3.56美元，涨幅3.69%，报99.93美元/桶。 布伦特6月原油期货收涨3.03美元，涨幅2.80%，报111.26美元/桶。 中东Abu Dhabi Murban原油期货涨2.91%，报107.22美元/桶。 NYMEX 5月天然气期货收报2.5590美元/百万英热单位。 NYMEX 5月汽油期货收报3.5604美元/加仑，NYMEX 5月取暖油期货收报3.9712美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3095965",
+          "title": "两名伊拉克石油部门官员称，伊拉克不打算退出OPEC、或OPEC+，需要通过强大的联盟来稳定石油价格。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3095900",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "01时02分"
         }
       ]
     },
@@ -484,8 +736,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时07分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，能源板块涨1.65%，房地产、日用消费品板块涨0.99%，电信、可选消费、工业板块则至多收跌0.88%，原材料板块跌0.17%，信息技术/科技跌1.29%。",
@@ -494,7 +746,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -505,7 +757,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -516,7 +768,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -571,117 +823,15 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "李想称理想比上汽大众竞品至少领先两代，大众高管回应「仅价格和营销领先」，真正的「领先」有哪些衡量维度？",
-          "url": "https://www.zhihu.com/question/2032096021916988183",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时24分]"
-        },
-        {
-          "title": "世行预测今年全球能源价格将大涨24%",
-          "url": "https://www.toutiao.com/trending/7633461520567402506/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时47分]"
-        },
-        {
-          "title": "周二（4月28日）纽约尾盘，彭博电动汽车价格回报指数跌1.37%，报3947.82点，亚太早盘以来整体持续走低。",
-          "url": "https://wallstreetcn.com/livenews/3095988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月乌姆卢卢（UMM Lulu）原油价格设定为与穆尔班原油持平。",
-          "url": "https://flash.jin10.com/detail/20260429025700770800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "干旱和化肥成本冲击供应，美国小麦价格创2024年以来新高",
-          "url": "https://flash.jin10.com/detail/20260429014959191800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "两名伊拉克石油部门官员称，伊拉克不打算退出OPEC、或OPEC+，需要通过强大的联盟来稳定石油价格。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3095900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时24分]"
-        },
-        {
-          "title": "如何评价 DeepSeek V4 降价的事？",
-          "url": "https://www.zhihu.com/question/2032100000558229357",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股盘前纳指跌超1.4%",
@@ -695,22 +845,66 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3096026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
           "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3095983",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
+          "url": "https://wallstreetcn.com/livenews/3096006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
         {
           "title": "亚马逊云服务(AWS)推出亚马逊快速桌面AI助手。亚马逊推出人工智能工具，旨在提升办公室员工的生产力。",
           "url": "https://flash.jin10.com/detail/20260429000646143800",
@@ -729,9 +923,37 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时07分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4 降价的事？",
+          "url": "https://www.zhihu.com/question/2032100000558229357",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }

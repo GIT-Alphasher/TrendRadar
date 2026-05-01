@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T12:10:40.668137+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-05-01T15:31:59.420358+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
@@ -32,6 +32,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时59分]"
+        },
+        {
+          "title": "美元兑日元在急挫约150点后，又拉升约90点，现报156.35。",
+          "url": "https://wallstreetcn.com/livenews/3097810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线一度跳水超100点后小幅反弹，现报156.06。",
+          "url": "https://flash.jin10.com/detail/20260501150344550800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "委内瑞拉代总统罗德里格斯：月最低工资将上调至240美元。",
@@ -131,11 +153,12 @@
           "url": "https://wallstreetcn.com/livenews/3097784",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时31分]"
         },
         {
           "title": "SpaceX投资者137 Ventures持股超1%，价值突破100亿美元",
@@ -303,6 +326,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "现货黄金跌破4600美元/盎司，日内跌0.47%。",
+          "url": "https://flash.jin10.com/detail/20260501142009812800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "美元指数周四跌约0.9%，4月份累跌约1.9%",
           "url": "https://wallstreetcn.com/livenews/3097685",
           "source": "华尔街见闻-快讯",
@@ -408,7 +442,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -459,9 +493,352 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 21,
+      "keyword_group": "指数",
+      "match_count": 28,
       "titles": [
+        {
+          "title": "【每日收评】科创50指数涨超5%，芯片产业链集体爆发，寒武纪20CM涨停重夺“股王”宝座",
+          "url": "https://www.cls.cn/detail/2361107",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时59分]"
+        },
+        {
+          "title": "4月收官！沪指站稳4100点，科创50指数大涨25%，芯片半导体爆发，寒武纪重夺股王宝座",
+          "url": "https://wallstreetcn.com/articles/3771338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时15分 ~ 15时31分]"
+        },
+        {
+          "title": "英国富时100指数开盘跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3097809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "日经225指数收盘上涨0.4%，报59513.12点。",
+          "url": "https://wallstreetcn.com/livenews/3097808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "日经225指数5月1日（周五）收盘上涨228.20点，涨幅0.38%，报59513.12点。",
+          "url": "https://flash.jin10.com/detail/20260501143223717800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "美国一季度GDP年化增长2%，PCE物价指数4.3%，通胀压力骤升",
+          "url": "https://wallstreetcn.com/articles/3771412",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时31分]"
+        },
+        {
+          "title": "标普道琼斯指数公司：就超大市值公司的处理方式征求意见。",
+          "url": "https://wallstreetcn.com/livenews/3097723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "英国4月Nationwide房价指数环比 0.4%，预期 -0.3%，前值 0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3097804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "标普道琼斯指数公司：将Veeva Systems纳入标普500指数，取代Coterra Energy。",
+          "url": "https://wallstreetcn.com/livenews/3097722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "英国4月Nationwide房价指数同比 3%，预期 2.2%，前值 2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3097803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨2.1%，4月份累涨约2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3097695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数5月1日（周五）收盘上涨67.70点，涨幅0.78%，报8733.50点。",
+          "url": "https://flash.jin10.com/detail/20260501142310271800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初上涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3097777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨1.27%，报24260.74点，4月份累计上涨大约7%。 法国股指初步收涨0.50%，意大利股指初步收涨0.90%、银行指数涨0.39%，英国股指初步收涨1.60%。",
+          "url": "https://wallstreetcn.com/livenews/3097620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "金十图示：2026年04月30日（周四）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260430234129402800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收涨1.28%，报610.69点，4月份累计上涨大约4.7%。 欧元区STOXX 50指数初步收涨1.00%，报5874.76点，4月份累涨约5.4%。 富时泛欧绩优300指数初步收涨1.31%，报2435.00点。",
+          "url": "https://wallstreetcn.com/livenews/3097619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "德国DAX30指数4月30日（周四）收盘上涨330.65点，涨幅1.38%，报24274.39点；<br/>英国富时100指数4月30日（周四）收盘上涨154.65点，涨幅1.51%，报10367.76点；<br/>法国CAC40指数4月30日（周四）收盘上涨42.71点，涨幅0.53%，报8114.84点；<br/>欧洲斯托克50指数4月30日（周四）收盘上涨57.88点，涨幅1.00%，报5874.36点；<br/>西班牙IBEX35指数4月30日（周四）收盘上涨124.07点，涨幅0.70%，报17789.27点；<br/>意大利富时MIB指数4月30日（周四）收盘上涨422.47点，涨幅0.88%，报48218.50点。",
+          "url": "https://flash.jin10.com/detail/20260430233746767800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "美伊冲突僵局未解，高通胀开始显现，美国3月PCE物价指数年率创近三年来新高；全球主要央行集体转向观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260501104311028800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "MSCI新兴市场股票指数在4月份累计上涨14.5%，创2022年以来最大单月涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3097742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "日经225指数开盘上涨0.13%，报59363.64点。韩国股市今日因劳动节休市。",
+          "url": "https://wallstreetcn.com/livenews/3097770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "金十图示：2026年05月01日（周五）全球股市指数-亚太市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260501102855189800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "恐慌指数VIX跌至17.43，创最近约两周新低。",
+          "url": "https://wallstreetcn.com/livenews/3097610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "金十图示：2026年04月30日（周四）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260501044148944800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "英国4月Nationwide房价指数年率 3%，预期2.20%，前值2.20%。",
+          "url": "https://flash.jin10.com/detail/20260501140007180800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "英国4月Nationwide房价指数月率 0.4%，预期-0.30%，前值0.90%。",
+          "url": "https://flash.jin10.com/detail/20260501140007125800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨超1.3%，刷新日高至6880点上方。 热门中概股里，百度涨超4.6%，贝壳涨4.4%，再鼎医药涨4.3%，美团涨3.4%，网易涨2.8%，携程涨2.7%，新东方涨1.7%，拼多多涨1.5%，阿里巴巴涨0.4%，蔚来跌约1.9%。 ETF中，CQQQ涨超3%，KWEB涨1.7%，ASHS涨1.5%，ASHR涨1.1%。 富时A50夜期涨约0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3097607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨1.44%，报25992点。 恒生科技指数主连夜盘收涨1.62%，报4955点。",
+          "url": "https://wallstreetcn.com/livenews/3097675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "英国4月Nationwide房价指数月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260501135000002800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2361477",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 15时31分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 15时31分]"
+        },
         {
           "title": "假如AI能模拟去世亲人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
@@ -477,29 +854,15 @@
           "time_info": "[00时27分 ~ 07时59分]"
         },
         {
-          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2361477",
-          "source": "财联社热门",
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            10,
-            13
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 12时10分]"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 12时10分]"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时31分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -527,26 +890,17 @@
           "time_info": "[00时27分 ~ 06时04分]"
         },
         {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
           "ranks": [
-            2
+            11,
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时04分 ~ 15时31分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -574,16 +928,28 @@
           "time_info": "[06时04分 ~ 07时59分]"
         },
         {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            8
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时04分 ~ 12时10分]"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时31分]"
+        },
+        {
+          "title": "人民日报：不能让AI生成内容误导公众",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时31分]"
         },
         {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
@@ -595,17 +961,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 02时18分]"
-        },
-        {
-          "title": "人民日报：不能让AI生成内容误导公众",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
@@ -680,7 +1035,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -691,7 +1046,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -705,230 +1060,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "【每日收评】科创50指数涨超5%，芯片产业链集体爆发，寒武纪20CM涨停重夺“股王”宝座",
-          "url": "https://www.cls.cn/detail/2361107",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时59分]"
         },
         {
-          "title": "4月收官！沪指站稳4100点，科创50指数大涨25%，芯片半导体爆发，寒武纪重夺股王宝座",
-          "url": "https://wallstreetcn.com/articles/3771338",
-          "source": "华尔街见闻",
+          "title": "女子被AI误导闯入响尾蛇窝",
+          "url": "https://www.toutiao.com/trending/7634484856417468470/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时15分 ~ 12时10分]"
-        },
-        {
-          "title": "美国一季度GDP年化增长2%，PCE物价指数4.3%，通胀压力骤升",
-          "url": "https://wallstreetcn.com/articles/3771412",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "标普道琼斯指数公司：就超大市值公司的处理方式征求意见。",
-          "url": "https://wallstreetcn.com/livenews/3097723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "标普道琼斯指数公司：将Veeva Systems纳入标普500指数，取代Coterra Energy。",
-          "url": "https://wallstreetcn.com/livenews/3097722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨2.1%，4月份累涨约2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3097695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初上涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3097777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "德国DAX 30指数初步收涨1.27%，报24260.74点，4月份累计上涨大约7%。 法国股指初步收涨0.50%，意大利股指初步收涨0.90%、银行指数涨0.39%，英国股指初步收涨1.60%。",
-          "url": "https://wallstreetcn.com/livenews/3097620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "金十图示：2026年04月30日（周四）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260430234129402800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收涨1.28%，报610.69点，4月份累计上涨大约4.7%。 欧元区STOXX 50指数初步收涨1.00%，报5874.76点，4月份累涨约5.4%。 富时泛欧绩优300指数初步收涨1.31%，报2435.00点。",
-          "url": "https://wallstreetcn.com/livenews/3097619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "德国DAX30指数4月30日（周四）收盘上涨330.65点，涨幅1.38%，报24274.39点；<br/>英国富时100指数4月30日（周四）收盘上涨154.65点，涨幅1.51%，报10367.76点；<br/>法国CAC40指数4月30日（周四）收盘上涨42.71点，涨幅0.53%，报8114.84点；<br/>欧洲斯托克50指数4月30日（周四）收盘上涨57.88点，涨幅1.00%，报5874.36点；<br/>西班牙IBEX35指数4月30日（周四）收盘上涨124.07点，涨幅0.70%，报17789.27点；<br/>意大利富时MIB指数4月30日（周四）收盘上涨422.47点，涨幅0.88%，报48218.50点。",
-          "url": "https://flash.jin10.com/detail/20260430233746767800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美伊冲突僵局未解，高通胀开始显现，美国3月PCE物价指数年率创近三年来新高；全球主要央行集体转向观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260501104311028800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "MSCI新兴市场股票指数在4月份累计上涨14.5%，创2022年以来最大单月涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3097742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "日经225指数开盘上涨0.13%，报59363.64点。韩国股市今日因劳动节休市。",
-          "url": "https://wallstreetcn.com/livenews/3097770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）全球股市指数-亚太市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260501102855189800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "恐慌指数VIX跌至17.43，创最近约两周新低。",
-          "url": "https://wallstreetcn.com/livenews/3097610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "金十图示：2026年04月30日（周四）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260501044148944800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数涨超1.3%，刷新日高至6880点上方。 热门中概股里，百度涨超4.6%，贝壳涨4.4%，再鼎医药涨4.3%，美团涨3.4%，网易涨2.8%，携程涨2.7%，新东方涨1.7%，拼多多涨1.5%，阿里巴巴涨0.4%，蔚来跌约1.9%。 ETF中，CQQQ涨超3%，KWEB涨1.7%，ASHS涨1.5%，ASHR涨1.1%。 富时A50夜期涨约0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3097607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨1.44%，报25992点。 恒生科技指数主连夜盘收涨1.62%，报4955点。",
-          "url": "https://wallstreetcn.com/livenews/3097675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "15时31分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "李想称「理想领先大众至少两代」，大众高管回应理想「仅价格和营销水平领先」，如何看待这两位高管的互怼？",
@@ -954,6 +1102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "榴梿价格“一天降10元”",
+          "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E6%A2%BF%E4%BB%B7%E6%A0%BC%E2%80%9C%E4%B8%80%E5%A4%A9%E9%99%8D10%E5%85%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "宇树双臂人形机器人价格",
@@ -984,7 +1143,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -995,7 +1154,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1009,6 +1168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "空运价格创近三年新高！美线运价较三月中旬翻倍 部分中东航司重启货运航班",
+          "url": "https://www.cls.cn/detail/2361689",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "周四（4月30日）纽约尾盘，彭博电动汽车价格回报指数涨0.35%，报4055.99点，4月份累涨大约12%，4月8-21日持续上涨——之前低位持稳、之后高位震荡。",
@@ -1050,7 +1220,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1097,6 +1267,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "法巴银行：中东冲突对日本消费品价格的影响仍然有限",
+          "url": "https://flash.jin10.com/detail/20260501135824830800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "欧洲央行管委穆勒：欧洲央行加息的可能性越来越大。能源价格将持续居于高位的趋势愈加明显。",
+          "url": "https://flash.jin10.com/detail/20260501134616792800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
@@ -1125,8 +1317,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时31分]"
         },
         {
           "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指0.89涨%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
@@ -1164,6 +1356,18 @@
           "time_info": "[06时04分 ~ 07时59分]"
         },
         {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时31分]"
+        },
+        {
           "title": "周四（4月30日），美股降息赢家指数收涨0.70%，报91.53点，4月份劣迹上涨4.92%，4月1日以来持续走高、在4月21日美股开盘时达到98.86点，随后逐步回吐涨幅。 “特朗普关税输家”指数涨1.30%，报103.40点，4月份累涨3.41%，4月21日美股开盘曾达到110.11点。 “特朗普金融指数”涨1.44%，报163.60点，4月份累涨9.30%，4月15日以来持续高位震荡。 散户抱团概念股指数/迷因股（meme stock）指数涨2.48%，报14.51点，4月份累涨18.06%，4月21日美股盘初曾达到16.30点。",
           "url": "https://wallstreetcn.com/livenews/3097756",
           "source": "华尔街见闻-快讯",
@@ -1173,17 +1377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
-        },
-        {
-          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
-          "url": "https://www.zhihu.com/question/2033115543276930640",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
@@ -1255,7 +1448,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -1263,11 +1456,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 12时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 15时31分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1307,6 +1501,18 @@
           "time_info": "[00时27分 ~ 04时16分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 15时31分]"
+        },
+        {
           "title": "DeepSeek思考过程好萌",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -1318,32 +1524,32 @@
           "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
           "url": "https://flash.jin10.com/detail/20260501103248247800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "DeepSeek梦话大赏",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国白宫人工智能顾问萨克斯：Mythos不是世界末日装置。",
@@ -1366,6 +1572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "法国总理：将开发和部署人工智能工具，以检测系统存在的漏洞和弱点。这是一个安全和主权的问题。",
+          "url": "https://flash.jin10.com/detail/20260501142522147800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",

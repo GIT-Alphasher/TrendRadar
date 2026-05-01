@@ -1,12 +1,162 @@
 {
-  "generated_at": "2026-05-02T01:08:22.336150+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-02T03:24:33.209845+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "美元",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "报道：WildFire Energy股东正寻求按逾40亿美元出售该美国页岩油运营商",
+          "url": "https://wallstreetcn.com/livenews/3098018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "高频交易巨头Jane Street去年支付员工94亿美元薪酬。",
+          "url": "https://flash.jin10.com/detail/20260502023213191800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶101.94美元，下跌3.13美元，跌幅2.98%。",
+          "url": "https://flash.jin10.com/detail/20260502023138406800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "WTI 6月原油期货收跌3.13美元，跌幅2.98%，报101.94美元/桶。 布伦特7月原油期货收跌2.23美元，跌幅2.02%，报108.17美元/桶。 中东Abu Dhabi Murban原油期货跌3.70%，报104.02美元/桶，本周累涨3.90%。 NYMEX 6月天然气期货收报2.78美元/百万英热单位。 NYMEX 6月汽油期货收报3.5952美元/加仑，NYMEX 6月取暖油期货收报3.9496美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3098015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "LME期铜收涨10美元，报12996美元/吨。 LME期铝收涨48美元，报3522美元/吨。 LME期锌收跌16美元，报3344美元/吨。 LME期铅收跌6美元，报1949美元/吨。 LME期镍收跌103美元，报19365美元/吨。 LME期锡收涨209美元，报49423美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3097987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时24分]"
+        },
+        {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时24分]"
+        },
+        {
+          "title": "美国总统特朗普被问及可能对伊朗发动袭击时，声称：“我为什么要告诉你？” WTI原油5分钟内上涨0.61美元/桶，报102.53美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3097978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "摩根大通策货币略师们建议，对美元空头平仓，称美元下跌的基本面已经消退，继续看跌日元。",
+          "url": "https://wallstreetcn.com/livenews/3098009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "周五（5月1日），韩元兑美元最终涨0.41%，报1471.34韩元，本周累计上涨0.33%，整体呈现出V形反转行情，4月30日纽约中午曾跌至1488.86韩元。",
+          "url": "https://wallstreetcn.com/livenews/3098000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团：4月30日，EBS平台受理的日元成交量达到858亿美元，创最近十年来新高。 通过CME旗下FX Link产品的日元成交量突破9.2万合约，创历史新高。 日元期权成交总额42亿美元。 4月30日，期货、期权、现货市场的日元成交量1407亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "周五（5月1日），美联储隔夜逆回购协议（RRP）使用规模为6.07亿美元（交易对手5家），上个交易日报82.61亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时24分]"
+        },
+        {
+          "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
           "url": "https://wallstreetcn.com/articles/3771459",
@@ -19,26 +169,16 @@
           "time_info": "01时08分"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
           "url": "https://wallstreetcn.com/articles/3771451",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时24分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股盘中）",
@@ -46,6 +186,68 @@
           "source": "金十数据",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "比特币涨超2%，美股盘初曾逼近7.9万美元，狗狗币最近七天涨超10%",
+          "url": "https://wallstreetcn.com/livenews/3097992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时24分]"
+        },
+        {
+          "title": "美国总统特朗普：如果一个好的交易对航空公司Spirit Airlines有利，将达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3097973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "甲骨文加入五角大楼AI项目，股价刷新日高",
+          "url": "https://wallstreetcn.com/livenews/3097953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -62,11 +264,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4+%E6%9E%9C%E5%95%86%E4%B8%80%E5%A4%A9%E5%8D%96%E4%BA%869%E5%8D%83%E6%96%A4",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时24分]"
         },
         {
           "title": "限量Labubu冰箱售罄下架 二手平台价格从开售前万元以上跌至七千多",
@@ -76,8 +279,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时24分]"
         },
         {
           "title": "潮汕五一酒店价格较春节回落明显",
@@ -85,84 +288,6 @@
           "source": "微博",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "LME期铜收涨10美元，报12996美元/吨。 LME期铝收涨48美元，报3522美元/吨。 LME期锌收跌16美元，报3344美元/吨。 LME期铅收跌6美元，报1949美元/吨。 LME期镍收跌103美元，报19365美元/吨。 LME期锡收涨209美元，报49423美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3097987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
-          "url": "https://www.cls.cn/detail/2361824",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "美国总统特朗普被问及可能对伊朗发动袭击时，声称：“我为什么要告诉你？” WTI原油5分钟内上涨0.61美元/桶，报102.53美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3097978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国总统特朗普：如果一个好的交易对航空公司Spirit Airlines有利，将达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3097973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "甲骨文加入五角大楼AI项目，股价刷新日高",
-          "url": "https://wallstreetcn.com/livenews/3097953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -182,8 +307,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时24分]"
         }
       ]
     },
@@ -199,8 +324,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时24分]"
         }
       ]
     },

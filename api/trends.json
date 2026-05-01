@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T07:59:12.071466+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-05-01T12:10:40.668137+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 12时10分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -126,6 +127,17 @@
           "time_info": "[04时16分 ~ 06时04分]"
         },
         {
+          "title": "WTI原油期货日内涨超1%，报106.2美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3097784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "SpaceX投资者137 Ventures持股超1%，价值突破100亿美元",
           "url": "https://wallstreetcn.com/livenews/3097662",
           "source": "华尔街见闻-快讯",
@@ -165,7 +177,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -286,7 +298,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -390,6 +402,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "现货黄金短线走高超10美元，现报4633.93美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260501101217592800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "苹果(AAPL.O)2026财年Q2 净利润295.78亿美元，去年同期247.8亿美元，市场预期282.98亿美元。",
           "url": "https://flash.jin10.com/detail/20260501043542691800",
           "source": "金十数据",
@@ -437,7 +460,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "假如AI能模拟去世亲人",
@@ -459,22 +482,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 12时10分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 12时10分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -500,6 +525,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 06时04分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -535,8 +582,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时04分 ~ 07时59分]"
+          "appearance_count": 4,
+          "time_info": "[06时04分 ~ 12时10分]"
         },
         {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
@@ -548,6 +595,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "人民日报：不能让AI生成内容误导公众",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
@@ -616,6 +674,28 @@
           "time_info": "02时18分"
         },
         {
+          "title": "AI 正在拿走初级程序员的「练级场」，新人还怎么熬成高手？",
+          "url": "https://www.zhihu.com/question/2032939979454859157",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "AI 对于制造业程序员的冲击大吗？",
+          "url": "https://www.zhihu.com/question/2024649839900726675",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "美防长斥责Anthropic首席执行官 为五角大楼使用AI辩护",
           "url": "https://flash.jin10.com/detail/20260501032025979800",
           "source": "金十数据",
@@ -630,7 +710,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "【每日收评】科创50指数涨超5%，芯片产业链集体爆发，寒武纪20CM涨停重夺“股王”宝座",
@@ -650,11 +730,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 07时59分]"
+          "appearance_count": 5,
+          "time_info": "[04时15分 ~ 12时10分]"
+        },
+        {
+          "title": "美国一季度GDP年化增长2%，PCE物价指数4.3%，通胀压力骤升",
+          "url": "https://wallstreetcn.com/articles/3771412",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "标普道琼斯指数公司：就超大市值公司的处理方式征求意见。",
@@ -688,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初上涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3097777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "德国DAX 30指数初步收涨1.27%，报24260.74点，4月份累计上涨大约7%。 法国股指初步收涨0.50%，意大利股指初步收涨0.90%、银行指数涨0.39%，英国股指初步收涨1.60%。",
@@ -734,15 +837,48 @@
           "time_info": "00时27分"
         },
         {
+          "title": "美伊冲突僵局未解，高通胀开始显现，美国3月PCE物价指数年率创近三年来新高；全球主要央行集体转向观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260501104311028800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "MSCI新兴市场股票指数在4月份累计上涨14.5%，创2022年以来最大单月涨幅。",
           "url": "https://wallstreetcn.com/livenews/3097742",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "日经225指数开盘上涨0.13%，报59363.64点。韩国股市今日因劳动节休市。",
+          "url": "https://wallstreetcn.com/livenews/3097770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "金十图示：2026年05月01日（周五）全球股市指数-亚太市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260501102855189800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "恐慌指数VIX跌至17.43，创最近约两周新低。",
@@ -792,7 +928,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "李想称「理想领先大众至少两代」，大众高管回应理想「仅价格和营销水平领先」，如何看待这两位高管的互怼？",
@@ -801,11 +937,12 @@
           "ranks": [
             4,
             5,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 12时10分]"
         },
         {
           "title": "阿根廷石油生产商达成协议，以减轻原油价格上涨的影响。",
@@ -841,6 +978,28 @@
           "time_info": "00时27分"
         },
         {
+          "title": "印度石油公司维持5月国内航线的航空燃油价格不变",
+          "url": "https://flash.jin10.com/detail/20260501112118744800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "美国银行：铝、锌价格前景强于此前预期",
+          "url": "https://flash.jin10.com/detail/20260501110659372800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
           "url": "https://wallstreetcn.com/livenews/3097626",
           "source": "华尔街见闻-快讯",
@@ -869,7 +1028,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -883,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "各大银行/品牌金条价格排行一览",
+          "url": "https://flash.jin10.com/detail/20260501104725952800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "欧洲央行官员表示：若能源价格不缓解，6月将加息",
@@ -932,7 +1102,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -951,11 +1121,12 @@
           "url": "https://www.cls.cn/detail/2361634",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 12时10分]"
         },
         {
           "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指0.89涨%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
@@ -999,9 +1170,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
@@ -1010,7 +1192,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -1021,7 +1203,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -1032,7 +1214,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -1073,30 +1255,19 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时59分]"
-        },
-        {
-          "title": "DeepSeek多模态模型来了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 12时10分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1105,6 +1276,18 @@
           "ranks": [
             11,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 12时10分]"
+        },
+        {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -1133,6 +1316,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
+          "url": "https://flash.jin10.com/detail/20260501103248247800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
@@ -1209,7 +1414,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }
@@ -1226,7 +1431,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }

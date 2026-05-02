@@ -1,648 +1,22 @@
 {
-  "generated_at": "2026-05-02T23:58:12.448800+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-05-03T01:02:14.719593+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 43,
-      "titles": [
-        {
-          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
-          "url": "https://www.cls.cn/detail/2361824",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时08分 ~ 23时58分]"
-        },
-        {
-          "title": "美国批准对以色列等4国超86亿美元军售",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%AD%894%E5%9B%BD%E8%B6%8586%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E5%94%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
-        },
-        {
-          "title": "据知情人士透露，Cerebras Systems考虑通过美国IPO融资至多40亿美元，已经获得超过100亿美元认购意向。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3098056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
-          "url": "https://wallstreetcn.com/livenews/3098174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时58分"
-        },
-        {
-          "title": "报道：WildFire Energy股东正寻求按逾40亿美元出售该美国页岩油运营商",
-          "url": "https://wallstreetcn.com/livenews/3098018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "高频交易巨头Jane Street去年支付员工94亿美元薪酬。",
-          "url": "https://flash.jin10.com/detail/20260502023213191800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国原油期货结算价为每桶101.94美元，下跌3.13美元，跌幅2.98%。",
-          "url": "https://flash.jin10.com/detail/20260502023138406800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "WTI 6月原油期货收跌3.13美元，跌幅2.98%，报101.94美元/桶。 布伦特7月原油期货收跌2.23美元，跌幅2.02%，报108.17美元/桶。 中东Abu Dhabi Murban原油期货跌3.70%，报104.02美元/桶，本周累涨3.90%。 NYMEX 6月天然气期货收报2.78美元/百万英热单位。 NYMEX 6月汽油期货收报3.5952美元/加仑，NYMEX 6月取暖油期货收报3.9496美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3098015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时54分 ~ 23时58分]"
-        },
-        {
-          "title": "LME期铜收涨10美元，报12996美元/吨。 LME期铝收涨48美元，报3522美元/吨。 LME期锌收跌16美元，报3344美元/吨。 LME期铅收跌6美元，报1949美元/吨。 LME期镍收跌103美元，报19365美元/吨。 LME期锡收涨209美元，报49423美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3097987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时24分]"
-        },
-        {
-          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 23时58分]"
-        },
-        {
-          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502080556644800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时35分 ~ 11时45分]"
-        },
-        {
-          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
-          "url": "https://wallstreetcn.com/livenews/3098085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时35分 ~ 14时17分]"
-        },
-        {
-          "title": "英国法院一审裁定三星向中兴支付3.92亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 21时40分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦现金储备激增至创纪录的3970亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 23时58分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦第一季度运营利润为113.5亿美元，同比增长18%。 第一季度净利润101.1亿美元，去年同期为46亿美元。 第一季度保险承保业务运营收入17.2亿美元，同比增长29% 第一季度保险投资业务运营收入26.8亿美元，同比下降7.4% 第一季度伯克希尔哈撒韦能源公司运营收入11.1亿美元，同比增长1.5% 第一季度投资净亏损为12.40亿美元，去年同期亏损为50.38亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 23时58分]"
-        },
-        {
-          "title": "美国汽油均价创近4年来新高，加州突破6美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33089658",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 18时06分]"
-        },
-        {
-          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
-          "url": "https://flash.jin10.com/detail/20260502095648869800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时17分]"
-        },
-        {
-          "title": "Hemab Therapeutics Holdings Inc.（COAG）美国IPO首日收涨24.13%，报34.00美元，这家获得诺和诺德投资的公司通过扩大IPO股票发行规模融资3.015亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时58分]"
-        },
-        {
-          "title": "伯克希尔连续第14个季度净卖出股票 现金储备升至3970亿美元",
-          "url": "https://flash.jin10.com/detail/20260502205209836800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时58分]"
-        },
-        {
-          "title": "美国上周银行存款降低至19.079万亿美元，之前一周19.099万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时58分]"
-        },
-        {
-          "title": "周五（5月1日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8310元，较周四纽约尾盘涨10点，日内整体交投于6.8360-6.8233元区间。",
-          "url": "https://wallstreetcn.com/livenews/3098064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时35分]"
-        },
-        {
-          "title": "土耳其统计局：土耳其四月进口额为339.1亿美元，出口额为254亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502164209049800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时54分]"
-        },
-        {
-          "title": "周五（5月1日）纽约尾盘，现货黄金跌0.04%，报4616.35美元/盎司，本周累计下跌2.02%，4月27-29日持续下挫，本周大部分时间交投于4600美元附近。 现货白银涨2.22%，报75.3804美元/盎司，本周累跌0.46%，呈现出宽底U形走势。 现货铂金涨0.11%，报1990.05美元/盎司，本周累跌1.31%，4月30日纽约尾盘曾跌至1876.62美元。 现货钯金跌0.41%，报1526.71美元/盎司，本周累涨3.68%，4月28-29日低位持稳，随后持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3098061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时35分]"
-        },
-        {
-          "title": "土耳其统计局：土耳其四月贸易逆差为85亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502164005528800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时54分]"
-        },
-        {
-          "title": "美国封锁给伊朗造成48亿美元代价。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3098060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时35分]"
-        },
-        {
-          "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
-          "url": "https://wallstreetcn.com/livenews/3098058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时35分]"
-        },
-        {
-          "title": "报道：AI芯片制造商Cerebras的IPO目标融资高达40亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时35分]"
-        },
-        {
-          "title": "美国总统特朗普被问及可能对伊朗发动袭击时，声称：“我为什么要告诉你？” WTI原油5分钟内上涨0.61美元/桶，报102.53美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3097978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "摩根大通策货币略师们建议，对美元空头平仓，称美元下跌的基本面已经消退，继续看跌日元。",
-          "url": "https://wallstreetcn.com/livenews/3098009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国政府：持有的英特尔(INTC.O)10%股份已获得了400亿美元的收益。",
-          "url": "https://flash.jin10.com/detail/20260502162631157800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "周五（5月1日），韩元兑美元最终涨0.41%，报1471.34韩元，本周累计上涨0.33%，整体呈现出V形反转行情，4月30日纽约中午曾跌至1488.86韩元。",
-          "url": "https://wallstreetcn.com/livenews/3098000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "伯克希尔哈撒韦现金储备激增至创纪录的3970亿美元",
-          "url": "https://flash.jin10.com/detail/20260502201440514800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "美国芝加哥商业交易所（CME）集团：4月30日，EBS平台受理的日元成交量达到858亿美元，创最近十年来新高。 通过CME旗下FX Link产品的日元成交量突破9.2万合约，创历史新高。 日元期权成交总额42亿美元。 4月30日，期货、期权、现货市场的日元成交量1407亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3097997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年3月31日，保险浮存金约为1,769亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502201034113800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "周五（5月1日），美联储隔夜逆回购协议（RRP）使用规模为6.07亿美元（交易对手5家），上个交易日报82.61亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3097996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美元指数本周跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3098026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "远洋货轮女大副月入1万美元",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%9C%E6%B4%8B%E8%B4%A7%E8%BD%AE%E5%A5%B3%E5%A4%A7%E5%89%AF%E6%9C%88%E5%85%A51%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "伯克希尔哈撒韦B(BRK.B.N)2026年Q1EPS 4.68美元，上年同期为2.13美元。",
-          "url": "https://flash.jin10.com/detail/20260502200654821800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "金价今年或跌回4000美元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%BB%8A%E5%B9%B4%E6%88%96%E8%B7%8C%E5%9B%9E4000%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q1EPS 7072美元，上年同期为3200美元。",
-          "url": "https://flash.jin10.com/detail/20260502200642515800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N)2026年第一季度投资净收益-12.4亿美元，而上年同期为-50.38亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502200520138800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N)一季度运营利润为113.46亿美元，同比增长18%。",
-          "url": "https://flash.jin10.com/detail/20260502200329171800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 12,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
           "url": "https://www.cls.cn/detail/2362027",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            5,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时17分 ~ 23时58分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            23,
-            18,
-            20,
-            21,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 18时06分]"
-        },
-        {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时17分 ~ 23时58分]"
-        },
-        {
-          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
-          "url": "https://www.zhihu.com/question/2029888609017422176",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时34分 ~ 16时26分]"
-        },
-        {
-          "title": "网警提醒：警惕AI伪造骗局",
-          "url": "https://www.toutiao.com/trending/7634928581718294547/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时17分 ~ 23时58分]"
-        },
-        {
-          "title": "五一假期收好这份AI伪造防范指南",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BDAI%E4%BC%AA%E9%80%A0%E9%98%B2%E8%8C%83%E6%8C%87%E5%8D%97",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时17分 ~ 23时58分]"
-        },
-        {
-          "title": "网警发布五一AI防骗指南",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时17分 ~ 23时58分]"
-        },
-        {
-          "title": "专访｜赵又廷：别让AI取代我就行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 23时58分]"
-        },
-        {
-          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
-          "url": "https://news.ifeng.com/c/8sn1WIx976g",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时34分 ~ 18时06分]"
-        },
-        {
-          "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
-          "url": "https://wallstreetcn.com/livenews/3098171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时58分 ~ 23时58分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -653,985 +27,312 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时58分"
+          "time_info": "01时02分"
         },
         {
-          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-          "url": "https://wallstreetcn.com/articles/3771463",
-          "source": "华尔街见闻",
+          "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
+          "url": "https://wallstreetcn.com/livenews/3098171",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            6,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 19时54分]"
-        },
-        {
-          "title": "网警发布五一AI防骗指南",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
-          "url": "https://flash.jin10.com/detail/20260502225511192800",
-          "source": "金十数据",
-          "ranks": [
-            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时58分"
+          "time_info": "01时02分"
         },
         {
-          "title": "中国交付南亚最强AIP潜艇意味着什么",
-          "url": "https://www.toutiao.com/trending/7635137774349192713/",
-          "source": "今日头条",
+          "title": "专访｜赵又廷：别让AI取代我就行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
+          "source": "澎湃新闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "ai情头",
-          "url": "https://s.weibo.com/weibo?q=ai%E6%83%85%E5%A4%B4&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "日本首相高市早苗在河内表示：将继续加强与越南在能源、关键矿产、AI、半导体以及航天领域的合作。 日本将协助为越南宜山炼油石化公司协调原油供应。",
-          "url": "https://wallstreetcn.com/livenews/3098114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 18时06分]"
-        },
-        {
-          "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 23时58分]"
-        },
-        {
-          "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3098052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 08时35分]"
-        },
-        {
-          "title": "日本首相高市早苗：旨在与越南及其他国家合作开展AI技术研发。 致力于推动印太地区的数字化基础设施建设。",
-          "url": "https://wallstreetcn.com/livenews/3098138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 21时40分]"
-        },
-        {
-          "title": "伯克希尔CEO格雷格·阿贝尔：我们不会为了做AI而做AI。",
-          "url": "https://flash.jin10.com/detail/20260502222754777800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 23时58分]"
-        },
-        {
-          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
-          "url": "https://www.zhihu.com/question/2033267772931749457",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 18时06分]"
-        },
-        {
-          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
-          "url": "https://wallstreetcn.com/articles/3771481",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 22时58分]"
-        },
-        {
-          "title": "时隔五年我用AI复活了父亲",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E6%88%91%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E4%BA%86%E7%88%B6%E4%BA%B2&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 18时06分]"
-        },
-        {
-          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
-          "url": "https://www.zhihu.com/question/2029888609017422176",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 06时58分]"
-        },
-        {
-          "title": "女子被AI误导闯入毒蛇窝",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时24分 ~ 05时03分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "航空公司Spirit Airlines预计将于美东时间周六03:00左右停止运营。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3098046",
-          "source": "华尔街见闻-快讯",
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
           "ranks": [
-            10,
-            28
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时58分]"
-        },
-        {
-          "title": "AI踩平量化门槛，普通人入局机会在哪？",
-          "url": "https://flash.jin10.com/detail/20260502120100922800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时26分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/Uq6lC4VFntqNQMXXh1scy.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260502120053425800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时26分]"
-        },
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://flash.jin10.com/detail/20260502085918272800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时17分]"
-        },
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://wallstreetcn.com/livenews/3098092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 14时17分]"
-        },
-        {
-          "title": "据日本经济产业省消息，日本太阳石油公司（Taiyo Oil）将接收一船来自俄罗斯“萨哈林2号”（Sakhalin-2）项目的原油。（日本每日新闻）",
-          "url": "https://wallstreetcn.com/livenews/3098116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时06分]"
-        },
-        {
-          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2033639221991319346",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时26分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "在 AI 时代，最重要的能力是什么？",
           "url": "https://www.zhihu.com/question/2026056884801520039",
           "source": "知乎",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时57分 ~ 23时58分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
           "url": "https://www.zhihu.com/question/2031784120653697717",
           "source": "知乎",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时57分 ~ 23时58分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://www.toutiao.com/trending/7634071718033837610/",
+          "title": "马斯克手撕OpenAI为哪般",
+          "url": "https://www.toutiao.com/trending/7635297039152057892/",
           "source": "今日头条",
           "ranks": [
-            22
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "用AI把我家猫养在了电脑上",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8AI%E6%8A%8A%E6%88%91%E5%AE%B6%E7%8C%AB%E5%85%BB%E5%9C%A8%E4%BA%86%E7%94%B5%E8%84%91%E4%B8%8A&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098169",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            30
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
-          "title": "AI手搓小黄人产生意识了",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%89%8B%E6%90%93%E5%B0%8F%E9%BB%84%E4%BA%BA%E4%BA%A7%E7%94%9F%E6%84%8F%E8%AF%86%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
+          "url": "https://flash.jin10.com/detail/20260502225511192800",
+          "source": "金十数据",
           "ranks": [
-            28
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
           "title": "不盲目跟风 伯克希尔谨慎推进AI策略并确立三大原则",
           "url": "https://flash.jin10.com/detail/20260502224136117800",
           "source": "金十数据",
           "ranks": [
-            9
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时58分"
+          "time_info": "01时02分"
         },
         {
-          "title": "赵又廷：别让AI取代我就行",
-          "url": "https://www.toutiao.com/trending/7635111678820761646/",
-          "source": "今日头条",
+          "title": "伯克希尔CEO格雷格·阿贝尔：我们不会为了做AI而做AI。",
+          "url": "https://flash.jin10.com/detail/20260502222754777800",
+          "source": "金十数据",
           "ranks": [
-            14
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "美国总统特朗普：如果一个好的交易对航空公司Spirit Airlines有利，将达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3097973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "甲骨文加入五角大楼AI项目，股价刷新日高",
-          "url": "https://wallstreetcn.com/livenews/3097953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 16,
+      "keyword_group": "美元",
+      "match_count": 8,
       "titles": [
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
+          "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
+          "url": "https://wallstreetcn.com/livenews/3098174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
           "source": "财联社热门",
           "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 14时17分]"
-        },
-        {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 11时45分]"
-        },
-        {
-          "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时24分 ~ 05时03分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
+          "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2033597739573965448",
+          "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040603336800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时03分 ~ 11时45分]"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040600017800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时03分 ~ 11时45分]"
-        },
-        {
-          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
-          "url": "https://www.cls.cn/detail/2362019",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时54分 ~ 23时58分]"
-        },
-        {
-          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
-          "url": "https://wallstreetcn.com/livenews/3098073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时58分 ~ 11时45分]"
-        },
-        {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时40分 ~ 23时58分]"
-        },
-        {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时35分 ~ 14时17分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时35分 ~ 14时17分]"
-        },
-        {
-          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
-          "url": "https://flash.jin10.com/detail/20260502040111732800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 08时35分]"
-        },
-        {
-          "title": "美股创新高之际，对冲基金资产规模创新高",
-          "url": "https://flash.jin10.com/detail/20260502121701582800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时26分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "美股行业ETF涨跌各异，能源业ETF跌超1.3%",
-          "url": "https://wallstreetcn.com/livenews/3098043",
-          "source": "华尔街见闻-快讯",
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260502003844289800",
-          "source": "金十数据",
+          "title": "三星被判向中兴支付3.92亿美元",
+          "url": "https://www.toutiao.com/trending/7634781832529690678/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "伯克希尔哈撒韦现金储备激增至创纪录的3970亿美元",
+          "url": "https://wallstreetcn.com/livenews/3098155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "伯克希尔哈撒韦第一季度运营利润为113.5亿美元，同比增长18%。 第一季度净利润101.1亿美元，去年同期为46亿美元。 第一季度保险承保业务运营收入17.2亿美元，同比增长29% 第一季度保险投资业务运营收入26.8亿美元，同比下降7.4% 第一季度伯克希尔哈撒韦能源公司运营收入11.1亿美元，同比增长1.5% 第一季度投资净亏损为12.40亿美元，去年同期亏损为50.38亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098154",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "比特币涨超2%，美股盘初曾逼近7.9万美元，狗狗币最近七天涨超10%",
-          "url": "https://wallstreetcn.com/livenews/3097992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
         {
           "title": "限量Labubu冰箱售罄下架 二手平台价格从开售前万元以上跌至七千多",
           "url": "https://www.cls.cn/detail/2361757",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时08分 ~ 23时58分]"
-        },
-        {
-          "title": "榴莲价格跳水 果商一天卖了9千斤",
-          "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4+%E6%9E%9C%E5%95%86%E4%B8%80%E5%A4%A9%E5%8D%96%E4%BA%869%E5%8D%83%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            6,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 08时35分]"
-        },
-        {
-          "title": "湃用场丨订好的机票价格“跳水”，消费者可以申请退差价吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33089503",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时34分 ~ 16时26分]"
-        },
-        {
-          "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
-          "url": "https://wallstreetcn.com/livenews/3098047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时58分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "巴克莱：上调2026年布伦特原油价格预期至100美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098050",
-          "source": "华尔街见闻-快讯",
+          "title": "伯克希尔谈霍尔木兹海峡保险：价格决定一切 美军护航是前提",
+          "url": "https://flash.jin10.com/detail/20260503002537676800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时03分"
+          "time_info": "01时02分"
         },
         {
           "title": "中东冲突致能源价格飙升 成压垮美国精神航空公司的“最后一根稻草”",
           "url": "https://flash.jin10.com/detail/20260502224303032800",
           "source": "金十数据",
           "ranks": [
-            8
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时58分"
-        },
-        {
-          "title": "媒体人谈世界杯版权价格",
-          "url": "https://www.toutiao.com/trending/7634710357303328831/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "潮汕五一酒店价格较春节回落明显",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B1%95%E4%BA%94%E4%B8%80%E9%85%92%E5%BA%97%E4%BB%B7%E6%A0%BC%E8%BE%83%E6%98%A5%E8%8A%82%E5%9B%9E%E8%90%BD%E6%98%8E%E6%98%BE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "雪佛龙需要“结构性”更高的石油价格来扩大股票回购规模。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3098028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "由于霍尔木兹海峡干扰持续，巴克莱上调2026年布伦特原油价格预期至100美元",
-          "url": "https://wallstreetcn.com/livenews/3098050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "金十图示：2026年05月01日（周五）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260502040952435800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时03分 ~ 11时45分]"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260502040605158800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时03分 ~ 11时45分]"
-        },
-        {
-          "title": "道琼斯指数5月1日（周五）收盘下跌152.87点，跌幅0.31%，报49499.27点；<br/>标普500指数5月1日（周五）收盘上涨21.11点，涨幅0.29%，报7230.12点；<br/>纳斯达克综合指数5月1日（周五）收盘上涨222.13点，涨幅0.89%，报25114.44点。",
-          "url": "https://flash.jin10.com/detail/20260502040352597800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 08时35分]"
-        },
-        {
-          "title": "本周，标普500指数上涨0.9%，道琼斯指数上涨0.5%，纳斯达克指数上涨1.1%。标普500指数和纳斯达克指数连续第六周上涨，为2024年10月以来最长连涨纪录。",
-          "url": "https://flash.jin10.com/detail/20260502040221113800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 08时35分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，股票基金经理将标普500指数CME净多头持仓减持21,368手，至999,182手。股票基金投机者将标普500指数CME净空头持仓减持5,811手，至396,442手。",
-          "url": "https://flash.jin10.com/detail/20260502033549440800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 08时35分]"
-        },
-        {
-          "title": "标普500指数的11个板块几乎全线溃败，能源板块收跌1.31%，工业、公用事业、保健、金融等板块至多跌0.93%，可选消费板块则收涨0.51%，信息技术/科技板块涨1.41%。",
-          "url": "https://wallstreetcn.com/livenews/3098041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.59%，报6887.43点，本周累计下跌0.94%，整体呈现出V形走势。 热门中概股里，蔚来跌7.1%，小鹏跌2.7%，理想跌1.4%，阿里跌0.2%，腾讯涨0.3%，网易涨0.3%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨0.60%，本周反弹3.73%； 德银嘉实沪深300指数ETF（ASHR）收涨0.23%，本周累涨1.46%； 中国科技指数ETF（CQQQ）收涨0.29%，本周反弹2.20%； 中概互联网指数ETF（KWEB）收涨0.03%，本周累跌0.17%——延续上周下挫5.32%的表现。",
-          "url": "https://wallstreetcn.com/livenews/3098037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "本周，标普500指数累涨超1%，道指累涨0.6%，纳指累涨超1%。 标普500指数初步收涨0.3%，能源板块跌1%，科技板块涨1.4%。 纳斯达克100指数初步收涨0.9%，成分股中，希捷科技初步收涨7.5%，SanDisk涨7.3%，Strategy涨7%，Zscaler、Datadog涨超6%，Insmed跌2.2%，ALNY跌4.1%，安进跌4.7%。 3M、麦当劳初步手得超2%，与安进领跌道指成分股，亚马逊、微软涨超1%，Merck涨2.8%，苹果涨3.2%，Salesforce涨4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3098035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收涨0.06%，报611.65点。 英国股指初步收跌0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3097956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "市场消息：因担忧人工智能加剧黑客攻击，美国网络安全官员正考虑缩短漏洞修复期限，提议将修复网络安全漏洞的截止时间从两周缩短至三天。",
-          "url": "https://flash.jin10.com/detail/20260502005903190800",
+          "title": "日本首相高市早苗：与越共中央总书记苏林以及总理黎明兴举行了会谈。双方确认，将以能源、关键矿产、人工智能、半导体以及太空等经济安全保障领域作为日越合作的新优先方向，共同推进相关合作。",
+          "url": "https://flash.jin10.com/detail/20260502223414841800",
           "source": "金十数据",
           "ranks": [
-            4
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "01时02分"
         },
         {
           "title": "伯克希尔CEO格雷格·阿贝尔：人工智能的应用将在所有业务领域创造机遇。",
           "url": "https://flash.jin10.com/detail/20260502222823586800",
           "source": "金十数据",
           "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 23时58分]"
-        },
-        {
-          "title": "日本首相高市早苗：将继续加强与越南在能源、关键矿产、人工智能、半导体和太空领域的合作。",
-          "url": "https://flash.jin10.com/detail/20260502133555635800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时26分]"
-        },
-        {
-          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
-          "url": "https://flash.jin10.com/detail/20260502172401507800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时54分]"
-        },
-        {
-          "title": "据The Information：Anthropic正在与英国初创公司Fractile就购买人工智能推理芯片进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260502220352594800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 23时58分]"
-        },
-        {
-          "title": "日本首相高市早苗：与越共中央总书记苏林以及总理黎明兴举行了会谈。双方确认，将以能源、关键矿产、人工智能、半导体以及太空等经济安全保障领域作为日越合作的新优先方向，共同推进相关合作。",
-          "url": "https://flash.jin10.com/detail/20260502223414841800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时58分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek破底价,友商瑟瑟发抖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
-          "source": "贴吧",
+          "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
+          "url": "https://www.zhihu.com/question/2032857350361626424",
+          "source": "知乎",
           "ranks": [
-            16,
-            17,
-            19,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 16时26分]"
-        },
-        {
-          "title": "DeepSeek拟人 哇呀啧呜哇",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 18时06分]"
-        },
-        {
-          "title": "Claude画的DeepSeek蓝胖鱼",
-          "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            25
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时17分 ~ 16时26分]"
-        },
-        {
-          "title": "DeepSeek 现在我是你爹了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%20%E7%8E%B0%E5%9C%A8%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 1,
       "titles": [
         {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
+          "url": "https://www.cls.cn/detail/2362019",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 11时45分]"
-        },
-        {
-          "title": "短端美债收益率本周累涨约10个基点",
-          "url": "https://wallstreetcn.com/livenews/3098066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时35分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N)2026年一季度末持有的固定收益证券投资公允价值达176.69亿美元（上年同期为178.16亿美元），其中，对美债、外国债券、企业债券的投资公允价值分别为38.8亿美元，123.91亿美元，11.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502200842876800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     },
@@ -1644,31 +345,11 @@
           "url": "https://wallstreetcn.com/articles/3771479",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 23时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ChatGPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克承认蒸馏ChatGPT",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 14时17分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }

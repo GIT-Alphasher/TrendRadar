@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T18:22:35.086872+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-05-04T20:24:35.906526+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
         {
           "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
@@ -54,7 +54,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -70,24 +70,13 @@
           "time_info": "12时02分"
         },
         {
-          "title": "Cerebras寻求通过IPO筹集最高35亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3098463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
           "url": "https://wallstreetcn.com/articles/3771519",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -98,7 +87,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -120,20 +109,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
-          "title": "现货白银回落至74美元/盎司下方，日内跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3098460",
+          "title": "黑石数字基础设施寻求通过IPO募资17.5亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098479",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "20时24分"
         },
         {
           "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
@@ -147,6 +136,18 @@
           "time_info": "15时51分"
         },
         {
+          "title": "Cerebras寻求通过IPO筹集最高35亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时24分]"
+        },
+        {
           "title": "WTI原油跌幅收窄至1.8%，最新报102美元/桶。",
           "url": "https://flash.jin10.com/detail/20260504062103802800",
           "source": "金十数据",
@@ -157,6 +158,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时58分]"
+        },
+        {
+          "title": "现货白银回落至74美元/盎司下方，日内跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3098460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时24分]"
         },
         {
           "title": "着眼经济转型，阿联酋石油巨头布局550亿美元项目",
@@ -198,6 +211,18 @@
           "time_info": "[06时55分 ~ 07时58分]"
         },
         {
+          "title": "摩根大通：将埃克森美孚目标价从170美元上调至173美元。",
+          "url": "https://wallstreetcn.com/livenews/3098454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时24分]"
+        },
+        {
           "title": "WTI原油周一低开2.7%，最新报101.02美元/桶。",
           "url": "https://flash.jin10.com/detail/20260504060152818800",
           "source": "金十数据",
@@ -216,7 +241,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -238,9 +263,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "Fervo Energy寻求通过IPO筹集最高13.3亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "持仓逼近200亿美元！“稳定币老大”Tether“放缓”囤金，一季度还是买了6吨",
@@ -260,18 +296,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "摩根大通：将埃克森美孚目标价从170美元上调至173美元。",
-          "url": "https://wallstreetcn.com/livenews/3098454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -293,7 +318,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -309,15 +334,37 @@
           "time_info": "15时51分"
         },
         {
+          "title": "现货黄金日内跌2.00%，现报4526.19美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "现货黄金日内跌幅达1.00%，现报4572.26美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260504175819301800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "现货钯金下跌4%至每盎司1,462.50美元。",
+          "url": "https://wallstreetcn.com/livenews/3098466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "挂单报告：国际现货黄金测试4590美元 国际现货白银留意下行押注",
@@ -331,6 +378,17 @@
           "time_info": "15时51分"
         },
         {
+          "title": "布伦特原油日内涨幅达5.0%，报113.59美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "Anthropic接近与黑石、高盛及其他公司达成15亿美元的组建合资企业的协议，Anthropic、黑石、Hellman & Friedman各投资约3亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3098367",
           "source": "华尔街见闻-快讯",
@@ -340,6 +398,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "英伟达竞争对手Cerebras计划通过美国IPO筹集35亿美元",
+          "url": "https://flash.jin10.com/detail/20260504191956869800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "地热能源开发商Fervo寻求在美国IPO募资13.3亿美元",
+          "url": "https://flash.jin10.com/detail/20260504191727828800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "黑石数字基础设施寻求通过IPO募资17.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260504191716775800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "亚行将为亚太地区两项新倡议提供700亿美元支持",
@@ -359,7 +450,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -370,7 +461,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -403,7 +494,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -422,7 +513,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "金十图示：2026年05月04日（周一）富时中国A50指数成分股午盘收盘行情一览：多数板块飘绿，半导体股强势走高。",
@@ -442,7 +533,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -453,7 +544,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -467,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "加拿大至5月1日全国经济信心指数 50，前值48.2。",
+          "url": "https://flash.jin10.com/detail/20260504200028773800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "MSCI亚太指数上涨2.1%至261.94点。",
@@ -511,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "金十图示：2026年05月04日（周一）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20260504195122734800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "台湾证交所加权股价指数涨幅扩大至4.5%，至40,691.51点的历史新高。",
@@ -596,7 +709,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -629,7 +742,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -692,7 +805,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -702,19 +815,6 @@
             5,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时58分]"
-        },
-        {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -731,8 +831,34 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 20时24分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时58分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 20时24分]"
         },
         {
           "title": "和AI玩猜历史人物游戏",
@@ -750,17 +876,15 @@
           "time_info": "[01时02分 ~ 15时51分]"
         },
         {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
           "source": "贴吧",
           "ranks": [
-            2,
-            1,
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时02分 ~ 18时22分]"
+          "time_info": "[15时51分 ~ 20时24分]"
         },
         {
           "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
@@ -801,17 +925,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时12分 ~ 12时02分]"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 18时22分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -882,8 +995,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时55分 ~ 20时24分]"
+        },
+        {
+          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
+          "url": "https://www.zhihu.com/question/2032522089656230991",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时55分 ~ 18时22分]"
+          "time_info": "[12时02分 ~ 20时24分]"
         },
         {
           "title": "央视披露公司用AI替岗35岁主管详情",
@@ -900,16 +1026,38 @@
           "time_info": "[03时12分 ~ 06时55分]"
         },
         {
-          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
-          "url": "https://www.zhihu.com/question/2032522089656230991",
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
           "source": "知乎",
           "ranks": [
-            12,
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 18时22分]"
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时24分]"
+        },
+        {
+          "title": "“房东”骗完租客转头问AI会被抓吗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%BF%E4%B8%9C%E2%80%9D%E9%AA%97%E5%AE%8C%E7%A7%9F%E5%AE%A2%E8%BD%AC%E5%A4%B4%E9%97%AEAI%E4%BC%9A%E8%A2%AB%E6%8A%93%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时24分]"
+        },
+        {
+          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
+          "url": "https://wallstreetcn.com/articles/3771537",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "内存对AI CPU至关重要？韩媒：DRAM短缺将再持续一年",
@@ -934,17 +1082,6 @@
           "time_info": "12时02分"
         },
         {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "为什么说，AI 不会先取代老板，反而会先挤压年轻人的岗位？",
           "url": "https://www.zhihu.com/question/2029519335538848859",
           "source": "知乎",
@@ -965,24 +1102,25 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "“房东”骗完租客转头问AI会被抓吗",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%BF%E4%B8%9C%E2%80%9D%E9%AA%97%E5%AE%8C%E7%A7%9F%E5%AE%A2%E8%BD%AC%E5%A4%B4%E9%97%AEAI%E4%BC%9A%E8%A2%AB%E6%8A%93%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "网传央视拒绝世界杯转播权报价，爱优腾是否有可能直接向 FIFA 谈价格并买下转播权？",
+          "url": "https://www.zhihu.com/question/2034233492381382080",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时24分]"
+        },
         {
           "title": "机票价格跳水 部分航线是之前的零头",
           "url": "https://www.toutiao.com/trending/7635639850271542830/",
@@ -996,17 +1134,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时58分]"
-        },
-        {
-          "title": "网传央视拒绝世界杯转播权报价，爱优腾是否有可能直接向 FIFA 谈价格并买下转播权？",
-          "url": "https://www.zhihu.com/question/2034233492381382080",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "据华尔街日报：游戏驿站(GME.N)提出以每股125美元或约合560亿美元的价格收购eBay(EBAY.O)。",
@@ -1029,8 +1156,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 20时24分]"
         },
         {
           "title": "博主吐槽西安羊肉泡馍价格高昂为何引起评论区九万多人吵成一团？",
@@ -1038,11 +1165,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 20时24分]"
         },
         {
           "title": "央视拒绝世界杯转播权报价，爱优腾是否有可能直接向 FIFA 谈价格并买下转播权？",
@@ -1056,13 +1184,24 @@
           "time_info": "15时51分"
         },
         {
+          "title": "根据GasBuddy的数据，美国汽油价格中位数从一周前的每加仑3.89美元飙升至今天的4.29美元。价格最高的10%加油站平均价格为每加仑5.77美元，而价格最低的10%加油站平均价格为每加仑3.70美元，两者相差超过每加仑2美元。",
+          "url": "https://flash.jin10.com/detail/20260504195821091800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "土耳其财政部长：将继续实施确保持久价格稳定的政策。",
           "url": "https://flash.jin10.com/detail/20260504175201736800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1073,7 +1212,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1095,7 +1234,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -1103,7 +1242,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
@@ -1120,15 +1259,38 @@
           "time_info": "[04时56分 ~ 15时51分]"
         },
         {
-          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
-          "url": "https://wallstreetcn.com/livenews/3098462",
-          "source": "华尔街见闻-快讯",
+          "title": "战争重燃预期升温，美股期货短线跳水，SK海力士市值突破1000万亿韩元，布油大涨5%，黄金跌逾1%",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
+          "url": "https://wallstreetcn.com/livenews/3098462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时24分]"
         },
         {
           "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
@@ -1154,59 +1316,32 @@
           "time_info": "12时02分"
         },
         {
+          "title": "美股期货跌幅收窄，此前有报道称美国否认军舰遭袭。",
+          "url": "https://wallstreetcn.com/livenews/3098470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3098437",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            27,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 18时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 18时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
@@ -1222,6 +1357,85 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时58分]"
+        },
+        {
+          "title": "Alphabet与美国官员周四会谈中讨论了人工智能“产能”。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3098482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)在上周四的会议中与政府官员会面，以解决华盛顿日益关注的问题，即人工智能计算能力不足。",
+          "url": "https://flash.jin10.com/detail/20260504200126618800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            27,
+            14,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 20时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 20时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大模型免费时代结束？豆包官宣新增付费订阅，主打生产力场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096657",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     }

@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-05T05:16:22.126126+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-05T07:03:18.506810+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "纽约期金跌2.5%，一度逼近4500美元",
-          "url": "https://wallstreetcn.com/livenews/3098646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
         {
           "title": "周一（5月4日）纽约尾盘，ICE美元指数涨0.25%，报98.401点，日内交投区间为97.970-98.536点。 彭博美元指数涨0.14%，报1195.00点，日内交投区间为1190.48-1196.80点。",
           "url": "https://wallstreetcn.com/livenews/3098611",
@@ -28,6 +17,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "纽约期金跌2.5%，一度逼近4500美元",
+          "url": "https://wallstreetcn.com/livenews/3098646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
+        },
+        {
+          "title": "莱迪斯半导体一季度营收1.709亿美元，分析师预期1.649亿美元。 预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
+        },
+        {
+          "title": "马斯克将支付150万美元，来了结美国SEC针对推特的案件",
+          "url": "https://wallstreetcn.com/livenews/3098637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
         },
         {
           "title": "周一（5月4日），美联储隔夜逆回购协议（RRP）使用规模为6.18亿美元（交易对手11家）。",
@@ -52,6 +77,17 @@
           "time_info": "03时52分"
         },
         {
+          "title": "WTI原油期货跌1.3%，报105.11美元，市场评估霍尔木兹海峡通行对供应面的影响。",
+          "url": "https://wallstreetcn.com/livenews/3098661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "周一（5月4日）纽约尾盘，彭博谷物分类指数涨1.04%，报32.9312点。 CBOT玉米期货涨1.09%，CBOT小麦期货涨0.55%。 CBOT大豆期货涨1.58%，报12.2225美元/蒲式耳，豆粕期货涨0.47%，豆油期货涨1.90%。 CBOT瘦肉猪期货跌1.41%，活牛期货跌0.42%，饲牛期货跌1.40%。",
           "url": "https://wallstreetcn.com/livenews/3098609",
           "source": "华尔街见闻-快讯",
@@ -63,15 +99,15 @@
           "time_info": "03时52分"
         },
         {
-          "title": "莱迪斯半导体一季度营收1.709亿美元，分析师预期1.649亿美元。 预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098640",
+          "title": "亚太盘初，美国三大股指期货涨约0.1%。 WTI原油期货涨0.20%，暂报105.29美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098660",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "07时03分"
         },
         {
           "title": "美国财政部：将季度借款预期提高至1890亿美元，之前在2月份预计为1090亿美元。 维持6月末现金余额预期在9000亿美元不变。",
@@ -94,17 +130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "马斯克将支付150万美元，来了结美国SEC针对推特的案件",
-          "url": "https://wallstreetcn.com/livenews/3098637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
         },
         {
           "title": "特朗普在社交媒体上发布了一张其政府于2025年8月买入英特尔(INTC.O)后截至目前的收益曲线图，并配文称：“我在过去8个月让美国赚了450亿美元！”",
@@ -135,7 +160,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -168,7 +193,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -212,7 +237,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -245,7 +270,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -256,7 +281,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -267,7 +292,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -297,8 +322,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -309,8 +334,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -320,8 +345,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
+        },
+        {
+          "title": "马上评｜AI替岗，还是“科技向善”吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         },
         {
           "title": "Boehly：还没有发现AI造成软件之外的行业“疲软”。",
@@ -336,41 +397,6 @@
           "time_info": "[03时52分 ~ 05时16分]"
         },
         {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
-        },
-        {
-          "title": "马上评｜AI替岗，还是“科技向善”吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
-        },
-        {
           "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
           "url": "https://wallstreetcn.com/articles/3771542",
           "source": "华尔街见闻",
@@ -378,8 +404,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时51分 ~ 07时03分]"
         },
         {
           "title": "被AI抢走工作的人在忙什么",
@@ -429,8 +455,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         },
         {
           "title": "世界杯球票价格有多离谱",
@@ -438,11 +464,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         },
         {
           "title": "网传央视拒绝世界杯转播权报价，爱优腾是否有可能直接向 FIFA 谈价格并买下转播权？",
@@ -453,8 +480,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         },
         {
           "title": "加拿大央行行长麦克勒姆：如果能源价格保持高位，我们不会让其影响固化。",
@@ -474,11 +501,12 @@
           "ranks": [
             9,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         },
         {
           "title": "怎样看待豆包将要上线的付费服务，你认为什么价格比较合适？",
@@ -499,7 +527,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -510,7 +538,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -521,7 +549,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -536,55 +564,60 @@
           "url": "https://wallstreetcn.com/articles/3771543",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
           "url": "https://wallstreetcn.com/livenews/3098642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
         },
         {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
           "url": "https://wallstreetcn.com/livenews/3098641",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
           "url": "https://wallstreetcn.com/livenews/3098638",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
         },
         {
           "title": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。 一季度月活用户数6.31亿，分析师预期6.3047亿。 预计二季度营收11.3亿-11.5亿美元，分析师预期11.2亿美元。 Pinterest美股盘后涨15%。",
           "url": "https://wallstreetcn.com/livenews/3098635",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
         },
         {
           "title": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元。 一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元。 一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。 预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72.0亿美元。 Palantir美股盘后涨2%。",
@@ -593,7 +626,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -621,7 +654,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -643,7 +676,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -680,11 +713,12 @@
           "url": "https://flash.jin10.com/detail/20260505050207582800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
         },
         {
           "title": "美国白宫考虑在发布人工智能模型前对其进行审查。 白宫上周与多家科技公司讨论了若干AI计划。（纽约时报）",
@@ -722,8 +756,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         },
         {
           "title": "2/10年期美债收益率涨约7个基点",
@@ -732,7 +766,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -765,11 +799,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33096657",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时03分]"
         }
       ]
     }

@@ -1,106 +1,23 @@
 {
-  "generated_at": "2026-05-05T01:48:56.052794+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-05T03:52:02.644835+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
-          "url": "https://wallstreetcn.com/articles/3771537",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "马上评｜AI替岗，还是“科技向善”吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "被AI抢走工作的人在忙什么",
-          "url": "https://www.toutiao.com/trending/7636039859584372251/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "周一（5月4日）纽约尾盘，ICE美元指数涨0.25%，报98.401点，日内交投区间为97.970-98.536点。 彭博美元指数涨0.14%，报1195.00点，日内交投区间为1190.48-1196.80点。",
+          "url": "https://wallstreetcn.com/livenews/3098611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
         {
           "title": "周一（5月4日），美联储隔夜逆回购协议（RRP）使用规模为6.18亿美元（交易对手11家）。",
           "url": "https://wallstreetcn.com/livenews/3098570",
@@ -111,6 +28,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "据伊朗国家电视台援引军方官员消息称，伊朗此前没有针对阿联酋富查伊拉石油设施的预谋攻击计划。WTI原油5分钟内下跌0.79美元/桶，报105.02美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "周一（5月4日）纽约尾盘，彭博谷物分类指数涨1.04%，报32.9312点。 CBOT玉米期货涨1.09%，CBOT小麦期货涨0.55%。 CBOT大豆期货涨1.58%，报12.2225美元/蒲式耳，豆粕期货涨0.47%，豆油期货涨1.90%。 CBOT瘦肉猪期货跌1.41%，活牛期货跌0.42%，饲牛期货跌1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3098609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "美国财政部：将季度借款预期提高至1890亿美元，之前在2月份预计为1090亿美元。 维持6月末现金余额预期在9000亿美元不变。",
+          "url": "https://wallstreetcn.com/livenews/3098608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
@@ -124,6 +74,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "特朗普在社交媒体上发布了一张其政府于2025年8月买入英特尔(INTC.O)后截至目前的收益曲线图，并配文称：“我在过去8个月让美国赚了450亿美元！”",
+          "url": "https://flash.jin10.com/detail/20260505031046499800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
           "title": "阿联酋外交部声明称，阿联酋保留对伊朗袭击做出回应的“全部及合法权利”。 伊朗的袭击标志着局势严重升级，并对该国的安全构成直接威胁。 WTI原油5分钟内上涨0.51美元/桶，报105.53美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3098563",
           "source": "华尔街见闻-快讯",
@@ -133,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美国财政部：第一季度已借款5,770亿美元，季度末现金余额为8,930亿美元。将在第二季度借款1,890亿美元，预计6月底现金余额为9,000亿美元。将在第三季度借款6,710亿美元，预计9月底现金余额为9,500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260505030512479800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
         },
         {
           "title": "阿曼北部一栋居民楼遭袭，导致两名外籍人士受中度伤。 WTI原油跌破105美元/桶关口，报104.93美元/桶。",
@@ -155,6 +127,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "WTI 6月原油期货收涨4.48美元，涨幅4.39%，报106.42美元/桶。 布伦特7月原油期货收涨6.27美元，涨幅5.80%，报114.44美元/桶。 中东Abu Dhabi Murban原油期货涨2.64%，报106.50美元/桶。 NYMEX 6月天然气期货收报2.8670美元/百万英热单位。 NYMEX 6月汽油期货收报3.7382美元/加仑，NYMEX 6月取暖油期货收报4.0732美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3098595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线一度下挫近50点后回升，现报157.19。",
+          "url": "https://flash.jin10.com/detail/20260505030243209800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
+          "url": "https://wallstreetcn.com/livenews/3098593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的6.18亿美元。",
@@ -181,8 +186,138 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "Boehly：还没有发现AI造成软件之外的行业“疲软”。",
+          "url": "https://wallstreetcn.com/livenews/3098613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
+          "url": "https://wallstreetcn.com/articles/3771537",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
+        },
+        {
+          "title": "马上评｜AI替岗，还是“科技向善”吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
+        },
+        {
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 03时52分]"
+        },
+        {
+          "title": "美媒：特朗普政府考虑对新AI模型引入政府监管",
+          "url": "https://flash.jin10.com/detail/20260505031822902800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "被AI抢走工作的人在忙什么",
+          "url": "https://www.toutiao.com/trending/7636039859584372251/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "缅甸男子被华为折叠手机价格震惊",
@@ -192,8 +327,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
         },
         {
           "title": "网传央视拒绝世界杯转播权报价，爱优腾是否有可能直接向 FIFA 谈价格并买下转播权？",
@@ -203,8 +338,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
         },
         {
           "title": "世界杯球票价格有多离谱",
@@ -214,36 +349,49 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：如果能源价格保持高位，我们不会让其影响固化。",
+          "url": "https://flash.jin10.com/detail/20260505033438133800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时52分"
         },
         {
           "title": "博主吐槽西安羊肉泡馍价格高昂为何引起评论区九万多人吵成一团？",
           "url": "https://www.zhihu.com/question/2034010540041826518",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
         },
         {
           "title": "怎样看待豆包将要上线的付费服务，你认为什么价格比较合适？",
           "url": "https://www.zhihu.com/question/2034680435993736345",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "标普500指数跌幅收窄至0.35%。 美国总统特朗普声称，美军海格塞斯和Caine将于周二早间举行新闻发布会。 伊朗曾就船只通行问题，对与冲突无关的国家发动过一些打击，包括一艘韩国货船。也许是时候让韩国加入这个行动了。",
@@ -255,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.47%，报25885点。 恒生科技指数主连夜盘收跌0.26%，报4972点。",
+          "url": "https://wallstreetcn.com/livenews/3098600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
         },
         {
           "title": "新兴市场外汇指数转跌，巴西雷亚尔、南非兰特、哥伦比亚比索刷新日低。",
@@ -281,6 +440,34 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国白宫考虑在发布人工智能模型前对其进行审查。 白宫上周与多家科技公司讨论了若干AI计划。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3098603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "据纽约时报：美国白宫考虑在发布人工智能模型前对其进行审查。",
+          "url": "https://flash.jin10.com/detail/20260505030423682800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -289,11 +476,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
         }
       ]
     },
@@ -309,8 +497,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
         }
       ]
     },
@@ -326,8 +514,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
         }
       ]
     },
@@ -343,8 +531,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时52分]"
         }
       ]
     }

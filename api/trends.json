@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T18:47:06.319145+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-05-08T20:16:10.006061+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -13,11 +13,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时47分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时16分]"
+        },
+        {
+          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
+          "url": "https://www.cls.cn/detail/2365829",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时16分]"
         },
         {
           "title": "WTI 6月原油期货收跌0.27美元，跌幅0.28%，报94.81美元/桶。",
@@ -64,16 +77,16 @@
           "time_info": "02时57分"
         },
         {
-          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
-          "url": "https://www.cls.cn/detail/2365829",
-          "source": "财联社热门",
+          "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            6
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时47分]"
+          "time_info": "[18时46分 ~ 20时16分]"
         },
         {
           "title": "世界杯中国赞助商已投入超5亿美元",
@@ -89,17 +102,6 @@
           "time_info": "[01时01分 ~ 06时11分]"
         },
         {
-          "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
-        },
-        {
           "title": "中国投资者被假皇室骗1800万美元",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E8%A2%AB%E5%81%87%E7%9A%87%E5%AE%A4%E9%AA%971800%E4%B8%87%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -109,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 14时58分]"
+        },
+        {
+          "title": "中国赞助商投入超 5 亿美元赞助美加墨世界杯，若世界杯不在中国转播，会造成哪些影响？谁该为此买单？",
+          "url": "https://www.zhihu.com/question/2035688647794635303",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 20时16分]"
         },
         {
           "title": "WTI原油5分钟内下跌0.52美元/桶，报94.93美元/桶；布伦特原油5分钟内下跌0.57美元/桶，报100.6美元/桶。 据半岛电视台，美国官员表示，关于准备重启“自由行动”的报道不属实。",
@@ -205,7 +218,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -359,7 +372,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -373,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "晶科能源：拟出售晶科美国工厂75.1%股权，交易对价为1.92亿美元",
+          "url": "https://wallstreetcn.com/livenews/3100662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "70亿美元！伊朗战争内幕交易远比想象中更严重",
@@ -455,7 +479,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "财联社C50风向指数调查：4月新增信贷或同比少增，企业债补位或支撑新增社融同比多增",
@@ -467,8 +491,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时58分 ~ 18时47分]"
+          "appearance_count": 7,
+          "time_info": "[14时58分 ~ 20时16分]"
         },
         {
           "title": "周四，大多数拉丁美洲股市出现回落，投资者正在评估美伊冲突走向解决的进展，这一进展已导致油价暴跌。 MSCI拉丁美洲货币追踪指数在本周早些时候创下历史新高后持平，而股市指数在连续两个交易日上涨后下跌1.54%。",
@@ -544,8 +568,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 20时16分]"
         },
         {
           "title": "德国DAX指数日内跌幅达1.00%。",
@@ -708,7 +732,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -733,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "墨西哥四月消费者信心指数为44.427。",
+          "url": "https://flash.jin10.com/detail/20260508200013392800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "澳大利亚S&P/ASX200指数5月8日（周五）收盘下跌131.30点，跌幅1.48%，报8746.80点。",
@@ -804,7 +839,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -831,8 +866,32 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时20分 ~ 20时16分]"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时20分 ~ 18时47分]"
+          "time_info": "[16时27分 ~ 20时16分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时16分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -873,18 +932,6 @@
           "time_info": "[12时20分 ~ 16时28分]"
         },
         {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时47分]"
-        },
-        {
           "title": "传奇投资者：AI牛市“还能再持续一两年”",
           "url": "https://wallstreetcn.com/livenews/3100154",
           "source": "华尔街见闻-快讯",
@@ -897,15 +944,27 @@
           "time_info": "[02时57分 ~ 04时22分]"
         },
         {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时47分]"
+          "time_info": "[18时46分 ~ 20时16分]"
+        },
+        {
+          "title": "解散xAI ，马斯克和Anthropic都赢麻了",
+          "url": "https://wallstreetcn.com/articles/3771763",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 20时16分]"
         },
         {
           "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
@@ -917,17 +976,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
-          "url": "https://www.cls.cn/detail/2365785",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
         },
         {
           "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
@@ -1088,7 +1136,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "市监局称4只皮皮虾1035元价格合规",
@@ -1113,11 +1161,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时47分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时16分]"
         },
         {
           "title": "现货价格",
@@ -1208,6 +1257,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "智利四月份消费者价格上涨1.3%，市场预期为上涨1.47%。",
+          "url": "https://flash.jin10.com/detail/20260508200030265800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报192250元/吨，较上日16:30价格上涨1500元/吨。",
           "url": "https://wallstreetcn.com/livenews/3100353",
           "source": "华尔街见闻-快讯",
@@ -1239,12 +1299,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "全球食品价格升至逾三年新高 伊朗冲突传导效应逐渐显现",
+          "url": "https://wallstreetcn.com/livenews/3100659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -1286,7 +1357,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -1297,7 +1368,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -1313,13 +1384,24 @@
           "time_info": "01时02分"
         },
         {
+          "title": "工业和信息化部：加快形成人工智能终端产品目录 拓展人工智能应用广度深度",
+          "url": "https://wallstreetcn.com/livenews/3100682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "三部门：完善政策法规和伦理规范，做好与人工智能伦理审查等制度衔接",
           "url": "https://flash.jin10.com/detail/20260508180740568800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -1393,8 +1475,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时03分 ~ 18时47分]"
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 20时16分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -1514,7 +1596,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -1545,9 +1627,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
+        },
+        {
+          "title": "DeepSeek计划募资最多500亿元人民币，计划于6月推出V4模型的更新。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3100687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "DeepSeek-TUI是如何火起来的",
@@ -1573,7 +1666,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },

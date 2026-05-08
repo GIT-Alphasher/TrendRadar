@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-08T16:28:01.068494+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-05-08T18:47:06.319145+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时47分]"
+        },
         {
           "title": "WTI 6月原油期货收跌0.27美元，跌幅0.28%，报94.81美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3100158",
@@ -52,6 +64,18 @@
           "time_info": "02时57分"
         },
         {
+          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
+          "url": "https://www.cls.cn/detail/2365829",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时47分]"
+        },
+        {
           "title": "世界杯中国赞助商已投入超5亿美元",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B7%B2%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -65,26 +89,15 @@
           "time_info": "[01时01分 ~ 06时11分]"
         },
         {
-          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
-          "url": "https://www.cls.cn/detail/2365829",
-          "source": "财联社热门",
+          "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "time_info": "[18时46分 ~ 18时47分]"
         },
         {
           "title": "中国投资者被假皇室骗1800万美元",
@@ -186,6 +199,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "国际油价短线拉升，布伦特原油突破100美元/桶，报100.1美元/桶；WTI原油突破95美元/桶，报95.09美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3100604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "布伦特原油期货盘后涨超2美元/桶，报道称美军袭击伊朗。",
           "url": "https://wallstreetcn.com/livenews/3100212",
           "source": "华尔街见闻-快讯",
@@ -236,7 +260,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -329,6 +353,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "WTI原油日内跌幅达1.0%，跌破94美元/桶，报93.86美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3100585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8068元，较周三夜盘收盘涨65点。成交量565.98亿美元。",
           "url": "https://wallstreetcn.com/livenews/3100159",
           "source": "华尔街见闻-快讯",
@@ -412,7 +447,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -420,8 +455,21 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "财联社C50风向指数调查：4月新增信贷或同比少增，企业债补位或支撑新增社融同比多增",
+          "url": "https://www.cls.cn/detail/2365818",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时58分 ~ 18时47分]"
+        },
         {
           "title": "周四，大多数拉丁美洲股市出现回落，投资者正在评估美伊冲突走向解决的进展，这一进展已导致油价暴跌。 MSCI拉丁美洲货币追踪指数在本周早些时候创下历史新高后持平，而股市指数在连续两个交易日上涨后下跌1.54%。",
           "url": "https://wallstreetcn.com/livenews/3100188",
@@ -467,25 +515,13 @@
           "time_info": "14时58分"
         },
         {
-          "title": "财联社C50风向指数调查：4月新增信贷或同比少增，企业债补位或支撑新增社融同比多增",
-          "url": "https://www.cls.cn/detail/2365818",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时58分 ~ 16时28分]"
-        },
-        {
           "title": "香港恒生指数5月8日（周五）收盘下跌232.57点，跌幅0.87%，报26393.71点；<br/>香港恒生科技指数5月8日（周五）收盘下跌18.31点，跌幅0.36%，报5102.79点；<br/>国企指数5月8日（周五）收盘下跌30.41点，跌幅0.34%，报8889.07点；<br/>红筹指数5月8日（周五）收盘上涨26.43点，涨幅0.59%，报4543.17点。",
           "url": "https://flash.jin10.com/detail/20260508161228347800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -501,13 +537,24 @@
           "time_info": "04时22分"
         },
         {
+          "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
+          "url": "https://www.cls.cn/detail/2366145",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
+        },
+        {
           "title": "德国DAX指数日内跌幅达1.00%。",
           "url": "https://flash.jin10.com/detail/20260508161140951800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -573,7 +620,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -653,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20260508180240461800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "迈过2021年高点，偏股混合型基金指数创历史新高",
@@ -746,7 +804,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -759,8 +817,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时57分 ~ 16时28分]"
+          "appearance_count": 11,
+          "time_info": "[02时57分 ~ 18时47分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 18时47分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -801,6 +873,18 @@
           "time_info": "[12时20分 ~ 16时28分]"
         },
         {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时47分]"
+        },
+        {
           "title": "传奇投资者：AI牛市“还能再持续一两年”",
           "url": "https://wallstreetcn.com/livenews/3100154",
           "source": "华尔街见闻-快讯",
@@ -813,17 +897,15 @@
           "time_info": "[02时57分 ~ 04时22分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            13,
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时20分 ~ 16时28分]"
+          "time_info": "[16时27分 ~ 18时47分]"
         },
         {
           "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
@@ -837,26 +919,15 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "time_info": "[18时46分 ~ 18时47分]"
         },
         {
           "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
@@ -965,7 +1036,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -976,7 +1047,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1037,6 +1108,18 @@
           "time_info": "[01时01分 ~ 16时28分]"
         },
         {
+          "title": "中国香港以约 1.7 亿元人民币拿下世界杯转播权，这个价格如何？如何理解 FIFA 的差别化定价策略？",
+          "url": "https://www.zhihu.com/question/2036031105539601030",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时47分]"
+        },
+        {
           "title": "现货价格",
           "url": "https://flash.jin10.com/detail/20260508073252369800",
           "source": "金十数据",
@@ -1057,17 +1140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
-        },
-        {
-          "title": "中国香港以约 1.7 亿元人民币拿下世界杯转播权，这个价格如何？如何理解 FIFA 的差别化定价策略？",
-          "url": "https://www.zhihu.com/question/2036031105539601030",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "伊朗战争导致能源价格飙升，德国3月工业产出大幅下滑",
@@ -1153,7 +1225,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1171,9 +1243,159 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "“人工智能+”走向智能经济新形态",
+          "url": "https://www.toutiao.com/trending/7636674300020015155/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 14时58分]"
+        },
+        {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时22分]"
+        },
+        {
+          "title": "法拉第未来：FF AI-Robotics与波士顿国际商学院（BIBS）达成战略合作，共同成立BIBS–FF AI Robotics Institute，这是美国首个由产业驱动的实体人工智能与机器人研究所。",
+          "url": "https://flash.jin10.com/detail/20260508121027450800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "三部门：引导国内人工智能开源社区加强智能体布局，开展智能体与开源芯片、开源操作系统、开源大模型兼容适配",
+          "url": "https://flash.jin10.com/detail/20260508181508907800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "三部门：完善政策法规和伦理规范，做好与人工智能伦理审查等制度衔接",
+          "url": "https://wallstreetcn.com/livenews/3100617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "德国财政部长克林拜尔：希望（德国与加拿大）在供应链韧性、关键原材料、国防和人工智能领域开展更紧密的合作。",
+          "url": "https://flash.jin10.com/detail/20260508003148611800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "三部门：完善政策法规和伦理规范，做好与人工智能伦理审查等制度衔接",
+          "url": "https://flash.jin10.com/detail/20260508180740568800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-08）",
+          "url": "https://flash.jin10.com/detail/20260508114512303800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "四川修订省促进人工智能产业链发展若干政策，扩容“算力券”、启动“词元（Token）券”",
+          "url": "https://wallstreetcn.com/livenews/3100515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "外交部回应3家中国企业入选美国《时代》周刊 “最具影响力人工智能公司”榜单",
+          "url": "https://wallstreetcn.com/livenews/3100510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3100130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3100197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时03分 ~ 18时47分]"
+        },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
           "url": "https://wallstreetcn.com/articles/3771614",
@@ -1195,17 +1417,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 06时11分]"
-        },
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时03分 ~ 16时28分]"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -1302,114 +1513,42 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 9,
+      "keyword_group": "DeepSeek",
+      "match_count": 4,
       "titles": [
         {
-          "title": "“人工智能+”走向智能经济新形态",
-          "url": "https://www.toutiao.com/trending/7636674300020015155/",
-          "source": "今日头条",
+          "title": "DeepSeek崩了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 14时58分]"
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         },
         {
-          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
-          "url": "https://www.cls.cn/detail/2364810",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时22分]"
-        },
-        {
-          "title": "法拉第未来：FF AI-Robotics与波士顿国际商学院（BIBS）达成战略合作，共同成立BIBS–FF AI Robotics Institute，这是美国首个由产业驱动的实体人工智能与机器人研究所。",
-          "url": "https://flash.jin10.com/detail/20260508121027450800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "德国财政部长克林拜尔：希望（德国与加拿大）在供应链韧性、关键原材料、国防和人工智能领域开展更紧密的合作。",
-          "url": "https://flash.jin10.com/detail/20260508003148611800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-05-08）",
-          "url": "https://flash.jin10.com/detail/20260508114512303800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "四川修订省促进人工智能产业链发展若干政策，扩容“算力券”、启动“词元（Token）券”",
-          "url": "https://wallstreetcn.com/livenews/3100515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "外交部回应3家中国企业入选美国《时代》周刊 “最具影响力人工智能公司”榜单",
-          "url": "https://wallstreetcn.com/livenews/3100510",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
             23
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
+        },
+        {
+          "title": "DeepSeek网页及API服务出现异常，官方称正在实施修复",
+          "url": "https://wallstreetcn.com/livenews/3100615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "18时47分"
         },
-        {
-          "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3100130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3100197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
         {
           "title": "DeepSeek-TUI是如何火起来的",
           "url": "https://www.toutiao.com/trending/7637338304165187078/",
@@ -1425,8 +1564,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "分析师：中东局势缓和预期打压美元与美债收益率",
+          "url": "https://flash.jin10.com/detail/20260508181748199800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
         {
           "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
           "url": "https://wallstreetcn.com/livenews/3100167",

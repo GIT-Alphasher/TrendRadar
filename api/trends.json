@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-05-18T07:01:52.938229+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-05-18T08:08:37.801366+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
           "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时08分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
           "url": "https://www.cls.cn/detail/2373131",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时08分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -51,8 +53,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时08分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时08分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -69,15 +82,26 @@
           "time_info": "[01时07分 ~ 07时01分]"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
+          "title": "AI预测世界杯西班牙夺冠",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            25
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
+          "url": "https://wallstreetcn.com/livenews/3104924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -104,8 +128,115 @@
       ]
     },
     {
+      "keyword_group": "指数",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "日经225指数5月18日（周一）开盘下跌33.14点，跌幅0.05%，报61376.15点。",
+          "url": "https://flash.jin10.com/detail/20260518080111873800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "日经225指数高开0.1%，韩国首尔综指低开0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3104946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "韩国KOSPI指数5月18日（周一）开盘下跌106.48点，跌幅1.42%，报7386.7点。",
+          "url": "https://flash.jin10.com/detail/20260518080107183800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "周一亚市早盘，布伦特原油期货高开0.6%。 标普500指数期货、纳斯达克100指数期货低开0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3104913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时08分]"
+        },
+        {
+          "title": "新西兰4月服务业表现指数 48.9，前值46。",
+          "url": "https://flash.jin10.com/detail/20260518063315143800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时08分]"
+        },
+        {
+          "title": "英国5月Rightmove平均房屋要价指数环比 1.2%，前值 0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3104928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "英国5月Rightmove平均房屋要价指数同比 -0.3%，前值 -0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3104927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "英国5月Rightmove平均房屋要价指数年率 -0.3%，前值-0.90%。",
+          "url": "https://flash.jin10.com/detail/20260518070301260800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "英国5月Rightmove平均房屋要价指数月率 1.2%，前值0.80%。",
+          "url": "https://flash.jin10.com/detail/20260518070239486800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "27年前捐5000美元植树的美国人找到了",
@@ -115,11 +246,12 @@
             8,
             6,
             19,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时08分]"
         },
         {
           "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
@@ -142,19 +274,43 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 08时08分]"
         },
         {
           "title": "现货白银日内涨幅达1.00%，现报76.67美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260518063201642800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时08分]"
+        },
+        {
+          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时08分]"
+        },
+        {
+          "title": "SK海力士已在无锡投资超230亿美元",
+          "url": "https://www.toutiao.com/trending/7639774306268332086/",
+          "source": "今日头条",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "08时08分"
         },
         {
           "title": "现货黄金站上4550美元/盎司，日内涨0.26%。",
@@ -163,7 +319,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -174,58 +330,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
-        },
-        {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260518060027813800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -233,7 +338,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "白银价格“过山车”：强势七连涨后大跳水，何时重回巅峰？",
@@ -243,8 +348,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时08分]"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260518073541654800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "算力价格",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         },
         {
           "title": "白银价格“过山车” 何时重回巅峰",
@@ -260,6 +387,58 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时08分]"
+        },
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时08分]"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260518060027813800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -271,8 +450,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时08分]"
         },
         {
           "title": "抛美债、买日债--华尔街准备应对“日资回流”",
@@ -281,35 +460,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周一亚市早盘，布伦特原油期货高开0.6%。 标普500指数期货、纳斯达克100指数期货低开0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3104913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "新西兰4月服务业表现指数 48.9，前值46。",
-          "url": "https://flash.jin10.com/detail/20260518063315143800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -317,7 +468,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -328,8 +479,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时08分]"
+        },
+        {
+          "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
+          "url": "https://flash.jin10.com/detail/20260518074442462800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         }
       ]
     }

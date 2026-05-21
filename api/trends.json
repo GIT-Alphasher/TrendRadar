@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-21T07:21:40.261912+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-05-21T12:38:05.405811+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "摩根大通：将英伟达目标价从265美元上调至280美元。",
+          "url": "https://wallstreetcn.com/livenews/3107150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
         {
           "title": "英伟达：董事会授权追加800亿美元股票回购，将季度股息从每股0.01美元提高至0.25美元。",
           "url": "https://wallstreetcn.com/livenews/3106917",
@@ -55,6 +66,17 @@
           "time_info": "[02时26分 ~ 07时21分]"
         },
         {
+          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
+          "url": "https://wallstreetcn.com/articles/3772763",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
           "title": "英伟达(NVDA.O)2027财年Q1 EPS为2.39美元，市场预期为1.75美元，上年同期为0.76美元。",
           "url": "https://flash.jin10.com/detail/20260521042431459800",
           "source": "金十数据",
@@ -75,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "杰富瑞：将英伟达(NVDA.O)目标价从275美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20260521120353284800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "英伟达(NVDA.O)：2027财年第一季度，通过股票回购和股息向股东返还了200亿美元。",
@@ -143,6 +176,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "现货黄金跌破4530美元/盎司，日内跌0.31%。",
+          "url": "https://flash.jin10.com/detail/20260521115256308800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "机构：若伊朗冲突持续，油价恐将升至200美元",
           "url": "https://wallstreetcn.com/livenews/3106871",
           "source": "华尔街见闻-快讯",
@@ -182,9 +226,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "知情人士透露，印度央行正在考虑所有可行的方案来稳定卢比汇率，包括提高利率、增加货币互换以及从海外投资者那里筹集美元。",
+          "url": "https://flash.jin10.com/detail/20260521114903095800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美国财政部拍卖160亿美元20年期国债，得标利率5.122%（4月22日为4.883%），投标倍数2.55（前次为2.68）。",
@@ -226,7 +281,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -259,7 +314,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -303,7 +358,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -314,7 +369,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -322,8 +377,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 12时38分]"
+        },
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
         {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3772708",
@@ -346,17 +423,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
-          "url": "https://www.cls.cn/detail/2377305",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后转涨，其第一财季营收及第二财季营收展望均超出平均预期。",
@@ -455,7 +521,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -477,7 +543,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -488,136 +554,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "“行业库存仅一周”！六氟磷酸锂价格“淡季逆袭”单周涨超12% 业内预测仍存推涨空间",
-          "url": "https://www.cls.cn/detail/2377005",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时26分 ~ 07时21分]"
-        },
-        {
-          "title": "粮农组织警告：霍尔木兹海峡问题或引发严重的全球粮食价格危机",
-          "url": "https://www.cls.cn/detail/2377135",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时26分 ~ 07时21分]"
-        },
-        {
-          "title": "小鹏GX价格炸裂",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FGX%E4%BB%B7%E6%A0%BC%E7%82%B8%E8%A3%82%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 07时21分]"
-        },
-        {
-          "title": "泡药风波下，杨梅价格大跳水，漳州龙海杨梅年产值近 10 亿元，行业该如何重塑口碑？还能放心吃吗？",
-          "url": "https://www.zhihu.com/question/2040456569758999443",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时04分 ~ 07时21分]"
-        },
-        {
-          "title": "中国移动在全国上线词元套餐，价格最低为5元月包",
-          "url": "https://wallstreetcn.com/livenews/3106877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "美联储会议纪要：部分与会者对高企的能源价格和关税可能导致通胀压力更广泛地固化的情景表示担忧。",
-          "url": "https://flash.jin10.com/detail/20260521020210741800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "小微信贷增速指标“松绑”，银行一线：“不用为冲规模卷价格了”",
-          "url": "https://wallstreetcn.com/livenews/3106969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "周三（5月20日）纽约尾盘，彭博电动汽车价格回报指数涨0.69%，报3868.40点，亚太早盘跌至3791.41点刷新日低，随后逐步回升。",
-          "url": "https://wallstreetcn.com/livenews/3106901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "中国移动在全国上线词元套餐 价格最低为5元月包",
-          "url": "https://flash.jin10.com/detail/20260521014544454800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "周三（5月20日）欧市尾盘，ICE英国天然气期货跌5.25%，报120.000便士/千卡，北京时间22:14开启加速下跌行情。 TTF基准荷兰天然气期货跌5.63%，报49.065欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）涨1.10%，报74.76欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3106856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 8,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "巴基斯坦KSE-100指数涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3107149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "标普500、纳斯达克100指数期货收复稍早失地，转为涨跌持平。",
+          "url": "https://wallstreetcn.com/livenews/3107148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
         {
           "title": "【每日收评】科创50指数震荡走高涨超3%，半导体产业链持续爆发，电力股批量跌停",
           "url": "https://www.cls.cn/detail/2376768",
@@ -631,6 +599,28 @@
           "time_info": "[02时26分 ~ 07时21分]"
         },
         {
+          "title": "日经225指数站上62000点，日内涨3.73%。",
+          "url": "https://flash.jin10.com/detail/20260521121138556800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "越南股指VN指数日内跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3107140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "标普500指数的11个板块普遍上涨，可选消费板块收涨2.5%，信息技术/科技板块涨1.87%，原材料板块反弹1.39%，能源板块跌2.59%。",
           "url": "https://wallstreetcn.com/livenews/3106909",
           "source": "华尔街见闻-快讯",
@@ -642,6 +632,28 @@
           "time_info": "05时05分"
         },
         {
+          "title": "上证指数早盘收报4162.37点，涨0.00%。 深证成指早盘收报15662.21点，涨0.59%。 创业板指早盘收报3942.36点，涨0.52%。 沪深300早盘收报4878.61点，涨0.58%。 科创50早盘收报1830.90点，跌0.06%。 中证500早盘收报8670.32点，涨0.16%。 中证1000早盘收报8777.55点，跌0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3107135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "5月21日午间收评：科创50指数冲高回落翻绿，玻璃基板概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3107134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.44%，报6760.29点。 热门中概股里，万国数据初步收跌9.1%，金山云跌4.2%，蔚来跌2%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨2.38%，XtrackersHarvest中证50（ASHS）收涨1.91%，德银嘉实沪深300指数ETF（ASHR）收涨1.00%。 中国科技指数ETF（CQQQ）收涨1.74%，中概互联网指数ETF（KWEB）收跌0.57%。",
           "url": "https://wallstreetcn.com/livenews/3106905",
           "source": "华尔街见闻-快讯",
@@ -651,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "科创50指数回落翻绿，此前一度涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3107130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "标普500指数初步收涨1%，可选消费、科技、原材料、金融、工业、房地产板块至少涨约1%，能源板块跌2.3%。 纳斯达克100指数初步收涨1.6%，成分股中，Arm控股初步收涨15%，核电股CEG涨7.9%，AMD、英特尔、拉姆研究、德康医疗、阿斯麦ADR、迈威尔科技至少涨5.7%，Workday则跌2.1%，Lumentum跌2.5%，沃尔玛跌2.8%，财捷INTU跌3.6%，ADI跌4.2%。 高盛初步收涨5.6%，耐克、波音、SHW、家得宝、亚马逊、摩根大通涨超2%，领跑道指成分股，联合健康跌1.6%，雪佛龙跌2.8%，与沃尔玛表现最差。 半导体指数涨4.5%。",
@@ -681,7 +704,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -706,12 +729,316 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体、银行等板块走势分化，保险、证券、白酒等板块普涨",
+          "url": "https://flash.jin10.com/detail/20260521113300076800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "路透调查：三分之一的日本企业正在使用或考虑使用AI机器人。交通运输设备制造商引领日本AI机器人应用热潮。",
+          "url": "https://flash.jin10.com/detail/20260521070434459800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：边缘计算技术亮点在于用于代理AI和物理AI的设备。",
+          "url": "https://flash.jin10.com/detail/20260521042908006800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
+          "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
+          "url": "https://www.cls.cn/detail/2377170",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
+          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
+          "url": "https://www.zhihu.com/question/2040425345606578251",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
+          "title": "耿同学是怎么用AI降维打击学术圈的",
+          "url": "https://www.toutiao.com/trending/7642140104261111350/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
+          "title": "RAIN回应金泰熙因育儿压力大落泪",
+          "url": "https://s.weibo.com/weibo?q=%23RAIN%E5%9B%9E%E5%BA%94%E9%87%91%E6%B3%B0%E7%86%99%E5%9B%A0%E8%82%B2%E5%84%BF%E5%8E%8B%E5%8A%9B%E5%A4%A7%E8%90%BD%E6%B3%AA%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
+          "title": "夏奇拉daidai舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2506133",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
+          "title": "双向赋能，“光＋AI”融合拓宽产业发展方向",
+          "url": "https://wallstreetcn.com/livenews/3106974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "马斯克：SpaceX洽谈向其他公司提供AI计算。",
+          "url": "https://wallstreetcn.com/livenews/3106972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：将招聘更多人AI人才，减少银行家人数。",
+          "url": "https://wallstreetcn.com/livenews/3107123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "OpenAI最快本周秘密递表，不想让华尔街的钱全流向马斯克？",
+          "url": "https://flash.jin10.com/detail/20260521113142876800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：包括自身产品在内的基于SRAM的AI芯片，在一段时间内将是一个小众产品。",
+          "url": "https://flash.jin10.com/detail/20260521054442062800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "“行业库存仅一周”！六氟磷酸锂价格“淡季逆袭”单周涨超12% 业内预测仍存推涨空间",
+          "url": "https://www.cls.cn/detail/2377005",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时26分 ~ 07时21分]"
+        },
+        {
+          "title": "粮农组织警告：霍尔木兹海峡问题或引发严重的全球粮食价格危机",
+          "url": "https://www.cls.cn/detail/2377135",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 12时38分]"
+        },
+        {
+          "title": "泡药风波下，杨梅价格大跳水，漳州龙海杨梅年产值近 10 亿元，行业该如何重塑口碑？还能放心吃吗？",
+          "url": "https://www.zhihu.com/question/2040456569758999443",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时04分 ~ 12时38分]"
+        },
+        {
+          "title": "小鹏GX价格炸裂",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FGX%E4%BB%B7%E6%A0%BC%E7%82%B8%E8%A3%82%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 07时21分]"
+        },
+        {
+          "title": "中国移动在全国上线词元套餐，价格最低为5元月包",
+          "url": "https://wallstreetcn.com/livenews/3106877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "美联储会议纪要：部分与会者对高企的能源价格和关税可能导致通胀压力更广泛地固化的情景表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260521020210741800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "小微信贷增速指标“松绑”，银行一线：“不用为冲规模卷价格了”",
+          "url": "https://wallstreetcn.com/livenews/3106969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "周三（5月20日）纽约尾盘，彭博电动汽车价格回报指数涨0.69%，报3868.40点，亚太早盘跌至3791.41点刷新日低，随后逐步回升。",
+          "url": "https://wallstreetcn.com/livenews/3106901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "北新建材：对石膏板产品价格进行了部分调整 价格已有所改善",
+          "url": "https://flash.jin10.com/detail/20260521114907989800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "中国移动在全国上线词元套餐 价格最低为5元月包",
+          "url": "https://flash.jin10.com/detail/20260521014544454800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "周三（5月20日）欧市尾盘，ICE英国天然气期货跌5.25%，报120.000便士/千卡，北京时间22:14开启加速下跌行情。 TTF基准荷兰天然气期货跌5.63%，报49.065欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）涨1.10%，报74.76欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3106856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -719,11 +1046,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时26分 ~ 07时21分]"
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 12时38分]"
         },
         {
           "title": "报道：白宫向人工智能公司介绍审查AI模型的行政令",
@@ -737,13 +1065,24 @@
           "time_info": "05时05分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-21）",
+          "url": "https://flash.jin10.com/detail/20260521115449640800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "马斯克：我们正在与其他公司讨论开展同样的合作。随着时间的推移，特别是借助轨道数据中心，我们预计将以极高的规模提供人工智能服务。",
           "url": "https://flash.jin10.com/detail/20260521063704751800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -754,7 +1093,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -765,7 +1104,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -776,7 +1115,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -784,7 +1123,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
@@ -797,6 +1136,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时26分 ~ 07时21分]"
+        },
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
         },
         {
           "title": "美联储会议纪要发布后，美国10年期国债收益率维持下跌大约8.3个基点的状态不变，目前持稳于日低4.5617%附近，暂报4.5835%。 两年期美债收益率维持6.7个基点的跌幅，暂报4.0508%。 现货黄金涨1.1%，持稳于4530美元一线。 标普500指数目前涨0.89%，道指涨557点、涨幅1.1%，纳指涨348点、涨幅1.3%。",
@@ -816,7 +1166,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -845,67 +1195,6 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "路透调查：三分之一的日本企业正在使用或考虑使用AI机器人。交通运输设备制造商引领日本AI机器人应用热潮。",
-          "url": "https://flash.jin10.com/detail/20260521070434459800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：边缘计算技术亮点在于用于代理AI和物理AI的设备。",
-          "url": "https://flash.jin10.com/detail/20260521042908006800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "双向赋能，“光＋AI”融合拓宽产业发展方向",
-          "url": "https://wallstreetcn.com/livenews/3106974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "马斯克：SpaceX洽谈向其他公司提供AI计算。",
-          "url": "https://wallstreetcn.com/livenews/3106972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：包括自身产品在内的基于SRAM的AI芯片，在一段时间内将是一个小众产品。",
-          "url": "https://flash.jin10.com/detail/20260521054442062800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -921,6 +1210,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时26分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "超越GPT-Realtime-2，阿里语音大模型获三项第一",
+          "url": "https://flash.jin10.com/detail/20260521114818831800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     }

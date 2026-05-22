@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-23T04:01:43.020121+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-23T05:21:42.267370+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场消息：消息人士称，Anthropic将于下周尽快完成最新一轮融资，规模将超过300亿美元。Anthropic预计下个月收入年化将超过500亿美元。",
           "url": "https://flash.jin10.com/detail/20260523034722842800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时21分]"
+        },
+        {
+          "title": "周五（5月22日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7983元，较周四纽约尾盘涨18点，日内整体交投于6.8034-6.7983元区间。 本周，离岸人民币累计上涨大约160点，涨幅0.24%，整体呈现出长尾W形走势。",
+          "url": "https://wallstreetcn.com/livenews/3108246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "05时21分"
         },
         {
           "title": "周五（5月22日）纽约尾盘，ICE美元指数跌0.02%，报99.243点，本周累计下跌0.02%，交投区间为99.515-98.946点，整体出现三波V形走势。 彭博美元指数涨0.08%，报1202.61点，本周大致持平，交投区间为1205.25-1199.01点。 美元兑日元涨0.10%，报159.14日元，本周累涨0.24%，交投区间为158.54-159.34日元。",
@@ -25,9 +37,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "金价在沃什宣誓日跌超0.7%，美联储理事沃勒讲话提振美元",
+          "url": "https://wallstreetcn.com/livenews/3108244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "特斯拉电池供应商Solus Advance Materials Co.与旗下四个Volta Energy部门因铜箔专利纠纷而对SK Nexilis Co.欠款300万美元。",
+          "url": "https://wallstreetcn.com/livenews/3108243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7978元，较周四夜盘收盘跌18点。成交量466.56亿美元。",
@@ -36,7 +70,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -47,7 +81,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -58,7 +92,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -69,7 +103,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -91,7 +125,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -102,7 +136,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -124,93 +158,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 04时01分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 04时01分]"
-        },
-        {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 04时01分]"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 04时01分]"
-        },
-        {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 04时01分]"
-        },
-        {
-          "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
-          "url": "https://wallstreetcn.com/livenews/3108153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "夏奇拉来批daidai作业啦",
-          "url": "https://www.douyin.com/hot/2508674",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时01分"
         }
@@ -218,8 +166,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "道琼斯工业平均指数收于50,579.70点，创下历史新高，超过2月10日的前次最高收盘纪录。",
+          "url": "https://flash.jin10.com/detail/20260523041206444800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
         {
           "title": "美联储迎来新掌门 标普500指数冲击周线8连涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2379458",
@@ -228,8 +187,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时21分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260523040942970800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.49%，报25430点。 恒生科技指数主连夜盘收跌0.74%，报4824点。",
@@ -238,9 +208,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20260523040706255800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "道琼斯指数5月22日（周五）收盘上涨294.04点，涨幅0.58%，报50579.70点；<br/>标普500指数5月22日（周五）收盘上涨27.73点，涨幅0.37%，报7473.45点；<br/>纳斯达克综合指数5月22日（周五）收盘上涨50.87点，涨幅0.19%，报26343.97点。",
+          "url": "https://flash.jin10.com/detail/20260523040343928800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "标普500指数连续第八周上涨，是自2023年12月结束的九周连涨以来的最长纪录。",
+          "url": "https://flash.jin10.com/detail/20260523040341285800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "标普500指数有望连续第八周上涨",
@@ -249,9 +252,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，医疗保健板块涨1.19%，公用事业、工业、信息技术/科技、能源板块至少涨0.44%，电信板块跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3108232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨1.3%，创5月6日（当天收涨1.7%）以来最佳单日表现，报395.91点。 在十个板块中，北欧信息技术板块涨幅最大。 诺基亚涨9.6%，在一众北欧个股里领跑。",
@@ -285,6 +299,218 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌2.2%，本周累跌4.8%。 热门中概股里，蔚来初步收跌6.8%，美团跌4.3%，拼多多跌3.3%，网易涨2%，日月光半导体涨6.8%。",
+          "url": "https://wallstreetcn.com/livenews/3108224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "标普500指数收涨27.75点，涨幅0.37%，报7473.47点。 道琼斯工业平均指数收涨294.04点，涨幅0.58%，报50579.70点，继续创收盘历史新高。 纳斯达克综合指数（纳指）收涨50.873点，涨幅0.19%，报26343.97点。 纳斯达克100指数收涨124.37点，涨幅0.42%，报29481.642点。 纳斯达克科技市值加权指数收涨0.41%，报2859.4956点。 费城半导体指数收涨1.99%，报12202.543点。 费城证交所KBW银行指数收涨0.49%，报168.27点，创收盘历史新高，连续四个交易日反弹。 道琼斯KBW地区银行指数收涨0.14%，报134.35点。 罗素2000指数收涨0.91%，报2869.225点。 纳斯达克生物科技指数收跌0.17%，报5891.46点。 标普中盘股400指数收涨0.84%，纳斯达克美国中等市值指数涨0.98%。 恐慌指数VIX收跌0.36%，报16.70。",
+          "url": "https://wallstreetcn.com/livenews/3108222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时21分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时21分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时21分]"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时21分]"
+        },
+        {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时21分]"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时21分]"
+        },
+        {
+          "title": "ai漫剧硬通货 泡面火腿纯净水",
+          "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
+          "url": "https://wallstreetcn.com/livenews/3108153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040728628800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040726833800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
+          "url": "https://wallstreetcn.com/livenews/3108158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
+          "url": "https://wallstreetcn.com/livenews/3108237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 高通涨超11%",
+          "url": "https://flash.jin10.com/detail/20260523040305525800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周五（5月22日），彭博电动汽车价格回报指数涨1.79%，报3978.71点，本周累计下跌0.29%，整体呈现出V形走势，5月20日北京时间11:00曾跌至3791.41点。",
+          "url": "https://wallstreetcn.com/livenews/3108229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "欧洲央行管委Muller：鉴于能源价格飙涨，6月加息可能性很高。",
+          "url": "https://wallstreetcn.com/livenews/3108144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         }
       ]
     },
@@ -301,25 +527,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 04时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧洲央行管委Muller：鉴于能源价格飙涨，6月加息可能性很高。",
-          "url": "https://wallstreetcn.com/livenews/3108144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时21分]"
         }
       ]
     },
@@ -335,25 +544,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 04时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
-          "url": "https://wallstreetcn.com/livenews/3108158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时21分]"
         }
       ]
     }

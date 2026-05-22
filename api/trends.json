@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T07:11:48.538538+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-05-22T12:23:01.930080+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 07时11分]"
+        },
+        {
+          "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204831",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 12时23分]"
         },
         {
           "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
@@ -44,16 +56,15 @@
           "time_info": "03时06分"
         },
         {
-          "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204831",
-          "source": "澎湃新闻",
+          "title": "据英国金融时报：摩根大通(JPM.N)正寻求减持40亿美元的私募股权相关贷款风险敞口。",
+          "url": "https://flash.jin10.com/detail/20260522120740338800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            17
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 07时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -135,6 +146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 07时11分]"
+        },
+        {
+          "title": "美正研拟暂停对台140亿美元军售计划",
+          "url": "https://www.toutiao.com/trending/7642326208918945846/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
         },
         {
           "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
@@ -231,7 +253,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -313,6 +335,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "欧洲央行加息预期升温，但美元利差“护城河”依然宽阔",
+          "url": "https://flash.jin10.com/detail/20260522113420421800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "在美上市iShares土耳其MSCI ETF跌8.3%。 土耳其美元债创六周新低。 土耳其主要反对派领导人Ozel要求议会同僚们到他的总部，举行紧急会议。",
           "url": "https://wallstreetcn.com/livenews/3107516",
           "source": "华尔街见闻-快讯",
@@ -335,6 +368,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "日本财务大臣暗示补充预算规模约190亿美元",
+          "url": "https://flash.jin10.com/detail/20260522113304668800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "LME期铜收跌140美元，报13516美元/吨。 LME期铝收涨14美元，报3637美元/吨。 LME期锌收跌33美元，报3522美元/吨。 LME期铅收涨25美元，报2004美元/吨。 LME期镍收跌202美元，报18727美元/吨。 LME期锡收跌786美元，报53248美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3107563",
           "source": "华尔街见闻-快讯",
@@ -349,7 +393,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "英国5月Gfk消费者信心指数 -23，预期-28，前值-25。",
@@ -358,9 +402,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "恒生指数涨幅扩大至1.1%，恒生科技指数涨1.8%。联想集团涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3107770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "上证指数早盘收报4096.24点，涨0.47%。 深证成指早盘收报15458.88点，涨1.39%。 创业板指早盘收报3902.74点，涨1.91%。 沪深300早盘收报4816.59点，涨0.70%。 科创50早盘收报1763.27点，跌0.05%。 中证500早盘收报8496.29点，涨0.91%。 中证1000早盘收报8629.50点，涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3107769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "标普500指数的11个板块多数收涨，公用事业板块涨1.03%，可选消费板块涨0.77%，信息技术/科技板块涨0.28%，能源板块跌1.01%，日用消费品板块跌1.63%。",
@@ -381,7 +447,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -430,6 +496,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "越南股指VN指数日内跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3107741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨0.24%，报621.79点。 欧元区STOXX 50指数初步收涨0.04%，报5978.27点。 富时泛欧绩优300指数初步收涨0.05%，报5979.23点。",
           "url": "https://wallstreetcn.com/livenews/3107526",
           "source": "华尔街见闻-快讯",
@@ -439,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数涨2.3%，东证指数涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3107740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "德国DAX30指数5月21日（周四）收盘下跌118.75点，跌幅0.48%，报24613.53点；<br/>英国富时100指数5月21日（周四）收盘上涨14.14点，涨幅0.14%，报10446.48点；<br/>法国CAC40指数5月21日（周四）收盘下跌31.42点，跌幅0.39%，报8086.00点；<br/>欧洲斯托克50指数5月21日（周四）收盘下跌17.12点，跌幅0.29%，报5958.95点；<br/>西班牙IBEX35指数5月21日（周四）收盘下跌60.65点，跌幅0.34%，报17970.45点；<br/>意大利富时MIB指数5月21日（周四）收盘下跌15.16点，跌幅0.03%，报49166.50点。",
@@ -461,6 +549,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "智谱大涨逾20% 公司推出ZCube组网架构且有望入恒生科技指数",
+          "url": "https://wallstreetcn.com/livenews/3107737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "恒生科技指数持续走强涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260522113748755800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.50%，报6659.19点。 热门中概股里，贝壳初步收跌6.5%，新东方跌4.5%，B站跌3.7%，万国数据跌3.5%，腾讯跌3.1%，百度跌2.9%，阿里跌2.1%，小米跌1.3%，大全新能源涨2.4%，文远知行涨3.4%，阿特斯太阳能涨8.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.74%。 XtrackersHarvest中证50（ASHS）收跌2.39%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%，MSCI新兴市场ex中国ETF（EMXC）收涨1.40%。",
@@ -505,12 +615,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、通信设备、消费电子板块多数上涨，证券、半导体、白酒板块普跌",
+          "url": "https://flash.jin10.com/detail/20260522113402795800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -560,6 +681,21 @@
           "time_info": "[00时22分 ~ 07时11分]"
         },
         {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            27,
+            16,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 12时23分]"
+        },
+        {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
           "url": "https://wallstreetcn.com/articles/3772780",
           "source": "华尔街见闻",
@@ -597,18 +733,48 @@
           "time_info": "[00时22分 ~ 07时11分]"
         },
         {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
+          "title": "港股午评：恒指高开高走收涨1.22% AI应用、存储芯片板块领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260522120616602800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            27,
-            16,
-            18
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "为何AI总会一本正经地胡说八道",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 07时11分]"
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "用上AI后工作时间反而更长了",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850534&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/AvfN3oHf2GiPPlqjKJuGE.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260522120206890800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
@@ -617,7 +783,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -658,8 +824,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "“三巨头”竞相登陆华尔街，美股或迎“强制大换血”",
+          "url": "https://flash.jin10.com/detail/20260522121130127800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 12时23分]"
+        },
         {
           "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
           "url": "https://wallstreetcn.com/livenews/3107635",
@@ -695,17 +884,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 07时11分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
-          "url": "https://www.cls.cn/detail/2378488",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         },
         {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
@@ -755,8 +933,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "国家发改委：正在谋划出台加快“人工智能+”落地的配套文件 进一步加大要素保障",
+          "url": "https://www.cls.cn/detail/2378704",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
         {
           "title": "微软推出必应图像搜索。 微软对其推出由人工智能（AI）引导的升级。",
           "url": "https://wallstreetcn.com/livenews/3107538",
@@ -778,6 +967,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-22）",
+          "url": "https://flash.jin10.com/detail/20260522114816207800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "国家发改委：正在谋划出台加快人工智能落地的配套文件",
+          "url": "https://wallstreetcn.com/livenews/3107744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "据日经新闻：川崎重工将与英伟达合作开展物理人工智能，并在美国开设机器人中心。英伟达的仿真技术将应用于川崎重工的Corleo。除了英伟达，川崎重工将与微软和富士通在美国中心合作。川崎重工与英伟达的合作将初步聚焦于医疗和移动领域。",
@@ -827,7 +1038,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "小米YU7GT价格",
@@ -865,6 +1076,28 @@
           "time_info": "03时06分"
         },
         {
+          "title": "国家发改委：将持续关注农业生产形势和粮食价格走势 统筹做好化肥保供稳价工作",
+          "url": "https://wallstreetcn.com/livenews/3107750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报178350元/吨，较上日16:30价格下跌1900元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3107743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "CBS新闻民调显示，三分之二的美国受访者感受到经济压力，大多数受访者表示汽油价格飙升正在造成困扰。",
           "url": "https://flash.jin10.com/detail/20260522042142242800",
           "source": "金十数据",
@@ -874,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "国内品牌金饰价格基本与昨日持平",
+          "url": "https://flash.jin10.com/detail/20260522113935759800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "瑞士央行副行长Antoine Martin：中期通胀压力基本上保持不变。 整体通胀率仍保持在价格稳定的目标区间之内。 瑞士的中长期通胀压力几乎没有发生实质性改变。 央行对法郎的干预意愿依然很高。 一旦瑞士法郎面临进一步升值的压力，瑞士央行对其进行汇市干预的意愿依然维持在较高水平。",
@@ -890,7 +1134,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -913,6 +1157,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 05时44分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
         },
         {
           "title": "两年期美债收益率涨2.8个基点",
@@ -955,6 +1210,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 07时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发改委：指导国产大模型加大力度适配国产算力芯片",
+          "url": "https://wallstreetcn.com/livenews/3107761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     }

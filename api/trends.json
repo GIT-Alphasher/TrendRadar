@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T15:53:15.540924+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-05-24T18:03:16.955313+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -51,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 15时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 18时03分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -63,11 +64,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 18时03分]"
+        },
+        {
+          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
+          "url": "https://wallstreetcn.com/articles/3772986",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时22分 ~ 15时53分]"
+          "time_info": "[15时53分 ~ 18时03分]"
         },
         {
           "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
@@ -114,15 +128,15 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
-          "url": "https://wallstreetcn.com/articles/3772986",
-          "source": "华尔街见闻",
+          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
+          "url": "https://flash.jin10.com/detail/20260524165346994800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时03分"
         },
         {
           "title": "当AI有一副人的身体",
@@ -145,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "为什么大众对 AI 生成代码的道德容忍度要明显高于 AI 生成的图片视频和音乐？",
+          "url": "https://www.zhihu.com/question/2009963807217304580",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
@@ -172,7 +197,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -181,11 +206,26 @@
           "ranks": [
             5,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 15时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 18时03分]"
+        },
+        {
+          "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时04分 ~ 18时03分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -201,19 +241,6 @@
           "time_info": "[00时07分 ~ 12时22分]"
         },
         {
-          "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时04分 ~ 15时53分]"
-        },
-        {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
           "url": "https://www.cls.cn/detail/2379922",
           "source": "财联社热门",
@@ -222,8 +249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 15时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 18时03分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -240,6 +267,18 @@
           "time_info": "[00时08分 ~ 07时06分]"
         },
         {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时03分]"
+        },
+        {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
           "url": "https://wallstreetcn.com/articles/3772969",
           "source": "华尔街见闻",
@@ -251,15 +290,15 @@
           "time_info": "12时22分"
         },
         {
-          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2041119709844788638",
-          "source": "知乎",
+          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2380075",
+          "source": "财联社热门",
           "ranks": [
-            17
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时03分"
         },
         {
           "title": "DeepSeek崩了",
@@ -268,7 +307,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
@@ -276,18 +315,30 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元",
           "url": "https://wallstreetcn.com/livenews/3108454",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时03分]"
+        },
+        {
+          "title": "国投白银LOF发布A类基金份额二级市场交易价格溢价风险提示",
+          "url": "https://flash.jin10.com/detail/20260524170330052800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时03分"
         },
         {
           "title": "京东方A公告，公司近期未发现公共传媒报道了可能或已经对股票交易价格产生较大影响的未公开重大信息。",
@@ -296,7 +347,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -327,8 +378,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 15时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 18时03分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -341,8 +392,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 15时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 18时03分]"
         },
         {
           "title": "下周一港股、美股休市",

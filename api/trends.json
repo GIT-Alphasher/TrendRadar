@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T03:54:00.509027+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-05-26T05:19:34.169124+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "中美元首会晤是否谈及日本？外交部回应",
@@ -15,30 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时19分]"
         },
         {
-          "title": "周一，WTI原油期货最终下跌6.52%，报90.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3109014",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260526042947544800",
+          "source": "金十数据",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7834元，较上周五夜盘收盘涨144点。成交量404.68亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3109012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
+          "time_info": "05时19分"
         },
         {
           "title": "美、布两油持续走低，布伦特原油失守94美元/桶，日内跌超6%。",
@@ -51,6 +40,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 03时54分]"
+        },
+        {
+          "title": "周一，WTI原油期货最终下跌6.52%，报90.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3109014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时19分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7834元，较上周五夜盘收盘涨144点。成交量404.68亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3109012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时19分]"
         },
         {
           "title": "美、布两油短线小幅下挫0.4美元，现货黄金波动不大。",
@@ -69,11 +82,34 @@
           "url": "https://wallstreetcn.com/livenews/3108999",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时19分]"
+        },
+        {
+          "title": "周一（5月25日）纽约尾盘，欧元兑美元涨0.35%，报1.1643，英镑兑美元涨0.56%，报1.3508，美元兑瑞郎跌0.31%，报0.7825。",
+          "url": "https://wallstreetcn.com/livenews/3109023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时54分"
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美元指数跌超0.2%",
+          "url": "https://wallstreetcn.com/livenews/3109019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "WTI原油期货跌破90美元/桶，为5月7日以来首次。",
@@ -82,7 +118,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -93,7 +129,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -104,7 +140,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -115,7 +151,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -137,7 +173,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -148,7 +184,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         }
@@ -167,8 +203,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时19分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨1.0%，连续六个交易日走高，报399.25点，创最近至少一年来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 欧洲顶级多金属矿业与冶炼巨头博利登Boliden AB涨4.1%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3109000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时19分]"
         },
         {
           "title": "德国DAX 30指数初步收涨2.15%，报25424点。 法国股指初步收涨2.01%，意大利股指初步收涨1.63%。",
@@ -202,17 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨1.0%，连续六个交易日走高，报399.25点，创最近至少一年来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 欧洲顶级多金属矿业与冶炼巨头博利登Boliden AB涨4.1%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3109000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
         },
         {
           "title": "金十图示：2026年05月25日（周一）全球股市指数-欧洲市场",
@@ -261,8 +298,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时19分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -273,8 +310,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时19分]"
         },
         {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
@@ -282,11 +319,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时19分]"
         },
         {
           "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
@@ -296,8 +334,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时19分]"
         },
         {
           "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
@@ -307,19 +345,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 03时54分]"
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时19分]"
         },
         {
           "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
           "url": "https://wallstreetcn.com/livenews/3109003",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时19分]"
         },
         {
           "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
@@ -384,22 +423,24 @@
           "source": "微博",
           "ranks": [
             18,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时19分]"
         },
         {
           "title": "周一（5月25日）欧市尾盘，TTF基准荷兰天然气期货跌6.08%，报45.601欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.16%，报75.78欧元/吨。",
           "url": "https://wallstreetcn.com/livenews/3109002",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时19分]"
         }
       ]
     },

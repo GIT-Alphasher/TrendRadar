@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T07:15:57.729783+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-05-26T12:19:59.946353+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "中美元首会晤是否谈及日本？外交部回应",
@@ -96,7 +96,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -107,7 +107,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -123,6 +123,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "大金重工拟最早周四启动7亿美元香港上市。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3109160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "美元指数跌超0.2%",
           "url": "https://wallstreetcn.com/livenews/3109019",
           "source": "华尔街见闻-快讯",
@@ -132,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "美银维持黄金12个月目标价6000美元/盎司 短期承压但中期看涨逻辑不变",
+          "url": "https://flash.jin10.com/detail/20260526113549777800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "WTI原油期货跌破90美元/桶，为5月7日以来首次。",
@@ -173,7 +195,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -225,8 +247,30 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "上证指数早盘收报4117.85点，跌0.84%。 深证成指早盘收报15718.98点，跌0.87%。 创业板指早盘收报4000.50点，跌0.51%。 沪深300早盘收报4907.69点，跌0.28%。 科创50早盘收报1841.35点，跌2.88%。 中证500早盘收报8566.73点，跌1.58%。 中证1000早盘收报8613.58点，跌2.11%。",
+          "url": "https://wallstreetcn.com/livenews/3109177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "5月26日午间收评：科创50指数半日跌近3%，半导体产业链集体调整",
+          "url": "https://wallstreetcn.com/livenews/3109176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
           "url": "https://www.cls.cn/detail/2380739",
@@ -280,7 +324,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -307,6 +351,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "金十图示：2026年05月26日（周二）富时中国A50指数成分股午盘收盘行情一览：消费电子、半导体板块出现回调，银行、工业金属板块多数上涨",
+          "url": "https://flash.jin10.com/detail/20260526113213176800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "德国DAX30指数5月25日（周一）收盘上涨457.41点，涨幅1.83%，报25385.8点；<br/>法国CAC40指数5月25日（周一）收盘上涨142.51点，涨幅1.76%，报8258.26点；<br/>欧洲斯托克50指数5月25日（周一）收盘上涨112.61点，涨幅1.87%，报6132.06点；<br/>西班牙IBEX35指数5月25日（周一）收盘上涨394.53点，涨幅2.19%，报18379.83点；<br/>意大利富时MIB指数5月25日（周一）收盘上涨718.53点，涨幅1.45%，报50229.5点。",
           "url": "https://flash.jin10.com/detail/20260525235339925800",
           "source": "金十数据",
@@ -316,6 +371,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数跌0.4%，东证指数跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3109148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "A股三大指数低开 人形机器人概念活跃",
+          "url": "https://www.toutiao.com/trending/7643639628188139566/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至2.3%，联想集团涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3109136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "陈果：今年相对更像2015年而非2021年，指数看不到明显泡沫和风险",
+          "url": "https://wallstreetcn.com/livenews/3109134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "北证50指数跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260526110532963800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "欧洲斯托克50指数上涨2%，抹去了自伊朗战争爆发以来的所有跌幅。",
@@ -332,19 +442,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时15分]"
-        },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
           "url": "https://wallstreetcn.com/articles/3773014",
@@ -358,6 +457,30 @@
           "time_info": "[01时12分 ~ 07时15分]"
         },
         {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 12时19分]"
+        },
+        {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 12时19分]"
+        },
+        {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
           "url": "https://www.zhihu.com/question/2040478565859381749",
           "source": "知乎",
@@ -366,17 +489,6 @@
             7,
             10,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时15分]"
-        },
-        {
-          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
-          "url": "https://wallstreetcn.com/articles/3773034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -406,6 +518,17 @@
           "time_info": "[03时54分 ~ 05时19分]"
         },
         {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
           "url": "https://www.zhihu.com/question/649375328",
           "source": "知乎",
@@ -415,6 +538,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "荣耀600价格",
+          "url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80600%E4%BB%B7%E6%A0%BC&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 05时19分]"
+        },
+        {
+          "title": "周一（5月25日）欧市尾盘，TTF基准荷兰天然气期货跌6.08%，报45.601欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.16%，报75.78欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3109002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 05时19分]"
+        },
+        {
+          "title": "硫磺价格同比翻了近两番！全球磷肥生产商正被迫削减产量",
+          "url": "https://www.cls.cn/detail/2380738",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报179700元/吨，较上日16:30价格下跌300元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3109141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
@@ -463,49 +639,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "荣耀600价格",
-          "url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80600%E4%BB%B7%E6%A0%BC&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            25,
-            23
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时19分]"
-        },
-        {
-          "title": "周一（5月25日）欧市尾盘，TTF基准荷兰天然气期货跌6.08%，报45.601欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.16%，报75.78欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3109002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 05时19分]"
-        },
-        {
-          "title": "硫磺价格同比翻了近两番！全球磷肥生产商正被迫削减产量",
-          "url": "https://www.cls.cn/detail/2380738",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -513,8 +647,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-26）",
+          "url": "https://flash.jin10.com/detail/20260526115702163800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
         {
           "title": "惠誉评级：北美企业面临战争溢出效应、关税和人工智能带来的信用风险",
           "url": "https://wallstreetcn.com/livenews/3108971",
@@ -536,6 +681,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     }

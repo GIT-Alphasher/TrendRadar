@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-05-27T03:25:04.976907+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-05-27T05:54:50.886638+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "周二（5月26日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7852元，较周一纽约尾盘跌8点，日内整体交投于6.7823-6.7896元区间。",
+          "url": "https://wallstreetcn.com/livenews/3109660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
         {
           "title": "美光告别“周期魔咒”？瑞银给出1600美元天价目标：LTA或撑起1.8万亿美元市值",
           "url": "https://wallstreetcn.com/articles/3773167",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 05时54分]"
         },
         {
           "title": "欧洲银行业通过“私人信用”及对冲基金渠道剥离5000亿美元企业贷款风险",
@@ -37,9 +49,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
+          "url": "https://www.cls.cn/detail/2382213",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "York Space Systems Inc.（YSS）收涨14.30%，报33.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3109654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "现货黄金跌破4490美元/盎司，日内跌1.77%。",
@@ -48,7 +82,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -70,9 +104,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美元指数26日上涨",
+          "url": "https://flash.jin10.com/detail/20260527042819319800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "周二（5月26日），韩元兑美元最终涨0.24%，报1508.00韩元。",
@@ -81,9 +126,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美光科技市值突破1万亿美元，瑞银预计其股价未来一年可能翻番",
+          "url": "https://wallstreetcn.com/livenews/3109640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "Prosus于5月18-22日按均价39.836欧元回购股票230万股，合计将近0.917亿欧元（折合超1.064亿美元）。 Naspers同期按均价870.0998南非兰特回购79.92万股，合计将近6.954亿兰特（折合超0.42亿美元）。",
@@ -103,7 +159,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
@@ -111,7 +167,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -121,8 +177,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 05时54分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）全球股市指数-欧洲市场",
@@ -158,6 +214,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "富时罗素指数公司批准修改IPO快速通道制度。 符合条件的快速纳入IPO将在初始上市后第五个交易日收盘后纳入。 可投资市值超过罗素美国前500大调整后总市值阈值的IPO将有资格快速纳入。 SpaceX将独立接受指数纳入审核。",
+          "url": "https://wallstreetcn.com/livenews/3109649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌0.3%，报397.39点。 在十个板块中，北欧金融板块跌幅最大。 Nibe Industrier AB跌4.3%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3109560",
           "source": "华尔街见闻-快讯",
@@ -167,6 +234,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "富时罗素：SpaceX将独立接受指数纳入审核。",
+          "url": "https://flash.jin10.com/detail/20260527042443831800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨1.69%，工业、原材料板块至多涨1.48%，能源板块则收跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3109646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "金十图示：2026年05月26日（周二）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260527042230923800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.57%，报6549.12点。 热门中概股里，盛大科技初步收涨29%，老虎证券涨14.2%，奇富科技涨8.3%，小鹏涨6.4%。 ETF中，中国科技指数ETF（CQQQ）收涨3.32%，中概互联网指数ETF（KWEB）收涨1.30%。 MSCI新兴市场ex中国ETF（EMXC）收涨4.59%，德银嘉实沪深300指数ETF（ASHR）收涨2.12%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3109639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "富时罗素：根据富时罗素的快速纳入规则，SpaceX似乎有资格被纳入富时美国股票指数系列及富时全球股票指数系列。",
+          "url": "https://flash.jin10.com/detail/20260527041734572800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "标普500指数收涨45.65点，涨幅0.61%，报7519.12点，突破5月14日所创收盘历史最高位7501.24点。 道琼斯工业平均指数收跌118.02点，跌幅0.23%，报50461.68点。 纳斯达克综合指数（纳指）收涨312.21点，涨幅1.19%，报26656.181点，突破5月14日所创收盘历史最高位26635.22点。 纳斯达克100指数收涨519.677点，涨幅1.76%，报30001.319点，突破5月14日所创收盘历史最高位29580.30点，成分股美光科技飙涨19.29%。",
+          "url": "https://wallstreetcn.com/livenews/3109637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         }
       ]
     },
@@ -182,8 +315,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 05时54分]"
         },
         {
           "title": "交易员寻猎AI赢家，目光投向日本调味品巨头",
@@ -202,11 +335,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 05时54分]"
         },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -216,19 +350,71 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 05时54分]"
         },
         {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
           "url": "https://www.zhihu.com/question/2042336304244019752",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2382097",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 05时54分]"
+        },
+        {
+          "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
+          "url": "https://wallstreetcn.com/livenews/3109648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "周二（5月26日），美股行业ETF涨跌各异，半导体ETF收涨4.48%，全球航空业ETF涨4.17%，全球科技股指数ETF、科技行业ETF、银行业ETF也至少涨1.10%，能源业ETF则收跌2.76%。",
+          "url": "https://wallstreetcn.com/livenews/3109647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
+          "url": "https://wallstreetcn.com/livenews/3109642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         }
       ]
     },
@@ -244,8 +430,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 05时54分]"
         },
         {
           "title": "中日印为何抛售美债",
@@ -269,29 +455,29 @@
           "url": "https://www.zhihu.com/question/12005197517",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 05时54分]"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "价格",
       "match_count": 1,
       "titles": [
         {
-          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2382097",
-          "source": "财联社热门",
+          "title": "周二（5月26日），彭博电动汽车价格回报指数涨0.51%，报4020.02点。",
+          "url": "https://wallstreetcn.com/livenews/3109641",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            21
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 03时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         }
       ]
     }

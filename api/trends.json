@@ -1,11 +1,173 @@
 {
-  "generated_at": "2026-05-28T00:43:34.908877+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-28T03:31:37.008046+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773173",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
+        },
+        {
+          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
+          "url": "https://wallstreetcn.com/articles/3773207",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7793元，较周二夜盘收盘涨74点。成交量403.47亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
+          "url": "https://www.zhihu.com/question/2042901886798403259",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
+        },
+        {
+          "title": "资金疯狂涌入 这只存储ETF刷新最快破百亿美元规模纪录",
+          "url": "https://www.cls.cn/detail/2383340",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶94.29美元，下跌5.29美元，跌幅5.31%。",
+          "url": "https://flash.jin10.com/detail/20260528024144188800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌5.21美元，跌幅5.55%，报88.68美元/桶。 布伦特7月原油期货收跌5.29美元，跌幅5.31%，报94.29美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报91.48美元/桶。 NYMEX 6月天然气期货收报3.04美元/百万英热单位。 NYMEX 6月汽油期货收报3.1337美元/加仑，NYMEX 6月取暖油期货收报3.5975美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3110223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
+          "url": "https://wallstreetcn.com/livenews/3110220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶88.68美元，下跌5.21美元，跌幅5.55%。",
+          "url": "https://flash.jin10.com/detail/20260528023115072800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "沙特将向也门（政府）提供价值1.5亿美元的石油衍生品。",
+          "url": "https://wallstreetcn.com/livenews/3110216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "周三（5月27日），韩元兑美元最终涨0.53%，报1499.98韩元。",
+          "url": "https://wallstreetcn.com/livenews/3110213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "AI编程公司Cognition按260亿美元估值融资10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3110164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "周三（5月27日），美联储隔夜逆回购协议（RRP）使用规模为18.53亿美元（交易对手7家），上个交易日报17.87亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.182%（5月11日），投标倍数2.34。",
+          "url": "https://wallstreetcn.com/livenews/3110204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "指数",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -15,8 +177,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.02%，报25259点。 恒生科技指数主连夜盘收涨0.39%，报4922点。",
+          "url": "https://wallstreetcn.com/livenews/3110226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "03时31分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报396.89点。 在十个板块中，北欧信息技术板块跌幅最大。 维斯塔斯风力技术集团（Vestas Wind Systems A/S）跌7.4%，在一众北欧个股里表现最差。",
@@ -83,67 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773173",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
         },
         {
-          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
-          "url": "https://wallstreetcn.com/articles/3773207",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
-          "url": "https://www.zhihu.com/question/2042901886798403259",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "资金疯狂涌入 这只存储ETF刷新最快破百亿美元规模纪录",
-          "url": "https://www.cls.cn/detail/2383340",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "AI编程公司Cognition按260亿美元估值融资10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3110164",
+          "title": "特朗普威胁称，阿曼要么老实点，“否则我们就会炸他们”。目前，标普500指数跌超0.2%，纳斯达克100指数跌超0.5%，费城半导体指数跌超2.5%，银行指数跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3110205",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "03时31分"
         }
       ]
     },
@@ -156,11 +279,12 @@
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -170,8 +294,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -181,8 +305,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
         },
         {
           "title": "美股走低，标普500指数跌0.1%，纳指下跌0.4%，道指涨0.3%。",
@@ -199,7 +323,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -209,8 +333,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
+        },
+        {
+          "title": "Meta推出AI聊天机器人订阅服务，以试图抵消相关支出",
+          "url": "https://flash.jin10.com/detail/20260528025401053800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "03时31分"
         },
         {
           "title": "野生vs养殖,AI大战鲤鱼图",
@@ -220,8 +355,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -229,6 +364,34 @@
           "source": "贴吧",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
+          "url": "https://wallstreetcn.com/livenews/3110231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
+          "url": "https://wallstreetcn.com/livenews/3110178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -254,19 +417,36 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
-          "url": "https://wallstreetcn.com/livenews/3110178",
-          "source": "华尔街见闻-快讯",
+          "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
+          "url": "https://flash.jin10.com/detail/20260528020659080800",
+          "source": "金十数据",
           "ranks": [
-            10
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "03时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "千问“拒聊”盒马粉木耳事件？人民网：大模型不能内嵌企业立场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33245808",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     }

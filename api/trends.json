@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T12:42:28.154528+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-05-27T16:44:43.072056+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "美光告别“周期魔咒”？瑞银给出1600美元天价目标：LTA或撑起1.8万亿美元市值",
@@ -15,11 +15,24 @@
             10,
             8,
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 12时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 16时44分]"
+        },
+        {
+          "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773173",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时44分]"
         },
         {
           "title": "机构：2026年第一季度全球DRAM营收逼近千亿美元",
@@ -28,20 +41,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
         {
-          "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773173",
-          "source": "华尔街见闻",
+          "title": "快手科技：2026年第一季度，可灵AI产生的收入超过人民币6.5亿元，同比增长超过300.0%。 2026年3月，可灵AI的年化收入运行率(ARR)近5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3109967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "在岸人民币兑美元5月27日16:30收盘报6.7817，较上一交易日上涨53点。",
+          "url": "https://flash.jin10.com/detail/20260527163109787800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "16时44分"
         },
         {
           "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
@@ -56,6 +80,17 @@
           "time_info": "[05时54分 ~ 12时42分]"
         },
         {
+          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
+          "url": "https://wallstreetcn.com/articles/3773207",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "现货黄金向下触及4500美元/盎司，日内跌0.16%。",
           "url": "https://flash.jin10.com/detail/20260527063531002800",
           "source": "金十数据",
@@ -65,6 +100,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "存储三巨头市值均超1万亿美元 法拉利首款电动车引发股价下跌 | 环球市场",
+          "url": "https://www.cls.cn/detail/2382344",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时44分]"
         },
         {
           "title": "周二（5月26日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7852元，较周一纽约尾盘跌8点，日内整体交投于6.7823-6.7896元区间。",
@@ -113,15 +160,15 @@
           "time_info": "03时25分"
         },
         {
-          "title": "存储三巨头市值均超1万亿美元 法拉利首款电动车引发股价下跌 | 环球市场",
-          "url": "https://www.cls.cn/detail/2382344",
-          "source": "财联社热门",
+          "title": "美元兑日元USD/JPY上涨0.1%，至159.445，为4月30日以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260527162642215800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "16时44分"
         },
         {
           "title": "美光科技市值突破1万亿美元",
@@ -130,9 +177,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "布伦特原油日内跌幅扩大至3.00%，现报93.60美元/桶；WTI原油回落至93美元/桶下方，日内跌3.42%。",
+          "url": "https://flash.jin10.com/detail/20260527162629025800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7817，较上一交易日官方收盘价涨53点，较上日夜盘收盘涨50点。",
+          "url": "https://wallstreetcn.com/livenews/3109960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达3.0%，报93.74美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3109959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "机构：2026年第一季度全球DRAM营收逼近千亿美元",
@@ -141,7 +221,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -152,7 +232,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -267,13 +347,24 @@
           "time_info": "03时25分"
         },
         {
+          "title": "报道：大搜车计划在纳斯达克进行IPO筹集至多1亿美元",
+          "url": "https://wallstreetcn.com/livenews/3109931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "据美国财经媒体Semafor：美国反垄断监管机构似乎准备批准派拉蒙以1100亿美元收购华纳兄弟探索公司的交易。",
           "url": "https://flash.jin10.com/detail/20260527115431562800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
@@ -281,7 +372,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -303,8 +394,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 16时44分]"
         },
         {
           "title": "富时罗素修改规则：大盘股IPO可加速纳入指数，SpaceX再迎利好",
@@ -368,7 +459,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -379,7 +470,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -428,6 +519,17 @@
           "time_info": "05时54分"
         },
         {
+          "title": "恒生指数收盘跌1.06%，恒生科技指数跌0.79%",
+          "url": "https://wallstreetcn.com/livenews/3109943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "金十图示：2026年05月26日（周二）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260527042230923800",
           "source": "金十数据",
@@ -461,6 +563,17 @@
           "time_info": "05时54分"
         },
         {
+          "title": "港股收评：恒生指数跌1.06% 恒生科技指数跌0.79%",
+          "url": "https://flash.jin10.com/detail/20260527161451375800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "标普500指数收涨45.65点，涨幅0.61%，报7519.12点，突破5月14日所创收盘历史最高位7501.24点。 道琼斯工业平均指数收跌118.02点，跌幅0.23%，报50461.68点。 纳斯达克综合指数（纳指）收涨312.21点，涨幅1.19%，报26656.181点，突破5月14日所创收盘历史最高位26635.22点。 纳斯达克100指数收涨519.677点，涨幅1.76%，报30001.319点，突破5月14日所创收盘历史最高位29580.30点，成分股美光科技飙涨19.29%。",
           "url": "https://wallstreetcn.com/livenews/3109637",
           "source": "华尔街见闻-快讯",
@@ -478,9 +591,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "瑞士5月投资者信心指数 -11.1，前值 -30.3。",
+          "url": "https://wallstreetcn.com/livenews/3109936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "MSCI新兴市场股票指数创历史新高。",
@@ -489,7 +613,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -500,15 +624,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "香港恒生指数5月27日（周三）收盘下跌271.22点，跌幅1.06%，报25328.23点；<br/>香港恒生科技指数5月27日（周三）收盘下跌39.31点，跌幅0.79%，报4907.57点；<br/>国企指数5月27日（周三）收盘下跌113.87点，跌幅1.33%，报8463.02点；<br/>红筹指数5月27日（周三）收盘下跌52.72点，跌幅1.19%，报4392.04点。",
+          "url": "https://flash.jin10.com/detail/20260527161132731800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -527,11 +662,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 12时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 16时44分]"
         },
         {
           "title": "交易员寻猎AI赢家，目光投向日本调味品巨头",
@@ -545,17 +681,6 @@
           "time_info": "00时50分"
         },
         {
-          "title": "AI坑爹,棒球名帅丢饭碗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "一人之下被指用AI作画",
           "url": "https://www.douyin.com/hot/2512287",
           "source": "抖音",
@@ -567,6 +692,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 07时17分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "AI坑爹,棒球名帅丢饭碗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时44分]"
         },
         {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
@@ -587,9 +735,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "AIDC供电架构变革 超级电容有望成为结构性必需品",
+          "url": "https://www.cls.cn/detail/2382316",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
@@ -598,9 +757,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "黄仁勋称AI时代学什么专业并不重要",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0AI%E6%97%B6%E4%BB%A3%E5%AD%A6%E4%BB%80%E4%B9%88%E4%B8%93%E4%B8%9A%E5%B9%B6%E4%B8%8D%E9%87%8D%E8%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "高考期间AI功能将受限？豆包、元宝、百度文心等多方最新回应",
@@ -609,15 +779,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "前美国芝加哥联储主席Evans：AI虽能提高生产率 但或将加剧通胀",
+          "url": "https://wallstreetcn.com/livenews/3109929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
@@ -626,7 +807,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -653,6 +834,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 12时42分]"
+        },
+        {
+          "title": "美股航空航天板块盘前上涨，Momentus涨超30%，太空基础设施公司Redwire涨约23%，AST SpaceMobile、Rocket Lab涨超6%。此前，美国国家航空航天局（NASA）26日公布月球基地建设三阶段路线图，进一步细化未来在月球南极地区建设长期驻留设施的发展目标和实施路径。",
+          "url": "https://flash.jin10.com/detail/20260527162232462800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -697,6 +889,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "美光科技美股盘前涨超4％，上个交易日收涨超19％，总市值突破1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3109939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
+          "url": "https://www.cls.cn/detail/2382543",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时44分]"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：我们一直在告诉银行增加对网络安全的投资，以应对人工智能风险。",
+          "url": "https://flash.jin10.com/detail/20260527162023995800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "司法部武增：今年将制定全国统一大市场建设条例，加快推进人工智能健康发展综合性立法",
+          "url": "https://wallstreetcn.com/livenews/3109789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
@@ -704,6 +947,17 @@
       "keyword_group": "DeepSeek",
       "match_count": 2,
       "titles": [
+        {
+          "title": "华为 “韬定律”：国产芯片的DeepSeek 时刻！",
+          "url": "https://wallstreetcn.com/articles/3773150",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 16时44分]"
+        },
         {
           "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
           "url": "https://www.zhihu.com/question/12005197517",
@@ -715,17 +969,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 05时54分]"
-        },
-        {
-          "title": "华为 “韬定律”：国产芯片的DeepSeek 时刻！",
-          "url": "https://wallstreetcn.com/articles/3773150",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
         }
       ]
     },
@@ -751,7 +994,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
@@ -782,34 +1025,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
-          "url": "https://www.cls.cn/detail/2382543",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "司法部武增：今年将制定全国统一大市场建设条例，加快推进人工智能健康发展综合性立法",
-          "url": "https://wallstreetcn.com/livenews/3109789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         }
       ]
     }

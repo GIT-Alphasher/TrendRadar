@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T03:31:37.008046+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-28T06:05:21.699274+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
@@ -27,8 +27,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 06时05分]"
+        },
+        {
+          "title": "美国官员：美国国防部向微软(MSFT.O)授予了97亿美元的企业软件合同，旨在降低成本。",
+          "url": "https://flash.jin10.com/detail/20260528051532668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7793元，较周二夜盘收盘涨74点。成交量403.47亿美元。",
@@ -37,9 +48,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "资金疯狂涌入 这只存储ETF刷新最快破百亿美元规模纪录",
+          "url": "https://www.cls.cn/detail/2383340",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
@@ -54,24 +76,13 @@
           "time_info": "[00时43分 ~ 03时31分]"
         },
         {
-          "title": "资金疯狂涌入 这只存储ETF刷新最快破百亿美元规模纪录",
-          "url": "https://www.cls.cn/detail/2383340",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时31分]"
-        },
-        {
           "title": "布伦特原油期货结算价为每桶94.29美元，下跌5.29美元，跌幅5.31%。",
           "url": "https://flash.jin10.com/detail/20260528024144188800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -82,9 +93,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "周三（5月27日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7790元，较周二纽约尾盘涨62点，日内整体交投于6.7867-6.7757元区间。",
+          "url": "https://wallstreetcn.com/livenews/3110267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
@@ -93,9 +115,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "迈威尔科技：预计2027财年销售115亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美国原油期货结算价为每桶88.68美元，下跌5.21美元，跌幅5.55%。",
@@ -104,7 +137,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -115,7 +148,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -126,7 +159,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -142,15 +175,48 @@
           "time_info": "00时43分"
         },
         {
+          "title": "惠普（HPQ）第二财季净营收144.1亿美元，分析师预期139.9亿美元。 第二财季个人系统营收102.1亿美元，分析师预期99亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "周三（5月27日），美联储隔夜逆回购协议（RRP）使用规模为18.53亿美元（交易对手7家），上个交易日报17.87亿美元。",
           "url": "https://wallstreetcn.com/livenews/3110208",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "迈威尔科技一季度净营收24.2亿美元，分析师预期24.1亿美元。 预计二季度净营收25.7亿-28.4亿美元，分析师预期26.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "新思科技第二财季营收22.8亿美元，同比增长42%。 第二财季调整后每股收益（EPS）为3.35美元，上年同期3.67美元。 任命Jesse Cohn为董事。 公司统一与Elliott合作。 预计全年营收96.3亿-97.1亿美元，公司原本预计95.6亿-96.6亿美元。 预计全年调整后EPS为14.70-14.80美元，公司原本预计14.38-14.46美元。 预计第三财季营收24.1亿-24.6亿美元，分析师预期23.9亿美元。 预计第三财季调整后EPSWie3.63-3.69美元，分析师预期3.62美元。",
+          "url": "https://wallstreetcn.com/livenews/3110249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.182%（5月11日），投标倍数2.34。",
@@ -159,7 +225,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         }
@@ -167,8 +233,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "标普道琼斯指数公司：将Fedex Freight Holding Company纳入标普500指数，取代Epam Systems。 Epam Systems将被纳入标普小盘股600指数，取代ShutterStock。",
+          "url": "https://wallstreetcn.com/livenews/3110273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
           "url": "https://wallstreetcn.com/articles/3773116",
@@ -177,8 +254,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.02%，报25259点。 恒生科技指数主连夜盘收涨0.39%，报4922点。",
@@ -187,7 +264,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -264,7 +341,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         }
@@ -272,7 +349,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -283,8 +360,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 06时05分]"
+        },
+        {
+          "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
+          "url": "https://wallstreetcn.com/livenews/3110274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -294,8 +382,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -309,6 +397,28 @@
           "time_info": "[00时43分 ~ 03时31分]"
         },
         {
+          "title": "现货黄金跌约1.2%，美股盘前逼近4400美元",
+          "url": "https://wallstreetcn.com/livenews/3110264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3110260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "美股走低，标普500指数跌0.1%，纳指下跌0.4%，道指涨0.3%。",
           "url": "https://flash.jin10.com/detail/20260527234806210800",
           "source": "金十数据",
@@ -318,12 +428,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
+          "url": "https://wallstreetcn.com/livenews/3110256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
+          "url": "https://wallstreetcn.com/livenews/3110250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -333,8 +465,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "Meta推出AI聊天机器人订阅服务，以试图抵消相关支出",
@@ -343,7 +475,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -355,8 +487,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -366,8 +498,69 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 06时05分]"
+        },
+        {
+          "title": "美联储理事库克：可能需要长时间地观察AI对经济的结构性改变。",
+          "url": "https://wallstreetcn.com/livenews/3110262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "Salesforce发布温和指引，加剧市场对AI颠覆软件业的担忧",
+          "url": "https://wallstreetcn.com/livenews/3110247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "利比亚：将6月Es Sider石油官方销售价格（OSP）较即期布伦特原油的升水定在每桶1.30美元，5月份为溢价4美元。 下调6月Sharara的OSP至每桶溢价1.50美元，5月升水4美元。",
+          "url": "https://wallstreetcn.com/livenews/3110179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "新西兰联储主席Anna Breman：正在密切关注“高成本与通胀导致的更疲软的需求”将在多大程度上抑制其他商品的价格上涨。 新西兰经济的某些部分表现依然良好，其中包括农业以及制造业的部分领域。 听说以出口为导向的企业目前经营状况良好，但它们对充满不确定性的外部环境感到担忧。",
+          "url": "https://wallstreetcn.com/livenews/3110254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "周三（5月27日），彭博电动汽车价格回报指数跌0.86%，报3986.91点，亚太时段显著走低，北京时间12:00以来持续交投于3990点附近。",
+          "url": "https://wallstreetcn.com/livenews/3110252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         }
       ]
     },
@@ -382,7 +575,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -400,26 +593,20 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 1,
+      "keyword_group": "人工智能",
+      "match_count": 2,
       "titles": [
         {
-          "title": "利比亚：将6月Es Sider石油官方销售价格（OSP）较即期布伦特原油的升水定在每桶1.30美元，5月份为溢价4美元。 下调6月Sharara的OSP至每桶溢价1.50美元，5月升水4美元。",
-          "url": "https://wallstreetcn.com/livenews/3110179",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储理事库克：要看到经济中因人工智能带来的结构性变化可能需要很长时间。",
+          "url": "https://flash.jin10.com/detail/20260528043829957800",
+          "source": "金十数据",
           "ranks": [
-            9
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
+          "time_info": "06时05分"
+        },
         {
           "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
           "url": "https://flash.jin10.com/detail/20260528020659080800",
@@ -427,7 +614,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         }
@@ -444,9 +631,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 06时05分]"
         }
       ]
     }

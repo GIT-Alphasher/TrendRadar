@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T13:25:30.182071+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-05-31T17:17:08.345728+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 17时17分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 17时17分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -46,6 +46,31 @@
           "time_info": "[00时11分 ~ 13时25分]"
         },
         {
+          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时10分 ~ 17时17分]"
+        },
+        {
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 17时17分]"
+        },
+        {
           "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
           "url": "https://wallstreetcn.com/livenews/3111836",
           "source": "华尔街见闻-快讯",
@@ -57,18 +82,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时07分 ~ 13时25分]"
-        },
-        {
-          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
-          "url": "https://wallstreetcn.com/articles/3773499",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 13时25分]"
         },
         {
           "title": "用AI整理会议记录导致泄密",
@@ -96,22 +109,48 @@
           "time_info": "[00时11分 ~ 04时14分]"
         },
         {
-          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
-          "url": "https://wallstreetcn.com/articles/3773513",
+          "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
+          "url": "https://wallstreetcn.com/articles/3773512",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "高乐股份：不涉及芯片资产注入 AI玩具等新业务未实现收入",
+          "url": "https://flash.jin10.com/detail/20260531155249919800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "17时17分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "TrendForce大幅上调存储市场预测：2027年规模料超1.28万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 17时17分]"
+        },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
           "url": "https://wallstreetcn.com/articles/3773482",
@@ -126,18 +165,15 @@
           "time_info": "[00时11分 ~ 08时10分]"
         },
         {
-          "title": "TrendForce大幅上调存储市场预测：2027年规模料超1.28万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773500",
-          "source": "华尔街见闻",
+          "title": "中美元首会晤后，台海发生四个变化，说明了什么？",
+          "url": "https://news.ifeng.com/c/8tZePmggRkn",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            6,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 13时25分]"
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
@@ -191,6 +227,105 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时10分 ~ 13时25分]"
+        },
+        {
+          "title": "中美元首会晤后台海发生四个变化",
+          "url": "https://www.toutiao.com/trending/7645920269186220041/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "阿根廷航空公司因燃油价格上涨取消世界杯特别航班",
+          "url": "https://flash.jin10.com/detail/20260531165101127800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "阿根廷航空公司因燃油价格上涨取消世界杯特别航班",
+          "url": "https://wallstreetcn.com/livenews/3111915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "存储器价格暴涨近1000%",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E5%99%A8%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%E8%BF%911000%25",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "蛋白粉价格暴涨 部分地区甚至断货",
+          "url": "https://www.baidu.com/s?wd=%E8%9B%8B%E7%99%BD%E7%B2%89%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E7%94%9A%E8%87%B3%E6%96%AD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时10分]"
+        },
+        {
+          "title": "巴西将限制燃料价格上涨的措施延长两个月",
+          "url": "https://wallstreetcn.com/livenews/3111844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 13时25分]"
+        },
+        {
+          "title": "国内成品油价格将迎调整",
+          "url": "https://www.toutiao.com/trending/7645542807553441828/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "据悉欧盟考虑暂停俄油价格上限动态调整 因战争推高油价",
+          "url": "https://flash.jin10.com/detail/20260531162716795800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
@@ -208,30 +343,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 17时17分]"
         },
         {
           "title": "国家统计局：5月份非制造业商务活动指数为50.1%，比上月上升0.7个百分点",
           "url": "https://wallstreetcn.com/livenews/3111867",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 17时17分]"
         },
         {
           "title": "国家统计局：5月份，制造业采购经理指数（PMI）为50.0%",
           "url": "https://wallstreetcn.com/livenews/3111869",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 17时17分]"
+        },
+        {
+          "title": "中国汽车流通协会：2026年5月中国汽车经销商库存预警指数为57.9%",
+          "url": "https://wallstreetcn.com/livenews/3111864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 17时17分]"
         },
         {
           "title": "沪深300、科创50等重要指数调整在即，五大焦点解读",
@@ -240,18 +389,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "中国汽车流通协会：2026年5月中国汽车经销商库存预警指数为57.9%",
-          "url": "https://wallstreetcn.com/livenews/3111864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
@@ -279,11 +417,12 @@
           "url": "https://wallstreetcn.com/livenews/3111877",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 17时17分]"
         },
         {
           "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
@@ -326,50 +465,6 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "存储器价格暴涨近1000%",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E5%99%A8%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%E8%BF%911000%25",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "蛋白粉价格暴涨 部分地区甚至断货",
-          "url": "https://www.baidu.com/s?wd=%E8%9B%8B%E7%99%BD%E7%B2%89%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E7%94%9A%E8%87%B3%E6%96%AD%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            9,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 08时10分]"
-        },
-        {
-          "title": "巴西将限制燃料价格上涨的措施延长两个月",
-          "url": "https://wallstreetcn.com/livenews/3111844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时07分 ~ 13时25分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -396,8 +491,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 17时17分]"
         }
       ]
     },
@@ -429,11 +524,12 @@
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 17时17分]"
         }
       ]
     }

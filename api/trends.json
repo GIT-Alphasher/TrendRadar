@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-02T02:45:34.757753+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-02T06:14:42.411321+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "韩国 SK 海力士工厂突发火灾，有哪些信息值得关注？公司市值刚突破 1 万亿美元，火灾会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2044805544947494930",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
+        },
         {
           "title": "Salesforce对Anthropic的投资估值约为50亿美元",
           "url": "https://flash.jin10.com/detail/20260602023108057800",
@@ -30,17 +42,6 @@
           "time_info": "02时45分"
         },
         {
-          "title": "韩国 SK 海力士工厂突发火灾，有哪些信息值得关注？公司市值刚突破 1 万亿美元，火灾会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2044805544947494930",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
           "title": "伯克希尔“新王”上任“第一把火”：85亿美元！卖油气，买地产",
           "url": "https://wallstreetcn.com/articles/3773528",
           "source": "华尔街见闻",
@@ -48,8 +49,41 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
+        },
+        {
+          "title": "周一（6月1日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7653元，较上周五纽约尾盘跌18点，21:09出现一波短线跳水行情，日内整体交投于6.7617-6.7709元区间，持稳于上周五顶部6.7605元附近。",
+          "url": "https://wallstreetcn.com/livenews/3112652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "06时14分"
+        },
+        {
+          "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
+          "url": "https://flash.jin10.com/detail/20260602050830269800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "纽约期金跌超1.7%，失守4500美元",
+          "url": "https://wallstreetcn.com/livenews/3112648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "周一（6月1日），美联储隔夜逆回购协议（RRP）使用规模为13.02亿美元（交易对手5家），上个交易日报116.77亿美元。",
@@ -63,6 +97,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
+          "url": "https://wallstreetcn.com/livenews/3112644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
           "title": "亚马尔身价超4亿美元",
           "url": "https://www.douyin.com/hot/2520074",
           "source": "抖音",
@@ -74,6 +119,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "市场消息：Alphabet(GOOG.O)拟进行800亿美元的股权融资，伯克希尔·哈撒韦将向Alphabet投资100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260602044259333800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
           "title": "LME期铜收涨196美元，报13832美元/吨。 LME期铝收涨50美元，报3716美元/吨。 LME期锌收涨38美元，报3578美元/吨。 LME期铅收跌10美元，报2006美元/吨。 LME期镍收涨189美元，报19251美元/吨。 LME期锡收涨1231美元，报56649美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3112584",
           "source": "华尔街见闻-快讯",
@@ -83,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "英伟达收涨6.3%，市值增加3190亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3112633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的13.02亿美元。",
@@ -109,8 +176,114 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
+        },
+        {
+          "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
+          "url": "https://wallstreetcn.com/livenews/3112654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "超微电脑美股盘后涨7%，追随惠与（HPE）业绩报告发布之后的表现。",
+          "url": "https://wallstreetcn.com/livenews/3112653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
+          "url": "https://wallstreetcn.com/livenews/3112642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3112640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "美股光通信概念股Credo股价盘后跌超15%。 最新业绩报告显示，该公司第四财季营收4.37亿美元，分析师预期4.325亿美元。 第四财季调整后每股收益（EPS）为1.16美元，分析师预期1美元。 预计第一财季营收4.65亿-4.75亿美元，分析师预期4.605亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3112639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260602044727050800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
+          "url": "https://wallstreetcn.com/livenews/3112635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
@@ -120,19 +293,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
         },
         {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
           "url": "https://wallstreetcn.com/articles/3773561",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
@@ -142,8 +316,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
+        },
+        {
+          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
+          "url": "https://www.zhihu.com/question/2044719064757397392",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
+          "url": "https://flash.jin10.com/detail/20260602053510657800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "06时14分"
         },
         {
           "title": "为什么说AI下一个爆发点在智能终端",
@@ -157,15 +354,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
-          "url": "https://www.zhihu.com/question/2044719064757397392",
-          "source": "知乎",
+          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
+          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "source": "金十数据",
           "ranks": [
-            20
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "06时14分"
         },
         {
           "title": "Apollo首席经济学家称AI热潮将浇灭美联储新任主席沃什快速降息的希望",
@@ -177,12 +374,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "黄仁勋和刘强东都反对借AI名义裁员",
+          "url": "https://www.toutiao.com/trending/7646333345659358729/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -192,8 +400,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
         },
         {
           "title": "重返“万亿俱乐部”！中国神华逼近年内新高，红利指数年线翻红，哪些股扛旗助力？",
@@ -203,8 +411,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.11%，暂报2797.97点，整体呈现出M形走势，至北京时间11:15持续上涨并达到2874.04点。 MarketVectorTM数字资产100中盘指数涨2.74%，报2970.49点，00:00前后再次显著走高 MarketVector数字资产100指数跌2.16%，报14265.83点，12:00以来持续下挫。",
@@ -216,13 +424,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "标普500指数收涨19.90点，涨幅0.26%，报7599.96点，连续三个交易日创收盘历史新高。 道琼斯工业平均指数收涨46.42点，涨幅0.09%，报51078.88点，再次创收盘历史新高。 纳斯达克综合指数（纳指）收涨114.188点，涨幅0.42%，报27086.808点，连续三天创收盘历史新高。 纳斯达克100指数收涨180.682点，涨幅0.60%，报30513.862点，连续三天创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3112631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.47%，报6683.46点。 热门中概股里，盛大科技初步收涨25%，金山云涨8.6%，小马智行涨7.3%，蔚来涨6.8%，拼多多涨3.6%，阿里巴巴涨1%，理想跌3.1%。 ETF中，中概互联网指数ETF（KWEB）收涨2.36%，中国科技指数ETF（CQQQ）收跌0.93%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.60%，XtrackersHarvest中证50（ASHS）收跌1.09%，德银嘉实沪深300指数ETF（ASHR）收跌1.36%。",
+          "url": "https://wallstreetcn.com/livenews/3112629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "华为nova 16价格公布",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAnova+16%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
+        },
         {
           "title": "美国总统特朗普：石油价格短期内将“像石头一样”下挫。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3112589",
@@ -235,49 +477,21 @@
           "time_info": "02时45分"
         },
         {
-          "title": "华为nova 16价格公布",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAnova+16%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
+          "title": "周一（6月1日），彭博电动汽车价格回报指数跌0.29%，报4007.36点。",
+          "url": "https://wallstreetcn.com/livenews/3112634",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "06时14分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -287,8 +501,36 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 06时14分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "06时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短中期美债收益率涨超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3112662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     }

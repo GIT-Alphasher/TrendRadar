@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T07:17:10.000118+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-06-05T12:40:48.925234+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 32,
       "titles": [
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
@@ -25,11 +25,25 @@
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 12时40分]"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 12时40分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
@@ -58,16 +72,50 @@
           "time_info": "[00时27分 ~ 07时17分]"
         },
         {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            19
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "腾讯AI慢了吗？姚顺雨回答汤道生：AI是长期游戏，下半场才开始",
+          "url": "https://wallstreetcn.com/livenews/3114800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
+          "url": "https://wallstreetcn.com/articles/3773858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[05时49分 ~ 12时40分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850544&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/a8HbAhegNQJVqFwBO7jrv.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260605120657067800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "好怕现实中也有人长AI这样",
@@ -119,18 +167,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 05时50分]"
-        },
-        {
-          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
-          "url": "https://wallstreetcn.com/articles/3773858",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时49分 ~ 07时17分]"
         },
         {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
@@ -185,7 +221,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -212,6 +248,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
+          "url": "https://www.cls.cn/detail/2391250",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
           "url": "https://wallstreetcn.com/livenews/3114639",
           "source": "华尔街见闻-快讯",
@@ -229,9 +276,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "华尔街预计：SpaceX旗下AI业务收入到2030年将飙升100倍",
@@ -240,9 +298,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "美团投出大半个中国的AI独角兽",
+          "url": "https://www.toutiao.com/trending/7647541325910249003/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "聚灿光电在互动平台表示，公司暂无AI相关的光互联技术储备。",
+          "url": "https://flash.jin10.com/detail/20260605114956468800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "加拿大总理卡尼发布AI战略：将为AI初创公司提供资金并购入其股权",
@@ -254,6 +345,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "腾讯高管：今年腾讯大部分代码都由AI生成",
+          "url": "https://wallstreetcn.com/livenews/3114774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "独立导演用AI开新坑",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8B%AC%E7%AB%8B%E5%AF%BC%E6%BC%94%E7%94%A8AI%E5%BC%80%E6%96%B0%E5%9D%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：随着时间的推移，AI可以压低通胀。 还没有看到AI大规模提升生产力。",
@@ -346,7 +459,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -368,7 +481,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -463,160 +576,8 @@
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "不到一万即可入手，人形机器人价格大跌",
-          "url": "https://www.cls.cn/detail/2391108",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时17分]"
-        },
-        {
-          "title": "今日24时起，国内汽、柴油价格每吨分别下调525元、505元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33307455",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时17分]"
-        },
-        {
-          "title": "燃油车价格大幅跳水",
-          "url": "https://www.toutiao.com/trending/7647253818476052543/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时28分 ~ 07时17分]"
-        },
-        {
-          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：当前，通胀问题上的焦点在于能源，食品价格上涨。",
-          "url": "https://wallstreetcn.com/livenews/3114539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
-          "url": "https://wallstreetcn.com/livenews/3114537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "金饰价格每克降约两成",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%AF%8F%E5%85%8B%E9%99%8D%E7%BA%A6%E4%B8%A4%E6%88%90%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时49分 ~ 07时17分]"
-        },
-        {
-          "title": "伯恩斯坦：存储价格将在Q2迎来主升浪",
-          "url": "https://wallstreetcn.com/articles/3773885",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
-          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
-          "url": "https://wallstreetcn.com/livenews/3114582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "消息人士：SpaceX告知投资银行，其IPO价格定为每股135美元，且不会变动。",
-          "url": "https://flash.jin10.com/detail/20260605054543841800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美联储戴利：目前通胀关注点集中在能源和食品，这些因素正在推动价格上涨。",
-          "url": "https://flash.jin10.com/detail/20260604235028272800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
-          "url": "https://wallstreetcn.com/livenews/3114520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "周四（6月4日），彭博电动汽车价格回报指数跌2.40%，报3937.65点，亚太早盘显著下挫，北京时间10:00以来平缓地持续下挫。 成分股中，文远知行、小马智行跌超8%，中创新航科技集团H股收跌6.09%跌幅第三大，在上涨的五只成分股里，浙江零跑科技H股收涨0.15%，日本电产株式会社东京股价收涨0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3114621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "美国财长贝森特：美国正经历短期价格上涨，预计将回落。",
-          "url": "https://flash.jin10.com/detail/20260604234505821800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "指数",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "《新闻联播》披露明晟指数新纳入 19 只 A 股，各类境外投资者持有 A 股流通市值超过 4 万亿元，透露出哪些信号？",
@@ -678,6 +639,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "上证指数早盘收报4075.31点，涨0.43%。 深证成指早盘收报15623.57点，跌0.24%。 创业板指早盘收报4055.23点，跌0.82%。 沪深300早盘收报4899.10点，跌0.12%。 科创50早盘收报1708.54点，跌1.70%。 中证500早盘收报8367.37点，涨0.13%。 中证1000早盘收报8468.23点，涨0.57%。",
+          "url": "https://wallstreetcn.com/livenews/3114794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "金十图示：2026年06月04日（周四）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260605044847468800",
           "source": "金十数据",
@@ -687,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "6月5日午间收评：北证50指数半日涨6.74%，玻璃基板概念持续爆发",
+          "url": "https://wallstreetcn.com/livenews/3114793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.48%，报24908.69点。 法国股指初步收涨0.86%，意大利股指初步收涨0.06%、银行指数涨0.65%，英国股指初步收涨0.06%。",
@@ -711,21 +694,264 @@
           "time_info": "00时27分"
         },
         {
+          "title": "北证50指数涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3114786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "标普全球公司：SpaceX等巨型IPO不会被快速纳入标普500指数",
+          "url": "https://flash.jin10.com/detail/20260605115254267800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "北证50指数涨超6%，北交所个股全线走强，创远信科30cm涨停，星图测控涨超20%，东方碳素、球冠电缆、天力复合、戈碧迦、星辰科技等十余股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3114772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "中证转债指数午盘收涨0.31%，祥和转债、阳谷转债、航新转债分别涨12.08%、10.40%、6.87%，奥飞转债跌8.77%，联瑞转债跌7.22%。",
+          "url": "https://flash.jin10.com/detail/20260605113608775800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "标普拒绝为SpaceX等超大型IPO提供指数快速通道",
           "url": "https://wallstreetcn.com/livenews/3114647",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "北证50指数日内涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3114767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险股普涨，半导体、消费电子板块走低",
+          "url": "https://flash.jin10.com/detail/20260605113459309800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "不到一万即可入手，人形机器人价格大跌",
+          "url": "https://www.cls.cn/detail/2391108",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 07时17分]"
+        },
+        {
+          "title": "今日24时起，国内汽、柴油价格每吨分别下调525元、505元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33307455",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 12时40分]"
+        },
+        {
+          "title": "燃油车价格大幅跳水",
+          "url": "https://www.toutiao.com/trending/7647253818476052543/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时28分 ~ 12时40分]"
+        },
+        {
+          "title": "泰国5月通胀意外放缓 燃油食品价格回落缓解物价压力",
+          "url": "https://flash.jin10.com/detail/20260605120701442800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：当前，通胀问题上的焦点在于能源，食品价格上涨。",
+          "url": "https://wallstreetcn.com/livenews/3114539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
+          "url": "https://wallstreetcn.com/livenews/3114537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "金饰价格每克降约两成",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%AF%8F%E5%85%8B%E9%99%8D%E7%BA%A6%E4%B8%A4%E6%88%90%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时49分 ~ 07时17分]"
+        },
+        {
+          "title": "伯恩斯坦：存储价格将在Q2迎来主升浪",
+          "url": "https://wallstreetcn.com/articles/3773885",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 12时40分]"
+        },
+        {
+          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
+          "url": "https://wallstreetcn.com/livenews/3114582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "燃油车价格大幅跳水",
+          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "消息人士：SpaceX告知投资银行，其IPO价格定为每股135美元，且不会变动。",
+          "url": "https://flash.jin10.com/detail/20260605054543841800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美联储戴利：目前通胀关注点集中在能源和食品，这些因素正在推动价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260604235028272800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
+          "url": "https://wallstreetcn.com/livenews/3114520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "周四（6月4日），彭博电动汽车价格回报指数跌2.40%，报3937.65点，亚太早盘显著下挫，北京时间10:00以来平缓地持续下挫。 成分股中，文远知行、小马智行跌超8%，中创新航科技集团H股收跌6.09%跌幅第三大，在上涨的五只成分股里，浙江零跑科技H股收涨0.15%，日本电产株式会社东京股价收涨0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3114621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "美国财长贝森特：美国正经历短期价格上涨，预计将回落。",
+          "url": "https://flash.jin10.com/detail/20260604234505821800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -748,19 +974,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 12时40分]"
         },
         {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
           "url": "https://www.cls.cn/detail/2391243",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 12时40分]"
+        },
+        {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -772,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 05时50分]"
+        },
+        {
+          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
+          "url": "https://www.zhihu.com/question/2045914979002315116",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
@@ -799,7 +1048,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据相关声明，美国众议院议员公布人工智能监管法案草案。",
@@ -835,6 +1084,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-05）",
+          "url": "https://flash.jin10.com/detail/20260605115240797800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "美联储戴利：尚未发现人工智能投资引发金融稳定方面的担忧。",
           "url": "https://flash.jin10.com/detail/20260604234543146800",
           "source": "金十数据",
@@ -860,7 +1120,7 @@
     },
     {
       "keyword_group": "大模型",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国国家安全局正在借助Anthropic旗下Mythos大模型实施网络攻防作业",
@@ -872,6 +1132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "NBA中国携手阿里巴巴上线首个官方大模型“NBA Chat”",
+          "url": "https://wallstreetcn.com/livenews/3114799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     }

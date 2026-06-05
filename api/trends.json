@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T16:50:29.623227+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-06-05T20:17:41.342937+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 16时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 20时17分]"
         },
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 07时17分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 20时17分]"
         },
         {
           "title": "AI脸泛滥成灾,建模师没活了",
@@ -58,27 +70,28 @@
           "time_info": "[00时27分 ~ 07时17分]"
         },
         {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 16时50分]"
-        },
-        {
           "title": "千帆星座在轨卫星增至200颗，AIS卫星系统完成组网",
           "url": "https://wallstreetcn.com/livenews/3114931",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 20时17分]"
         },
         {
           "title": "男子AI写歌月收入十几万",
@@ -181,16 +194,16 @@
           "time_info": "[00时27分 ~ 05时50分]"
         },
         {
-          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
-          "url": "https://www.cls.cn/detail/2391554",
-          "source": "财联社热门",
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
+            7,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时40分 ~ 16时50分]"
+          "time_info": "[16时50分 ~ 20时17分]"
         },
         {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
@@ -225,8 +238,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 20时17分]"
+        },
+        {
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时40分 ~ 16时50分]"
+          "time_info": "[16时50分 ~ 20时17分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -262,17 +287,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
           "title": "OpenAI：今天向美国的Plus和Pro用户提供更新，未来几周将向其他国家及免费和Go用户推出。",
           "url": "https://flash.jin10.com/detail/20260605000602512800",
           "source": "金十数据",
@@ -295,15 +309,37 @@
           "time_info": "00时27分"
         },
         {
-          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
-          "url": "https://www.cls.cn/detail/2391541",
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时50分"
+          "time_info": "20时17分"
+        },
+        {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
@@ -339,6 +375,28 @@
           "time_info": "07时17分"
         },
         {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "华尔街预计：SpaceX旗下AI业务收入到2030年将飙升100倍",
           "url": "https://wallstreetcn.com/livenews/3114666",
           "source": "华尔街见闻-快讯",
@@ -367,9 +425,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "中方回应外媒称AI进入“中美争霸”",
+          "url": "https://www.toutiao.com/trending/7647807825645699126/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "聚灿光电在互动平台表示，公司暂无AI相关的光互联技术储备。",
@@ -389,9 +458,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "湖北成立工业物理AI实验室，围绕“AI+工业软件+物理机理+制造数据”开展研发攻关",
+          "url": "https://wallstreetcn.com/livenews/3115097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "加拿大总理卡尼发布AI战略：将为AI初创公司提供资金并购入其股权",
@@ -441,7 +521,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
@@ -453,6 +533,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 05时50分]"
+        },
+        {
+          "title": "美国能源部宣布向杜克能源项目发放补助金，总资助金额达到近9600万美元。",
+          "url": "https://flash.jin10.com/detail/20260605200200639800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
@@ -472,7 +563,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -572,7 +663,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -588,15 +679,37 @@
           "time_info": "03时28分"
         },
         {
+          "title": "Planet Labs股价盘前下跌5%，公司申请最多15亿美元股票发行。",
+          "url": "https://flash.jin10.com/detail/20260605195456261800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "中国香港5月外汇储备 4465亿美元，前值4421亿美元。",
           "url": "https://flash.jin10.com/detail/20260605163015397800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "印度央行：截至5月29日，印度黄金储备规模为1126亿美元，低于前一周的1147.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "布伦特原油回落至93美元/桶下方，日内跌1.45%。",
@@ -605,9 +718,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "摩根士丹利：预计SpaceX到2028年营收将接近1600亿美元。 预计SpaceX到2040年营收将达到3.4万亿美元。 预计SpaceX调整后EBITDA到2040年将超过2.7万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "美国至5月29日当周外国央行持有美国国债 -326.86亿美元，前值128.29亿美元。",
@@ -638,7 +762,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -649,7 +773,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -701,7 +825,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "不到一万即可入手，人形机器人价格大跌",
@@ -729,6 +853,19 @@
           "time_info": "[00时27分 ~ 12时40分]"
         },
         {
+          "title": "伯恩斯坦：存储价格将在Q2迎来主升浪",
+          "url": "https://wallstreetcn.com/articles/3773885",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 20时17分]"
+        },
+        {
           "title": "燃油车价格大幅跳水",
           "url": "https://www.toutiao.com/trending/7647253818476052543/",
           "source": "今日头条",
@@ -739,6 +876,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时28分 ~ 12时40分]"
+        },
+        {
+          "title": "二手油车价格崩盘",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%B4%A9%E7%9B%98",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "泰国5月通胀意外放缓 燃油食品价格回落缓解物价压力",
@@ -761,19 +909,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "伯恩斯坦：存储价格将在Q2迎来主升浪",
-          "url": "https://wallstreetcn.com/articles/3773885",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 16时50分]"
         },
         {
           "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
@@ -805,7 +940,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -816,7 +951,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -827,7 +962,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -882,7 +1017,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -926,7 +1061,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         }
@@ -934,7 +1069,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "《新闻联播》披露明晟指数新纳入 19 只 A 股，各类境外投资者持有 A 股流通市值超过 4 万亿元，透露出哪些信号？",
@@ -974,15 +1109,26 @@
           "time_info": "05时50分"
         },
         {
+          "title": "波罗的海干散货指数跌1.84%，至2981点。",
+          "url": "https://flash.jin10.com/detail/20260605200059141800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "财联社C50风向指数调查：5月信贷或同比小幅少增，新增社融或同比继续下行",
           "url": "https://www.cls.cn/detail/2391733",
           "source": "财联社热门",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 20时17分]"
         },
         {
           "title": "港股收盘：恒生指数收跌1.15%，恒生科技指数收跌1.75%。大模型概念股普跌，MINIMAX跌超16%，智谱跌超9%。半导体、存储板块走弱，华虹半导体跌超7%，中芯国际跌超7%，澜起科技跌超9%，兆易创新跌超8%。",
@@ -991,7 +1137,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -1035,7 +1181,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -1164,7 +1310,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -1225,13 +1371,24 @@
           "time_info": "[05时49分 ~ 05时50分]"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "美股盘前，科技股延续跌势，英伟达跌超1.5%，美光科技跌2.77%，ARM跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3114919",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -1253,7 +1410,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -1283,7 +1440,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "据相关声明，美国众议院议员公布人工智能监管法案草案。",
@@ -1297,6 +1454,28 @@
           "time_info": "00时27分"
         },
         {
+          "title": "日立：双方正就定制芯片、边缘人工智能应用及工厂自动化领域的合作机会展开探索。",
+          "url": "https://flash.jin10.com/detail/20260605200131431800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "日立：与英特尔(INTC.O)宣布战略合作，推动关键行业的人工智能转型。日立将在英特尔工厂部署HMAX能源系统，英特尔将向日立供应高压硅芯片。",
+          "url": "https://flash.jin10.com/detail/20260605200113001800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "英国央行行长贝利：市场可能夸大了人工智能传导的速度。",
           "url": "https://flash.jin10.com/detail/20260605000744572800",
           "source": "金十数据",
@@ -1306,6 +1485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "明阳电路：拟发行可转债募资不超过12亿元，用于年产10万平米人工智能高阶HDI算力产品项目、补充流动资金及偿还银行贷款项目。",
+          "url": "https://wallstreetcn.com/livenews/3115107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "据华尔街日报：Anthropic呼吁全球暂停人工智能发展，并警示人工智能模型正接近能够在没有人类干预的情况下“自我进化”风险。",
@@ -1336,9 +1526,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "明阳电路：拟投入2.03亿元建设人工智能高阶HDI算力产品项目",
+          "url": "https://flash.jin10.com/detail/20260605194610022800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "美联储戴利：尚未发现人工智能投资引发金融稳定方面的担忧。",

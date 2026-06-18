@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-18T07:45:44.822175+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-06-18T12:52:50.235029+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "WTI原油跌破74美元/桶，续创3月4日来新低，日内跌2.35%。",
+          "url": "https://flash.jin10.com/detail/20260618124042547800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "国际油价持续走低，WTI原油期货日内跌2.5%，报74.10美元/桶；布伦特原油期货跌2%，报77.61美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3121423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
         {
           "title": "美元指数17日上涨",
           "url": "https://flash.jin10.com/detail/20260618043622317800",
@@ -60,7 +82,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -82,9 +104,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "WTI原油日内走低2.00%，现报74.24美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260618122739281800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "iPhone18Pro或涨价270美元",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E6%88%96%E6%B6%A8%E4%BB%B7270%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "现货白银日内涨幅达2.0%，报71.49美元/盎司。",
@@ -148,7 +192,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -232,9 +276,401 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时45分]"
+        },
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 12时52分]"
+        },
+        {
+          "title": "吴清陆家嘴论坛讲话：扩大第五套标准适用范围至AI领域，支持港股公司境内上市",
+          "url": "https://wallstreetcn.com/articles/3774870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 12时52分]"
+        },
+        {
+          "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
+          "url": "https://www.zhihu.com/question/2050269478747889665",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 05时19分]"
+        },
+        {
+          "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
+          "url": "https://www.zhihu.com/question/2046913494243435264",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 05时19分]"
+        },
+        {
+          "title": "杭州00后股民全仓AI股2个月赚30万",
+          "url": "https://www.toutiao.com/trending/7651658373838274602/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
+          "url": "https://www.zhihu.com/question/14853864339",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "黄金和AI：谁在见顶？",
+          "url": "https://wallstreetcn.com/articles/3774914",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "分析师：SpaceX估值与AI行业健康度脱钩，更像对马斯克的信任溢价",
+          "url": "https://flash.jin10.com/detail/20260618122744135800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
+          "url": "https://wallstreetcn.com/livenews/3121289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "黄仁勋呼吁全民拥抱AI：社会需重塑规则体系 能源短缺成美国AI发展最大短板",
+          "url": "https://www.cls.cn/detail/2402612",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "美联储声明新措辞与沃什对AI投资繁荣的关注相呼应",
+          "url": "https://flash.jin10.com/detail/20260618021846481800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "苹果(AAPL.O)正在为2027年春季发布第二代iPhone Air做准备。iPhone Air原型机将配备第二后置摄像头并升级电池。",
+          "url": "https://flash.jin10.com/detail/20260618035839383800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "苹果筹备第二代iPhone Air，预计2027年春季推出",
+          "url": "https://wallstreetcn.com/livenews/3121243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "AI Agent 的核心技术是什么？",
+          "url": "https://www.zhihu.com/question/1906023807417811104",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3121165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "端午和周星驰拍上AI食神大片了",
+          "url": "https://www.douyin.com/hot/2538982",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "明晟公司MSCI新兴市场货币指数跌超0.4%，创最近一个月最差单日表现。",
+          "url": "https://wallstreetcn.com/livenews/3121258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "标普500指数期货上涨0.5%，从美联储发布决议后的跌势中反弹。",
+          "url": "https://wallstreetcn.com/livenews/3121300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "金十图示：2026年06月17日（周三）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260618040921495800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "标普500指数的11个板块全线溃败，电信板块收跌2.98%，可选消费、房地产、日用消费品板块至多跌2.69%，工业板块跌0.12%跌幅最小。",
+          "url": "https://wallstreetcn.com/livenews/3121252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "金十图示：2026年06月17日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260618040643898800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "道琼斯指数6月17日（周三）收盘下跌506.51点，跌幅0.97%，报51493.16点；<br/>标普500指数6月17日（周三）收盘下跌91.22点，跌幅1.21%，报7420.13点；<br/>纳斯达克综合指数6月17日（周三）收盘下跌354.69点，跌幅1.34%，报26021.66点。",
+          "url": "https://flash.jin10.com/detail/20260618040641618800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.14%，报6122.30点。 热门中概股里，理想跌3.4%，阿里跌3.1%，蔚来涨0.2%，日月光半导体涨2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.93%，中国科技指数ETF（CQQQ）收涨1.72%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.35%，德银嘉实沪深300指数ETF（ASHR）收跌0.08%，XtrackersHarvest中证50（ASHS）收涨0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3121247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "标普500指数收跌91.25点，跌幅1.21%，报7420.10点。 道琼斯工业平均指数收跌507.12点，跌幅0.98%，报51492.55点。 纳斯达克综合指数（纳指）收跌354.688点，跌幅1.35%，报26021.656点。 纳斯达克100指数收跌297.181点，跌幅0.99%，报29670.948点。 纳斯达克科技市值加权指数收跌0.57%，报2911.3000点，美联储披露经济预期概要（SEP）之前高位持稳，美联储主席沃什新闻发布会开始后刷新日高。 费城半导体指数收涨182.848点，涨幅1.38%，报13477.072点。 费城证交所KBW银行指数收跌0.37%，报180.93点。 道琼斯KBW地区银行指数收跌1.80%，报137.43点。 罗素2000指数收跌0.72%，报2917.982点。 纳斯达克生物科技指数收涨1.10%，报6018.75点，逼近4月17日所创收盘历史最高位6131.78点和盘中历史最高位6142.03点。 标普中盘股400指数收跌1.24%，纳斯达克美国中等市值指数跌1.46%。 恐慌指数VIX收涨12.31%，报18.43。",
+          "url": "https://wallstreetcn.com/livenews/3121245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "韩国首尔综合指数（Kospi指数）首次上破9000点，日内涨1.5%。 海外和本土基金净卖出Kospi指数成份股，散户投资者买入。",
+          "url": "https://wallstreetcn.com/livenews/3121410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "上证指数早盘收报4092.76点，跌0.37%。 深证成指早盘收报15970.86点，涨0.57%。 创业板指早盘收报4224.96点，涨1.39%。 沪深300早盘收报4937.53点，涨0.12%。 科创50早盘收报1907.11点，涨3.60%。 中证500早盘收报8655.36点，涨0.33%。 中证1000早盘收报8742.50点，涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3121406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "6月18日午间收评：科创50指数半日涨3.6%，算力硬件股延续强势",
+          "url": "https://wallstreetcn.com/livenews/3121405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "AI热潮推动芯片股大涨，韩国KOSPI指数首次突破9000点",
+          "url": "https://flash.jin10.com/detail/20260618121954912800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至0.7%，刷新日低，标普跌1.2%，道指跌499点跌幅将近1%。",
+          "url": "https://wallstreetcn.com/livenews/3121235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "纳斯达克100指数跌至盘中低点，道指现跌近1%，标普500指数跌1.2%。",
+          "url": "https://flash.jin10.com/detail/20260618033422745800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "新兴市场股票指数抹去涨幅，因美联储转鹰。",
+          "url": "https://flash.jin10.com/detail/20260618033243142800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
+        {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 12时52分]"
+        },
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
           "url": "https://wallstreetcn.com/articles/3774774",
@@ -247,6 +683,30 @@
           "time_info": "[02时28分 ~ 05时19分]"
         },
         {
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 12时52分]"
+        },
+        {
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 12时52分]"
+        },
+        {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
@@ -257,28 +717,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 05时19分]"
-        },
-        {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
-          "url": "https://www.cls.cn/detail/2403003",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
         },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -302,17 +740,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
-          "url": "https://www.cls.cn/detail/2403010",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
@@ -394,289 +821,20 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2050618204980863708",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 07时45分]"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 07时45分]"
-        },
-        {
-          "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
-          "url": "https://www.zhihu.com/question/2050269478747889665",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时19分]"
-        },
-        {
-          "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
-          "url": "https://www.zhihu.com/question/2046913494243435264",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时19分]"
-        },
-        {
-          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
-          "url": "https://www.cls.cn/detail/2402436",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "吴清陆家嘴论坛讲话：扩大第五套标准适用范围至AI领域，支持港股公司境内上市",
-          "url": "https://wallstreetcn.com/articles/3774870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
-          "url": "https://wallstreetcn.com/livenews/3121289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "黄仁勋呼吁全民拥抱AI：社会需重塑规则体系 能源短缺成美国AI发展最大短板",
-          "url": "https://www.cls.cn/detail/2402612",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "美联储声明新措辞与沃什对AI投资繁荣的关注相呼应",
-          "url": "https://flash.jin10.com/detail/20260618021846481800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "苹果(AAPL.O)正在为2027年春季发布第二代iPhone Air做准备。iPhone Air原型机将配备第二后置摄像头并升级电池。",
-          "url": "https://flash.jin10.com/detail/20260618035839383800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "苹果筹备第二代iPhone Air，预计2027年春季推出",
-          "url": "https://wallstreetcn.com/livenews/3121243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "AI Agent 的核心技术是什么？",
-          "url": "https://www.zhihu.com/question/1906023807417811104",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3121165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "明晟公司MSCI新兴市场货币指数跌超0.4%，创最近一个月最差单日表现。",
-          "url": "https://wallstreetcn.com/livenews/3121258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "标普500指数期货上涨0.5%，从美联储发布决议后的跌势中反弹。",
-          "url": "https://wallstreetcn.com/livenews/3121300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "金十图示：2026年06月17日（周三）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260618040921495800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "标普500指数的11个板块全线溃败，电信板块收跌2.98%，可选消费、房地产、日用消费品板块至多跌2.69%，工业板块跌0.12%跌幅最小。",
-          "url": "https://wallstreetcn.com/livenews/3121252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "金十图示：2026年06月17日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260618040643898800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "道琼斯指数6月17日（周三）收盘下跌506.51点，跌幅0.97%，报51493.16点；<br/>标普500指数6月17日（周三）收盘下跌91.22点，跌幅1.21%，报7420.13点；<br/>纳斯达克综合指数6月17日（周三）收盘下跌354.69点，跌幅1.34%，报26021.66点。",
-          "url": "https://flash.jin10.com/detail/20260618040641618800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.14%，报6122.30点。 热门中概股里，理想跌3.4%，阿里跌3.1%，蔚来涨0.2%，日月光半导体涨2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.93%，中国科技指数ETF（CQQQ）收涨1.72%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.35%，德银嘉实沪深300指数ETF（ASHR）收跌0.08%，XtrackersHarvest中证50（ASHS）收涨0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3121247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "标普500指数收跌91.25点，跌幅1.21%，报7420.10点。 道琼斯工业平均指数收跌507.12点，跌幅0.98%，报51492.55点。 纳斯达克综合指数（纳指）收跌354.688点，跌幅1.35%，报26021.656点。 纳斯达克100指数收跌297.181点，跌幅0.99%，报29670.948点。 纳斯达克科技市值加权指数收跌0.57%，报2911.3000点，美联储披露经济预期概要（SEP）之前高位持稳，美联储主席沃什新闻发布会开始后刷新日高。 费城半导体指数收涨182.848点，涨幅1.38%，报13477.072点。 费城证交所KBW银行指数收跌0.37%，报180.93点。 道琼斯KBW地区银行指数收跌1.80%，报137.43点。 罗素2000指数收跌0.72%，报2917.982点。 纳斯达克生物科技指数收涨1.10%，报6018.75点，逼近4月17日所创收盘历史最高位6131.78点和盘中历史最高位6142.03点。 标普中盘股400指数收跌1.24%，纳斯达克美国中等市值指数跌1.46%。 恐慌指数VIX收涨12.31%，报18.43。",
-          "url": "https://wallstreetcn.com/livenews/3121245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至0.7%，刷新日低，标普跌1.2%，道指跌499点跌幅将近1%。",
-          "url": "https://wallstreetcn.com/livenews/3121235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "纳斯达克100指数跌至盘中低点，道指现跌近1%，标普500指数跌1.2%。",
-          "url": "https://flash.jin10.com/detail/20260618033422745800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "新兴市场股票指数抹去涨幅，因美联储转鹰。",
-          "url": "https://flash.jin10.com/detail/20260618033243142800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "国内品牌金饰价格变化不大",
+          "url": "https://flash.jin10.com/detail/20260618124031301800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
         {
           "title": "胖东来多款热门自营产品下调价格",
           "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%A4%9A%E6%AC%BE%E7%83%AD%E9%97%A8%E8%87%AA%E8%90%A5%E4%BA%A7%E5%93%81%E4%B8%8B%E8%B0%83%E4%BB%B7%E6%A0%BC",
@@ -715,36 +873,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
-          "url": "https://wallstreetcn.com/livenews/3121179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "两年期美债收益率于美联储利率决议日涨约13.3个基点，两年期实际收益率也在沃什首秀日涨约20个基点",
-          "url": "https://wallstreetcn.com/livenews/3121268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -765,9 +895,87 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "证监会主席吴清表示，扩大第五套标准适用范围至人工智能领域，大力支持上市公司并购及再融资，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/2050547521164932018",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-18）",
+          "url": "https://flash.jin10.com/detail/20260618120511379800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
+          "url": "https://wallstreetcn.com/livenews/3121179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "两年期美债收益率于美联储利率决议日涨约13.3个基点，两年期实际收益率也在沃什首秀日涨约20个基点",
+          "url": "https://wallstreetcn.com/livenews/3121268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
@@ -782,7 +990,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         }

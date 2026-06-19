@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T07:59:38.736022+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-06-19T09:51:09.753274+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 09时51分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的2.51亿美元。",
@@ -47,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404205",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "美元/日元日内涨幅达0.5%，报161.44。",
@@ -83,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美元兑日元USD/JPY再次短线走低，回落至161下方，日内跌0.22%。",
+          "url": "https://flash.jin10.com/detail/20260619090438981800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "现货黄金日内跌幅达1.0%，报4214.91美元/盎司。",
@@ -157,7 +179,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -250,6 +272,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "美元兑日元USD/JPY短线下挫20点至逼近161。",
+          "url": "https://flash.jin10.com/detail/20260619084026510800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "高盛：上调三季度铝价预期至330美元，之前预计3200美元；上调2027年预期至2950美元，之前预计2750美元。 预计2026年铝供应过剩72万吨，预计2027年供应过剩59万吨。",
           "url": "https://wallstreetcn.com/livenews/3121863",
           "source": "华尔街见闻-快讯",
@@ -289,9 +322,224 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
+          "url": "https://wallstreetcn.com/livenews/3121891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260619042350949800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "英国6月GfK消费者信心指数 -23，预期 -23，前值 -23。",
+          "url": "https://wallstreetcn.com/livenews/3121929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20260619040859785800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "摩根大通预计：受人工智能和改革推动，日经指数年底将达到7.5万点",
+          "url": "https://wallstreetcn.com/livenews/3121949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.88%，报6068.15点。 热门中概股里，世纪互联初步收跌4.8%，万国数据跌4.3%，金山云跌3.1%，新东方跌1.3%，阿里跌0.2%，百度涨0.1%，网易涨0.5%，腾讯涨0.6%，阿特斯太阳能涨1.3%，网易有道涨4%，日月光半导体涨8.7%。 ETF中，中概互联网指数ETF（KWEB）收跌0.55%，中国科技指数ETF（CQQQ）收涨2.57%。 德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收涨2.03%，MSCI新兴市场ex中国ETF（EMXC）收涨3.92%。",
+          "url": "https://wallstreetcn.com/livenews/3121878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "标普500指数收涨80.48点，涨幅1.08%，报7500.58点。 道琼斯工业平均指数收涨72.15点，涨幅0.14%，报51564.70点。 纳斯达克综合指数（纳指）收涨496.26点，涨幅1.91%，报27517.931点。 纳斯达克100指数收涨735.246点，涨幅2.48%，报30406.194点。",
+          "url": "https://wallstreetcn.com/livenews/3121876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.25%。",
+          "url": "https://flash.jin10.com/detail/20260619090100068800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.25%，上一个交易日夜盘收跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3121945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "道琼斯指数6月18日（周四）收盘上涨73.14点，涨幅0.14%，报51565.69点；<br/>标普500指数6月18日（周四）收盘上涨80.57点，涨幅1.09%，报7500.67点；<br/>纳斯达克综合指数6月18日（周四）收盘上涨496.28点，涨幅1.91%，报26517.93点。",
+          "url": "https://flash.jin10.com/detail/20260619040344382800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至2.7%，半导体指数涨7.2%。",
+          "url": "https://wallstreetcn.com/livenews/3121873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "韩国KOSPI指数日内大涨3.00%，现报9337.79点。",
+          "url": "https://flash.jin10.com/detail/20260619085413038800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "英国6月Gfk消费者信心指数 -23，预期-24，前值-23。",
+          "url": "https://flash.jin10.com/detail/20260619070102124800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "英国6月Gfk消费者信心指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260619065100000800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "金十图示：2026年06月19日（周五）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260619084140464800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "日经225指数高开0.5%，韩国首尔综指高开2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3121938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.19%，报23846点。 恒生科技指数主连夜盘收跌0.24%，报4584点。",
+          "url": "https://wallstreetcn.com/livenews/3121865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "MSCI新兴市场外汇指数跌0.7%，韩元、智利比索、巴西雷亚尔跌幅突出。",
+          "url": "https://wallstreetcn.com/livenews/3121911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.7%，创6月9日（跌1.4%）以来最差单日表现，报384.11点。 在十个板块中，北欧医疗保健板块跌幅最大。 Equinor ASA跌3.3%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3121813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         }
       ]
     },
@@ -299,6 +547,20 @@
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 09时51分]"
+        },
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
           "url": "https://wallstreetcn.com/articles/3774887",
@@ -311,6 +573,18 @@
           "time_info": "[01时31分 ~ 05时00分]"
         },
         {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 09时51分]"
+        },
+        {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3774963",
           "source": "华尔街见闻",
@@ -320,30 +594,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 05时00分]"
-        },
-        {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时59分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
         },
         {
           "title": "新兴市场ETF收涨超3.2%，与纳指ETF领跑美股大类资产类ETF",
@@ -396,7 +646,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -440,7 +690,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -451,7 +701,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -462,164 +712,15 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
-          "url": "https://wallstreetcn.com/livenews/3121891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "金十图示：2026年06月18日（周四）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260619042350949800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "英国6月GfK消费者信心指数 -23，预期 -23，前值 -23。",
-          "url": "https://wallstreetcn.com/livenews/3121929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "金十图示：2026年06月18日（周四）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260619040859785800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.88%，报6068.15点。 热门中概股里，世纪互联初步收跌4.8%，万国数据跌4.3%，金山云跌3.1%，新东方跌1.3%，阿里跌0.2%，百度涨0.1%，网易涨0.5%，腾讯涨0.6%，阿特斯太阳能涨1.3%，网易有道涨4%，日月光半导体涨8.7%。 ETF中，中概互联网指数ETF（KWEB）收跌0.55%，中国科技指数ETF（CQQQ）收涨2.57%。 德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收涨2.03%，MSCI新兴市场ex中国ETF（EMXC）收涨3.92%。",
-          "url": "https://wallstreetcn.com/livenews/3121878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "标普500指数收涨80.48点，涨幅1.08%，报7500.58点。 道琼斯工业平均指数收涨72.15点，涨幅0.14%，报51564.70点。 纳斯达克综合指数（纳指）收涨496.26点，涨幅1.91%，报27517.931点。 纳斯达克100指数收涨735.246点，涨幅2.48%，报30406.194点。",
-          "url": "https://wallstreetcn.com/livenews/3121876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "道琼斯指数6月18日（周四）收盘上涨73.14点，涨幅0.14%，报51565.69点；<br/>标普500指数6月18日（周四）收盘上涨80.57点，涨幅1.09%，报7500.67点；<br/>纳斯达克综合指数6月18日（周四）收盘上涨496.28点，涨幅1.91%，报26517.93点。",
-          "url": "https://flash.jin10.com/detail/20260619040344382800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至2.7%，半导体指数涨7.2%。",
-          "url": "https://wallstreetcn.com/livenews/3121873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "英国6月Gfk消费者信心指数 -23，预期-24，前值-23。",
-          "url": "https://flash.jin10.com/detail/20260619070102124800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "英国6月Gfk消费者信心指数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260619065100000800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.19%，报23846点。 恒生科技指数主连夜盘收跌0.24%，报4584点。",
-          "url": "https://wallstreetcn.com/livenews/3121865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "MSCI新兴市场外汇指数跌0.7%，韩元、智利比索、巴西雷亚尔跌幅突出。",
-          "url": "https://wallstreetcn.com/livenews/3121911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.7%，创6月9日（跌1.4%）以来最差单日表现，报384.11点。 在十个板块中，北欧医疗保健板块跌幅最大。 Equinor ASA跌3.3%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3121813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -629,8 +730,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 09时51分]"
+        },
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 09时51分]"
         },
         {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
@@ -638,11 +751,38 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 09时51分]"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 09时51分]"
+        },
+        {
+          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
+          "url": "https://www.zhihu.com/question/2050289332632790558",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            4,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 09时51分]"
         },
         {
           "title": "Alphabet、Visa等公司释放加强AI监管信号",
@@ -656,39 +796,27 @@
           "time_info": "01时32分"
         },
         {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
+          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
+          "url": "https://www.cls.cn/detail/2404033",
+          "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            4
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时59分]"
+          "time_info": "[05时00分 ~ 09时51分]"
         },
         {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 09时51分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -703,15 +831,15 @@
           "time_info": "[01时31分 ~ 05时00分]"
         },
         {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时00分 ~ 07时59分]"
+          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "Meta Platforms(META.O)与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦的算力。",
@@ -725,15 +853,15 @@
           "time_info": "05时00分"
         },
         {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
+          "title": "马斯克：Cursor和xAI都没有裁员。",
+          "url": "https://wallstreetcn.com/livenews/3121953",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "09时51分"
         },
         {
           "title": "Meta Platforms与数据中心公司Crusoe敲定AI计算协议。 Meta将根据合同购买对方两个数据中心（美国密苏里+得克萨斯）的算力。 Meta有望获得大约1.6 GW算力。",
@@ -756,6 +884,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
+          "url": "https://wallstreetcn.com/livenews/3121959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：消费韧性强，推动价格需求上升。",
+          "url": "https://flash.jin10.com/detail/20260619091558675800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：购买日本国债不是收紧或放松政策的手段。 在制定债券购买计划时，最重要的是允许市场自由设定价格。 我们积极地与海外当局交换意见，但最终我们在政策上做出自己的决定。 向市场仔细解释政策很重要。",
+          "url": "https://wallstreetcn.com/livenews/3121954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：延迟应对价格风险可能导致通胀超调风险的出现，长期伤害经济。",
+          "url": "https://flash.jin10.com/detail/20260619090443821800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：拖延应对价格风险可能导致通胀超调风险成为现实，长期来看会损害经济。",
+          "url": "https://wallstreetcn.com/livenews/3121947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：货币不是货币政策的目标，但对价格有重要影响。",
+          "url": "https://flash.jin10.com/detail/20260619090202532800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "马来西亚棕榈油委员会：预计7月份毛棕榈油的交易价格将在每吨4,400林吉特至4,650林吉特之间。由于印尼供应前景收紧及厄尔尼诺风险上升，毛棕榈油价格将受到支撑。",
+          "url": "https://flash.jin10.com/detail/20260619085019445800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：日本经济正在温和复苏。 日本央行预计将根据经济、价格和金融发展情况继续加息。 日本央行将考虑进一步加息的速度、时机，关注其基准情景实现的可能性，以及风险。 潜在通胀率接近2%。 最近的物价上涨不仅仅是由暂时的供应冲击驱动的，潜在通胀有偏离我们的价格目标的风险。 尽管油价上涨拖累经济增长，但由于企业利润和家庭收入高企，日本经济整体稳健。 外汇走势是影响日本经济和物价的关键因素之一。 货币政策不以外汇变动为目标，但与过去相比，由于企业行为的变化，外汇变动对通货膨胀的影响更大。 外汇走势可能对通胀预期和潜在通胀产生影响，因此我们将继续密切关注事态发展。",
+          "url": "https://wallstreetcn.com/livenews/3121939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
@@ -846,11 +1068,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 09时51分]"
         }
       ]
     },
@@ -865,7 +1088,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }

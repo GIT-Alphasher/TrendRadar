@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T16:27:58.644793+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-06-20T19:24:38.039075+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
@@ -73,11 +73,12 @@
           "url": "https://wallstreetcn.com/articles/3775108",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 19时24分]"
         },
         {
           "title": "以黎局势挑动市场神经，欧股一度转涨，布油艰难反弹，美元跌落一年高位",
@@ -85,11 +86,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 19时24分]"
         },
         {
           "title": "周五（6月19日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7838元，较周四纽约尾盘跌54点，日内整体交投于6.7759-6.7980元区间。 本周，离岸人民币累计下挫大约200点，跌幅0.3%。",
@@ -102,6 +104,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时08分 ~ 12时25分]"
+        },
+        {
+          "title": "瑞安航空首席执行官奥利里：如果油价降至每桶低于80美元或80美元左右，我们肯定会考虑为2027年夏季开始对冲。",
+          "url": "https://flash.jin10.com/detail/20260620160437580800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 19时24分]"
         },
         {
           "title": "沃什放鹰，美元“转折点”来了？",
@@ -256,17 +270,6 @@
           "time_info": "[05时16分 ~ 07时08分]"
         },
         {
-          "title": "瑞安航空首席执行官奥利里：如果油价降至每桶低于80美元或80美元左右，我们肯定会考虑为2027年夏季开始对冲。",
-          "url": "https://flash.jin10.com/detail/20260620160437580800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "布伦特8月原油期货收报80.57美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3122166",
           "source": "华尔街见闻-快讯",
@@ -303,7 +306,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -315,6 +318,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时11分 ~ 07时08分]"
+        },
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时15分 ~ 19时24分]"
+        },
+        {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 19时24分]"
         },
         {
           "title": "第一次见心眼这么多的AI",
@@ -329,31 +358,6 @@
           "time_info": "[12时25分 ~ 16时27分]"
         },
         {
-          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
-          "url": "https://wallstreetcn.com/articles/3775091",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时15分 ~ 16时27分]"
-        },
-        {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "埃森哲股价暴跌18%创近十年新低，AI冲击与中东动荡双重施压",
           "url": "https://wallstreetcn.com/articles/3775063",
           "source": "华尔街见闻",
@@ -363,6 +367,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时07分 ~ 07时08分]"
+        },
+        {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://wallstreetcn.com/livenews/3122234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
@@ -385,6 +400,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "腾讯：微信正在灰度测试 AI助手“小微”",
+          "url": "https://wallstreetcn.com/livenews/3122233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://flash.jin10.com/detail/20260620165448483800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "腾讯客服：微信正在灰度测试 AI助手“小微”",
+          "url": "https://flash.jin10.com/detail/20260620164622907800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
@@ -426,7 +496,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -437,9 +507,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "1年500元你会把脸卖给AI短剧吗",
+          "url": "https://s.weibo.com/weibo?q=%231%E5%B9%B4500%E5%85%83%E4%BD%A0%E4%BC%9A%E6%8A%8A%E8%84%B8%E5%8D%96%E7%BB%99AI%E7%9F%AD%E5%89%A7%E5%90%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
@@ -477,7 +558,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -570,8 +651,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 19时24分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -624,8 +705,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 19时24分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -636,19 +717,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 19时24分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 19时24分]"
         }
       ]
     },
@@ -674,7 +756,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }

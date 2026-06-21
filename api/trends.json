@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-22T00:02:56.718500+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T02:25:20.154384+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时25分]"
         },
         {
           "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时25分]"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
@@ -37,30 +38,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时25分]"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
           "url": "https://wallstreetcn.com/articles/3775129",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时25分]"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
           "url": "https://www.cls.cn/detail/2404757",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时25分]"
+        },
+        {
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时25分"
         }
       ]
     },
@@ -76,19 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "随着石油价格下跌，押注石油供应过剩的头寸重新成为焦点",
-          "url": "https://flash.jin10.com/detail/20260621223126495800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时25分]"
         },
         {
           "title": "中东股市｜周日（6月21日），沙特证交所全股指数收跌0.40%，报11076.67点。 沙特阿美（ARAMCO.AB）收跌0.23%，报26.46沙特里亚尔。 埃及证交所EGX 30指数收涨0.11%，报52679.45点。 阿曼MSM 30指数收跌0.86%，报7517.14点。 卡塔尔证交所指数收跌0.29%，报10480.95点。 科威特证交所超级市场价格回报指数收跌0.15%，报9206.67点。",
@@ -96,6 +99,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时25分]"
+        },
+        {
+          "title": "随着石油价格下跌，押注石油供应过剩的头寸重新成为焦点",
+          "url": "https://flash.jin10.com/detail/20260621223126495800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -115,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时25分]"
         }
       ]
     },
@@ -132,8 +146,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时25分]"
         }
       ]
     }

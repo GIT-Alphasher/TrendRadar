@@ -1,217 +1,55 @@
 {
-  "generated_at": "2026-06-21T21:15:38.007904+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-06-22T00:02:56.718500+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 08时17分]"
-        },
-        {
-          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
-          "url": "https://wallstreetcn.com/articles/3775113",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 14时12分]"
-        },
-        {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 08时17分]"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 21时15分]"
-        },
-        {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时20分 ~ 08时17分]"
-        },
-        {
-          "title": "AI短剧“买脸” 每张脸500元一年",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 08时17分]"
-        },
-        {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
-          "url": "https://www.zhihu.com/question/2050866813181994242",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 08时17分]"
-        },
-        {
-          "title": "谐音歌词版WAIYA",
-          "url": "https://www.douyin.com/hot/2541878",
-          "source": "抖音",
-          "ranks": [
-            23,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时20分 ~ 08时17分]"
-        },
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 21时15分]"
-        },
-        {
-          "title": "女子用AI写3000字股市谣言被罚",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时17分 ~ 18时38分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 21时15分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
           "ranks": [
-            28,
-            23
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 21时15分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
           "url": "https://wallstreetcn.com/articles/3775129",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
-          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "AI短剧严重“缺脸” 500元买一张脸",
-          "url": "https://www.toutiao.com/trending/7653430042109853737/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "00时02分"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
@@ -220,340 +58,82 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
-          "url": "https://flash.jin10.com/detail/20260621120212050800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "如果给人文社科专业增加一门 AI 相关课程，你觉得最应该开哪门？",
-          "url": "https://www.zhihu.com/question/2045843902720995741",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "以色列侨民事务部长Amichai Chikli：叙利亚和土耳其对以色列的威胁远比伊朗更令人担忧。",
-          "url": "https://flash.jin10.com/detail/20260621105013148800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "以色列侨民事务部长Amichai Chikli：以色列“迟早”会与叙利亚开战，叙利亚与土耳其之间的联盟对我们构成“战略挑战”。",
-          "url": "https://flash.jin10.com/detail/20260621104914004800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
-          "url": "https://wallstreetcn.com/articles/3775108",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 08时17分]"
-        },
-        {
-          "title": "以黎局势挑动市场神经，欧股一度转涨，布油艰难反弹，美元跌落一年高位",
-          "url": "https://wallstreetcn.com/articles/3775100",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时18分]"
-        },
-        {
-          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 14时12分]"
-        },
-        {
-          "title": "伊朗总统称随着谈判启动，卡塔尔将释放60亿美元资金",
-          "url": "https://wallstreetcn.com/livenews/3122349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "伊总统：60亿美元冻结资金将返还给伊朗",
-          "url": "https://flash.jin10.com/detail/20260621172821814800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "据半岛电视台：伊朗总统表示，作为与美国结束战争的初步协议的一部分，目前由卡塔尔持有的60亿美元被冻结资金将被归还。",
-          "url": "https://flash.jin10.com/detail/20260621172327857800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "金价仍可能重返5000美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%BB%8D%E5%8F%AF%E8%83%BD%E9%87%8D%E8%BF%945000%E7%BE%8E%E5%85%83%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "多家品牌金饰价格下跌",
-          "url": "https://www.douyin.com/hot/2541279",
-          "source": "抖音",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 08时17分]"
-        },
         {
           "title": "假期要闻汇总：磷酸铁锂价格翻倍，需求依然旺盛；微信“小微”来了",
           "url": "https://www.cls.cn/detail/2404817",
           "source": "财联社热门",
           "ranks": [
-            11,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 21时15分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "国内金饰价格迎来大幅下调",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "随着石油价格下跌，押注石油供应过剩的头寸重新成为焦点",
+          "url": "https://flash.jin10.com/detail/20260621223126495800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            28
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 21时15分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "中东股市｜周日（6月21日），沙特证交所全股指数收跌0.40%，报11076.67点。 沙特阿美（ARAMCO.AB）收跌0.23%，报26.46沙特里亚尔。 埃及证交所EGX 30指数收涨0.11%，报52679.45点。 阿曼MSM 30指数收跌0.86%，报7517.14点。 卡塔尔证交所指数收跌0.29%，报10480.95点。 科威特证交所超级市场价格回报指数收跌0.15%，报9206.67点。",
           "url": "https://wallstreetcn.com/livenews/3122339",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "纳指ETF广发：提示交易价格溢价风险及停复牌安排",
-          "url": "https://flash.jin10.com/detail/20260621170647511800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "磷酸铁锂价格翻倍 硫磺价格飙涨167%",
-          "url": "https://www.baidu.com/s?wd=%E7%A3%B7%E9%85%B8%E9%93%81%E9%94%82%E4%BB%B7%E6%A0%BC%E7%BF%BB%E5%80%8D+%E7%A1%AB%E7%A3%BA%E4%BB%B7%E6%A0%BC%E9%A3%99%E6%B6%A8167%25",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
-          "url": "https://wallstreetcn.com/articles/3775107",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 08时17分]"
-        },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 21时15分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 08时17分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "大模型",
-      "match_count": 2,
+      "keyword_group": "美元",
+      "match_count": 1,
       "titles": [
         {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
+          "title": "伊朗总统称随着谈判启动，卡塔尔将释放60亿美元资金",
+          "url": "https://wallstreetcn.com/livenews/3122349",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 14时12分]"
-        },
-        {
-          "title": "大模型收费合理吗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%94%B6%E8%B4%B9%E5%90%88%E7%90%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            21
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek估值接近4000亿元",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿曼政府数据显示，阿曼5月消费者物价指数环比上涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20260621184428441800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 08时17分]"
+          "time_info": "00时02分"
         }
       ]
     }

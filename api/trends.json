@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T14:12:23.595593+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-06-21T18:38:20.990109+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -47,6 +47,18 @@
           "time_info": "[00时26分 ~ 08时17分]"
         },
         {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 18时38分]"
+        },
+        {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
           "url": "https://wallstreetcn.com/articles/3775114",
           "source": "华尔街见闻",
@@ -79,7 +91,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -93,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -138,19 +139,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 14时12分]"
+          "appearance_count": 3,
+          "time_info": "[08时17分 ~ 18时38分]"
         },
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 18时38分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -164,13 +166,35 @@
           "time_info": "08时17分"
         },
         {
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "AI短剧严重“缺脸” 500元买一张脸",
+          "url": "https://www.toutiao.com/trending/7653430042109853737/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
           "url": "https://flash.jin10.com/detail/20260621120212050800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -181,7 +205,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -192,7 +216,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -203,15 +227,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
@@ -250,15 +285,99 @@
           "time_info": "[00时26分 ~ 14时12分]"
         },
         {
+          "title": "伊总统：60亿美元冻结资金将返还给伊朗",
+          "url": "https://flash.jin10.com/detail/20260621172821814800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统表示，作为与美国结束战争的初步协议的一部分，目前由卡塔尔持有的60亿美元被冻结资金将被归还。",
+          "url": "https://flash.jin10.com/detail/20260621172327857800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "金价仍可能重返5000美元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%BB%8D%E5%8F%AF%E8%83%BD%E9%87%8D%E8%BF%945000%E7%BE%8E%E5%85%83%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "多家品牌金饰价格下跌",
+          "url": "https://www.douyin.com/hot/2541279",
+          "source": "抖音",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 08时17分]"
+        },
+        {
+          "title": "假期要闻汇总：磷酸铁锂价格翻倍，需求依然旺盛；微信“小微”来了",
+          "url": "https://www.cls.cn/detail/2404817",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "纳指ETF广发：提示交易价格溢价风险及停复牌安排",
+          "url": "https://flash.jin10.com/detail/20260621170647511800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "磷酸铁锂价格翻倍 硫磺价格飙涨167%",
+          "url": "https://www.baidu.com/s?wd=%E7%A3%B7%E9%85%B8%E9%93%81%E9%94%82%E4%BB%B7%E6%A0%BC%E7%BF%BB%E5%80%8D+%E7%A1%AB%E7%A3%BA%E4%BB%B7%E6%A0%BC%E9%A3%99%E6%B6%A8167%25",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "国内金饰价格迎来大幅下调",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E8%BF%8E%E6%9D%A5%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -288,8 +407,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 14时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 18时38分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -302,35 +421,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 08时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "多家品牌金饰价格下跌",
-          "url": "https://www.douyin.com/hot/2541279",
-          "source": "抖音",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 08时17分]"
-        },
-        {
-          "title": "磷酸铁锂价格翻倍 硫磺价格飙涨167%",
-          "url": "https://www.baidu.com/s?wd=%E7%A3%B7%E9%85%B8%E9%93%81%E9%94%82%E4%BB%B7%E6%A0%BC%E7%BF%BB%E5%80%8D+%E7%A1%AB%E7%A3%BA%E4%BB%B7%E6%A0%BC%E9%A3%99%E6%B6%A8167%25",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         }
       ]
     },
@@ -357,7 +447,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         }

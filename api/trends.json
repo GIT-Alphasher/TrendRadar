@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T06:20:50.865542+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-06-22T08:20:55.906909+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "现货黄金周一小幅低开0.1%，现报4154美元/盎司。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -77,6 +77,28 @@
           "time_info": "[00时02分 ~ 02时25分]"
         },
         {
+          "title": "韩国海关：在6月1日至20日期间，韩国贸易顺差初步数据显示为175亿美元，出口同比增长60.4%，进口同比增长23.2%。",
+          "url": "https://flash.jin10.com/detail/20260622080949578800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "消息人士：软银支持的酷哇科技在融资轮中筹集超过6亿美元，估值超过30亿美元。酷哇科技计划在未来两到三个月内提交香港IPO申请。",
+          "url": "https://flash.jin10.com/detail/20260622080923649800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
           "title": "据知情人士透露，另类资产管理巨头Investcorp正在收购一家英国设施管理公司的多数股权，此举凸显尽管中东地区处于战争背景下，海湾投资者仍持续推进海外交易。这家总部位于巴林的公司正在以超过2亿美元的估值入股Smart Managed Solutions。",
           "url": "https://flash.jin10.com/detail/20260622032632520800",
           "source": "金十数据",
@@ -108,12 +130,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "报道：日本拟到2040年在17个战略领域投资约2.3万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3122410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
@@ -146,11 +179,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 08时20分]"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
@@ -161,8 +195,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 08时20分]"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
@@ -170,11 +204,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 08时20分]"
         },
         {
           "title": "父亲节用AI表达爱",
@@ -186,14 +221,86 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 08时20分]"
+        },
+        {
+          "title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
+          "url": "https://wallstreetcn.com/livenews/3122399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "日经225指数低开0.26%，韩国首尔综指低开1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3122432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数6月22日（周一）开盘下跌32.40点，跌幅0.37%，报8796.30点。",
+          "url": "https://flash.jin10.com/detail/20260622081055275800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "日经225指数6月22日（周一）开盘下跌36.39点，跌幅0.05%，报71213.67点。",
+          "url": "https://flash.jin10.com/detail/20260622080108238800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "纳斯达克100指数期货跌幅扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3122424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "韩国KOSPI指数6月22日（周一）开盘下跌108.82点，跌幅1.2%，报8943.6点。",
+          "url": "https://flash.jin10.com/detail/20260622080107465800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "假期要闻汇总：磷酸铁锂价格翻倍，需求依然旺盛；微信“小微”来了",
@@ -203,8 +310,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 08时20分]"
         },
         {
           "title": "中东股市｜周日（6月21日），沙特证交所全股指数收跌0.40%，报11076.67点。 沙特阿美（ARAMCO.AB）收跌0.23%，报26.46沙特里亚尔。 埃及证交所EGX 30指数收涨0.11%，报52679.45点。 阿曼MSM 30指数收跌0.86%，报7517.14点。 卡塔尔证交所指数收跌0.29%，报10480.95点。 科威特证交所超级市场价格回报指数收跌0.15%，报9206.67点。",
@@ -227,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260622073603043800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         }
       ]
     },
@@ -252,7 +370,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }

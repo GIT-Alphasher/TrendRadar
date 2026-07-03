@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T16:17:30.372189+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-07-03T19:40:03.282261+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -45,6 +45,31 @@
           "time_info": "[00时58分 ~ 12时51分]"
         },
         {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 19时40分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 19时40分]"
+        },
+        {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
           "url": "https://www.cls.cn/detail/2415416",
           "source": "财联社热门",
@@ -56,28 +81,27 @@
           "time_info": "[00时58分 ~ 06时15分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时17分]"
-        },
-        {
-          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
-          "url": "https://www.cls.cn/detail/2415999",
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 19时40分]"
+        },
+        {
+          "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
+          "url": "https://wallstreetcn.com/livenews/3128681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
@@ -102,15 +126,16 @@
           "time_info": "02时43分"
         },
         {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
           "source": "财联社热门",
           "ranks": [
+            8,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 19时40分]"
         },
         {
           "title": "报道：韩国考虑动用5万亿韩元增量税收推进自主AI模型开发，正在讨论购买约1万个英伟达Vera Rubin GPU模块",
@@ -139,6 +164,18 @@
           "time_info": "[00时58分 ~ 08时16分]"
         },
         {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 19时40分]"
+        },
+        {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3128155",
           "source": "华尔街见闻-快讯",
@@ -149,6 +186,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 02时43分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 19时40分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -224,18 +274,6 @@
           "time_info": "[00时58分 ~ 02时43分]"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时17分]"
-        },
-        {
           "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
           "url": "https://wallstreetcn.com/articles/3776055",
           "source": "华尔街见闻",
@@ -246,18 +284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 08时16分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时17分]"
         },
         {
           "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
@@ -280,6 +306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 12时51分]"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "储殷：AI正在制造新型穷人",
@@ -305,17 +342,6 @@
           "time_info": "06时15分"
         },
         {
-          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
-          "url": "https://www.cls.cn/detail/2416215",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
           "title": "美国总统特朗普：无论好坏，我们都有AI。",
           "url": "https://wallstreetcn.com/livenews/3128236",
           "source": "华尔街见闻-快讯",
@@ -336,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850565&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/9snI_dUsRlH22meUzc1Wr.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260703193019074800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "分析师：Meta承认AI进展未达预期，但并非“举白旗”",
@@ -415,6 +452,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "鹏鼎控股：拟定增募资不超96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
+          "url": "https://flash.jin10.com/detail/20260703191133168800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "联合国警告：各国应针对AI采取行动",
           "url": "https://www.toutiao.com/trending/7657422400892485673/",
           "source": "今日头条",
@@ -429,8 +477,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "印度央行：截至6月26日，印度黄金储备为1025.4亿美元，前一周为1079.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260703193340344800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
         {
           "title": "美、布两油日内均涨超1%，现分别报68.72美元/桶和71.98美元/桶。",
           "url": "https://flash.jin10.com/detail/20260703023001138800",
@@ -458,6 +517,17 @@
           "time_info": "[00时58分 ~ 08时16分]"
         },
         {
+          "title": "印度外汇储备在6月26日当周降至6669.3亿美元，较上周下降56.54亿美元。",
+          "url": "https://flash.jin10.com/detail/20260703193250545800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
           "url": "https://wallstreetcn.com/livenews/3128214",
           "source": "华尔街见闻-快讯",
@@ -468,6 +538,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 06时15分]"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "在美国新英格兰地区，包括波士顿在内的马萨诸塞州东北部地区的峰值电价周四飙升244%，达到每兆瓦时424.64美元。 PJM基准枢纽（Western Hub）的峰值电价飙升150%，平均达到479.27美元/兆瓦时，为今年1月严重暴风雪以来的最高水平。",
@@ -582,6 +663,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "联动科技：香港联动以现金方式收购Northstar Technologies Limited 100%股权，交易对价为1,000万美元",
+          "url": "https://wallstreetcn.com/livenews/3128661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "卡特彼勒(CAT.N)：公司启动德克萨斯州劳动力发展计划，作为其五年1亿美元计划的一部分。首期拨款高达500万美元用于德克萨斯州劳动力培训。",
           "url": "https://flash.jin10.com/detail/20260703000158677800",
           "source": "金十数据",
@@ -599,7 +691,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -687,7 +779,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -789,12 +881,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "联动科技：拟1,000万美元收购NorthstarTechnologies Limited100%股权，将存储测试设备技术等落地国内",
+          "url": "https://flash.jin10.com/detail/20260703190833589800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
@@ -966,6 +1069,17 @@
           "time_info": "[00时58分 ~ 02时43分]"
         },
         {
+          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
+          "url": "https://www.cls.cn/detail/2416590",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨1.3%，报394.22点。 在十个板块中，北欧工业板块涨幅最大。 军工股萨博公司涨8.6%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3128143",
           "source": "华尔街见闻-快讯",
@@ -1083,7 +1197,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1119,6 +1233,182 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2056094088609390914",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 19时40分]"
+        },
+        {
+          "title": "三星电子开启Q3价格谈判 力求通用DRAM环比涨价20%",
+          "url": "https://www.cls.cn/detail/2416391",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
+          "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
+          "url": "https://flash.jin10.com/detail/20260703124717082800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "周四（7月2日），彭博电动汽车价格回报指数跌0.41%，报3548.74点。",
+          "url": "https://wallstreetcn.com/livenews/3128211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 06时15分]"
+        },
+        {
+          "title": "小鹏MONAL03价格",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FMONAL03%E4%BB%B7%E6%A0%BC&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时43分]"
+        },
+        {
+          "title": "比亚迪海豹 08 上市价格 19.69-23.99 万，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2056041972998083528",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
+          "title": "金饰价格连涨三天",
+          "url": "https://www.douyin.com/hot/2556400",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时17分]"
+        },
+        {
+          "title": "巴西规划部长：柴油补贴的取消速度将慢于汽油，以避免价格剧烈波动和供应风险。",
+          "url": "https://flash.jin10.com/detail/20260703022535969800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国财长贝森特称汽油价格在下跌时略显迟滞",
+          "url": "https://wallstreetcn.com/livenews/3128405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "印度降雨量不足，白糖价格升至10个月高点",
+          "url": "https://wallstreetcn.com/livenews/3128278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260703073415271800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报164700元/吨，较上日16:30价格上涨2250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3128385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "赤峰黄金：近期，公司黄金产品的市场价格波动较大，预计将对公司经营业绩产生一定影响。",
+          "url": "https://wallstreetcn.com/livenews/3128645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "中电港：预计上半年净利润5亿元-5.3亿元，同比增长176.43%-193.01%；报告期内，人工智能、数据中心、先进计算等领域需求强劲，存储器等核心产品价格持续上升，带动公司营业收入大幅攀升。",
+          "url": "https://wallstreetcn.com/livenews/3128639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "华孚时尚：预计2026年上半年净利润同比增长537.51%~696.88%，原材料棉花价格上涨",
+          "url": "https://flash.jin10.com/detail/20260703190913601800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         }
       ]
     },
@@ -1207,6 +1497,17 @@
           "time_info": "[04时25分 ~ 06时15分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 19时40分]"
+        },
+        {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
           "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
@@ -1228,17 +1529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
         },
         {
           "title": "美股收盘：芯片股重挫 闪迪大跌14%",
@@ -1294,126 +1584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2056094088609390914",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时17分]"
-        },
-        {
-          "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
-          "url": "https://flash.jin10.com/detail/20260703124717082800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "周四（7月2日），彭博电动汽车价格回报指数跌0.41%，报3548.74点。",
-          "url": "https://wallstreetcn.com/livenews/3128211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时15分]"
-        },
-        {
-          "title": "小鹏MONAL03价格",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FMONAL03%E4%BB%B7%E6%A0%BC&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时43分]"
-        },
-        {
-          "title": "金饰价格连涨三天",
-          "url": "https://www.douyin.com/hot/2556400",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时17分]"
-        },
-        {
-          "title": "巴西规划部长：柴油补贴的取消速度将慢于汽油，以避免价格剧烈波动和供应风险。",
-          "url": "https://flash.jin10.com/detail/20260703022535969800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "美国财长贝森特称汽油价格在下跌时略显迟滞",
-          "url": "https://wallstreetcn.com/livenews/3128405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "印度降雨量不足，白糖价格升至10个月高点",
-          "url": "https://wallstreetcn.com/livenews/3128278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260703073415271800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报164700元/吨，较上日16:30价格上涨2250元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3128385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
         }
       ]
     },
@@ -1513,7 +1683,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
@@ -1558,6 +1728,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 08时16分]"
+        },
+        {
+          "title": "腾讯云：DeepSeek-V4正式版“原厂直供”模型计划于7月中上线",
+          "url": "https://flash.jin10.com/detail/20260703192746070800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         }
       ]
     }

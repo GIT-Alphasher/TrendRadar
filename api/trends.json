@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T04:21:10.460271+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-07-04T06:13:00.010880+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -19,48 +19,26 @@
           "time_info": "[00时42分 ~ 04时21分]"
         },
         {
-          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3128833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
           "title": "美元料创4月以来最大单周跌幅 降息预期升温打压走势",
           "url": "https://flash.jin10.com/detail/20260704035726761800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时12分]"
         },
         {
-          "title": "美联储加息预期降温致美元走弱，拉美资产迎来反弹",
-          "url": "https://wallstreetcn.com/livenews/3128831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "周五美元小幅走低，有望创下12周以来的最大单周跌幅。 瑞士宝盛银行（Swissquote Bank）高级分析师Ipek Ozkardeskaya）表示：“最终将由通胀数据来决定这一转变是否会持续……我们可能会看到美元巩固近期的涨幅，未来几天黄金和主要货币的上涨空间有限。”",
-          "url": "https://wallstreetcn.com/livenews/3128829",
-          "source": "华尔街见闻-快讯",
+          "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "06时12分"
         },
         {
           "title": "巴西6月贸易顺差扩大至97.58亿美元，预期盈余110亿美元。 6月出口达到362.77亿美元，预期379亿美元。 6月进口增至265.20亿美元，预期266亿美元。 1-6月贸易盈余423.57亿美元，1-5月顺差326亿美元。",
@@ -68,11 +46,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 06时12分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时12分]"
+        },
+        {
+          "title": "美联储加息预期降温致美元走弱，拉美资产迎来反弹",
+          "url": "https://wallstreetcn.com/livenews/3128831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时12分]"
+        },
+        {
+          "title": "周五美元小幅走低，有望创下12周以来的最大单周跌幅。 瑞士宝盛银行（Swissquote Bank）高级分析师Ipek Ozkardeskaya）表示：“最终将由通胀数据来决定这一转变是否会持续……我们可能会看到美元巩固近期的涨幅，未来几天黄金和主要货币的上涨空间有限。”",
+          "url": "https://wallstreetcn.com/livenews/3128829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 04时21分]"
+          "time_info": "[04时21分 ~ 06时12分]"
         },
         {
           "title": "SQM合资企业寻求智利30亿美元锂项目获批",
@@ -123,6 +138,18 @@
           "time_info": "[02时20分 ~ 04时21分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7780元，较周四夜盘收盘涨50点。成交量459.30亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时12分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.33%，暂报2234.25点，上周五结束交易以来（7*24）累计上涨5.08%，6月27-30日低位持稳于2100点附近，7月1-3日持续上扬。 MarketVectorTM数字资产100中盘指数涨1.85%，报2573.64点，最近七天累涨3.75%。 MarketVector数字资产100指数涨0.95%，报12402.25点，最近七天累涨4.56%。 目前，Solana涨0.64%、最近七天迄今累涨13%，狗狗币涨2.98%、最近七天迄今累涨1.37%，XRP涨2.77%、、最近七天迄今累涨6.81%。 比特币涨0.85%，暂报62032.74美元，最近七天迄今累涨4.07%；以太坊涨1.97%，暂报1732.62美元，最近七天迄今累涨10.49%。",
           "url": "https://wallstreetcn.com/livenews/3128802",
           "source": "华尔街见闻-快讯",
@@ -146,15 +173,26 @@
           "time_info": "02时20分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7780元，较周四夜盘收盘涨50点。成交量459.30亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3128821",
+          "title": "周五（7月3日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7853元，较周四纽约尾盘涨35点，日内整体交投于6.7901-6.7811元区间。 本周，离岸人民币累计上涨大约190点，涨幅0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3128840",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "06时12分"
+        },
+        {
+          "title": "上半年468只美元理财扎堆上新，收益4%诱人么？汇率“吃掉”三成收益",
+          "url": "https://www.cls.cn/detail/2416689",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "ICE布伦特原油9月期货结算价为每桶72.12美元。",
@@ -204,7 +242,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -214,8 +252,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -225,19 +263,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时21分]"
-        },
-        {
-          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
-          "url": "https://wallstreetcn.com/livenews/3128832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -247,8 +274,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -259,8 +286,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -270,30 +297,55 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
+        },
+        {
+          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
+          "url": "https://wallstreetcn.com/livenews/3128844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
+          "url": "https://wallstreetcn.com/livenews/3128832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时12分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
           "url": "https://www.douyin.com/hot/2556589",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时12分]"
         },
         {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
           "url": "https://wallstreetcn.com/livenews/3128826",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时12分]"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -400,9 +452,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时12分]"
         },
         {
           "title": "价格清单显示，利比亚将7月份Es Sider官方石油销售价格（OSP）定在较即期布伦特原油价格贴水0.30美元/桶，创2025年6月份以来新低；6月份为溢价1.30美元/桶。 将Sharara的OSP定在溢价0.50美元/桶，之前为溢价1.50美元/桶。（彭博）",
@@ -430,7 +482,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
@@ -441,8 +493,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
+          "url": "https://wallstreetcn.com/livenews/3128820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时12分]"
         },
         {
           "title": "金十图示：2026年07月03日（周五）全球股市指数-欧洲市场",
@@ -467,6 +531,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "加拿大标普/TSX综合指数收涨0.88%，报35274.84点，投资者看好总理卡尼披露的西海岸新版管道输送项目，本周累计上涨0.84%。 小盘股指收涨1.73%，报1426.61点，本周累涨2.77%。 周五（7月3日）北美尾盘，加拿大10年期基准国债收益率跌0.4个基点，报3.443%，本周累涨5.7个基点。 两年期加债收益率跌0.5个基点，报2.756%，本周累涨1.1个基点。",
+          "url": "https://wallstreetcn.com/livenews/3128838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "德国DAX30指数7月3日（周五）收盘上涨255.17点，涨幅1.00%，报25801.57点；<br/>英国富时100指数7月3日（周五）收盘上涨24.78点，涨幅0.23%，报10677.65点；<br/>法国CAC40指数7月3日（周五）收盘上涨33.21点，涨幅0.39%，报8508.07点；<br/>欧洲斯托克50指数7月3日（周五）收盘上涨56.09点，涨幅0.88%，报6416.56点；<br/>西班牙IBEX35指数7月3日（周五）收盘上涨173.97点，涨幅0.88%，报19845.77点；<br/>意大利富时MIB指数7月3日（周五）收盘上涨389.32点，涨幅0.74%，报52817.50点。",
           "url": "https://flash.jin10.com/detail/20260703234021263800",
           "source": "金十数据",
@@ -476,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
-          "url": "https://wallstreetcn.com/livenews/3128820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.87%，报25804.17点，本周累涨约4.7%。 法国股指初步收涨0.45%，意大利股指初步收涨0.75%、银行指数涨0.56%，英国股指初步收涨0.18%。",
@@ -525,8 +589,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时12分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -539,6 +603,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 04时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
+          "url": "https://wallstreetcn.com/livenews/3128834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     }

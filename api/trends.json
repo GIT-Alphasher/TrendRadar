@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T04:14:45.548590+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-07-05T06:06:12.762333+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "佛得角收获1100万美元赛事奖金",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             8,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 06时06分]"
         },
         {
           "title": "霉霉夫妇婚礼捐赠2600万美元",
@@ -29,8 +30,19 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 06时06分]"
+        },
+        {
+          "title": "MiniMax高盛电话会：对今年10亿美元ARR充满信心，模型优势在“组织敏捷性”，与国产芯片高度集成",
+          "url": "https://wallstreetcn.com/articles/3776197",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时09分 ~ 04时14分]"
+          "time_info": "[06时05分 ~ 06时06分]"
         },
         {
           "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
@@ -39,7 +51,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         }
@@ -47,7 +59,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -58,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 06时06分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -69,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 06时06分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -82,13 +94,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
+          "url": "https://flash.jin10.com/detail/20260705041238253800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 06时06分]"
+        },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
           "url": "https://wallstreetcn.com/articles/3776174",
@@ -101,16 +137,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
+          "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
+          "url": "https://wallstreetcn.com/articles/3776188",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 04时14分]"
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 06时06分]"
         }
       ]
     },
@@ -126,8 +161,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 06时06分]"
         }
       ]
     },
@@ -144,8 +179,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时11分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 06时06分]"
         }
       ]
     }

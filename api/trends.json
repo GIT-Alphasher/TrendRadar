@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T20:48:05.620470+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-07-08T23:29:37.946244+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
@@ -42,15 +42,27 @@
           "time_info": "06时19分"
         },
         {
+          "title": "布伦特原油日内涨幅达8.0%，报80.1美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3130799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
           "url": "https://wallstreetcn.com/articles/3776446",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 23时29分]"
         },
         {
           "title": "Stellantis将在美国以13,995美元起售菲亚特Topolino微型电动车",
@@ -62,6 +74,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "纽约银日内跌幅达5.5%，报57.95美元/盎司。现货白银日内跌幅达4.0%，报57.53美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3130797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "布伦特原油突破80美元/桶关口，日内当前涨幅大约7.7%。",
+          "url": "https://wallstreetcn.com/livenews/3130796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "苹果与博通达成多年期合作协议 金额超300亿美元",
@@ -81,7 +115,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -114,7 +148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -128,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普：打击伊朗小幅推高油价 涨幅将限于2美元",
+          "url": "https://flash.jin10.com/detail/20260708225102945800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美元指数7日上涨",
@@ -152,6 +197,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "FBI追查阿根廷足协3亿美元大案",
+          "url": "https://www.baidu.com/s?wd=FBI%E8%BF%BD%E6%9F%A5%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F3%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "布伦特原油期货三个月价差触及2.36美元/桶，创6月16日以来最高（美伊签署和平协议谅解备忘录次日）。<br/>",
           "url": "https://flash.jin10.com/detail/20260708181049273800",
           "source": "金十数据",
@@ -161,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "现货黄金向下触及4040美元/盎司，日内跌1.65%。纽约期金向下触及4050美元/盎司，日内跌2.59%。",
+          "url": "https://flash.jin10.com/detail/20260708224537334800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "LME期铜收跌38美元，报13366美元/吨。 LME期铝收涨22美元，报3138美元/吨。 LME期锌收跌19美元，报3572美元/吨。 LME期铅收涨4美元，报1884美元/吨。 LME期镍收跌74美元，报16348美元/吨。 LME期锡收涨286美元，报53350美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -194,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "贝佐斯的蓝色起源寻求1300亿美元估值融资",
+          "url": "https://wallstreetcn.com/livenews/3130785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了14个对手方的44.84亿美元。",
@@ -279,9 +357,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "布伦特原油日内涨幅扩大至5%，现报79.60美元/桶。WTI原油现涨4.75%。伊媒报道称，伊朗若遭遇任何新的攻击，将关闭霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260708223728177800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "英镑兑美元下跌0.2%至1.3328，触及7月2日以来低点。",
@@ -353,7 +442,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
@@ -364,8 +453,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时07分 ~ 20时48分]"
+          "appearance_count": 8,
+          "time_info": "[08时07分 ~ 23时29分]"
         },
         {
           "title": "【焦点复盘】三大指数全天缩量探底，全市场仅30余股涨停，资金逆势抱团半导体设备股",
@@ -393,6 +482,17 @@
           "time_info": "[02时08分 ~ 08时07分]"
         },
         {
+          "title": "道指狂泄超800点，跌幅扩大至超过1.5%，标普、纳指跌超1%，半导体指数跌0.6%，银行指数跌2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3130801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "财联社C50风向指数调查：6月新增社融或同比少增，M2、M1增速剪刀差走阔",
           "url": "https://www.cls.cn/detail/2420002",
           "source": "财联社热门",
@@ -409,11 +509,12 @@
           "url": "https://www.cls.cn/detail/2420504",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 23时29分]"
         },
         {
           "title": "金十图示：2026年07月08日（周三）全球股市指数-欧洲市场（盘初）",
@@ -661,7 +762,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -684,11 +785,12 @@
             5,
             4,
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 23时29分]"
         },
         {
           "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
@@ -732,8 +834,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 23时29分]"
         },
         {
           "title": "日本高中生携AI爆破被捕",
@@ -741,11 +843,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 23时29分]"
         },
         {
           "title": "张雨霏发视频AI模仿哈兰德",
@@ -801,6 +904,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "替代HBM4？英特尔公布AI内存新专利 采用定制化封装方案",
+          "url": "https://www.cls.cn/detail/2420295",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "AI旗舰模型扎堆上线，资本市场迎来ROI大考",
@@ -872,7 +997,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -934,6 +1059,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时07分 ~ 15时37分]"
+        },
+        {
+          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2420785",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "中东战火再燃，美股低开，存储股延续跌势，阿里涨9%，油价大涨5%，金银走低",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美股",
@@ -1001,7 +1148,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -1028,6 +1175,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
+          "url": "https://www.cls.cn/detail/2420472",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "美股存储芯片指数初步收跌6.8%，费城半导体指数跌4.9%。 标普500指数初步收跌0.4%，科技板块跌1.8%，工业板块跌1.6%，能源板块涨3.2%。 纳斯达克100指数初步收跌1.8%，成分股中，Astera Labs初步收跌12%，泰瑞达跌10.3%，英特尔跌10.1%，迈威尔科技/美满电子、西部数据、Nebius集团、科磊、拉姆研究、闪迪至少跌7.1%，汤森路透则涨3.2%，Workday行4%，再生元制药涨4.1%，Diamondback Energy涨4.2%，吉利德科学涨5.2%。 道指成分股里，雪佛龙涨3.6%。",
           "url": "https://wallstreetcn.com/livenews/3130154",
           "source": "华尔街见闻-快讯",
@@ -1045,7 +1203,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -1064,7 +1222,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "两融价格战压顶！利率卷到3%以下，竟比消费贷还低",
@@ -1077,6 +1235,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时08分 ~ 08时07分]"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：我们已对商品交易燃料价格设定上限。",
+          "url": "https://flash.jin10.com/detail/20260708230342956800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "现货价格",
@@ -1096,7 +1265,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -1177,12 +1346,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "纯电GLC价格给到夯",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%AF%E7%94%B5GLC%E4%BB%B7%E6%A0%BC%E7%BB%99%E5%88%B0%E5%A4%AF%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "2026人工智能大会将启幕",
@@ -1205,6 +1385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "我国人工智能产业加速发展壮大",
+          "url": "https://www.douyin.com/hot/2563823",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-08）",
@@ -1303,6 +1494,17 @@
           "time_info": "[02时08分 ~ 06时19分]"
         },
         {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 23时29分]"
+        },
+        {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
@@ -1312,17 +1514,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
         },
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",

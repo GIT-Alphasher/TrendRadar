@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T16:40:09.049814+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-07-09T20:14:02.422306+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
@@ -56,6 +56,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "现货黄金日内涨幅扩大至1%，现报4118.26美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260709200904875800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "Meta Platforms(META.O)：宣布将在加拿大阿尔伯塔省建设一座价值130亿加元（约91.7亿美元）的数据中心。该数据中心位于阿尔伯塔省斯特金县，装机容量达1吉瓦，将是公司在加拿大建设的首个数据中心。",
           "url": "https://flash.jin10.com/detail/20260709033057056800",
           "source": "金十数据",
@@ -103,6 +114,18 @@
           "time_info": "[03时47分 ~ 05时18分]"
         },
         {
+          "title": "霉霉婚礼一袋空气被卖5万美元",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%80%E8%A2%8B%E7%A9%BA%E6%B0%94%E8%A2%AB%E5%8D%965%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 20时14分]"
+        },
+        {
           "title": "美国财政部拍卖390亿美元10年期国债，得标利率4.580%（6月10日为4.538%），投标倍数2.59（前次为2.57）。",
           "url": "https://wallstreetcn.com/livenews/3130835",
           "source": "华尔街见闻-快讯",
@@ -120,17 +143,6 @@
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 16时40分]"
-        },
-        {
-          "title": "霉霉婚礼一袋空气被卖5万美元",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%80%E8%A2%8B%E7%A9%BA%E6%B0%94%E8%A2%AB%E5%8D%965%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -231,7 +243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -264,7 +276,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -275,7 +287,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -426,8 +438,22 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            22,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时48分 ~ 20时14分]"
+        },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
           "url": "https://wallstreetcn.com/articles/3776428",
@@ -437,19 +463,6 @@
             9,
             8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时48分 ~ 16时40分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            22,
-            26
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -473,11 +486,12 @@
           "url": "https://www.cls.cn/detail/2421215",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 20时14分]"
         },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -485,11 +499,35 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 20时14分]"
+        },
+        {
+          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
+          "url": "https://www.cls.cn/detail/2421292",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 20时14分]"
+        },
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 16时40分]"
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
         },
         {
           "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
@@ -501,6 +539,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 20时14分]"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
@@ -527,28 +577,6 @@
           "time_info": "[01时48分 ~ 05时18分]"
         },
         {
-          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
-          "url": "https://www.cls.cn/detail/2421292",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 16时40分]"
-        },
-        {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 16时40分]"
-        },
-        {
           "title": "创业板涨超4%，科创50狂飙7%，中芯国际市值超贵州茅台，AI大模型双雄分化，智谱涨5%、MINIMAX大跌20%",
           "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
@@ -560,6 +588,17 @@
           "time_info": "[16时39分 ~ 16时40分]"
         },
         {
+          "title": "科技股暴跌只是“健康回调”？美知名投行：AI主题拥有“绝对主导地位”！",
+          "url": "https://www.cls.cn/detail/2421277",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
+        },
+        {
           "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
           "url": "https://flash.jin10.com/detail/20260709043940767800",
           "source": "金十数据",
@@ -569,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "报道：Meta计划于9月开始生产AI芯片，并计划将计算能力翻倍",
+          "url": "https://wallstreetcn.com/livenews/3131345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "OpenAI：发布国家安全原则文件。",
@@ -591,6 +641,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "鼎龙股份：预计上半年净利润5.1亿元-5.4亿元，同比增长63.96%-73.61%；受益于全球半导体产业拓展与技术迭代，AI算力、存储芯片需求持续释放，带动下游晶圆制造产能持续扩容。公司半导体材料业务保持良好增长态势，多款核心创新材料验证落地、持续放量。",
+          "url": "https://wallstreetcn.com/livenews/3131337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "【大族数控：预计上半年净利润同比增长241.85%–279.84%】大族数控公告，预计2026年上半年净利润为9亿元–10亿元，同比增长241.85%–279.84%。公司紧抓行业龙头客户扩产及新产品研发带来的投资机遇，AI PCB相关解决方案营收占比显著提升，应用于保障新一代高频高速PCB信号及电源完整性的高精度背钻方案、高阶及mSAP工艺HDI钻孔方案、高精度成型方案等相关的高附加值产品产销两旺，促使公司营收结构得到进一步优化，2026年半年度营业收入同比增长100%以上。",
+          "url": "https://wallstreetcn.com/livenews/3131331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "星巴克借助AI减少对微软、IBM软件的依赖",
+          "url": "https://wallstreetcn.com/livenews/3131328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -662,7 +745,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
@@ -751,7 +834,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -766,6 +849,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 03时47分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：7月资金面或维持中性偏松，政府债供给将迎加速",
+          "url": "https://www.cls.cn/detail/2421229",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.22%，报23983点。 恒生科技指数主连夜盘收跌0.36%，报4681点。",
@@ -852,7 +946,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
@@ -860,7 +954,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -876,6 +970,18 @@
           "time_info": "[01时48分 ~ 07时18分]"
         },
         {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 20时14分]"
+        },
+        {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
           "url": "https://www.cls.cn/detail/2421032",
           "source": "财联社热门",
@@ -885,17 +991,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时17分 ~ 16时40分]"
-        },
-        {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 16时40分]"
         },
         {
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
@@ -932,13 +1027,24 @@
           "time_info": "[12时05分 ~ 16时40分]"
         },
         {
+          "title": "海力士美股IPO点燃AI热情，美光盘前涨3%、康宁涨5%，韩股弱势反弹，黄金触及4100",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
+        },
+        {
           "title": "美股盘前，明星科技股多数反弹，美光科技涨超3%，英特尔涨超3%，康宁涨超5%；阿里巴巴盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3131190",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1004,7 +1110,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1043,7 +1149,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1065,7 +1171,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1087,7 +1193,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1137,7 +1243,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1176,7 +1282,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }

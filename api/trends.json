@@ -1,105 +1,79 @@
 {
-  "generated_at": "2026-07-11T01:54:20.920480+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-11T03:46:47.204807+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "美元",
+      "match_count": 11,
       "titles": [
         {
-          "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
+          "title": "美元兑日元涨0.4%",
+          "url": "https://wallstreetcn.com/livenews/3132229",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时46分"
         },
         {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7770元，较周四夜盘收盘涨140点。成交量483.25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3132225",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时46分"
         },
-        {
-          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
-          "url": "https://www.cls.cn/detail/2423160",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "存储芯片巨头SK海力士登陆美股",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
         {
           "title": "周五（7月10日），美联储隔夜逆回购协议（RRP）使用规模为5.45亿美元（交易对手3家），上个交易日报57.72亿美元。",
           "url": "https://wallstreetcn.com/livenews/3132202",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.93%，暂报2213.15点，上周五结束交易以来（7*24）累计下跌0.99%，7月4-7日大致交投于2240点附近，7月8-10日呈现出V形走势。 MarketVectorTM数字资产100中盘指数涨3.05%，报2616.89点，最近七天累涨1.56%。 MarketVector数字资产100指数涨2.09%，报12715.52点，最近七天累涨2.55%。 目前，Solana跌0.09%、最近七天迄今累跌5.74%，狗狗币涨1.60%、最近七天迄今累跌4.95%，XRP涨0.75%、最近七天迄今累跌3.15%。 比特币涨1.38%，暂报64086.93美元，最近七天迄今累涨2.06；以太坊涨2.63%，暂报1793.54美元，最近七天迄今累涨1.64%。",
           "url": "https://wallstreetcn.com/livenews/3132197",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶76.01美元，下跌29美分，跌幅0.38%。",
+          "url": "https://flash.jin10.com/detail/20260711025802605800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时46分"
+        },
+        {
+          "title": "WTI 8月原油期货收跌0.67美元，跌幅0.93%，报71.41美元/桶，本周累计上涨将近3.96%。 布伦特9月原油期货收跌0.29美元，跌幅0.38%，报76.01美元/桶，本周累涨超5.39%。 中东Abu Dhabi Murban原油期货跌0.99%，报70.66美元/桶，本周累涨6.29%。 NYMEX 8月天然气期货收报2.94美元/百万英热单位。 NYMEX 8月汽油期货收报2.9846美元/加仑，NYMEX 8月取暖油期货收报3.5533美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3132221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "LME期铜收跌5美元，报13484美元/吨。 LME期铝收跌61美元，报3140美元/吨。 LME期锌收跌10美元，报3616美元/吨。 LME期铅收涨4美元，报1896美元/吨。 LME期镍收涨154美元，报16741美元/吨。 LME期锡收跌522美元，报53125美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -113,6 +87,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "华平投资即将达成超70亿美元的制药公司收购案。 华平投资即将斥资逾70亿美元收购罕见病药房企业 Pantherx Rare。 华平投资将与阿布扎比投资局（ADIA）合作完成此次收购。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3132217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了3个对手方的5.45亿美元。",
           "url": "https://flash.jin10.com/detail/20260711011624031800",
           "source": "金十数据",
@@ -122,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶71.41美元，下跌67美分，跌幅0.93%。",
+          "url": "https://flash.jin10.com/detail/20260711023148406800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "WTI原油日内跌幅达1.5%，报70.97美元/桶。",
@@ -137,20 +133,83 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 6,
       "titles": [
         {
-          "title": "欧洲央行Moulin：AI可能加剧通胀波动",
-          "url": "https://wallstreetcn.com/livenews/3132205",
-          "source": "华尔街见闻-快讯",
+          "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
+        },
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
         },
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
+        },
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
+        },
+        {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
+        },
+        {
+          "title": "存储芯片巨头SK海力士登陆美股",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 4,
+      "titles": [
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
           "url": "https://wallstreetcn.com/articles/3776606",
@@ -163,15 +222,28 @@
           "time_info": "01时54分"
         },
         {
+          "title": "欧洲央行Moulin：AI可能加剧通胀波动",
+          "url": "https://wallstreetcn.com/livenews/3132205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
+        },
+        {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
           "url": "https://wallstreetcn.com/articles/3776629",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -181,8 +253,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
         }
       ]
     },
@@ -227,7 +299,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
@@ -237,8 +309,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.33%，报24238点。 恒生科技指数主连夜盘收涨0.40%，报4742点。",
+          "url": "https://wallstreetcn.com/livenews/3132226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时46分"
         }
       ]
     },
@@ -254,8 +337,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时46分]"
         }
       ]
     }

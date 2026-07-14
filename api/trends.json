@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T11:26:11.583885+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-07-14T14:20:41.788446+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -37,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -81,7 +81,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -119,6 +119,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "对印度投入巨资？新西兰政府内部围绕200亿美元投资的关键表述闹分歧",
           "url": "https://wallstreetcn.com/livenews/3133125",
           "source": "华尔街见闻-快讯",
@@ -139,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "软银孙正义：AI热潮将需要每年5万亿美元的投资",
+          "url": "https://flash.jin10.com/detail/20260714140556923800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "WTI原油期货涨幅一度扩大至将近6%，报75.79美元。 据伊朗塔斯尼姆通讯社，沙特阿拉伯艾卜哈国际机场遭袭。",
@@ -224,7 +246,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -279,7 +301,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -312,7 +334,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -334,7 +356,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -345,7 +367,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -367,9 +389,376 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "红利“标杆”9连阳！本月跑赢9成个股，红利系指数月内领跑，ETF份额如何变动？",
+          "url": "https://www.cls.cn/detail/2424692",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 08时01分]"
+        },
+        {
+          "title": "A股三大指数均跌超1%，创业板指此前一度涨近2%，军工、半导体、游戏、算力租赁等方向跌幅居前，沪深京三市下跌个股近3500只。",
+          "url": "https://wallstreetcn.com/livenews/3133283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "泰国股指SET指数下跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3133279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "【每日收评】三大指数均跌超2%，全市场逾170股跌停，中药、银行等防御板块逆势走强",
+          "url": "https://www.cls.cn/detail/2424589",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低1.4%报44,737.95点。",
+          "url": "https://wallstreetcn.com/livenews/3133359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "纳斯达克100指数指数跌幅扩大至2%，刷新日低，闪迪跌13.7%，Astera Labs跌13.2%，英特尔跌7.2%，CoreWeave跌6.2%。半导体指数跌5.2%，存储芯片指数维持7.8%的跌幅。标普500指数跌0.8%，纳指跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3133053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "科创50指数跌幅扩大至3%，中芯国际、寒武纪、海光信息、华虹宏力、中微公司、盛合晶微等纷纷走低。",
+          "url": "https://wallstreetcn.com/livenews/3133273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "科创50指数跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20260714105630846800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "欧洲斯托克50指数期货下跌0.35%，德国DAX指数期货下跌0.35%，英国富时指数期货下跌0.28%。",
+          "url": "https://flash.jin10.com/detail/20260714140357429800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.18%，报24158点。 恒生科技指数主连夜盘收跌0.26%，报4671点。",
+          "url": "https://wallstreetcn.com/livenews/3133049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "韩国KOSPI指数日内再度涨超1%，SK海力士涨2.9%，三星电子涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3133343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "德国6月批发物价指数年率 4.9%，前值5.9%。",
+          "url": "https://flash.jin10.com/detail/20260714140004649800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "德国6月批发物价指数月率 -0.7%，前值-0.6%。",
+          "url": "https://flash.jin10.com/detail/20260714140004641800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "富时中国A50指数期货涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3133339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "金十图示：2026年07月13日（周一）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260714042224821800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "韩国KOSPI指数转涨，此前一度跌超5%，三星电子涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3133329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "标普500指数的11个板块中，信息技术/科技板块跌2.07%，电信板块跌0.98%，能源板块涨3.16%——创2月3日以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/3133071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 08时01分]"
+        },
+        {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 14时20分]"
+        },
+        {
+          "title": "韩国政府拟对几家参与政府AI项目的企业发放英伟达GPU",
+          "url": "https://flash.jin10.com/detail/20260714141208558800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "台风淹水致商铺狼藉图片为AI合成",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 14时20分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 14时20分]"
+        },
+        {
+          "title": "中国自研AI芯片取得架构突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时01分]"
+        },
+        {
+          "title": "看陈泽AI跳舞是一种挑战",
+          "url": "https://www.douyin.com/hot/2570068",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "AI时代CPU为何翻红",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3CPU%E4%B8%BA%E4%BD%95%E7%BF%BB%E7%BA%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时01分]"
+        },
+        {
+          "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
+          "url": "https://wallstreetcn.com/livenews/3133128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
+          "url": "https://wallstreetcn.com/livenews/3133124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
+          "url": "https://flash.jin10.com/detail/20260714050653705800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "AI脸 恐怖谷效应",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
+          "url": "https://flash.jin10.com/detail/20260714043115058800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
+          "url": "https://wallstreetcn.com/livenews/3133081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     },
@@ -385,8 +774,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 11时26分]"
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 14时20分]"
         },
         {
           "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
@@ -397,8 +786,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 11时26分]"
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 14时20分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -409,8 +798,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 11时26分]"
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 14时20分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -446,6 +835,19 @@
           "time_info": "02时02分"
         },
         {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 14时20分]"
+        },
+        {
           "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
           "url": "https://wallstreetcn.com/livenews/3133099",
           "source": "华尔街见闻-快讯",
@@ -478,18 +880,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 06时03分]"
-        },
-        {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 11时26分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.36%，报306.62点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌2.43%，报2115.08点。 在美股时段交易的原材料指数收跌0.89%，报234.18点。 在美股时段交易的金属与矿业指数收跌0.33%，报263.72点。",
@@ -538,259 +928,97 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 12,
+      "keyword_group": "价格",
+      "match_count": 8,
       "titles": [
         {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
+          "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
+          "url": "https://www.zhihu.com/question/2059629861941895196",
+          "source": "知乎",
           "ranks": [
-            5
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 14时20分]"
         },
         {
-          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
-          "url": "https://wallstreetcn.com/articles/3776779",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 11时26分]"
-        },
-        {
-          "title": "中国自研AI芯片取得架构突破",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时01分]"
-        },
-        {
-          "title": "台风淹水致商铺狼藉图片为AI合成",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "看陈泽AI跳舞是一种挑战",
-          "url": "https://www.douyin.com/hot/2570068",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "AI时代CPU为何翻红",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3CPU%E4%B8%BA%E4%BD%95%E7%BF%BB%E7%BA%A2",
+          "title": "索尼动态价格已涉及游戏原价",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E5%8A%A8%E6%80%81%E4%BB%B7%E6%A0%BC%E5%B7%B2%E6%B6%89%E5%8F%8A%E6%B8%B8%E6%88%8F%E5%8E%9F%E4%BB%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时01分]"
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
-          "url": "https://wallstreetcn.com/livenews/3133128",
-          "source": "华尔街见闻-快讯",
+          "title": "分析师：受汽油价格大幅下跌影响，美国6月通胀月率预计将下降0.2%",
+          "url": "https://flash.jin10.com/detail/20260714110109437800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
-          "url": "https://wallstreetcn.com/livenews/3133124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
-          "url": "https://flash.jin10.com/detail/20260714050653705800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
-          "url": "https://flash.jin10.com/detail/20260714043115058800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
-          "url": "https://wallstreetcn.com/livenews/3133081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "红利“标杆”9连阳！本月跑赢9成个股，红利系指数月内领跑，ETF份额如何变动？",
-          "url": "https://www.cls.cn/detail/2424692",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 08时01分]"
-        },
-        {
-          "title": "A股三大指数均跌超1%，创业板指此前一度涨近2%，军工、半导体、游戏、算力租赁等方向跌幅居前，沪深京三市下跌个股近3500只。",
-          "url": "https://wallstreetcn.com/livenews/3133283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "11时26分"
         },
         {
-          "title": "泰国股指SET指数下跌1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3133279",
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260714073537482800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "周一（7月13日），彭博电动汽车价格回报指数跌2.12%，报3363.74点，亚太盘初曾短暂地微幅冲高回落，北京时间10:00前后跌幅显著，11:00以来持稳于3380点附近，美股开盘后略微地持续扩大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3133095",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "06时03分"
         },
         {
-          "title": "【每日收评】三大指数均跌超2%，全市场逾170股跌停，中药、银行等防御板块逆势走强",
-          "url": "https://www.cls.cn/detail/2424589",
-          "source": "财联社热门",
+          "title": "美联储理事沃勒：通过设定一个明确的通胀区间，我们就能拥有一个清晰的价格指标作为政策基准。",
+          "url": "https://flash.jin10.com/detail/20260714012654143800",
+          "source": "金十数据",
           "ranks": [
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
         {
-          "title": "纳斯达克100指数指数跌幅扩大至2%，刷新日低，闪迪跌13.7%，Astera Labs跌13.2%，英特尔跌7.2%，CoreWeave跌6.2%。半导体指数跌5.2%，存储芯片指数维持7.8%的跌幅。标普500指数跌0.8%，纳指跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3133053",
-          "source": "华尔街见闻-快讯",
+          "title": "花旗：受厄尔尼诺现象影响，冬季气温可能较常年偏高，这将给天然气期货价格带来额外的下行压力。",
+          "url": "https://flash.jin10.com/detail/20260714135934267800",
+          "source": "金十数据",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "科创50指数跌幅扩大至3%，中芯国际、寒武纪、海光信息、华虹宏力、中微公司、盛合晶微等纷纷走低。",
-          "url": "https://wallstreetcn.com/livenews/3133273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "14时20分"
         },
         {
-          "title": "科创50指数跌幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20260714105630846800",
+          "title": "花旗维持对2027年及2027年第一季度亨利枢纽天然气平均价格的预测，分别为2.8美元/百万英热和3.2美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260714135748905800",
           "source": "金十数据",
           "ranks": [
-            15
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.18%，报24158点。 恒生科技指数主连夜盘收跌0.26%，报4671点。",
-          "url": "https://wallstreetcn.com/livenews/3133049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260714042224821800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "标普500指数的11个板块中，信息技术/科技板块跌2.07%，电信板块跌0.98%，能源板块涨3.16%——创2月3日以来最佳单日表现。",
-          "url": "https://wallstreetcn.com/livenews/3133071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "time_info": "14时20分"
         }
       ]
     },
@@ -806,8 +1034,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 11时26分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 14时20分]"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -817,8 +1045,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 11时26分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 14时20分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -871,81 +1099,37 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
       ]
     },
     {
-      "keyword_group": "价格",
-      "match_count": 6,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "索尼动态价格已涉及游戏原价",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E5%8A%A8%E6%80%81%E4%BB%B7%E6%A0%BC%E5%B7%B2%E6%B6%89%E5%8F%8A%E6%B8%B8%E6%88%8F%E5%8E%9F%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
-          "url": "https://www.zhihu.com/question/2059629861941895196",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "分析师：受汽油价格大幅下跌影响，美国6月通胀月率预计将下降0.2%",
-          "url": "https://flash.jin10.com/detail/20260714110109437800",
+          "title": "德银维持看空美债久期 预计10年期收益率年底升至4.8%",
+          "url": "https://flash.jin10.com/detail/20260714141128745800",
           "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "14时20分"
         },
         {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260714073537482800",
-          "source": "金十数据",
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "周一（7月13日），彭博电动汽车价格回报指数跌2.12%，报3363.74点，亚太盘初曾短暂地微幅冲高回落，北京时间10:00前后跌幅显著，11:00以来持稳于3380点附近，美股开盘后略微地持续扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3133095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "美联储理事沃勒：通过设定一个明确的通胀区间，我们就能拥有一个清晰的价格指标作为政策基准。",
-          "url": "https://flash.jin10.com/detail/20260714012654143800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "14时20分"
         }
       ]
     },
@@ -958,11 +1142,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 14时20分]"
         }
       ]
     }

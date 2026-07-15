@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-15T11:26:36.171614+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-07-15T14:24:48.866138+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 14时24分]"
+        },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
@@ -33,17 +47,17 @@
           "time_info": "[00时23分 ~ 08时01分]"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            7,
-            4
+            11,
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 11时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 14时24分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -56,19 +70,6 @@
             8,
             23,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 11时26分]"
-        },
-        {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            14,
-            13
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -101,6 +102,29 @@
           "time_info": "[02时11分 ~ 08时01分]"
         },
         {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 14时24分]"
+        },
+        {
+          "title": "金山办公将推出独立AI办公智能体灵犀专业版，率先上线PC端",
+          "url": "https://wallstreetcn.com/livenews/3134128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
           "url": "https://wallstreetcn.com/livenews/3133848",
           "source": "华尔街见闻-快讯",
@@ -112,15 +136,15 @@
           "time_info": "04时20分"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "帮美国打伊朗，换来AI芯片“绿灯”！阿联酋与特朗普家族的利益交换浮出水面",
+          "url": "https://flash.jin10.com/detail/20260715135111358800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "14时24分"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -133,6 +157,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时12分]"
+        },
+        {
+          "title": "AI短剧以假乱真了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 14时24分]"
         },
         {
           "title": "OpenAI计划推出家用智能音箱",
@@ -166,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "WAIC 2026即将启幕",
+          "url": "https://search.bilibili.com/all?keyword=WAIC%202026%E5%8D%B3%E5%B0%86%E5%90%AF%E5%B9%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "OpenAI回应苹果诉讼：我们严肃对待这些指控。",
@@ -207,7 +254,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -265,17 +312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "AI短剧以假乱真了",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
         },
         {
           "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
@@ -380,8 +416,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "据NBC新闻：根据美国国防部的公开估算，伊朗战争耗资约300亿美元，但美国内部估算的总成本则在800亿至1000亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260715135439086800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
         {
           "title": "美联储主席沃什：美元互换额度是货币政策独立性的一部分。",
           "url": "https://wallstreetcn.com/livenews/3133768",
@@ -416,6 +463,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "机构：预估陪伴型人形机器人2030年产值达11亿美元",
+          "url": "https://wallstreetcn.com/livenews/3134124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "韩国向乌克兰提供一亿美元援助，这对俄罗斯有何影响？",
           "url": "https://www.zhihu.com/question/2059387546061349903",
           "source": "知乎",
@@ -438,6 +496,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时12分]"
+        },
+        {
+          "title": "机构：预估陪伴型人形机器人2030年产值达11亿美元",
+          "url": "https://flash.jin10.com/detail/20260715135027034800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "美联储主席沃什：美元流动性互换额度是货币政策的一部分。",
@@ -471,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "SK海力士ADR涨幅扩大至19.37%，刷新日高至181.97美元。",
@@ -581,211 +661,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "长鑫科技公告：发行价格为8.66元/股",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%EF%BC%9A%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC%E4%B8%BA8.66%E5%85%83%2F%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            7,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 08时01分]"
         },
         {
-          "title": "彭博美元指数跌幅收窄，美联储主席沃什正在讲话。 美国国债价格回吐涨幅，沃什淡化美国6月CPI通胀数据的意义。",
-          "url": "https://wallstreetcn.com/livenews/3133769",
+          "title": "投行Jefferies把美国银行目标股价从70美元上调至75美元。",
+          "url": "https://wallstreetcn.com/livenews/3134088",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
-          "url": "https://wallstreetcn.com/livenews/3133851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美联储主席沃什：更广泛的价格稳定目标仍在我心中，我们将看看是否还有进一步的改革。我希望价格的变化能够让人们不再谈论它。",
-          "url": "https://flash.jin10.com/detail/20260714235111281800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "高盛谈原油：如果海湾地区出口复苏持续停滞并导致产量反弹延迟，布伦特原油价格在2026年第四季度可能会突破110美元/桶。 如果产量超出预期，且在高零售燃料价格的背景下需求复苏更加缓慢，到今年年底布伦特原油价格可能潜在下跌至60多美元。",
-          "url": "https://wallstreetcn.com/livenews/3134056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "共享单车起步价再次全面上调，网友反映「一扫开就近两块钱」，价格为何不断上涨？会影响大家的出行选择吗？",
-          "url": "https://www.zhihu.com/question/2060008266927810048",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
-          "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时12分]"
-        },
-        {
-          "title": "消息人士称，Coreweave(CRWV.O)正在探索使用金融衍生品，以对冲未来存储芯片价格下跌的风险。",
-          "url": "https://flash.jin10.com/detail/20260715074836964800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "产能持续去化，生猪价格下半年运行重心或上移",
-          "url": "https://wallstreetcn.com/livenews/3133928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260715073740723800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "高盛：若产量超出预期，且在零售燃油价格高企的背景下需求复苏缓慢，布伦特原油价格年底可能跌至60美元区间。",
-          "url": "https://flash.jin10.com/detail/20260715105101221800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "报道：托克向LME仓库创纪录交割铅，引发价格跳水",
-          "url": "https://wallstreetcn.com/livenews/3133811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "英债价格于美国CPI通胀数据发布日呈现出V形走势",
-          "url": "https://wallstreetcn.com/livenews/3133810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "高盛：若海湾地区出口复苏持续停滞并推迟产量回升，2026年第四季度布伦特原油价格可能突破每桶110美元。",
-          "url": "https://flash.jin10.com/detail/20260715105032798800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报153200元/吨，较上日16:30价格下跌750元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3134036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "美联储主席沃什：关于“我有一个青睐的通胀指标”的说法并不正确。 相比失业率，美联储对价格水平的掌控能力更大。",
-          "url": "https://wallstreetcn.com/livenews/3133801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "美国电网运营巨头PJM Interconnection LLC：价格上限机制阻止了容量价格飙升至554.72美元/兆瓦天。",
-          "url": "https://wallstreetcn.com/livenews/3133876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
+          "time_info": "14时24分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
@@ -806,7 +698,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -861,7 +753,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -877,6 +769,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "中国台湾证交所加权股价指数收高2%报45,631.59点。",
+          "url": "https://wallstreetcn.com/livenews/3134115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "金十图示：2026年07月14日（周二）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260714234056146800",
           "source": "金十数据",
@@ -886,6 +789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "科创50指数跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3134111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.18%，报24400点。 恒生科技指数主连夜盘收跌0.11%，报4692点。",
@@ -954,13 +868,24 @@
           "time_info": "08时01分"
         },
         {
+          "title": "台湾加权指数7月15日（周三）收盘上涨893.64点，涨幅2.0%，报45631.59点。",
+          "url": "https://flash.jin10.com/detail/20260715133508253800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "截至早盘收盘，日经225指数涨0.9%，东证指数涨0.5%。",
           "url": "https://wallstreetcn.com/livenews/3134038",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -974,6 +899,238 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3134099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "A股三大指数拉升翻红，科创50指数跌幅收窄至2.4%。",
+          "url": "https://flash.jin10.com/detail/20260715133213641800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "日本5月第三产业活动指数环比 1.1%，预期 0.4%，前值 1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3134097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "长鑫科技公告：发行价格为8.66元/股",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%EF%BC%9A%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC%E4%B8%BA8.66%E5%85%83%2F%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            7,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 08时01分]"
+        },
+        {
+          "title": "彭博美元指数跌幅收窄，美联储主席沃什正在讲话。 美国国债价格回吐涨幅，沃什淡化美国6月CPI通胀数据的意义。",
+          "url": "https://wallstreetcn.com/livenews/3133769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
+          "url": "https://wallstreetcn.com/livenews/3133851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "美联储主席沃什：更广泛的价格稳定目标仍在我心中，我们将看看是否还有进一步的改革。我希望价格的变化能够让人们不再谈论它。",
+          "url": "https://flash.jin10.com/detail/20260714235111281800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "高盛谈原油：如果海湾地区出口复苏持续停滞并导致产量反弹延迟，布伦特原油价格在2026年第四季度可能会突破110美元/桶。 如果产量超出预期，且在高零售燃料价格的背景下需求复苏更加缓慢，到今年年底布伦特原油价格可能潜在下跌至60多美元。",
+          "url": "https://wallstreetcn.com/livenews/3134056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "共享单车起步价再次全面上调，网友反映「一扫开就近两块钱」，价格为何不断上涨？会影响大家的出行选择吗？",
+          "url": "https://www.zhihu.com/question/2060008266927810048",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时12分]"
+        },
+        {
+          "title": "消息人士称，Coreweave(CRWV.O)正在探索使用金融衍生品，以对冲未来存储芯片价格下跌的风险。",
+          "url": "https://flash.jin10.com/detail/20260715074836964800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "产能持续去化，生猪价格下半年运行重心或上移",
+          "url": "https://wallstreetcn.com/livenews/3133928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260715073740723800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "高盛：若产量超出预期，且在零售燃油价格高企的背景下需求复苏缓慢，布伦特原油价格年底可能跌至60美元区间。",
+          "url": "https://flash.jin10.com/detail/20260715105101221800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "报道：托克向LME仓库创纪录交割铅，引发价格跳水",
+          "url": "https://wallstreetcn.com/livenews/3133811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "英债价格于美国CPI通胀数据发布日呈现出V形走势",
+          "url": "https://wallstreetcn.com/livenews/3133810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "高盛：若海湾地区出口复苏持续停滞并推迟产量回升，2026年第四季度布伦特原油价格可能突破每桶110美元。",
+          "url": "https://flash.jin10.com/detail/20260715105032798800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报153200元/吨，较上日16:30价格下跌750元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3134036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "美联储主席沃什：关于“我有一个青睐的通胀指标”的说法并不正确。 相比失业率，美联储对价格水平的掌控能力更大。",
+          "url": "https://wallstreetcn.com/livenews/3133801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC：价格上限机制阻止了容量价格飙升至554.72美元/兆瓦天。",
+          "url": "https://wallstreetcn.com/livenews/3133876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         }
       ]
     },
@@ -1014,8 +1171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时00分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时00分 ~ 14时24分]"
         },
         {
           "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
@@ -1026,8 +1183,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时00分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时00分 ~ 14时24分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，海力士ADR飙升27%，IBM暴跌25%，油金齐涨",
@@ -1041,6 +1198,17 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 14时24分]"
+        },
+        {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
@@ -1050,17 +1218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
         },
         {
           "title": "SK海力士美股暴涨超27%",
@@ -1102,7 +1259,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -1217,7 +1374,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -1240,12 +1397,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "曝DeepSeek计划明年上市",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
@@ -1257,6 +1425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美债收益率亚洲时段回升 但CPI低于预期限制涨幅",
+          "url": "https://flash.jin10.com/detail/20260715133632771800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "据知情人士透露，高盛100亿美元高评级债券发行获得大约320亿美元认购。 在6-31年的三部分到期时间债券供应中，久期最长的债券收益率定价较可比美债溢价大约113个基点，最初讨论的收窄大约22个基点。（彭博）",

@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T05:11:55.204719+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-07-17T11:29:52.366242+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
+          "url": "https://wallstreetcn.com/articles/3777098",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 11时29分]"
+        },
         {
           "title": "美元指数16日上涨",
           "url": "https://flash.jin10.com/detail/20260717045050743800",
@@ -14,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -65,27 +77,17 @@
           "time_info": "[01时27分 ~ 05时11分]"
         },
         {
-          "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
-          "url": "https://wallstreetcn.com/articles/3777098",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时11分]"
-        },
-        {
           "title": "世界杯冠军奖金5000万美元",
           "url": "https://www.toutiao.com/trending/7662510119124877348/",
           "source": "今日头条",
           "ranks": [
             6,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 11时29分]"
         },
         {
           "title": "世界杯冠军奖金5000万美元 历史最高",
@@ -162,7 +164,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -173,7 +175,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -206,7 +208,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -239,7 +241,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -272,7 +274,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -305,7 +307,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -327,7 +329,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -349,7 +351,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -360,7 +362,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -382,9 +384,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "外汇局：前5个月外资来华各类投资净增加约1600亿美元",
+          "url": "https://wallstreetcn.com/livenews/3135409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -423,7 +436,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -433,8 +446,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 11时29分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -454,9 +467,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
+          "url": "https://www.cls.cn/detail/2428882",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "AI站稳产业圈顶流C位",
+          "url": "https://www.douyin.com/hot/2574370",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -494,6 +529,17 @@
           "time_info": "[01时27分 ~ 05时11分]"
         },
         {
+          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 11时29分]"
+        },
+        {
           "title": "披着AI外衣的现实短片",
           "url": "https://www.douyin.com/hot/2573340",
           "source": "抖音",
@@ -506,15 +552,48 @@
           "time_info": "[03时24分 ~ 05时11分]"
         },
         {
-          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777092",
-          "source": "华尔街见闻",
+          "title": "AI竞赛迎头赶上？印度一个月内迎来第二家AI独角兽",
+          "url": "https://wallstreetcn.com/livenews/3135442",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "11时29分"
+        },
+        {
+          "title": "长期AI怀疑论者：OpenAI恐成为AI时代的“雷曼兄弟”",
+          "url": "https://flash.jin10.com/detail/20260717105735927800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -526,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
@@ -561,6 +651,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "解读爆火AI短片垃圾站",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%88%86%E7%81%ABAI%E7%9F%AD%E7%89%87%E5%9E%83%E5%9C%BE%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
           "url": "https://wallstreetcn.com/livenews/3135211",
           "source": "华尔街见闻-快讯",
@@ -575,7 +676,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -600,13 +701,46 @@
           "time_info": "[01时27分 ~ 05时11分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "美股存储芯片指数收跌超8%",
           "url": "https://wallstreetcn.com/livenews/3135275",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -615,11 +749,34 @@
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 11时29分]"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "巴菲特怒斥美股投机狂热",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%80%92%E6%96%A5%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E7%8B%82%E7%83%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
@@ -628,7 +785,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -639,9 +796,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "华尔街机构：散户影响力空前提升 美股交易格局正在重塑",
+          "url": "https://www.cls.cn/detail/2428851",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -650,7 +818,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -661,7 +829,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -672,7 +840,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -683,7 +851,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -694,7 +862,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -713,7 +881,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2026年07月16日（周四）华尔街恐惧与贪婪指数（美盘后）",
@@ -722,7 +890,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -733,7 +901,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -749,13 +917,24 @@
           "time_info": "03时24分"
         },
         {
+          "title": "恒生生物科技指数日内跌超6%。康方生物、三生制药、微创机器人跌超11%，英矽智能跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3135421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "道琼斯指数7月16日（周四）收盘下跌105.14点，跌幅0.20%，报52553.50点；<br/>标普500指数7月16日（周四）收盘下跌38.54点，跌幅0.51%，报7533.86点；<br/>纳斯达克综合指数7月16日（周四）收盘下跌387.28点，跌幅1.47%，报25881.95点。",
           "url": "https://flash.jin10.com/detail/20260717040538190800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -766,7 +945,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -777,9 +956,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数跌4.4%，东证指数跌2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3135417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "富时中国A50指数期货跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20260717104931373800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "恒生科技指数日内跌超3%，智谱跌超15%，MINIMAX跌10%。",
+          "url": "https://wallstreetcn.com/livenews/3135412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数大致持平，报392.91点。 在十个板块中，北欧工业板块涨幅最大。 Indutrade AB涨17.1%，在一众北欧个股里领跑。",
@@ -791,13 +1003,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "纳斯达克100指数期货日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3135405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "国内品牌金饰价格延续跌势",
+          "url": "https://flash.jin10.com/detail/20260717110448903800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "国内成品油价格迎本月第二次调整",
+          "url": "https://www.douyin.com/hot/2574280",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
         {
           "title": "茉莉花价格创新高花农却无花可卖",
           "url": "https://www.baidu.com/s?wd=%E8%8C%89%E8%8E%89%E8%8A%B1%E4%BB%B7%E6%A0%BC%E5%88%9B%E6%96%B0%E9%AB%98%E8%8A%B1%E5%86%9C%E5%8D%B4%E6%97%A0%E8%8A%B1%E5%8F%AF%E5%8D%96",
@@ -863,15 +1108,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报152450元/吨，较上日16:30价格上涨1250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3135416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -881,8 +1137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 11时29分]"
         },
         {
           "title": "世界人工智能合作组织协定签署",
@@ -908,6 +1164,28 @@
           "time_info": "[01时27分 ~ 05时11分]"
         },
         {
+          "title": "世界人工智能大会今天开幕",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B9%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "美联储洛根：人工智能最终可能带来生产力激增，但需求效应已经显现。",
           "url": "https://flash.jin10.com/detail/20260717011631084800",
           "source": "金十数据",
@@ -928,6 +1206,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "世界人工智能大会：展区机器人动起来",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%EF%BC%9A%E5%B1%95%E5%8C%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A8%E8%B5%B7%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "记者直击世界人工智能大会",
+          "url": "https://www.douyin.com/hot/2574240",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
@@ -942,7 +1242,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         }

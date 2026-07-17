@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T01:19:36.712195+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-18T03:22:55.950618+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -15,19 +15,64 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
+          "url": "https://flash.jin10.com/detail/20260718030935465800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "03时22分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7752元，较周四夜盘收盘跌41点。成交量481.95亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "LME期铜收跌73美元，报13526美元/吨。 LME期铝收跌34美元，报3150美元/吨。 LME期锌收跌68美元，报3526美元/吨。 LME期铅收涨10美元，报1883美元/吨。 LME期镍收跌191美元，报16961美元/吨。 LME期锡收涨74美元，报53230美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3135849",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "美银警告：黄金恐跌向3315美元",
+          "url": "https://www.douyin.com/hot/2574420",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶88.10美元，上涨3.87美元，涨幅4.59%。",
+          "url": "https://flash.jin10.com/detail/20260718025146298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "03时22分"
         },
         {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
@@ -50,6 +95,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶82.49美元，上涨3.54美元，涨幅4.48%。",
+          "url": "https://flash.jin10.com/detail/20260718023157464800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "尽管遭遇抛售，交易员们仍在继续将资金涌入贝莱德（BlackRock）规模达224亿美元的 iShares MSCI South Korea ETF。 根据彭博社汇编的数据，该基金本周已吸引超过28亿美元的资金流入，有望创下其有史以来最佳的单周资金流入纪录。该基金将其约四分之一的投资组合配置在韩国上市的SK海力士（SK Hynix）股票上。",
+          "url": "https://wallstreetcn.com/livenews/3135870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
@@ -85,17 +152,6 @@
           "time_info": "01时19分"
         },
         {
-          "title": "美银警告：黄金恐跌向3315美元",
-          "url": "https://www.douyin.com/hot/2574420",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
           "title": "WTI原油日内涨3.00%，现报81.85美元/桶。",
           "url": "https://flash.jin10.com/detail/20260718000315423800",
           "source": "金十数据",
@@ -116,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "周五（7月17日），美联储隔夜逆回购协议（RRP）使用规模为1亿美元（交易对手1家），上个交易日报1.25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4016.21美元/盎司。",
@@ -143,29 +210,31 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "UP主手搓WAIC逛展小助手",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -175,8 +244,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -186,8 +255,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -197,52 +266,67 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
           "url": "https://m.thepaper.cn/newsDetail_forward_33604737",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33603374",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
           "url": "https://www.cls.cn/detail/2429951",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
           "url": "https://m.thepaper.cn/newsDetail_forward_33593577",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
+          "url": "https://wallstreetcn.com/livenews/3135867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "03时22分"
         },
         {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
@@ -265,12 +349,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "中国AI的发展逻辑",
+          "url": "https://www.toutiao.com/trending/7662039592022982719/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -280,8 +375,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -291,8 +386,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -302,8 +397,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -313,19 +408,43 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "据华尔街日报：SpaceX(SPCX.O)正在洽谈为五角大楼的人工智能推进计划提供计算能力。",
+          "url": "https://flash.jin10.com/detail/20260718030514730800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "03时22分"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
           "url": "https://wallstreetcn.com/articles/3777168",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -335,19 +454,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "2026世界人工智能大会有哪些不同",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -357,75 +465,14 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
-          "url": "https://wallstreetcn.com/livenews/3135852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260718003300132800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260718003258061800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "SK海力士大幅回调！崔泰源喊话坚守持仓：存储需求将呈指数级增长",
@@ -435,8 +482,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
         },
         {
           "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
@@ -446,8 +493,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.54%，报24602点。 恒生科技指数主连夜盘收涨0.63%，报4643点。",
+          "url": "https://wallstreetcn.com/livenews/3135878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "03时22分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报392.10点。 在十个板块中，北欧工业板块跌幅最大。 高科技工程集团Sandvik AB（山特维克，矿业设备制造商）跌9.3%，在一众北欧个股里表现最差。 最新业绩报告显示，该公司二季度营收367.5亿瑞典克朗（SEK），分析师预期361.3亿克朗。 二季度订单378亿克朗，分析师预期387.5亿克朗。 维持全年资本开支预期在40亿-45亿克朗不变。",
@@ -485,19 +543,104 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
+          "url": "https://wallstreetcn.com/livenews/3135852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260718003300132800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260718003258061800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待 Kimi K3 模型价格较上一代翻 5 倍，达到输出 100 元，输入 20 元，缓存命中 1 元？",
           "url": "https://www.zhihu.com/question/2061233239566685346",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时22分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)上调了Apple Music和Apple One的订阅价格。",
+          "url": "https://flash.jin10.com/detail/20260718030049236800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "03时22分"
+        },
+        {
+          "title": "苹果公司上调Apple Music订阅价格至11.99美元，之前为10.99美元。 Apple One系列计划当前订阅价格为27.95美元，之前为25.95美元。",
+          "url": "https://wallstreetcn.com/livenews/3135876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T05:03:13.715310+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-07-20T07:01:47.815203+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -8,28 +8,18 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
-          "url": "https://wallstreetcn.com/livenews/3136341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
           "url": "https://www.zhihu.com/question/2062166923002090163",
           "source": "知乎",
           "ranks": [
             9,
             5,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
         },
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -40,30 +30,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
         },
         {
           "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
           "url": "https://www.cls.cn/detail/2430367",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
         },
         {
           "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
           "url": "https://www.cls.cn/detail/2430308",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
+        },
+        {
+          "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3136341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 07时01分]"
         },
         {
           "title": "Kimi K3让全球AI圈炸锅了",
@@ -108,7 +112,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -137,73 +141,31 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 5,
+      "keyword_group": "美元",
+      "match_count": 9,
       "titles": [
         {
-          "title": "世界人工智能合作组织重要阶段性进展",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E9%87%8D%E8%A6%81%E9%98%B6%E6%AE%B5%E6%80%A7%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "WTI原油向上触及85美元/桶，日内涨3.24%。",
+          "url": "https://flash.jin10.com/detail/20260720062956628800",
+          "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
-        },
-        {
-          "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
-          "url": "https://wallstreetcn.com/livenews/3136307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时03分]"
-        },
-        {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
-        },
-        {
-          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
-        },
-        {
-          "title": "业内：“模数共振”建设可大幅提升工业人工智能模型对场景的适配性",
-          "url": "https://wallstreetcn.com/livenews/3136323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
+          "time_info": "07时01分"
+        },
+        {
+          "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3136359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
         {
           "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
           "url": "https://www.zhihu.com/question/2061864895159833546",
@@ -214,8 +176,52 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线上涨20点，报162.56，逼近前高162.83。",
+          "url": "https://flash.jin10.com/detail/20260720060209187800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "现货白银盘初下跌0.4%，现报55.64美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260720060156546800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "现货黄金周一开盘下跌近20美元，失守4000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260720060115588800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "WTI原油周一开盘上涨2%，报84美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260720060039842800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "周一悉尼盘初，美元兑日元报价大致持平，窄幅震荡于162.38-162.43日元。 欧元兑美元跌0.06%，至1.1431；英镑兑美元持平于1.3453。 商品货币对中，澳元兑美元跌0.2%，至0.6970下方；纽元兑美元跌0.13%，至0.5835下方；美元兑加元跌0.06%，至1.4013下方。",
@@ -224,7 +230,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -242,6 +248,72 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "世界人工智能合作组织重要阶段性进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E9%87%8D%E8%A6%81%E9%98%B6%E6%AE%B5%E6%80%A7%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时03分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
+        },
+        {
+          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
+        },
+        {
+          "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
+          "url": "https://wallstreetcn.com/livenews/3136307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 05时03分]"
+        },
+        {
+          "title": "业内：“模数共振”建设可大幅提升工业人工智能模型对场景的适配性",
+          "url": "https://wallstreetcn.com/livenews/3136323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 2,
       "titles": [
@@ -253,8 +325,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -273,7 +345,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
@@ -286,6 +358,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 03时18分]"
+        },
+        {
+          "title": "SK崔泰源：正筹划在美国建厂，以增加供应并应对价格异常高企",
+          "url": "https://flash.jin10.com/detail/20260720050858252800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260720060012850800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -298,11 +398,12 @@
           "url": "https://www.cls.cn/detail/2430503",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
         }
       ]
     },
@@ -318,8 +419,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时01分]"
         }
       ]
     }

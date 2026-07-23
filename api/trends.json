@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T01:40:41.284709+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-24T03:38:49.303625+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -15,35 +15,96 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
           "url": "https://wallstreetcn.com/livenews/3139011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
-          "url": "https://flash.jin10.com/detail/20260724011145043800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
         },
         {
           "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
           "url": "https://wallstreetcn.com/livenews/3139010",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+          "url": "https://www.cls.cn/detail/2435521",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "不要随意把照片和视频发给AI",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+          "url": "https://flash.jin10.com/detail/20260724011145043800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
@@ -63,17 +124,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
           "title": "OpenAI预计将大规模部署AMD Helios。",
           "url": "https://flash.jin10.com/detail/20260724010730197800",
           "source": "金十数据",
@@ -83,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
+          "url": "https://wallstreetcn.com/livenews/3139028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
@@ -96,26 +157,15 @@
           "time_info": "01时40分"
         },
         {
-          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
-          "url": "https://www.cls.cn/detail/2435521",
-          "source": "财联社热门",
+          "title": "黄仁勋力挺中国AI模型",
+          "url": "https://flash.jin10.com/detail/20260724031745754800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时38分"
         },
         {
           "title": "OpenAI：将在ChatGPT中推出健康功能。",
@@ -129,33 +179,22 @@
           "time_info": "01时40分"
         },
         {
+          "title": "AMD(AMD.O)CEO苏姿丰：OpenAI在AMD“押下重注”。",
+          "url": "https://flash.jin10.com/detail/20260724030743533800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
           "title": "AMD正式发布Helios机架级AI服务器。",
           "url": "https://wallstreetcn.com/livenews/3139003",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "不要随意把照片和视频发给AI",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -209,7 +248,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -219,19 +258,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
         },
         {
-          "title": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元（交易对手6家），上个交易日报3.76亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139015",
-          "source": "华尔街见闻-快讯",
+          "title": "沙特确认油轮遭袭 布油触及100美元关口 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2435498",
+          "source": "财联社热门",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的9.04亿美元。",
@@ -245,15 +284,50 @@
           "time_info": "01时40分"
         },
         {
-          "title": "沙特确认油轮遭袭 布油触及100美元关口 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2435498",
-          "source": "财联社热门",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7777元，较周三夜盘收盘跌27点。成交量307.12亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元（交易对手6家），上个交易日报3.76亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "LME期铜收跌214美元，报13594美元/吨。 LME期铝收跌4美元，报3188美元/吨。 LME期锌收跌6美元，报3586美元/吨。 LME期铅收跌3美元，报1894美元/吨。 LME期镍收跌1美元，报53326美元/吨。 LME期锡收跌596美元，报53326美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3139006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "美国原油期货收涨约6.2%，布油站上100美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3139034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时38分"
         },
         {
           "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%（5月21日为2.169%），投标倍数2.30（前次2.52）。",
@@ -267,6 +341,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "WTI原油日内涨幅达7.5%，报93.38美元/桶；布伦特原油日内涨幅达5.5%，报95.16美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3139029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
           "title": "AMD上调AI加速器市场规模预期至1.4万亿美元 正式发布机架级AI系统Helios",
           "url": "https://flash.jin10.com/detail/20260724010659281800",
           "source": "金十数据",
@@ -278,15 +363,15 @@
           "time_info": "01时40分"
         },
         {
-          "title": "LME期铜收跌214美元，报13594美元/吨。 LME期铝收跌4美元，报3188美元/吨。 LME期锌收跌6美元，报3586美元/吨。 LME期铅收跌3美元，报1894美元/吨。 LME期镍收跌1美元，报53326美元/吨。 LME期锡收跌596美元，报53326美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3139006",
+          "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3139023",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时38分"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
@@ -322,6 +407,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%——创2008年以来新高（5月21日为2.169%），投标倍数2.30（前次2.52）。",
+          "url": "https://wallstreetcn.com/livenews/3139009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
           "title": "AMD(AMD.O)：预计到2030年，全球数据中心CPU市场规模将达2200亿美元。",
           "url": "https://flash.jin10.com/detail/20260724004239627800",
           "source": "金十数据",
@@ -347,7 +443,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -357,19 +453,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
         },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260724025443791800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时38分"
+        },
+        {
+          "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260724025439749800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "摩根大通：接下来几周是美股命运关键",
@@ -386,46 +505,71 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "恒生指数主连夜盘收跌1.29%，报24885点。 恒生科技指数主连夜盘收跌1.70%，报4620点。",
+          "url": "https://wallstreetcn.com/livenews/3139036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
         {
           "title": "【每日收评】三大指数缩量震荡集体收红，全市场超4200股上涨，电网设备概念全线爆发",
           "url": "https://www.cls.cn/detail/2435150",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.97%，MarketVectorTM数字资产100中盘指数跌2.52%，MarketVector数字资产100指数跌2.39%。",
           "url": "https://wallstreetcn.com/livenews/3139005",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
+        },
+        {
+          "title": "人工智能热潮提振市场 对冲基金资产增速创历史新高",
+          "url": "https://flash.jin10.com/detail/20260724025420081800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时38分"
         },
         {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机架。",
@@ -466,11 +610,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%8A%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时38分]"
         }
       ]
     }

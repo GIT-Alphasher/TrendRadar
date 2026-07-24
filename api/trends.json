@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T07:05:48.193846+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-07-24T11:34:30.310027+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 11时34分]"
         },
         {
           "title": "巴西全力挽救对欧盟18亿美元的肉类出口",
@@ -185,7 +185,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -207,7 +207,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -262,7 +262,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -328,9 +328,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "韩元兑美元升至1463.1，为5月初以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260724105322823800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "英特尔(INTC.O)首席财务官：英特尔计划将2026年的资本支出从180亿美元提高到200亿美元。",
@@ -353,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "现货钯金日内跌幅达2.00%，现报1229.79美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260724105228280800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%——创2008年以来新高（5月21日为2.169%），投标倍数2.30（前次2.52）。",
@@ -394,9 +416,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.7939，下调33点；上一交易日中间价6.7906，上一交易日官方收盘价6.7706，上日夜盘报收6.7777。",
+          "url": "https://wallstreetcn.com/livenews/3139155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "AMD(AMD.O)：预计到2030年，人工智能加速器市场将达到1.4万亿美元。",
@@ -408,12 +441,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "现货黄金短线下挫约13美元至4028美元/盎司，日内跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260724104944822800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -427,6 +471,28 @@
           "time_info": "[01时40分 ~ 05时15分]"
         },
         {
+          "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
+          "url": "https://www.cls.cn/detail/2435740",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "公安部：上半年共侦办利用AI工具生成网络谣言案件170余起",
+          "url": "https://wallstreetcn.com/livenews/3139199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "AI每赚1块钱，谷歌花出去2块",
           "url": "https://wallstreetcn.com/articles/3777748",
           "source": "华尔街见闻",
@@ -436,8 +502,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 11时34分]"
         },
         {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
@@ -449,8 +515,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 11时34分]"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 11时34分]"
         },
         {
           "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
@@ -472,18 +550,6 @@
             15,
             14,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 07时05分]"
-        },
-        {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -514,6 +580,17 @@
           "time_info": "[01时40分 ~ 03时38分]"
         },
         {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
           "url": "https://flash.jin10.com/detail/20260724011145043800",
           "source": "金十数据",
@@ -534,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "中国AI大反超，美国还能挡多久？",
+          "url": "https://news.ifeng.com/c/8uzcXG8YK32",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "OpenAI预计将大规模部署AMD Helios。",
@@ -564,7 +652,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -597,7 +685,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -657,6 +745,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "公安部：上半年共侦办利用AI工具生成网络谣言案件170余起",
+          "url": "https://flash.jin10.com/detail/20260724105400815800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "AMD(AMD.O)CEO苏姿丰：MI450 AI加速器将成为行业性能最强的AI加速器。",
           "url": "https://flash.jin10.com/detail/20260724004937673800",
           "source": "金十数据",
@@ -677,12 +776,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
+          "url": "https://wallstreetcn.com/livenews/3139178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -700,11 +810,23 @@
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 11时34分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时05分"
+          "time_info": "11时34分"
         },
         {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
@@ -729,6 +851,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -746,11 +879,12 @@
           "url": "https://www.cls.cn/detail/2435694",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 11时34分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
@@ -836,7 +970,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -855,7 +989,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "英国7月Gfk消费者信心指数 -17，预期-21，前值-23。",
@@ -864,7 +998,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -906,6 +1040,17 @@
           "time_info": "[01时40分 ~ 03时38分]"
         },
         {
+          "title": "恒生科技指数跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3139197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）华尔街恐惧与贪婪指数（美盘后）",
           "url": "https://flash.jin10.com/detail/20260724043001543800",
           "source": "金十数据",
@@ -923,9 +1068,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "韩国KOSPI指数日内重挫6%，现报6669.49点。SK海力士跌7.3%，三星电子跌8.2%。",
+          "url": "https://flash.jin10.com/detail/20260724110031019800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "标普500指数初步收跌1.2%，电信板块重挫5%可选消费板块跌4.9%，科技板块跌1.3%，能源板块涨0.4%，工业板块涨1.5%。 纳斯达克100指数初步收跌1.9%，道指跌1%，半导体指数跌1.1%，银行指数跌1.1%。",
@@ -939,6 +1095,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "三大指数均跌超1%，贵金属、电力、算力租赁、医药等方向跌幅居前，沪深京三市下跌个股近4900只。",
+          "url": "https://wallstreetcn.com/livenews/3139184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260724040550322800",
           "source": "金十数据",
@@ -950,6 +1117,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "科创50指数涨超1%，存储芯片板块回升；成分股中，晶晨股份涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260724105535584800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "道琼斯指数7月23日（周四）收盘下跌507.59点，跌幅0.97%，报51710.99点；<br/>标普500指数7月23日（周四）收盘下跌90.79点，跌幅1.21%，报7408.17点；<br/>纳斯达克综合指数7月23日（周四）收盘下跌553.21点，跌幅2.15%，报25137.69点。",
           "url": "https://flash.jin10.com/detail/20260724040545068800",
           "source": "金十数据",
@@ -959,6 +1137,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "上证指数开盘报3853.63点，跌0.60%。 深证成指开盘报13915.04点，跌1.47%。 创业板指开盘报3515.50点，跌1.68%。 沪深300开盘报4685.41点，跌0.90%。 科创50开盘报1766.26点，跌1.31%。 中证500开盘报7625.20点，跌1.41%。 中证1000开盘报7109.25点，跌1.20%。",
+          "url": "https://wallstreetcn.com/livenews/3139160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "香港恒生指数开盘跌1.1%，恒生科技指数跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3139156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "恒生科技指数跌超2%，PCB、机器人、人工智能等概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260724105204950800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.63%，上一交易日夜盘收跌0.60%。",
+          "url": "https://wallstreetcn.com/livenews/3139151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
@@ -1019,7 +1241,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -1030,7 +1252,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
@@ -1038,7 +1260,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "受石脑油价格飙升影响，日本变为石化产品净进口国",
@@ -1063,6 +1285,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 07时05分]"
+        },
+        {
+          "title": "消息人士称，日本央行下周将维持通胀可能超过2%目标的警告，但暗示由油价引发的即时价格冲击风险已较4月有所缓解。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3139198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报145150元/吨，较上日16:30价格下跌250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3139185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "多家国内品牌金饰价格下跌",
+          "url": "https://wallstreetcn.com/livenews/3139182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },

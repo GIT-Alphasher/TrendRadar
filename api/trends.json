@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T21:54:12.422271+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-07-25T23:12:56.150510+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -16,11 +16,27 @@
             5,
             7,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时17分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[12时17分 ~ 23时12分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 23时12分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -34,20 +50,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时49分 ~ 12时18分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 21时54分]"
         },
         {
           "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
@@ -135,6 +137,18 @@
           "time_info": "[17时58分 ~ 19时20分]"
         },
         {
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 23时12分]"
+        },
+        {
           "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
           "url": "https://wallstreetcn.com/livenews/3139722",
           "source": "华尔街见闻-快讯",
@@ -159,16 +173,27 @@
           "time_info": "[00时49分 ~ 04时39分]"
         },
         {
-          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
-          "source": "澎湃新闻",
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            14
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时58分 ~ 21时54分]"
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时12分]"
         },
         {
           "title": "大厂挤爆AI宠物赛道",
@@ -184,26 +209,28 @@
           "time_info": "[02时25分 ~ 06时14分]"
         },
         {
-          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
-          "url": "https://wallstreetcn.com/articles/3777898",
-          "source": "华尔街见闻",
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "time_info": "[21时54分 ~ 23时12分]"
         },
         {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
           "ranks": [
-            10
+            16,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "time_info": "[19时20分 ~ 23时12分]"
         },
         {
           "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
@@ -262,17 +289,6 @@
           "time_info": "08时12分"
         },
         {
-          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
-          "url": "https://wallstreetcn.com/livenews/3139752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "Meta加码AI助手 接入Gmail和日历拓展能力",
           "url": "https://flash.jin10.com/detail/20260725014737999800",
           "source": "金十数据",
@@ -315,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -425,12 +430,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
@@ -471,6 +487,18 @@
           "time_info": "02时25分"
         },
         {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
           "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
           "url": "https://wallstreetcn.com/livenews/3139723",
           "source": "华尔街见闻-快讯",
@@ -509,6 +537,17 @@
           "time_info": "[15时24分 ~ 19时20分]"
         },
         {
+          "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
+          "url": "https://www.zhihu.com/question/2064281439982576241",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
           "title": "詹姆斯降薪4862万美元",
           "url": "https://www.baidu.com/s?wd=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -519,17 +558,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时12分 ~ 12时18分]"
-        },
-        {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "科威特与黑石、布鲁克菲尔德和KKR签署160亿美元管道协议。",
@@ -589,17 +617,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 08时12分]"
-        },
-        {
-          "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
-          "url": "https://www.zhihu.com/question/2064281439982576241",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "美联储：美国上周银行存款19.466万亿美元，之前一周19.362万亿美元。",
@@ -713,6 +730,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "韩总统带财阀赴美签近万亿美元大单",
+          "url": "https://www.toutiao.com/trending/7666454874833292819/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "巴克莱：如果当前局势再持续1个月、2个月或3个月，我们认为，相较于我们对2026年布伦特原油96美元/桶的预测，油价分别存在每桶上涨2美元、7美元或10美元的风险。",
           "url": "https://flash.jin10.com/detail/20260725034330041800",
           "source": "金十数据",
@@ -771,7 +799,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "“TACO指数”预测：最晚7月30日，最可能是周日",
@@ -783,8 +811,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 21时54分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 23时12分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -822,6 +850,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时39分 ~ 08时12分]"
+        },
+        {
+          "title": "威尔逊资产管理公司（Wilson Asset Management）对冲基金经理Matthew Haupt：韩国综合股价指数波幅指数（KOSPI VIX）依然非常高，市场正在等待杠杆仓位清算完毕。 目前有比韩国更稳定的市场来进行主题交易。",
+          "url": "https://wallstreetcn.com/livenews/3139754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 23时12分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）华尔街恐惧与贪婪指数（美盘后）",
@@ -882,17 +922,6 @@
           "time_info": "04时39分"
         },
         {
-          "title": "威尔逊资产管理公司（Wilson Asset Management）对冲基金经理Matthew Haupt：韩国综合股价指数波幅指数（KOSPI VIX）依然非常高，市场正在等待杠杆仓位清算完毕。 目前有比韩国更稳定的市场来进行主题交易。",
-          "url": "https://wallstreetcn.com/livenews/3139754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "本周，标普累跌约0.6%，道指累跌0.4%，纳指累跌2.2%，科技股七巨头指数跌3.4%，存储芯片指数冲高回落累涨5.4%，半导体指数涨0.8%。 标普500指数初步大致收平，科技板块跌1%，原材料板块涨1.3%，房地产板块涨2.4%。 纳斯达克100指数初步收跌1.2%，成分股中，Nebius Group初步收跌13.2%，CoreWeave跌11.6%，闪迪、Astera Labs跌11.1%，Lumentum跌8.6%，Arm控股、英特尔至少跌7.9%。",
           "url": "https://wallstreetcn.com/livenews/3139633",
           "source": "华尔街见闻-快讯",
@@ -902,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
+          "url": "https://wallstreetcn.com/livenews/3139766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，报392.09点。 在十个板块中，北欧工业板块涨幅最大。 Metso Oyj涨8.1%，在一众北欧个股里领跑。",
@@ -1006,8 +1046,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时12分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[08时12分 ~ 23时12分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1019,8 +1059,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时12分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[08时12分 ~ 23时12分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -1035,17 +1075,6 @@
           "time_info": "[00时49分 ~ 08时12分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 06时14分]"
-        },
-        {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
@@ -1058,8 +1087,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时12分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[08时12分 ~ 23时12分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 06时14分]"
         },
         {
           "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
@@ -1214,8 +1254,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时17分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[12时17分 ~ 23时12分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -1267,6 +1307,30 @@
           "time_info": "00时49分"
         },
         {
+          "title": "小龙虾价格腰斩 全国每人5斤才能吃完",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%BE%99%E8%99%BE%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9+%E5%85%A8%E5%9B%BD%E6%AF%8F%E4%BA%BA5%E6%96%A4%E6%89%8D%E8%83%BD%E5%90%83%E5%AE%8C",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时12分]"
+        },
+        {
+          "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+          "url": "https://www.zhihu.com/question/2063590872520848306",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 23时12分]"
+        },
+        {
           "title": "周五（7月24日），彭博电动汽车价格回报指数跌2.46%，报3230.43点，北京时间08:00以来持续走低、亚太早盘跌幅显著。 本周累计下跌2.27%，整体冲高回落，7月23日14:30刷新期内最高位、随后持续下挫。",
           "url": "https://wallstreetcn.com/livenews/3139639",
           "source": "华尔街见闻-快讯",
@@ -1279,15 +1343,16 @@
           "time_info": "[04时39分 ~ 06时14分]"
         },
         {
-          "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
-          "url": "https://www.zhihu.com/question/2063590872520848306",
-          "source": "知乎",
+          "title": "高通：无法消化成本上涨，上调产品价格两位数百分比",
+          "url": "https://wallstreetcn.com/articles/3777900",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时12分]"
         },
         {
           "title": "VC价格一个多月涨幅超40%，厂商限量供货",
@@ -1301,28 +1366,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时24分 ~ 19时20分]"
-        },
-        {
-          "title": "高通：无法消化成本上涨，上调产品价格两位数百分比",
-          "url": "https://wallstreetcn.com/articles/3777900",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
-        },
-        {
-          "title": "小龙虾价格腰斩 全国每人5斤才能吃完",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%BE%99%E8%99%BE%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9+%E5%85%A8%E5%9B%BD%E6%AF%8F%E4%BA%BA5%E6%96%A4%E6%89%8D%E8%83%BD%E5%90%83%E5%AE%8C",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "市场消息：高通(QCOM.O)告知客户，其产品价格将上调两位数百分比。由于成本持续上涨，已无法继续自行消化增加的成本。",
@@ -1379,11 +1422,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时12分]"
         },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",

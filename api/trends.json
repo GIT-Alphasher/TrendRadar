@@ -1,11 +1,244 @@
 {
-  "generated_at": "2026-07-25T08:12:28.606807+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-07-25T12:18:08.623515+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 12时18分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://wallstreetcn.com/livenews/3139604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://flash.jin10.com/detail/20260725020808879800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 08时12分]"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 02时25分]"
+        },
+        {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 04时39分]"
+        },
+        {
+          "title": "大厂挤爆AI宠物赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 06时14分]"
+        },
+        {
+          "title": "为什么说物理AI爆发要看深圳",
+          "url": "https://www.toutiao.com/trending/7666129028557835782/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "SpaceX股价大跌后或迎来机会 摩根士丹利分析师看好其AI业务估值",
+          "url": "https://flash.jin10.com/detail/20260725020122183800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "如何看微软联合发布的「开源权重模型对健康的 AI 生态系统至关重要」？",
+          "url": "https://www.zhihu.com/question/2064113274627609443",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "Meta加码AI助手 接入Gmail和日历拓展能力",
+          "url": "https://flash.jin10.com/detail/20260725014737999800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
+          "url": "https://wallstreetcn.com/livenews/3139562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
+          "url": "https://wallstreetcn.com/livenews/3139592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "AI重现狼牙山五壮士英雄壮举",
+          "url": "https://www.toutiao.com/trending/7666058970050183209/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
+          "url": "https://flash.jin10.com/detail/20260725000422924800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
+          "url": "https://wallstreetcn.com/livenews/3139701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "朋友圈开始用AI照片代替旅游照",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BC%80%E5%A7%8B%E7%94%A8AI%E7%85%A7%E7%89%87%E4%BB%A3%E6%9B%BF%E6%97%85%E6%B8%B8%E7%85%A7&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "Anthropic推出更具成本效益的日常任务AI模型",
+          "url": "https://wallstreetcn.com/livenews/3139584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
@@ -14,11 +247,12 @@
           "ranks": [
             15,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 08时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时25分 ~ 12时18分]"
         },
         {
           "title": "美元指数24日上涨",
@@ -42,6 +276,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "詹姆斯降薪4862万美元",
+          "url": "https://www.baidu.com/s?wd=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 12时18分]"
         },
         {
           "title": "派拉蒙与华纳兄弟探索1110亿美元合并交易暂停",
@@ -125,17 +371,6 @@
           "time_info": "04时39分"
         },
         {
-          "title": "詹姆斯降薪4862万美元",
-          "url": "https://www.baidu.com/s?wd=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
           "title": "巴克莱：现货油价可能会引领走势，并在持续3个月的情景下测试150美元/桶。",
           "url": "https://flash.jin10.com/detail/20260725034336733800",
           "source": "金十数据",
@@ -156,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "马斯克旗下的隧道企业“无聊公司”（The Boring Company）拟在新一轮融资中寻求200亿美元的估值。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "巴克莱：如果当前局势再持续1个月、2个月或3个月，我们认为，相较于我们对2026年布伦特原油96美元/桶的预测，油价分别存在每桶上涨2美元、7美元或10美元的风险。",
@@ -248,9 +494,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 12时18分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 12时18分]"
         },
         {
           "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
@@ -270,7 +528,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -300,6 +558,18 @@
           "time_info": "[04时39分 ~ 06时14分]"
         },
         {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 12时18分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
           "url": "https://flash.jin10.com/detail/20260725040225206800",
           "source": "金十数据",
@@ -322,28 +592,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 08时12分]"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时12分"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
@@ -385,7 +633,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -396,7 +644,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -614,197 +862,35 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
-          "url": "https://wallstreetcn.com/livenews/3139604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
-          "url": "https://flash.jin10.com/detail/20260725020808879800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 08时12分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 08时12分]"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 02时25分]"
-        },
-        {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时39分]"
-        },
-        {
-          "title": "大厂挤爆AI宠物赛道",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 06时14分]"
-        },
-        {
-          "title": "SpaceX股价大跌后或迎来机会 摩根士丹利分析师看好其AI业务估值",
-          "url": "https://flash.jin10.com/detail/20260725020122183800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "如何看微软联合发布的「开源权重模型对健康的 AI 生态系统至关重要」？",
-          "url": "https://www.zhihu.com/question/2064113274627609443",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "Meta加码AI助手 接入Gmail和日历拓展能力",
-          "url": "https://flash.jin10.com/detail/20260725014737999800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
-          "url": "https://wallstreetcn.com/livenews/3139562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
-          "url": "https://wallstreetcn.com/livenews/3139592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "AI重现狼牙山五壮士英雄壮举",
-          "url": "https://www.toutiao.com/trending/7666058970050183209/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
-          "url": "https://flash.jin10.com/detail/20260725000422924800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "朋友圈开始用AI照片代替旅游照",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BC%80%E5%A7%8B%E7%94%A8AI%E7%85%A7%E7%89%87%E4%BB%A3%E6%9B%BF%E6%97%85%E6%B8%B8%E7%85%A7&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "Anthropic推出更具成本效益的日常任务AI模型",
-          "url": "https://wallstreetcn.com/livenews/3139584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 12时18分]"
+        },
+        {
+          "title": "宁德时代回应中东订单变化：不会参与储能价格内卷，看好下半年及明年需求|直击业绩会",
+          "url": "https://www.cls.cn/detail/2436798",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 12时18分]"
+        },
         {
           "title": "高通(QCOM.O)股价现跌超1.5%，消息称其通知客户价格将上涨两位数百分比。",
           "url": "https://flash.jin10.com/detail/20260725004210719800",
@@ -828,30 +914,6 @@
           "time_info": "00时49分"
         },
         {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 08时12分]"
-        },
-        {
-          "title": "宁德时代回应中东订单变化：不会参与储能价格内卷，看好下半年及明年需求|直击业绩会",
-          "url": "https://www.cls.cn/detail/2436798",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 08时12分]"
-        },
-        {
           "title": "周五（7月24日），彭博电动汽车价格回报指数跌2.46%，报3230.43点，北京时间08:00以来持续走低、亚太早盘跌幅显著。 本周累计下跌2.27%，整体冲高回落，7月23日14:30刷新期内最高位、随后持续下挫。",
           "url": "https://wallstreetcn.com/livenews/3139639",
           "source": "华尔街见闻-快讯",
@@ -864,6 +926,17 @@
           "time_info": "[04时39分 ~ 06时14分]"
         },
         {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
           "title": "市场消息：高通(QCOM.O)告知客户，其产品价格将上调两位数百分比。由于成本持续上涨，已无法继续自行消化增加的成本。",
           "url": "https://flash.jin10.com/detail/20260725001359141800",
           "source": "金十数据",
@@ -873,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "市场传闻的7N级六氟化钨产品及价格体系情况如何？中船特气回应",
+          "url": "https://wallstreetcn.com/livenews/3139687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
@@ -887,7 +971,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },

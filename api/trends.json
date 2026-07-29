@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T14:41:13.295552+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-07-29T17:46:25.182154+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "新东方第四季度净营收15.3亿美元，市场预估14.7亿美元。 第四季度经营利润8,580万美元，市场预估7,550万美元。",
+          "url": "https://wallstreetcn.com/livenews/3141609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "Teradyne（泰瑞达）二季度净营收13.3亿美元，分析师预期12.2亿美元。 二季度调整后每股收益（EPS）为2.47美元，分析师预期2.04美元。 预计三季度营收12亿-13亿美元，分析师预期10.4亿美元。 预计三季度调整后EPS为1.85-2.15美元，分析师预期1.46美元。",
@@ -223,6 +234,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "1股撬动六千万美元仓位！SK海力士“乌龙指”跨市场传导，加密多头遭强平",
+          "url": "https://www.cls.cn/detail/2439990",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "美国七年期国债收益率在440亿美元的拍卖后小幅下跌，现报4.463%，下跌4.63个基点。",
           "url": "https://flash.jin10.com/detail/20260729010514020800",
           "source": "金十数据",
@@ -276,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "瑞联银行：美联储决议和美国数据不太可能削弱美元",
+          "url": "https://flash.jin10.com/detail/20260729172133246800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "光伏逆变器供应商Enphase二季度营收2.919亿美元，分析师预期2.921亿美元。 二季度资本开支1440万美元，分析师预期1410万美元。",
@@ -537,7 +570,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -548,7 +581,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -573,12 +606,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "万科2027年到期美元债势创2个月最大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3141568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -588,11 +632,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 14时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 17时46分]"
         },
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -660,6 +705,18 @@
           "time_info": "[03时45分 ~ 07时09分]"
         },
         {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 17时46分]"
+        },
+        {
           "title": "AI剧 一本万利",
           "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%20%E4%B8%80%E6%9C%AC%E4%B8%87%E5%88%A9&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -676,17 +733,6 @@
           "source": "微博",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -796,19 +842,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "电力是AI芯片的下一个瓶颈吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%8A%9B%E6%98%AFAI%E8%8A%AF%E7%89%87%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%93%B6%E9%A2%88%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 17时46分]"
         },
         {
           "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
@@ -816,6 +851,17 @@
           "source": "华尔街见闻",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 17时46分]"
+        },
+        {
+          "title": "电力是AI芯片的下一个瓶颈吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%8A%9B%E6%98%AFAI%E8%8A%AF%E7%89%87%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%93%B6%E9%A2%88%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -866,6 +912,17 @@
           "time_info": "07时09分"
         },
         {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "报道：OceanBase寻求筹集高达30亿元人民币用于AI研发",
           "url": "https://wallstreetcn.com/livenews/3141392",
           "source": "华尔街见闻-快讯",
@@ -886,6 +943,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "希捷财报会实录：AI打开存储长期景气，HAMR技术持续推升盈利",
+          "url": "https://www.cls.cn/detail/2439752",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "OpenAI与Anthropic员工联名致信，呼吁美国政府协助治理AI",
@@ -993,7 +1072,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1023,7 +1102,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -1088,6 +1167,19 @@
           "time_info": "[07时09分 ~ 14时41分]"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时09分 ~ 17时46分]"
+        },
+        {
           "title": "台湾证交所加权股价指数下跌4.1%至39,908.84点。",
           "url": "https://wallstreetcn.com/livenews/3141408",
           "source": "华尔街见闻-快讯",
@@ -1116,7 +1208,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1143,18 +1235,6 @@
           "time_info": "11时27分"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时09分 ~ 14时41分]"
-        },
-        {
           "title": "长鑫科技将被纳入MSCI中国全股票指数",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B0%86%E8%A2%AB%E7%BA%B3%E5%85%A5MSCI%E4%B8%AD%E5%9B%BD%E5%85%A8%E8%82%A1%E7%A5%A8%E6%8C%87%E6%95%B0",
           "source": "百度热搜",
@@ -1167,6 +1247,17 @@
           "time_info": "[01时42分 ~ 05时17分]"
         },
         {
+          "title": "富时新加坡海峡时报指数收于历史高位。",
+          "url": "https://flash.jin10.com/detail/20260729172514857800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.7%，报295.26点，创7月6日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 Novonesis Novozymes （诺维信）B类股涨4.88%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3141115",
           "source": "华尔街见闻-快讯",
@@ -1176,6 +1267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升全线收红，全市场超4200股上涨，大消费方向集体走强",
+          "url": "https://www.cls.cn/detail/2440204",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.27%，报25429.70点。 法国股指初步收涨0.47%，意大利股指初步收跌0.85%、银行指数跌0.74%，英国股指初步收涨0.82%。",
@@ -1198,6 +1300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.21%，报645.99点。 欧元区STOXX 50指数初步收跌0.03%，报6280.41点。 富时泛欧绩优300指数初步收涨0.20%，报2582.49点。",
@@ -1239,7 +1352,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1283,7 +1396,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1294,7 +1407,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1338,7 +1451,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1393,7 +1506,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1434,7 +1547,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -1460,8 +1573,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 14时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 17时46分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -1470,11 +1583,12 @@
           "ranks": [
             11,
             17,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 14时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 17时46分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -1517,11 +1631,12 @@
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 17时46分]"
         },
         {
           "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
@@ -1568,6 +1683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
@@ -1620,7 +1746,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         }
@@ -1628,7 +1754,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "飞天茅台双价格体系：自营门店价格上调至1719元/瓶，多家称“无现货”",
@@ -1652,9 +1778,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "标准落地即行动！光伏行业价格合规指导活动在即 统一成本核算“红绿灯”亮起",
+          "url": "https://www.cls.cn/detail/2439979",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报145400元/吨，较上日16:30价格上涨600元/吨。",
@@ -1682,7 +1819,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人工智能相关产品成为中国外贸新名片",
@@ -1694,6 +1831,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "浙江：聚焦集成电路、智能物联、高端软件 推动人工智能与信息技术产业深度融合",
+          "url": "https://wallstreetcn.com/livenews/3141600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "黄仁勋呼吁支持开源权重人工智能模型",

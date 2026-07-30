@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-31T02:25:15.355176+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-31T04:20:58.434583+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 20,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "据知情人士透露，Equinix料将达成最新一笔数据中心协议，有望通过出售投资级债券融资30亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3142611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
         {
           "title": "澳元/美元日内涨幅达1.0%，报0.7024。",
           "url": "https://wallstreetcn.com/livenews/3142574",
@@ -28,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "加密货币交易所Coinbase二季度总收入12.2亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "据华尔街日报：美国考虑对希望毕业后工作的外国学生收取10万美元费用。",
@@ -41,15 +41,26 @@
           "time_info": "00时43分"
         },
         {
-          "title": "据知情人士透露，基金公司Situational Awareness的资产管理规模缩水至100亿美元。 该公司已经转让大宗股票给Citadel。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3142604",
+          "title": "第一太阳能维持全年资本开支预期在8亿-10亿美元不变，分析师预期8.758亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142636",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "04时20分"
+        },
+        {
+          "title": "【微软市值单日增加4500亿美元，创股市之最】微软涨16%，创2008年以来最大单日涨幅，Meta收跌8%，连跌11天，7月15日以来累计下跌21%。",
+          "url": "https://wallstreetcn.com/livenews/3142634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "现货白银日内涨幅达2.0%，报58.76美元/盎司。",
@@ -64,15 +75,40 @@
           "time_info": "[00时43分 ~ 02时25分]"
         },
         {
+          "title": "据知情人士透露，Equinix料将达成最新一笔数据中心协议，有望通过出售投资级债券融资30亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3142611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 04时20分]"
+        },
+        {
+          "title": "据知情人士透露，基金公司Situational Awareness的资产管理规模缩水至100亿美元。 该公司已经转让大宗股票给Citadel。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3142604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 04时20分]"
+        },
+        {
           "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3142601",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 04时20分]"
         },
         {
           "title": "多家银行正洽谈向Anthropic的数据中心提供150亿美元贷款，项目获谷歌支持",
@@ -81,9 +117,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "现货铂金涨超3%，报1660.54美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260731032103169800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
@@ -97,13 +144,46 @@
           "time_info": "00时43分"
         },
         {
+          "title": "现货钯金涨超4%，报1,311.6美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260731031618660800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "现货白银向上触及59美元/盎司，日内涨2.43%。",
+          "url": "https://flash.jin10.com/detail/20260731031012576800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "意大利家族因460亿美元雷朋财富爆发内斗",
+          "url": "https://wallstreetcn.com/livenews/3142624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
           "title": "周四（7月30日），美联储隔夜逆回购协议（RRP）使用规模为10.76亿美元（交易对手3家），上个交易日报25.76亿美元。",
           "url": "https://wallstreetcn.com/livenews/3142592",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -119,15 +199,37 @@
           "time_info": "00时43分"
         },
         {
+          "title": "Meta承诺未来将投入近7000亿美元 用于数据中心等领域",
+          "url": "https://flash.jin10.com/detail/20260731030227229800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
           "title": "微软市值飙升4900亿美元，有望创下史上最大单日市值涨幅纪录",
           "url": "https://wallstreetcn.com/livenews/3142608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "美元指数跌超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3142622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "马斯克计划在美国中期选举中至少投入1亿美元。（纽约时报）",
@@ -136,9 +238,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "Meta Platforms(META.O)报告称，已通过长期和短期协议，承诺在未来投入近7000亿美元，用于人工智能数据中心、云计算等领域。",
+          "url": "https://flash.jin10.com/detail/20260731025721940800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7528元，较周三夜盘收盘涨102点。成交量391.57亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "据华尔街日报：消息人士称，Nexus数据中心正就为德克萨斯州新建数据中心园区融资150亿美元进行洽谈。",
@@ -147,7 +271,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -169,9 +293,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
+          "url": "https://wallstreetcn.com/livenews/3142615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "据华尔街日报：多家银行正洽谈为一家与Anthropic合作的数据中心开发商提供150亿美元贷款，谷歌将提供财务担保和芯片支持。",
@@ -180,7 +315,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -191,9 +326,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "WTI 9月原油期货收跌0.87美元，跌幅1.03%，报83.59美元/桶。 布伦特9月原油期货收跌1.71美元，跌幅超过1.88%，报89.03美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报87.70美元/桶。 NYMEX 8月天然气期货收报2.7580美元/百万英热单位。 NYMEX 8月汽油期货收报3.2847美元/加仑，NYMEX 8月取暖油期货收报4.2094美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3142613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "据英国金融时报：因巨额亏损，由前OpenAI研究员Leopold Aschenbrenner创立、管理规模达240亿美元的对冲基金Situational Awareness已将其160亿美元公开股票持仓中的很大一部分快速出售给了Citadel。",
@@ -213,7 +359,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -224,7 +370,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -232,7 +378,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -242,19 +388,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时20分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
           "url": "https://wallstreetcn.com/articles/3778258",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时20分]"
         },
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -264,8 +411,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时20分]"
         },
         {
           "title": "硅谷烧书训AI,焚书坑儒2.0",
@@ -275,30 +422,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时25分]"
-        },
-        {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时20分]"
         },
         {
           "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
           "url": "https://www.zhihu.com/question/2065810199877611641",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时20分]"
+        },
+        {
+          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
+          "url": "https://www.cls.cn/detail/2441830",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时20分]"
         },
         {
           "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
@@ -308,8 +457,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时20分]"
+        },
+        {
+          "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
+          "url": "https://flash.jin10.com/detail/20260731032815618800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "法官质疑美国政府封杀Anthropic AI的理由是否充分",
+          "url": "https://wallstreetcn.com/livenews/3142626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
@@ -321,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2065915199089894895",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "Citadel接手Situational Awareness的大规模AI股票持仓",
@@ -348,7 +530,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "小米澎程N90价格",
@@ -359,8 +541,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时20分]"
+        },
+        {
+          "title": "周四（7月30日），彭博电动汽车价格回报指数涨1.78%，报3315.10点，亚太早盘冲高回落、北京时间13:03刷新日低至3250.10点之后持续上扬。",
+          "url": "https://wallstreetcn.com/livenews/3142640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "高通CEO：更高的价格正在改变消费者的行为。",
@@ -380,7 +573,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -391,7 +584,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -410,8 +603,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.1%。 热门中概股里，世纪互联涨16.7%，日月光半导体涨12.2%，万国数据涨8%，阿特斯太阳能涨7.7%，腾讯涨2.4%，百度涨2%，网易涨1.8%，阿里涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3142632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.6%，报397.67点，创7月3日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 维斯塔斯风力技术集团涨6.6%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3142560",
@@ -446,6 +650,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "恒生指数主连夜盘收涨0.45%，报26021点。 恒生科技指数主连夜盘收涨0.31%，报4832点。",
+          "url": "https://wallstreetcn.com/livenews/3142617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
           "title": "德国DAX30指数7月30日（周四）收盘上涨164.94点，涨幅0.65%，报25613.70点；<br/>英国富时100指数7月30日（周四）收盘下跌11.52点，跌幅0.11%，报10896.89点；<br/>法国CAC40指数7月30日（周四）收盘上涨77.37点，涨幅0.92%，报8485.64点；<br/>欧洲斯托克50指数7月30日（周四）收盘上涨96.51点，涨幅1.54%，报6345.35点；<br/>西班牙IBEX35指数7月30日（周四）收盘上涨357.73点，涨幅1.84%，报19748.03点；<br/>意大利富时MIB指数7月30日（周四）收盘上涨637.89点，涨幅1.24%，报52081.00点。",
           "url": "https://flash.jin10.com/detail/20260730233648909800",
           "source": "金十数据",
@@ -459,6 +674,58 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时20分]"
+        },
+        {
+          "title": "亚马逊、苹果将于7月30日美股盘后公布财报。",
+          "url": "https://flash.jin10.com/detail/20260731035000001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "Reddit二季度营收8.049亿美元，分析师预期7.318亿美元。 Reddit美股盘后跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3142637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "美股存储芯片指数初步收涨17%，半导体指数涨8%。 标普500指数初步收1.6%，科技板块飙涨5.6%，可选消费板块涨1.4%，日用消费品、电信板块跌超2%。 纳斯达克100指数初步收涨3.4%，成分股中，Nebius初步收涨27.2%，闪迪飙涨25.8%，CoreWeave涨21.3%，Astera Labs、拉姆研究、美光科技、微软、Lumentum、西部数据、应用材料至少涨15%，汤森路透跌7%，Meta跌7.9%，ALNY跌28.3%。",
+          "url": "https://wallstreetcn.com/livenews/3142630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
       "match_count": 3,
       "titles": [
@@ -467,11 +734,12 @@
           "url": "https://wallstreetcn.com/livenews/3142605",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 04时20分]"
         },
         {
           "title": "联邦快递：扩大与Dexterity的合作，在马里兰州黑格斯敦转运中心部署人工智能机器人。",
@@ -480,7 +748,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -510,26 +778,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时20分]"
         }
       ]
     }

@@ -1,1620 +1,283 @@
 {
-  "generated_at": "2026-07-31T21:03:15.539674+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-08-01T00:06:31.029582+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 48,
-      "titles": [
-        {
-          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时11分 ~ 21时03分]"
-        },
-        {
-          "title": "联发科董事会批准高达50亿美元的债券计划，以支持供应链增长。",
-          "url": "https://flash.jin10.com/detail/20260731204918270800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "联发科董事会批准发行最高达50亿美元的无担保债券。",
-          "url": "https://wallstreetcn.com/livenews/3143280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "阿塞拜疆央行：预计2026年平均油价为每桶84.5美元，2027年为每桶78美元。",
-          "url": "https://flash.jin10.com/detail/20260731153158381800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "澳元/美元日内涨幅达1.0%，报0.7024。",
-          "url": "https://wallstreetcn.com/livenews/3142574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "加密货币交易所Coinbase二季度总收入12.2亿美元，分析师预期12.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3142638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "据华尔街日报：美国考虑对希望毕业后工作的外国学生收取10万美元费用。",
-          "url": "https://flash.jin10.com/detail/20260731002042171800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "泰国央行：截至7月24日，泰国外汇储备为2726亿美元，低于7月17日的2760亿美元。泰国净远期头寸为246亿美元，与7月17日的246亿美元持平。",
-          "url": "https://flash.jin10.com/detail/20260731153143317800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "第一太阳能维持全年资本开支预期在8亿-10亿美元不变，分析师预期8.758亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3142636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "股价盘后涨近10%！亚马逊云业务蓬勃发展 上调全年资本支出至2200亿美元",
-          "url": "https://www.cls.cn/detail/2442011",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时11分 ~ 12时31分]"
-        },
-        {
-          "title": "【微软市值单日增加4500亿美元，创股市之最】微软涨16%，创2008年以来最大单日涨幅，Meta收跌8%，连跌11天，7月15日以来累计下跌21%。",
-          "url": "https://wallstreetcn.com/livenews/3142634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
-          "url": "https://wallstreetcn.com/articles/3778371",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 21时03分]"
-        },
-        {
-          "title": "现货白银日内涨幅达2.0%，报58.76美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3142575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时25分]"
-        },
-        {
-          "title": "据知情人士透露，Equinix料将达成最新一笔数据中心协议，有望通过出售投资级债券融资30亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3142611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时20分]"
-        },
-        {
-          "title": "据知情人士透露，基金公司Situational Awareness的资产管理规模缩水至100亿美元。 该公司已经转让大宗股票给Citadel。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3142604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时20分]"
-        },
-        {
-          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
-          "url": "https://www.cls.cn/detail/2442307",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 21时03分]"
-        },
-        {
-          "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3142601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时20分]"
-        },
-        {
-          "title": "TD Cowen：将苹果(AAPL.O)目标价从350美元上调至400美元。",
-          "url": "https://flash.jin10.com/detail/20260731120841507800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "韩国被曝罕见抛售美元，交易员怀疑日韩联手干预汇市",
-          "url": "https://flash.jin10.com/detail/20260731074902015800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "多家银行正洽谈向Anthropic的数据中心提供150亿美元贷款，项目获谷歌支持",
-          "url": "https://flash.jin10.com/detail/20260731015755821800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "现货铂金涨超3%，报1660.54美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260731032103169800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3142561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "现货钯金涨超4%，报1,311.6美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260731031618660800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "现货白银向上触及59美元/盎司，日内涨2.43%。",
-          "url": "https://flash.jin10.com/detail/20260731031012576800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "意大利家族因460亿美元雷朋财富爆发内斗",
-          "url": "https://wallstreetcn.com/livenews/3142624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "在GDP数据公布后，美元兑加元USD/CAD涨至盘中高点。",
-          "url": "https://flash.jin10.com/detail/20260731203435233800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "周四（7月30日），美联储隔夜逆回购协议（RRP）使用规模为10.76亿美元（交易对手3家），上个交易日报25.76亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3142592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "现货钯金向上触及1300美元/盎司，日内涨2.39%。",
-          "url": "https://flash.jin10.com/detail/20260730235052237800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "Meta承诺未来将投入近7000亿美元 用于数据中心等领域",
-          "url": "https://flash.jin10.com/detail/20260731030227229800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "微软市值飙升4900亿美元，有望创下史上最大单日市值涨幅纪录",
-          "url": "https://wallstreetcn.com/livenews/3142608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "美元指数跌超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3142622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "日本央行利率决议过后，美元/日元短线波动不大。",
-          "url": "https://wallstreetcn.com/livenews/3142899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "马斯克计划在美国中期选举中至少投入1亿美元。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3142591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "Meta Platforms(META.O)报告称，已通过长期和短期协议，承诺在未来投入近7000亿美元，用于人工智能数据中心、云计算等领域。",
-          "url": "https://flash.jin10.com/detail/20260731025721940800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7528元，较周三夜盘收盘涨102点。成交量391.57亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3142618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，Nexus数据中心正就为德克萨斯州新建数据中心园区融资150亿美元进行洽谈。",
-          "url": "https://flash.jin10.com/detail/20260731014736225800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "美元兑在岸人民币创2023年2月份以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3142554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "据媒体报道，韩国外汇当局周四进行了罕见的抛售美元干预。",
-          "url": "https://wallstreetcn.com/livenews/3142693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
-          "url": "https://wallstreetcn.com/livenews/3142587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
-          "url": "https://wallstreetcn.com/livenews/3142615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "据华尔街日报：多家银行正洽谈为一家与Anthropic合作的数据中心开发商提供150亿美元贷款，谷歌将提供财务担保和芯片支持。",
-          "url": "https://flash.jin10.com/detail/20260731014712484800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "LME期铜收涨222美元，报13803美元/吨。 LME期铝收涨16美元，报3196美元/吨。 LME期锌收涨52美元，报3622美元/吨。 LME期铅收跌4美元，报1896美元/吨。 LME期镍收涨133美元，报17270美元/吨。 LME期锡收涨1096美元，报54978美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3142586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "WTI 9月原油期货收跌0.87美元，跌幅1.03%，报83.59美元/桶。 布伦特9月原油期货收跌1.71美元，跌幅超过1.88%，报89.03美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报87.70美元/桶。 NYMEX 8月天然气期货收报2.7580美元/百万英热单位。 NYMEX 8月汽油期货收报3.2847美元/加仑，NYMEX 8月取暖油期货收报4.2094美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3142613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "据英国金融时报：因巨额亏损，由前OpenAI研究员Leopold Aschenbrenner创立、管理规模达240亿美元的对冲基金Situational Awareness已将其160亿美元公开股票持仓中的很大一部分快速出售给了Citadel。",
-          "url": "https://flash.jin10.com/detail/20260730234251331800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "芝商所：日元交易量在周四触及1580亿美元，创12年新高。",
-          "url": "https://wallstreetcn.com/livenews/3143254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "日元疑似干预重创美元，金价借势走高",
-          "url": "https://flash.jin10.com/detail/20260731114729880800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "花旗称日元将转弱，建议在日本央行决议前做多美元兑日元",
-          "url": "https://wallstreetcn.com/livenews/3142583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "美国考虑对大学毕业之后留美工作的外国学生收取10万美元的费用。 此前，（美国法院）阻挠总统特朗普对H-1B签证收费10万美元的想法。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3142577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778264",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时20分]"
-        },
-        {
-          "title": "硅谷烧书训AI,焚书坑儒2.0",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 15时58分]"
-        },
-        {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时20分]"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 08时12分]"
-        },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
           "url": "https://www.cls.cn/detail/2442428",
           "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 21时03分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
           "url": "https://wallstreetcn.com/articles/3778381",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 21时03分]"
-        },
-        {
-          "title": "华尔街“AI股神”据传卷入强平风暴 老牌资本笑纳“带血筹码”",
-          "url": "https://www.cls.cn/detail/2441965",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时11分 ~ 12时31分]"
-        },
-        {
-          "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2442063",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 15时58分]"
-        },
-        {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 08时12分]"
-        },
-        {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 21时03分]"
-        },
-        {
-          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
-          "url": "https://wallstreetcn.com/articles/3778268",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 08时12分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
           "url": "https://wallstreetcn.com/articles/3778376",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 21时03分]"
-        },
-        {
-          "title": "AI暴力反弹！三星、SK海力士飙升25%，韩股暴涨超14%，软银跳升15%，日股大涨",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 15时58分]"
-        },
-        {
-          "title": "港股午评：恒指收跌0.11% 存储及AI次新股飙升",
-          "url": "https://flash.jin10.com/detail/20260731121206481800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，是真的吗？为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？",
-          "url": "https://www.zhihu.com/question/2065915199089894895",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时11分 ~ 12时31分]"
-        },
-        {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时20分]"
-        },
-        {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 21时03分]"
-        },
-        {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 04时20分]"
-        },
-        {
-          "title": "AI助力虚拟电厂规模化加速 头部企业订单大增 交易收入占比已近60%|传真",
-          "url": "https://www.cls.cn/detail/2442116",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 15时58分]"
-        },
-        {
-          "title": "马斯克预言五年内 AI 将超越全人类、十年后金钱将失去意义，这一预测靠谱吗？AI 真会重塑经济体系吗？",
-          "url": "https://www.zhihu.com/question/2066440048212276843",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 15时58分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
-          "url": "https://www.cls.cn/detail/2442641",
-          "source": "财联社热门",
-          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "三星Q2创史上最强盈利季：净利润暴涨1299.9%超预期，AI芯片狂揽99%利润",
-          "url": "https://wallstreetcn.com/articles/3778272",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 08时12分]"
-        },
-        {
-          "title": "半夏投资创始人评“AI股神”爆仓",
-          "url": "https://www.toutiao.com/trending/7668212287854575657/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
           "url": "https://wallstreetcn.com/articles/3778413",
           "source": "华尔街见闻",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
+          "url": "https://www.cls.cn/detail/2442641",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "市场不相信“神话”：“AI股神”死于杠杆？",
+          "url": "https://wallstreetcn.com/articles/3778378",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
           "url": "https://www.zhihu.com/question/2065499504187371980",
           "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "谷歌发布新一代机器人AI模型",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E6%9C%BA%E5%99%A8%E4%BA%BAAI%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 08时12分]"
-        },
-        {
-          "title": "联发科首席执行官：由英伟达(NVDA.O)联合开发芯片驱动的AI个人电脑将在今年假日季上市销售。",
-          "url": "https://flash.jin10.com/detail/20260731152957082800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "AI警报解除，亚太股指创4个月来最大涨幅",
-          "url": "https://flash.jin10.com/detail/20260731120614598800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citatdel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
-          "url": "https://flash.jin10.com/detail/20260731032815618800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "法官质疑美国政府封杀Anthropic AI的理由是否充分",
-          "url": "https://wallstreetcn.com/livenews/3142626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
-          "url": "https://wallstreetcn.com/livenews/3142559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：（谈利率）认为我们可以维持现状。 根据现有数据，很难找到加息的理由。 预计AI生产率将有助于推动通胀回落。 10年期美国国债收益率的上升是暂时现象。 如有必要，将继续采取措施压低油价。",
-          "url": "https://wallstreetcn.com/livenews/3143262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "美国明尼阿波利斯联储主席卡什卡利：更倾向于逐步收紧政策。 渐进式加息将有助于管理通胀根深蒂固的风险。 货币政策可以应对连续的供给冲击。 一系列小幅加息将优于等待。 AI投资为通胀增加了新的需求因素。 小幅加息将使FOMC能够在通胀消退时暂停或放缓步伐。",
-          "url": "https://wallstreetcn.com/livenews/3143260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2065915199089894895",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "00时06分"
         },
         {
-          "title": "Citadel接手Situational Awareness的大规模AI股票持仓",
-          "url": "https://flash.jin10.com/detail/20260730234636405800",
+          "title": "韩国杠杆限制措施立竿见影，AI基金疑似被狙击？ | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260731233529953800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "00时06分"
         },
         {
-          "title": "日本央行行长植田和男：如果金融情况过于宽松，可能会加快升息步伐。 AI相关需求非常强劲。 AI相关支出在某种程度上看起来具有可持续性。",
-          "url": "https://wallstreetcn.com/livenews/3143015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "AI概念股受科技巨头业绩及资本支出计划提振而大涨",
-          "url": "https://wallstreetcn.com/livenews/3142542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "A股午评：创业板指涨超5% AI硬件板块集体反弹",
-          "url": "https://flash.jin10.com/detail/20260731114226607800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "价格",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "小米澎程N90价格",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E4%BB%B7%E6%A0%BC&t=31&band_rank=1&Refer=top",
+          "title": "华尔街AI股神高杠杆爆仓出局",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97AI%E8%82%A1%E7%A5%9E%E9%AB%98%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93%E5%87%BA%E5%B1%80%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            1,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 08时12分]"
-        },
-        {
-          "title": "周四（7月30日），彭博电动汽车价格回报指数涨1.78%，报3315.10点，亚太早盘冲高回落、北京时间13:03刷新日低至3250.10点之后持续上扬。",
-          "url": "https://wallstreetcn.com/livenews/3142640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "铠侠（Kioxia）预计第二季度NAND闪存价格将进一步上涨。 预计第三、四季度NAND需求将非常强劲。",
-          "url": "https://wallstreetcn.com/livenews/3143037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
-          "url": "https://www.cls.cn/detail/2442077",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 15时58分]"
-        },
-        {
-          "title": "国际油价震荡走高，国内成品油价格即将迎来年内第十涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33687560",
-          "source": "澎湃新闻",
-          "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "高通CEO：更高的价格正在改变消费者的行为。",
-          "url": "https://wallstreetcn.com/livenews/3142563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "00时06分"
         },
         {
-          "title": "周四（7月30日）欧市尾盘，ICE英国天然气期货跌3.50%，报141.300便士/千卡。 TTF基准荷兰天然气期货跌3.41%，报58.650欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.32%，报81.26欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3142598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "国内品牌金饰价格大致持稳",
-          "url": "https://flash.jin10.com/detail/20260731120232304800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：预计美国汽油价格将维持在高位。",
-          "url": "https://flash.jin10.com/detail/20260731203735399800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "日本央行行长植田和男：但如果投资提高了生产率，可能会降低价格，我们不知道何时会发生这种情况。",
-          "url": "https://flash.jin10.com/detail/20260731152628437800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "日本央行行长植田和男：人工智能支出本身推高了价格。",
-          "url": "https://flash.jin10.com/detail/20260731152600329800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "阿布扎比国家石油公司（ADNOC）宣布对其阿布扎比原油等级的官方销售价格（OSP）方法进行更新。",
-          "url": "https://flash.jin10.com/detail/20260731203343561800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
-          "url": "https://wallstreetcn.com/livenews/3142590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "日本央行：需要关注外汇对经济和通胀的影响。 经济展望面临的风险包括中东局势及其对外汇和日本经济的影响。 需要特别关注中东局势发展。 全球AI需求有助于提振日本经济。 价格趋势正在接近2%的物价目标，将价格趋势稳定在2%附近至关重要。 将密切关注中东局势、AI及外汇以决定下一次加息时点。 中短期内实质利率一直处于负值状态。 日元贬值可能会推高物价，近期日元下跌是导致物价上涨的因素之一。",
-          "url": "https://wallstreetcn.com/livenews/3142897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "高通(QCOM.O)CEO：内存芯片价格上涨非常夸张。更高的价格正在改变消费者行为。",
-          "url": "https://flash.jin10.com/detail/20260730234630449800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "日本央行：将根据经济和物价情况持续加息。 通胀风险偏向上行。 经济风险整体平衡。 价格趋势存在偏离并高于目标的风险。 价格趋势在2026财年下半年至2027财年期间将与目标保持一致。 消费者物价指数（CPI）风险偏向上行。",
-          "url": "https://wallstreetcn.com/livenews/3142893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "美国二季度劳工成本指数季环比 0.9%，预期 0.8%，前值 0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3143275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "-0.1%！美国6月PCE物价指数六年来首次环比下降，同比涨幅显著收窄",
-          "url": "https://wallstreetcn.com/articles/3778338",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时11分 ~ 12时31分]"
-        },
-        {
-          "title": "A股7月收官 双创指数月跌幅超20%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A17%E6%9C%88%E6%94%B6%E5%AE%98+%E5%8F%8C%E5%88%9B%E6%8C%87%E6%95%B0%E6%9C%88%E8%B7%8C%E5%B9%85%E8%B6%8520%25",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
-        },
-        {
-          "title": "欧洲斯托克50指数上涨1.2%，超越7月3日收盘纪录。",
-          "url": "https://wallstreetcn.com/livenews/3143032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1.1%。 热门中概股里，世纪互联涨16.7%，日月光半导体涨12.2%，万国数据涨8%，阿特斯太阳能涨7.7%，腾讯涨2.4%，百度涨2%，网易涨1.8%，阿里涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3142632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "越南VN指数下跌2%，报1709.61点。",
-          "url": "https://wallstreetcn.com/livenews/3143030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "欧洲股指走高，欧洲斯托克600指数触及新高",
-          "url": "https://flash.jin10.com/detail/20260731152847703800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.6%，报397.67点，创7月3日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 维斯塔斯风力技术集团涨6.6%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3142560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "上证指数早盘收报3833.65点，涨0.76%。 深证成指早盘收报13705.42点，涨3.16%。 创业板指早盘收报3408.15点，涨5.04%。 沪深300早盘收报4605.92点，涨1.24%。 科创50早盘收报1682.27点，涨5.91%。 中证500早盘收报7561.47点，涨3.45%。 中证1000早盘收报7145.92点，涨3.55%。",
-          "url": "https://wallstreetcn.com/livenews/3142903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "7月31日午间收评：双创指数均涨超5%，芯片、算力概念股集体反弹",
-          "url": "https://wallstreetcn.com/livenews/3142902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "科创50指数半日涨近6%",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%8D%8A%E6%97%A5%E6%B6%A8%E8%BF%916%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "德国DAX 30指数初步收涨0.45%，报25575.43点。 法国股指初步收涨0.91%，意大利股指初步收涨1.08%、银行指数涨1.51%，英国股指初步收跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3142557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收涨0.78%，报650.03点。 欧元区STOXX 50指数初步收涨1.42%，报6337.48点。 富时泛欧绩优300指数初步收涨0.75%，报2596.28点。",
-          "url": "https://wallstreetcn.com/livenews/3142556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.45%，报26021点。 恒生科技指数主连夜盘收涨0.31%，报4832点。",
-          "url": "https://wallstreetcn.com/livenews/3142617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美国第二季度劳工成本指数季率 0.9%，预期0.80%，前值0.90%。",
-          "url": "https://flash.jin10.com/detail/20260731203004493800",
-          "source": "金十数据",
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "德国DAX30指数7月30日（周四）收盘上涨164.94点，涨幅0.65%，报25613.70点；<br/>英国富时100指数7月30日（周四）收盘下跌11.52点，跌幅0.11%，报10896.89点；<br/>法国CAC40指数7月30日（周四）收盘上涨77.37点，涨幅0.92%，报8485.64点；<br/>欧洲斯托克50指数7月30日（周四）收盘上涨96.51点，涨幅1.54%，报6345.35点；<br/>西班牙IBEX35指数7月30日（周四）收盘上涨357.73点，涨幅1.84%，报19748.03点；<br/>意大利富时MIB指数7月30日（周四）收盘上涨637.89点，涨幅1.24%，报52081.00点。",
-          "url": "https://flash.jin10.com/detail/20260730233648909800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
-          "url": "https://www.cls.cn/detail/2441995",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时11分 ~ 12时31分]"
+          "time_info": "00时06分"
         },
         {
-          "title": "美股收盘：微软创近18年最大单日涨幅",
-          "url": "https://www.toutiao.com/trending/7668063651911909418/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 08时12分]"
-        },
-        {
-          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时20分]"
-        },
-        {
-          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "美股收盘：满屏都是两位数涨幅",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 08时12分]"
-        },
-        {
-          "title": "亚马逊、苹果将于7月30日美股盘后公布财报。",
-          "url": "https://flash.jin10.com/detail/20260731035000001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "Reddit二季度营收8.049亿美元，分析师预期7.318亿美元。 Reddit美股盘后跌6%。",
-          "url": "https://wallstreetcn.com/livenews/3142637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 15时58分]"
-        },
-        {
-          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
-          "url": "https://www.cls.cn/detail/2442818",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "美股存储芯片指数初步收涨17%，半导体指数涨8%。 标普500指数初步收1.6%，科技板块飙涨5.6%，可选消费板块涨1.4%，日用消费品、电信板块跌超2%。 纳斯达克100指数初步收涨3.4%，成分股中，Nebius初步收涨27.2%，闪迪飙涨25.8%，CoreWeave涨21.3%，Astera Labs、拉姆研究、美光科技、微软、Lumentum、西部数据、应用材料至少涨15%，汤森路透跌7%，Meta跌7.9%，ALNY跌28.3%。",
-          "url": "https://wallstreetcn.com/livenews/3142630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-07-31）",
-          "url": "https://flash.jin10.com/detail/20260731203012933800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
-          "url": "https://wallstreetcn.com/livenews/3142689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "艾伯维二季度净营收169.9亿美元，预估167.7亿美元。 二季度调整后每股收益3.65美元，预估3.61美元。 艾伯维预计全年调整后每股收益为13.87至14.07美元，此前预期为13.91至14.11美元。 艾伯维美股盘前跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3143251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3142605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时20分]"
-        },
-        {
-          "title": "联邦快递：扩大与Dexterity的合作，在马里兰州黑格斯敦转运中心部署人工智能机器人。",
-          "url": "https://flash.jin10.com/detail/20260731020919950800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-31）",
-          "url": "https://flash.jin10.com/detail/20260731115746440800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
-          "url": "https://wallstreetcn.com/livenews/3142550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "国家发展改革委：上半年人工智能相关行业保持30%以上高增长",
-          "url": "https://wallstreetcn.com/livenews/3142887",
+          "title": "OpenAI：我们的模型目前覆盖超过10亿活跃用户。 覆盖超过200万家企业。",
+          "url": "https://wallstreetcn.com/livenews/3143353",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "00时06分"
         },
         {
-          "title": "欧盟8月2日起执行《人工智能法》相关规定 新增AI透明度要求",
-          "url": "https://wallstreetcn.com/livenews/3143245",
+          "title": "AI公司批量抢购旧书",
+          "url": "https://www.baidu.com/s?wd=AI%E5%85%AC%E5%8F%B8%E6%89%B9%E9%87%8F%E6%8A%A2%E8%B4%AD%E6%97%A7%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "指数",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月31日（周五）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260731234418144800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.6%，报395.48点。 在十个板块中，北欧医疗保健板块跌幅最大。 诺和诺德跌7.4%，对指数构成的拖累最大，且在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3143366",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时03分"
+          "time_info": "00时06分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨0.31%，报25692.28点。 法国股指初步收涨0.60%，意大利股指初步收涨0.22%、银行指数涨0.45%，英国股指初步收跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3143362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "德国DAX30指数7月31日（周五）收盘上涨68.42点，涨幅0.27%，报25642.92点；<br/>英国富时100指数7月31日（周五）收盘下跌21.08点，跌幅0.19%，报10876.19点；<br/>法国CAC40指数7月31日（周五）收盘上涨24.00点，涨幅0.28%，报8509.64点；<br/>欧洲斯托克50指数7月31日（周五）收盘上涨14.95点，涨幅0.24%，报6359.35点；<br/>西班牙IBEX35指数7月31日（周五）收盘上涨15.58点，涨幅0.08%，报19773.28点；<br/>意大利富时MIB指数7月31日（周五）收盘上涨52.62点，涨幅0.10%，报52157.00点。",
+          "url": "https://flash.jin10.com/detail/20260731233701086800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收涨0.14%，报650.84点。 欧元区STOXX 50指数初步收涨0.43%，报6371.56点。 富时泛欧绩优300指数初步收涨0.14%，报2601.04点。",
+          "url": "https://wallstreetcn.com/livenews/3143361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "DeepSeek-V4-Flash 正式版API上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 21时03分]"
-        },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2066521165246489298",
@@ -1623,59 +286,103 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 21时03分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "DeepSeekV4Flash正式版上线",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek拟在内蒙古建超算中心",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 3,
       "titles": [
         {
-          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
-          "url": "https://wallstreetcn.com/articles/3778176",
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
-            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
+          "url": "https://wallstreetcn.com/articles/3778371",
+          "source": "华尔街见闻",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时20分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "雪佛龙(CVX.N)CEO：预计第三季度产品价格将面临一定的上行压力。",
+          "url": "https://flash.jin10.com/detail/20260731235325409800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟宣布扩大实施《人工智能法》",
+          "url": "https://wallstreetcn.com/livenews/3143349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     }

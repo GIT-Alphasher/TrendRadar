@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T16:37:49.242593+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-08-03T20:34:15.859688+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
@@ -43,6 +43,28 @@
           "time_info": "[00时09分 ~ 12时37分]"
         },
         {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 20时34分]"
+        },
+        {
+          "title": "AI短剧女主60秒广告报价25万8",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B725%E4%B8%878%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
           "title": "神了,OpenAI攻克十年数学难题",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "贴吧",
@@ -75,18 +97,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -129,6 +140,17 @@
           "time_info": "[00时09分 ~ 06时03分]"
         },
         {
+          "title": "中金：AI之外还有什么值得买",
+          "url": "https://wallstreetcn.com/articles/3778538",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
           "url": "https://www.zhihu.com/question/2066215968578204075",
           "source": "知乎",
@@ -138,6 +160,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
         },
         {
           "title": "网上爆火的AI短剧男主",
@@ -151,13 +184,46 @@
           "time_info": "[08时05分 ~ 08时06分]"
         },
         {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "AI短剧女主60秒广告报价25万8",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B725%E4%B8%878",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
           "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
           "url": "https://www.cls.cn/detail/2443873",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -179,9 +245,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "个人投资者用AI炮制谣言牟利被罚没48.5万元",
+          "url": "https://wallstreetcn.com/livenews/3144135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "涉及中国AI，两家英媒同日发文",
@@ -212,7 +289,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -256,7 +333,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
@@ -264,7 +341,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "印度NIFTY小盘股100指数上涨1%。",
@@ -289,6 +366,28 @@
           "time_info": "12时37分"
         },
         {
+          "title": "波罗的海干散货运价指数涨4.06%，至2843点。",
+          "url": "https://wallstreetcn.com/livenews/3144146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "微盘股指数两日涨超7%！年内跌幅接近填平，相关ETF资金动向如何？",
+          "url": "https://www.cls.cn/detail/2444249",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
           "title": "港股午评：恒生科技指数半日收涨0.74% 阿里巴巴大涨近7%",
           "url": "https://flash.jin10.com/detail/20260803120418757800",
           "source": "金十数据",
@@ -309,6 +408,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "纳斯达克100指数期货回吐日内全部涨幅，存储芯片概念股盘前走低，美光科技跌5%，SK海力士、闪迪跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3144136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "安联首席经济顾问Mohamed El-Erian：今天KOSPI指数下跌了5%。虽然在绝对值上跌幅较大，但与近期的剧烈波动相比，其实已经相对温和。",
+          "url": "https://flash.jin10.com/detail/20260803200949271800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "上证指数早盘收报3809.65点，跌0.59%。 深证成指早盘收报13517.62点，跌0.45%。 创业板指早盘收报3329.13点，跌0.44%。 沪深300早盘收报4554.62点，跌0.73%。 科创50早盘收报1575.01点，跌3.73%。 中证500早盘收报7446.97点，跌0.63%。 中证1000早盘收报7084.88点，涨0.13%。",
@@ -350,9 +471,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "波罗的海干散货运价指数涨4.06%，至2843点。",
+          "url": "https://flash.jin10.com/detail/20260803200249170800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "香港恒生指数8月3日（周一）收盘上涨124.97点，涨幅0.48%，报26009.4点；<br/>香港恒生科技指数8月3日（周一）收盘上涨46.39点，涨幅0.96%，报4875.61点；<br/>国企指数8月3日（周一）收盘上涨40.0点，涨幅0.46%，报8652.15点；<br/>红筹指数8月3日（周一）收盘下跌17.16点，跌幅0.41%，报4175.96点。",
@@ -361,7 +493,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -383,9 +515,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "鹏华基金债券指数基金规模接近800亿元",
+          "url": "https://wallstreetcn.com/livenews/3144118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "金十图示：2026年08月03日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股涨跌不一，通信设备板块走强",
@@ -423,8 +566,161 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "汇市盘初，美元兑日元USD/JPY下跌0.3%，现报157.16，较上周五收盘下跌约30点。",
+          "url": "https://flash.jin10.com/detail/20260803050755993800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美银全球研究：将Moderna(MRNA.O)目标价从38美元上调至40美元。",
+          "url": "https://flash.jin10.com/detail/20260803201455208800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "市场消息：过去三个月，日本减持了960亿美元的美国国债，持仓降至1.14万亿美元，为2025年4月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260802233306006800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "美日联合干预难挡日元贬值“巨轮”，美元可能会因此陷入泥潭...——新版发布",
+          "url": "https://flash.jin10.com/detail/20260803121003048800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "月之暗面计划最早本月内提交香港IPO申请 或募资约30亿美元",
+          "url": "https://flash.jin10.com/detail/20260803162635023800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "索尼影业最新一部电影《蜘蛛侠》全球首映票房9.27亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3143706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 06时03分]"
+        },
+        {
+          "title": "阿斯利康与百时美施贵宝就4000亿美元巨额交易进行洽谈",
+          "url": "https://flash.jin10.com/detail/20260803032256587800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时03分]"
+        },
+        {
+          "title": "Powerus获得美国空军价值达9000万美元的无限期交付/不确定数量合同，用于空中拒止任务。",
+          "url": "https://flash.jin10.com/detail/20260803201158828800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "策略师：美财政部疑通过欧元干预日元，避免美元走弱",
+          "url": "https://flash.jin10.com/detail/20260803120201333800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "现货钯金日内下跌2.00%，现报1267.97美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260803200649620800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "特朗普再次“TACO”，金价4000美元暗战升级！",
+          "url": "https://flash.jin10.com/detail/20260803114543512800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "分析师：美日联手干预引发美元跌势延续 但未来基本面或仍偏积极",
+          "url": "https://flash.jin10.com/detail/20260803200148362800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "日本当局上周五或“砸下”340亿美元重拳维稳，创单月纪录新高",
+          "url": "https://flash.jin10.com/detail/20260803195519346800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "价格",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "韩国存储调研：三星长协“限制跌幅、不限涨幅”，现货价格在四季度旺季前持续反弹",
@@ -465,6 +761,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "阳光电源：拟以5亿元-10亿元回购股份，回购股份价格不超过人民币188元/股。",
+          "url": "https://wallstreetcn.com/livenews/3144140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "现货价格",
           "url": "https://flash.jin10.com/detail/20260803073946890800",
           "source": "金十数据",
@@ -482,7 +789,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -533,106 +840,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "汇市盘初，美元兑日元USD/JPY下跌0.3%，现报157.16，较上周五收盘下跌约30点。",
-          "url": "https://flash.jin10.com/detail/20260803050755993800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "市场消息：过去三个月，日本减持了960亿美元的美国国债，持仓降至1.14万亿美元，为2025年4月以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260802233306006800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "美日联合干预难挡日元贬值“巨轮”，美元可能会因此陷入泥潭...——新版发布",
-          "url": "https://flash.jin10.com/detail/20260803121003048800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "月之暗面计划最早本月内提交香港IPO申请 或募资约30亿美元",
-          "url": "https://flash.jin10.com/detail/20260803162635023800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "索尼影业最新一部电影《蜘蛛侠》全球首映票房9.27亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3143706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时03分]"
-        },
-        {
-          "title": "阿斯利康与百时美施贵宝就4000亿美元巨额交易进行洽谈",
-          "url": "https://flash.jin10.com/detail/20260803032256587800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 06时03分]"
-        },
-        {
-          "title": "策略师：美财政部疑通过欧元干预日元，避免美元走弱",
-          "url": "https://flash.jin10.com/detail/20260803120201333800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "特朗普再次“TACO”，金价4000美元暗战升级！",
-          "url": "https://flash.jin10.com/detail/20260803114543512800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -676,6 +885,39 @@
           "time_info": "[04时15分 ~ 08时06分]"
         },
         {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A8%A1%E5%9E%8B%E5%8D%95%E6%97%A5%E5%90%9E%E4%B8%8B8%E4%B8%87%E4%BA%BFToken",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
           "title": "DeepSeek-V4-Flash正式版API登陆国家超算互联网",
           "url": "https://flash.jin10.com/detail/20260803113453343800",
           "source": "金十数据",
@@ -690,8 +932,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
         {
           "title": "摩根大通警告：美股“挤水分”进入下半场，但抄底时机未到",
           "url": "https://flash.jin10.com/detail/20260803162828608800",
@@ -699,7 +952,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -722,44 +975,27 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
-          "url": "https://www.cls.cn/detail/2443731",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
-          "url": "https://flash.jin10.com/detail/20260803115620374800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "16时37分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中国信通院：2025年我国人工智能产业规模超1.2万亿元",
+          "url": "https://flash.jin10.com/detail/20260803201044238800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-03）",
           "url": "https://flash.jin10.com/detail/20260803120029547800",
@@ -778,9 +1014,37 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
+          "url": "https://flash.jin10.com/detail/20260803115620374800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     },

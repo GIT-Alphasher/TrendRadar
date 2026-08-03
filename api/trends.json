@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-04T03:53:23.066107+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-04T05:14:21.590102+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
         {
-          "title": "美国总统特朗普：将批准2450万美元资金，用于应对密苏里州遭遇的严重风暴、强风、龙卷风和洪水灾害。",
-          "url": "https://flash.jin10.com/detail/20260804034236095800",
-          "source": "金十数据",
+          "title": "道明：干预势头可能短暂推动美元/日元跌至153",
+          "url": "https://wallstreetcn.com/livenews/3144357",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "05时14分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的21.27亿美元。",
@@ -30,15 +30,61 @@
           "time_info": "02时01分"
         },
         {
-          "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
-          "url": "https://wallstreetcn.com/livenews/3144332",
-          "source": "华尔街见闻-快讯",
+          "title": "Snap(SNAP.N)预计第三季度营收17亿美元至17.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804041124197800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美国总统特朗普：将批准2450万美元资金，用于应对密苏里州遭遇的严重风暴、强风、龙卷风和洪水灾害。",
+          "url": "https://flash.jin10.com/detail/20260804034236095800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 05时14分]"
+        },
+        {
+          "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
+          "url": "https://wallstreetcn.com/livenews/3144332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 05时14分]"
+        },
+        {
+          "title": "Snap(SNAP.N)2026年Q2营收16亿美元，市场预期为15.41亿美元，上年同期为13.45亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804041106483800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "安森美半导体(ON.O)2026年Q2营收16亿美元，市场预期为15.9亿美元；预计第三季度营收16.5亿至17.5亿美元，市场预估16.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804040927260800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "周一（8月3日），美联储隔夜逆回购协议（RRP）使用规模为21.27亿美元（交易对手4家），上个交易日报21.51亿美元。",
@@ -63,6 +109,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "Palantir(PLTR.O)2026年Q2营收19.3亿美元，市场预期为18.05亿美元，上年同期为10.03亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804040627805800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "美国证券交易委员会（SEC）：瑞银因涉及反洗钱违规，将支付2000万美元民事罚款。",
           "url": "https://flash.jin10.com/detail/20260804012422170800",
           "source": "金十数据",
@@ -72,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "Palantir(PLTR.N)预计全年营收81.5亿至81.6亿美元，此前预期为76.5亿至76.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804040608092800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "美国财政部：美国金融犯罪执法网络（FinCEN）对瑞银处以1.25亿美元民事罚款，指控瑞银“故意违反”《银行保密法》。",
@@ -85,6 +153,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "安森美半导体二季度调整后每股收益（EPS）为0.74美元，分析师预期0.71美元。",
+          "url": "https://wallstreetcn.com/livenews/3144348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "美国金融业监管局（FINRA）：因反洗钱违规，对瑞银金融公司处以2000万美元罚款。瑞银未能合理监控超过6万笔交易，总金额达100亿美元。",
           "url": "https://flash.jin10.com/detail/20260804012330576800",
           "source": "金十数据",
@@ -94,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "Diamondback Energy二季度调整后每股收益（EPS）为6.48美元，分析师预期6.07美元。",
+          "url": "https://wallstreetcn.com/livenews/3144347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "美元指数DXY站上100，日内涨0.26%。",
@@ -107,13 +197,24 @@
           "time_info": "02时01分"
         },
         {
+          "title": "美元指数3日下跌",
+          "url": "https://flash.jin10.com/detail/20260804040408443800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
           "url": "https://wallstreetcn.com/livenews/3144322",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -135,7 +236,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -146,7 +247,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -157,7 +258,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -175,9 +276,170 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 10,
+      "keyword_group": "美股",
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
+        },
+        {
+          "title": "周一（8月3日）纽约尾盘，现货黄金涨0.21%，报4054.95美元/盎司，亚太盘初高开至4080.87美元刷新日高，随后震荡下行、21:38刷新日低至4019.30美元。 COMEX黄金期货涨0.15%，报4113美元/盎司。 现货白银涨1.01%，报58.18美元/盎司，美股盘初也曾刷新日低至56.5694美元。 COMEX白银期货涨1.08%，报58.400美元/盎司。 COMEX铜期货涨0.65%，报6.5490美元/磅。 现货铂金跌1%，现货钯金跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3144358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "Snap(SNAP.N)美股盘后涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260804041150987800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，纳指ETF、小盘股指ETF涨超1.7%，布油基金跌5%",
+          "url": "https://wallstreetcn.com/livenews/3144355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "城堡证券：推动美股创新高的力量依然稳固",
+          "url": "https://flash.jin10.com/detail/20260804034718869800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 05时14分]"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
+        },
+        {
+          "title": "Snap二季度营收16亿美元，分析师预期15.4亿美元。 二季度日活用户数4.93亿，分析师预期4.8838亿。 二季度调整后EBITDA为2.5亿美元，分析师预期1.923亿美元。 预计三季度营收17亿-17.4亿美元，分析师预期17亿美元。 预计三季度调整后EBITDA为3亿-3.5亿美元，分析师预期3.276亿美元。 Snap美股盘后涨11%。",
+          "url": "https://wallstreetcn.com/livenews/3144353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "Palantir(PLTR.N)美股盘后拉升7%。",
+          "url": "https://flash.jin10.com/detail/20260804040640366800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
+          "url": "https://wallstreetcn.com/livenews/3144351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "Palantir二季度调整后每股收益（EPS）为0.41美元，分析师预期0.35美元。 二季度营收19.4亿美元，分析师预期18.1亿美元。 预计全年营收81.5亿-81.6亿美元，公司原本预计76.5亿-76.6亿美元。 预计全年调整后运营利润48.9亿-49亿美元，分析师预期45.1亿美元。 Palantir美股盘后涨7%。",
+          "url": "https://wallstreetcn.com/livenews/3144349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260804040540550800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260804040524441800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美股收盘：道指创收盘新高 纳指涨超2%",
+          "url": "https://flash.jin10.com/detail/20260804040116965800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
+          "url": "https://wallstreetcn.com/livenews/3144359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
           "url": "https://www.cls.cn/detail/2444244",
@@ -186,8 +448,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -197,8 +459,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
@@ -206,11 +468,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -220,8 +483,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
+        },
+        {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
@@ -231,20 +507,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
-        },
-        {
-          "title": "UP主自制AI短片 洪流之上",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "Hugging Face首席执行官：中国在开源模型领域占据主导地位 正在赢得AI竞赛",
@@ -253,7 +517,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -275,7 +539,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -293,6 +557,122 @@
       ]
     },
     {
+      "keyword_group": "指数",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月03日（周一）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260804041356244800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "微盘股指数两日涨超7%！年内跌幅接近填平，相关ETF资金动向如何？",
+          "url": "https://www.cls.cn/detail/2444249",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信服务板块收涨4.3%——成分股Meta、谷歌A领跑，可选消费板块涨2.68%，信息技术/科技板块涨1.62%，能源板块则收跌1.23%。",
+          "url": "https://wallstreetcn.com/livenews/3144352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260804040534932800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "道琼斯指数8月3日（周一）收盘上涨693.38点，涨幅1.32%，报53178.41点；<br/>标普500指数8月3日（周一）收盘上涨110.78点，涨幅1.48%，报7600.50点；<br/>纳斯达克综合指数8月3日（周一）收盘上涨540.04点，涨幅2.13%，报25913.90点。",
+          "url": "https://flash.jin10.com/detail/20260804040526513800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美国科技股七巨头指数涨3.6%，创3月31日以来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3144344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "中概指数收涨超0.7%，KWEB涨约0.9%，金山云涨约7%，日月光半导体、阿里涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3144343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.06%，报25981点。 恒生科技指数主连夜盘收涨0.06%，报4870点。",
+          "url": "https://wallstreetcn.com/livenews/3144318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "OpenAI：这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
+          "url": "https://flash.jin10.com/detail/20260804025632127800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至2%，美国总统特朗普宣称，正在讨论明天开放霍尔木兹海峡的问题。谈判第一阶段是重新开放海峡。霍尔木兹海峡可能最迟明天就会重新开放。",
+          "url": "https://wallstreetcn.com/livenews/3144305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 7,
       "titles": [
@@ -304,8 +684,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -315,8 +695,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -327,8 +707,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -336,11 +716,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -348,22 +729,24 @@
           "source": "今日头条",
           "ranks": [
             9,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         },
         {
           "title": "DeepSeek登顶全球第一",
@@ -371,107 +754,30 @@
           "source": "微博",
           "ranks": [
             15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "指数",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "微盘股指数两日涨超7%！年内跌幅接近填平，相关ETF资金动向如何？",
-          "url": "https://www.cls.cn/detail/2444249",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.06%，报25981点。 恒生科技指数主连夜盘收涨0.06%，报4870点。",
-          "url": "https://wallstreetcn.com/livenews/3144318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            19,
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "OpenAI：这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
-          "url": "https://flash.jin10.com/detail/20260804025632127800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至2%，美国总统特朗普宣称，正在讨论明天开放霍尔木兹海峡的问题。谈判第一阶段是重新开放海峡。霍尔木兹海峡可能最迟明天就会重新开放。",
-          "url": "https://wallstreetcn.com/livenews/3144305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
-        },
-        {
-          "title": "城堡证券：推动美股创新高的力量依然稳固",
-          "url": "https://flash.jin10.com/detail/20260804034718869800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2444462",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时00分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 05时14分]"
         }
       ]
     },
     {
       "keyword_group": "价格",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "周一（8月3日），彭博电动汽车价格回报指数跌0.03%，报3352.55点。",
+          "url": "https://wallstreetcn.com/livenews/3144350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
         {
           "title": "乌克兰总理：今天，紧急支持农民的首个决策已获批准。政府暂时调整了某些农业产品的最低出口价格，以稳定期内防止粮食和油籽出口中断。我还指示紧急制定乌克兰农业产品加工发展的计划，以便在乌克兰生产和加工更多产品。我们还在准备其他措施以稳定农业部门的形势。",
           "url": "https://flash.jin10.com/detail/20260804011214558800",
@@ -490,7 +796,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         }

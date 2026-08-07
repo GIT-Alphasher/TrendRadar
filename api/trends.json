@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T19:01:47.654766+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-08-07T19:54:41.355287+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "日本7月外汇储备 12871亿美元，前值12875亿美元。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -74,15 +74,38 @@
           "time_info": "15时36分"
         },
         {
-          "title": "安徳玛第一财季调整后每股收益0.050美元，上年同期0.020美元，预估0.02美元。 第一财季净营收11.0亿美元，同比下降3.2%，预估11.1亿美元。 第一财季经营利润4,670万美元，上年同期332万美元，预估2,810万美元。 安徳玛预计全年调整后运营收益1.40亿美元至4.60亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3146678",
-          "source": "华尔街见闻-快讯",
+          "title": "斯蒂费尔：将Cloudflare(NET.N)目标价从260美元上调至370美元。",
+          "url": "https://flash.jin10.com/detail/20260807191904067800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时01分"
+          "time_info": "19时54分"
+        },
+        {
+          "title": "韦德布什：将爱彼迎(ABNB.O)评级从中性上调至跑赢大市，将目标价从152美元上调至200美元。",
+          "url": "https://flash.jin10.com/detail/20260807191642254800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "安徳玛第一财季调整后每股收益0.050美元，上年同期0.020美元，预估0.02美元。 第一财季净营收11.0亿美元，同比下降3.2%，预估11.1亿美元。 第一财季经营利润4,670万美元，上年同期332万美元，预估2,810万美元。 安徳玛预计全年调整后运营收益1.40亿美元至4.60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3146678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时54分]"
         },
         {
           "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
@@ -103,7 +126,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -125,7 +148,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -147,7 +170,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -161,6 +184,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "现货黄金日内涨幅扩大至2%，报4325.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3146683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "美媒：特朗普拟投入逾1.8亿美元 推动采矿行业教育发展",
+          "url": "https://flash.jin10.com/detail/20260807190915827800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "非农数据公布前，现货黄金日内涨幅扩大至2%，现报4325.27美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260807190904734800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.7501，较上一交易日官方收盘价涨14点，较上日夜盘收盘涨16点。",
@@ -273,6 +329,17 @@
           "time_info": "11时56分"
         },
         {
+          "title": "据CBS新闻：特朗普计划于周五宣布拨款超过1.8亿美元，用于加强采矿业的教育和贸易项目，这是提高关键矿产产量的举措之一。",
+          "url": "https://flash.jin10.com/detail/20260807190238913800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "日本政府养老金投资基金因股市上涨录得1520亿美元收益",
           "url": "https://wallstreetcn.com/livenews/3146495",
           "source": "华尔街见闻-快讯",
@@ -328,6 +395,17 @@
           "time_info": "17时09分"
         },
         {
+          "title": "市场消息：印尼主权财富基金Danantara将向与JBS的合资企业投资25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260807185743983800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "在岸人民币兑美元8月7日16:30收盘报6.7501，较上一交易日上涨14点。",
           "url": "https://flash.jin10.com/detail/20260807163145849800",
           "source": "金十数据",
@@ -364,7 +442,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -374,11 +452,12 @@
             8,
             5,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 19时01分]"
+          "appearance_count": 6,
+          "time_info": "[13时47分 ~ 19时54分]"
         },
         {
           "title": "ai漫剧男主唯一塌房方式被找到了",
@@ -439,6 +518,18 @@
           "time_info": "[08时10分 ~ 15时36分]"
         },
         {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时54分]"
+        },
+        {
           "title": "戚薇AI短剧 雷霆视角",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -450,6 +541,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时47分 ~ 17时09分]"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 19时54分]"
+        },
+        {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            13,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 19时54分]"
         },
         {
           "title": "内娱第一人 戚薇开放形象AI授权",
@@ -476,40 +593,28 @@
           "time_info": "[11时56分 ~ 13时48分]"
         },
         {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 19时01分]"
-        },
-        {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 19时01分]"
-        },
-        {
           "title": "中国人能飞AI版vs实拍版",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 19时54分]"
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时01分]"
+          "time_info": "[19时01分 ~ 19时54分]"
         },
         {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
@@ -521,6 +626,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时54分]"
+        },
+        {
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时54分]"
         },
         {
           "title": "戚薇 授权AI",
@@ -546,28 +675,6 @@
           "time_info": "[08时10分 ~ 11时56分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
-          "url": "https://wallstreetcn.com/articles/3778904",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
           "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
           "url": "https://www.toutiao.com/trending/7670341977426296874/",
           "source": "今日头条",
@@ -590,17 +697,6 @@
           "time_info": "17时09分"
         },
         {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
           "url": "https://www.cls.cn/detail/2447404",
           "source": "财联社热门",
@@ -621,17 +717,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
-        },
-        {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
         },
         {
           "title": "AI复原文人笔下的立秋",
@@ -709,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "非洲开发者更愿用中国AI模型说明啥",
+          "url": "https://www.toutiao.com/trending/7671214313847131702/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         }
       ]
     },
@@ -814,11 +910,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 19时54分]"
         },
         {
           "title": "东证指数大换血：超600家公司面临剔除 小盘股加速自救",
@@ -966,131 +1063,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
-          "url": "https://wallstreetcn.com/articles/3778857",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时10分 ~ 19时01分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            14,
-            18,
-            23,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时10分 ~ 19时01分]"
-        },
-        {
-          "title": "DeepSeek终于打算激进扩张了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "DeepSeek官宣涨价，且“幅度较大”！",
-          "url": "https://wallstreetcn.com/articles/3778814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 11时56分]"
-        },
-        {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 17时09分]"
-        },
-        {
-          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
-          "url": "https://www.toutiao.com/trending/7671088097861307923/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时01分]"
-        },
-        {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "价格",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
@@ -1115,6 +1089,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "氧化铒年内价格大幅上涨",
+          "url": "https://wallstreetcn.com/livenews/3146687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "SC原油2609盘中明显走强，涨幅扩大至5.16%，价格上探536元/桶，成交额已超510亿元；日内增仓近1500手，量仓活跃度同步抬升。丁二烯橡胶主力合约日内涨幅达4.00%，现报13300元/吨。",
@@ -1148,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "纳斯达克ETF：本基金将于2026年8月10日开市起至当日10:30停牌。若本基金后续二级市场交易价格溢价幅度未有效回落，本基金有权采取向上海证券交易所申请盘中临时停牌、延长停牌时间等措施以向市场警示风险。",
+          "url": "https://flash.jin10.com/detail/20260807190449830800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "韩国另类交易平台Nextrade将暂时禁止在当日价格上下限的订单",
@@ -1207,6 +1203,141 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时10分 ~ 19时54分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14,
+            18,
+            23,
+            25,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时10分 ~ 19时54分]"
+        },
+        {
+          "title": "DeepSeek终于打算激进扩张了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 19时54分]"
+        },
+        {
+          "title": "DeepSeek官宣涨价，且“幅度较大”！",
+          "url": "https://wallstreetcn.com/articles/3778814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 11时56分]"
+        },
+        {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 17时09分]"
+        },
+        {
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
+          "url": "https://www.toutiao.com/trending/7671088097861307923/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
@@ -1218,8 +1349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时10分 ~ 19时01分]"
+          "appearance_count": 8,
+          "time_info": "[08时10分 ~ 19时54分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -1239,11 +1370,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 19时54分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -1303,11 +1435,24 @@
           "ranks": [
             13,
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 19时01分]"
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 19时54分]"
+        },
+        {
+          "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
+          "url": "https://wallstreetcn.com/livenews/3146668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时54分]"
         },
         {
           "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
@@ -1316,18 +1461,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
-          "url": "https://wallstreetcn.com/livenews/3146668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },

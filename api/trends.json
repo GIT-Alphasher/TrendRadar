@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T10:26:12.797251+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-08-10T12:46:48.279290+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
@@ -53,8 +53,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 10时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 12时46分]"
         },
         {
           "title": "伦纳德被曝隐匿收入超5000万美元",
@@ -132,21 +132,54 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
+          "title": "Jefferies把特斯拉目标价从400美元下调至350美元。",
+          "url": "https://wallstreetcn.com/livenews/3147274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "据英国金融时报：英国国防集团Cambridge Aerospace已筹集3亿美元，用于开发其导弹和无人机拦截系统。此次交易的估值达34亿美元，进一步巩固了其作为英国最有价值初创企业之一的地位。",
+          "url": "https://flash.jin10.com/detail/20260810121130498800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "人民币兑美元中间价创2023年2月10日以来新高",
           "url": "https://wallstreetcn.com/livenews/3147179",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC天然气部门：将投资超过80亿美元以扩大生产能力。",
+          "url": "https://flash.jin10.com/detail/20260810114603160800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -169,19 +202,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 10时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 12时46分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 10时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 12时46分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -213,6 +247,18 @@
           "time_info": "[02时53分 ~ 10时26分]"
         },
         {
+          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
+          "url": "https://www.zhihu.com/question/2063944037544023265",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时46分]"
+        },
+        {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
           "url": "https://wallstreetcn.com/livenews/3147103",
           "source": "华尔街见闻-快讯",
@@ -224,17 +270,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 06时40分]"
-        },
-        {
-          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
-          "url": "https://www.zhihu.com/question/2063944037544023265",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "毛宁向世界分享AI“中式天庭”",
@@ -257,9 +292,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
+          "url": "https://www.zhihu.com/question/2069770698055050765",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "建议每个人都用AI做的三件事",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E7%94%A8AI%E5%81%9A%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "摩根士丹利：看好阿里巴巴，因其覆盖全产业链的AI能力、算力方面的优势，以及多年的云增长和完整的利润扩张。",
@@ -268,7 +336,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
@@ -276,8 +344,19 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "摩根大通：将2026年末标普500指数目标上调至8000点，之前为7800点。",
+          "url": "https://flash.jin10.com/detail/20260810123555188800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
         {
           "title": "A股三大指数集体高开",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
@@ -290,13 +369,24 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
+          "title": "上证指数早盘收报3947.91点，涨0.20%。 深证成指早盘收报14148.86点，跌1.13%。 创业板指早盘收报3485.44点，跌2.18%。 沪深300早盘收报4670.05点，跌0.52%。 科创50早盘收报1716.69点，跌1.57%。 中证500早盘收报7942.84点，跌0.47%。 中证1000早盘收报7647.01点，跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3147268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "中证转债指数开盘上涨0.28%。圣泉转债、华懋转债、通合转债、盛德转债、欧通转债涨幅居前，分别涨6.49%、4.66%、2.81%、2.75%、2.63%。宏图转债、宝莱转债、春23转债、博22转债、银轮转债跌幅居前，分别跌3.22%、3.17%、2.77%、0.62%、0.52%。",
           "url": "https://wallstreetcn.com/livenews/3147190",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -307,7 +397,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -318,7 +408,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -329,7 +419,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -340,7 +430,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -351,7 +441,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -362,9 +452,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数涨2%，东证指数涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3147239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "台湾证交所加权股价指数盘初上涨1%至44,683.14点。",
@@ -373,7 +474,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
@@ -381,7 +482,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -432,6 +533,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时47分 ~ 05时41分]"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144150元/吨，较上日16:30价格上涨1600元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3147238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     },
@@ -451,6 +563,19 @@
           "time_info": "[00时47分 ~ 10时26分]"
         },
         {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时41分 ~ 12时46分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -463,18 +588,6 @@
           "time_info": "[00时47分 ~ 07时40分]"
         },
         {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时41分 ~ 10时26分]"
-        },
-        {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
           "url": "https://flash.jin10.com/detail/20260810060135599800",
           "source": "金十数据",
@@ -485,6 +598,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-10）",
+          "url": "https://flash.jin10.com/detail/20260810120651413800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     }

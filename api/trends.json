@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T15:22:51.614046+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-08-11T17:09:17.367268+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时09分]"
         },
         {
           "title": "伯克希尔 Q2 净利润 256.67 亿美元，时隔 3 年首次净买入股票，现金储备降至 3655 亿美元，如何解读？",
@@ -45,6 +46,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时09分 ~ 07时43分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时09分]"
         },
         {
           "title": "美国2026财年前10个月联邦赤字为1.8万亿美元",
@@ -75,7 +88,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -97,7 +110,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -111,18 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 15时22分]"
         },
         {
           "title": "哈萨克斯坦央行：7月份的净黄金和外汇储备为617.24亿美元（环比变化3.2%）。",
@@ -226,6 +227,18 @@
           "time_info": "[04时54分 ~ 06时49分]"
         },
         {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 17时09分]"
+        },
+        {
           "title": "特朗普媒体科技集团二季度净利润2.38亿美元，上年同期亏损0.2亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147687",
           "source": "华尔街见闻-快讯",
@@ -289,16 +302,16 @@
           "time_info": "[06时49分 ~ 07时43分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            13,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时22分]"
+          "time_info": "[15时22分 ~ 17时09分]"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
@@ -414,7 +427,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -485,13 +498,24 @@
           "time_info": "12时27分"
         },
         {
+          "title": "布伦特原油突破90美元/桶关口，日内涨幅达2.4%；WTI原油日内涨幅达2.5%，报84.21美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "英特尔(INTC.O)：此次发行的净收益将约为197亿美元。",
           "url": "https://flash.jin10.com/detail/20260811144630140800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -516,17 +540,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
-        },
-        {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "现货白银日内涨幅扩大至3.00%，现报65.44美元/盎司。",
@@ -557,7 +570,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -634,7 +647,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -659,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "在岸人民币兑美元8月11日16:30收盘报6.7457，较上一交易日下跌15点。",
+          "url": "https://flash.jin10.com/detail/20260811163141386800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "现货黄金下破4400美元/盎司关口，最低至4381美元/盎司附近，日内转跌0.15%。",
@@ -755,7 +779,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -771,6 +795,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "日元对美元汇率再次大幅下跌",
+          "url": "https://www.douyin.com/hot/2605380",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "周一（8月10日）纽约尾盘，ICE美元指数涨0.29%，刷新日高至99.829点，整体处于上涨状态，亚太盘初以来冲高回落、北京时间16:15回落至99.603点刷新日低，之后一度持续扩大涨幅。 彭博美元指数涨0.25%，逼近21:53刷新的日高1203.67点。",
           "url": "https://wallstreetcn.com/livenews/3147664",
           "source": "华尔街见闻-快讯",
@@ -780,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "报道：新加坡数据中心运营商DayOne以保密形式提交50亿美元美国IPO申请",
+          "url": "https://wallstreetcn.com/livenews/3147933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "价值87亿美元的SpaceX押注推动安大略教师养老金实现收益增长",
@@ -802,12 +848,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "银都股份：公司境外子公司收到美国退回关税1159.99万美元",
+          "url": "https://wallstreetcn.com/livenews/3147932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -833,8 +890,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时09分 ~ 15时22分]"
+          "appearance_count": 13,
+          "time_info": "[03时09分 ~ 17时09分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -862,6 +919,18 @@
           "time_info": "[03时09分 ~ 07时43分]"
         },
         {
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时09分]"
+        },
+        {
           "title": "AI在黎曼猜想上做出了什么突破",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
@@ -875,15 +944,30 @@
           "time_info": "[10时19分 ~ 15时22分]"
         },
         {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时09分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时09分]"
         },
         {
           "title": "TaiLung被永久禁赛有何内幕",
@@ -895,31 +979,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 15时22分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 15时22分]"
         },
         {
           "title": "孙女用AI把奶奶P进《西游记》",
@@ -940,11 +999,47 @@
           "source": "抖音",
           "ranks": [
             8,
-            5
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 17时09分]"
+        },
+        {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时22分]"
+          "time_info": "[15时22分 ~ 17时09分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时09分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时09分]"
         },
         {
           "title": "英伟达：AI实验室与AI初创公司都需要计算。",
@@ -981,6 +1076,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "腾讯启动2027校招，增加多个AI原生岗位",
+          "url": "https://wallstreetcn.com/livenews/3147962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
           "url": "https://wallstreetcn.com/livenews/3147642",
           "source": "华尔街见闻-快讯",
@@ -990,28 +1096,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "取消涨价50%计划：Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
@@ -1025,17 +1109,6 @@
           "time_info": "07时43分"
         },
         {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
           "url": "https://wallstreetcn.com/livenews/3147639",
           "source": "华尔街见闻-快讯",
@@ -1047,13 +1120,24 @@
           "time_info": "03时09分"
         },
         {
+          "title": "小米启动2027届校招 AI岗位需求增长50%",
+          "url": "https://wallstreetcn.com/livenews/3147954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "巴克莱仍偏好美国成长股和大型股 因AI支出支撑业绩",
           "url": "https://wallstreetcn.com/livenews/3147906",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1075,7 +1159,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1111,6 +1195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "当老板意识到AI比人工贵",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E8%80%81%E6%9D%BF%E6%84%8F%E8%AF%86%E5%88%B0AI%E6%AF%94%E4%BA%BA%E5%B7%A5%E8%B4%B5&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "OpenAI：强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。",
@@ -1152,7 +1247,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1182,7 +1277,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -1195,6 +1290,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时09分 ~ 07时43分]"
+        },
+        {
+          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
+          "url": "https://www.cls.cn/detail/2450976",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 17时09分]"
         },
         {
           "title": "明晟公司MSCI新兴市场股票指数涨0.7%，外汇指数涨0.1%。",
@@ -1210,16 +1318,17 @@
           "time_info": "[04时54分 ~ 06时49分]"
         },
         {
-          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
-          "url": "https://www.cls.cn/detail/2450976",
+          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
+          "url": "https://www.cls.cn/detail/2450955",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7
+            9,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 17时09分]"
         },
         {
           "title": "上证指数早盘收报3964.79点，跌0.05%。 深证成指早盘收报14410.34点，涨0.65%。 创业板指早盘收报3587.24点，涨1.41%。 沪深300早盘收报4709.10点，涨0.15%。 科创50早盘收报1740.62点，涨0.16%。 中证500早盘收报8062.88点，涨0.40%。 中证1000早盘收报7771.45点，涨0.49%。",
@@ -1232,18 +1341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 13时59分]"
-        },
-        {
-          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
-          "url": "https://www.cls.cn/detail/2450955",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时22分]"
         },
         {
           "title": "金十图示：2026年08月10日（周一）华尔街恐惧与贪婪指数（美盘后）",
@@ -1345,7 +1442,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1356,7 +1453,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1400,7 +1497,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1471,6 +1568,17 @@
           "time_info": "10时20分"
         },
         {
+          "title": "恒生指数收盘跌1.1%，恒生科技指数跌1.93%",
+          "url": "https://wallstreetcn.com/livenews/3147948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "台湾证交所加权股价指数开盘变动不大，报44,883.90点。",
           "url": "https://wallstreetcn.com/livenews/3147760",
           "source": "华尔街见闻-快讯",
@@ -1510,6 +1618,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时42分 ~ 17时09分]"
+        },
+        {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
           "source": "财联社热门",
@@ -1522,17 +1641,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[06时48分 ~ 15时22分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时42分 ~ 15时22分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -1670,7 +1778,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "硬盘、内存价格还会降回去吗？",
@@ -1704,7 +1812,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1714,11 +1822,23 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 17时09分]"
+        },
+        {
+          "title": "德国近日基载电力价格上涨23.6%，达到139.4欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260811164200002800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "英特尔(INTC.O)：授予承销商30天期权，可按公开发行价格额外购买最多3160万股。",
@@ -1727,7 +1847,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1749,7 +1869,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1760,7 +1880,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1874,6 +1994,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     }

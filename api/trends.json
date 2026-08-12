@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T07:52:17.109575+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-08-12T10:34:40.526764+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -44,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 10时34分]"
         },
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -109,7 +109,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -295,6 +295,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "盘后暴涨15%！CoreWeave营收同比翻倍 在手订单高达千亿美元",
+          "url": "https://www.cls.cn/detail/2451858",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶88.91美元，上涨1.19美元，涨幅1.36%。",
           "url": "https://flash.jin10.com/detail/20260812024522299800",
           "source": "金十数据",
@@ -394,6 +405,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "人民币兑美元中间价创2023年2月8日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3148322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "美元指数11日上涨",
           "url": "https://flash.jin10.com/detail/20260812032920147800",
           "source": "金十数据",
@@ -419,7 +441,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -438,11 +460,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时34分]"
         },
         {
           "title": "AI打开了我童年记忆的百宝箱",
@@ -453,8 +476,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时34分]"
         },
         {
           "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
@@ -465,22 +488,12 @@
             15,
             7,
             6,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时52分]"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时34分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -488,6 +501,30 @@
           "source": "抖音",
           "ranks": [
             7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时34分]"
+        },
+        {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 10时34分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
             6
           ],
           "is_new": false,
@@ -519,16 +556,15 @@
           "time_info": "[01时07分 ~ 07时52分]"
         },
         {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            1
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 07时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -625,6 +661,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
+          "url": "https://www.cls.cn/detail/2451840",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
           "url": "https://flash.jin10.com/detail/20260812005839889800",
           "source": "金十数据",
@@ -645,6 +692,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
+          "url": "https://wallstreetcn.com/articles/3779129",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "苹果再迎高层更替，支付和钱包服务负责人Bailey将退休",
@@ -678,12 +747,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "国行苹果AI支持机型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
@@ -696,6 +776,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 06时55分]"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数涨0.1%，东证指数涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3148373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.37%，报25533点。 恒生科技指数主连夜盘收跌0.81%，报4793点。",
@@ -714,11 +805,12 @@
           "url": "https://wallstreetcn.com/articles/3779167",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 10时34分]"
         },
         {
           "title": "明晟公司MSCI新兴市场股票指数跌0.3%，外汇指数跌0.1%。",
@@ -739,7 +831,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -761,7 +853,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -810,6 +902,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "中证转债指数开盘上涨0.07%。N赛斯转、奥飞转债、爱迪转债、双良转债、精测转2涨幅居前，分别涨30.00%、2.36%、2.31%、1.89%、1.65%。久吾转02、航宇转债、永吉转债、运机转债、银轮转债跌幅居前，分别跌0.99%、0.99%、0.85%、0.64%、0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3148337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "纳斯达克100指数跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3148193",
           "source": "华尔街见闻-快讯",
@@ -819,6 +922,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "上证指数开盘报3933.55点，跌0.01%。 深证成指开盘报14253.12点，跌0.04%。 创业板指开盘报3542.13点，跌0.20%。 沪深300开盘报4660.47点，跌0.07%。 科创50开盘报1720.36点，涨0.64%。 中证500开盘报7978.04点，涨0.13%。 中证1000开盘报7704.96点，涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3148330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "恒指低开0.6%，报25498.39点；恒生科技指数跌0.8%。腾讯音乐大跌11.4%，此前公布财报；联想集团跌2%，阿里巴巴、京东等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3148327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "新兴市场外汇指数跌幅扩大，巴西雷亚尔领跌，投资者关注油价上涨。",
@@ -854,6 +979,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "韩国KOSPI指数日内大涨3.00%，现报6535.98点。",
+          "url": "https://flash.jin10.com/detail/20260812093407182800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "德国DAX 30指数初步收涨0.41%，报26430.54点，创历史新高。 法国股指初步收涨0.04%，意大利股指初步收涨0.21%、银行指数涨0.05%，英国股指初步收跌0.06%。",
           "url": "https://wallstreetcn.com/livenews/3148151",
           "source": "华尔街见闻-快讯",
@@ -863,6 +999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "台湾证交所加权股价指数高开0.1%，报45,175.70点。",
+          "url": "https://wallstreetcn.com/livenews/3148316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
@@ -882,6 +1029,18 @@
           "time_info": "[01时07分 ~ 06时55分]"
         },
         {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时34分]"
+        },
+        {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
@@ -894,28 +1053,17 @@
           "time_info": "[01时07分 ~ 05时58分]"
         },
         {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时52分]"
-        },
-        {
           "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
           "url": "https://www.cls.cn/detail/2451784",
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 10时34分]"
         },
         {
           "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
@@ -1049,8 +1197,19 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报147850元/吨，较上日16:30价格上涨2850元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3148372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
         {
           "title": "周二（8月11日），彭博电动汽车价格回报指数跌1.27%，报3478.39点，亚太时段持续下跌、北京时间14:00以来低位窄幅震荡、交投于3480点附近。",
           "url": "https://wallstreetcn.com/livenews/3148234",
@@ -1070,7 +1229,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -1132,11 +1291,12 @@
             19,
             18,
             14,
-            9
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 10时34分]"
         }
       ]
     }

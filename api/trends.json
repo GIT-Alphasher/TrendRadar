@@ -1,33 +1,69 @@
 {
-  "generated_at": "2026-08-15T05:33:33.631382+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-08-15T07:30:37.416649+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
-          "title": "布伦特原油日内涨2%，现报88.89美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3149881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
-          "url": "https://wallstreetcn.com/livenews/3149879",
+          "title": "Jane Street 7月遭遇约150亿美元巨亏",
+          "url": "https://wallstreetcn.com/livenews/3149892",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "07时30分"
+        },
+        {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://wallstreetcn.com/livenews/3149891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "布伦特原油日内涨2%，现报88.89美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3149881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 07时30分]"
+        },
+        {
+          "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
+          "url": "https://wallstreetcn.com/livenews/3149879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 07时30分]"
+        },
+        {
+          "title": "美国证券交易委员会文件显示，英伟达持有SpaceX1.228亿股A类普通股，估值约为210亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 07时30分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的2.5亿美元。",
@@ -41,15 +77,15 @@
           "time_info": "01时58分"
         },
         {
-          "title": "美国证券交易委员会文件显示，英伟达持有SpaceX1.228亿股A类普通股，估值约为210亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3149875",
+          "title": "Anthropic公司在IPO前夕，初步预测2026年第二季度营收将超过115亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149888",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "07时30分"
         },
         {
           "title": "哈佛大学披露持有价值22亿美元的SpaceX(SPCX.O)股份。",
@@ -58,9 +94,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3149887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "据英国金融时报：简街（JaneStreet）在七月份录得约150亿美元的亏损。",
+          "url": "https://flash.jin10.com/detail/20260815053237241800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         },
         {
           "title": "美国证券交易委员会文件显示，英伟达(NVDA.O)持有SpaceX(SPCX.O)1.228亿股A类普通股，估值约为210亿美元。",
@@ -69,7 +127,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -83,6 +141,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://flash.jin10.com/detail/20260815053103557800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
+          "url": "https://flash.jin10.com/detail/20260815051457331800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         },
         {
           "title": "CAPRICORN INVESTMENT持有SpaceX 1.208亿股股份， 价值206.4亿美元。",
@@ -102,7 +182,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -113,7 +193,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -124,7 +204,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
@@ -132,7 +212,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
@@ -140,22 +220,35 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         },
         {
           "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
           "url": "https://wallstreetcn.com/articles/3779448",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
+        },
+        {
+          "title": "近日，富国基金旗下全资子公司富国资产管理（香港）有限公司获银河国际证券（新加坡）有限公司委任为投资顾问，为一只聚焦新加坡本地中小市值股票的主动管理型权益ETF提供选股支持。该产品已启动发行，预计后续将在新加坡交易所主板挂牌。 富国香港依托富国基金基本面与AI双轮驱动的量化模型体系，为该ETF提供选股决策支持。本次合作是公募基金“出海”模式升级的具体体现，表明中资资管机构在境外市场正逐步向能力端的投研服务者延伸。（证券日报）",
+          "url": "https://wallstreetcn.com/livenews/3149895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         },
         {
           "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
@@ -165,8 +258,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         },
         {
           "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
@@ -176,8 +269,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -187,8 +280,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -196,22 +289,35 @@
           "source": "抖音",
           "ranks": [
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         },
         {
           "title": "甲骨文：AI数据中心园区项目朱庇特计划仍按计划推进，我们将继续与合作伙伴密切合作，推动该项目向前发展。甲骨文跌幅收窄，现跌3.5%，此前一度跌4.7%。",
           "url": "https://wallstreetcn.com/livenews/3149866",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 07时30分]"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "07时30分"
         },
         {
           "title": "马斯克：由于电力供应不足以及地面设施审批困难，到2029年左右，轨道计算（即太空计算平台）可能是大规模扩展AI的唯一出路。",
@@ -242,7 +348,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
@@ -250,7 +356,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
@@ -291,11 +397,23 @@
           "url": "https://wallstreetcn.com/livenews/3149871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 07时30分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "07时30分"
         },
         {
           "title": "美股三大指数集体走低，标普500指数跌0.23%，纳斯达克指数跌0.45%，道琼斯指数跌0.26%。",
@@ -315,7 +433,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -326,7 +444,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -337,7 +455,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -366,8 +484,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         },
         {
           "title": "金十图示：2026年08月14日（周五）华尔街恐惧与贪婪指数（美盘后）",
@@ -376,7 +494,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -387,7 +505,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -409,7 +527,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -420,7 +538,69 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "价格",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
+        },
+        {
+          "title": "巴克莱：维持2026年布伦特原油价格预测为每桶96美元。",
+          "url": "https://wallstreetcn.com/livenews/3149893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
+          "url": "https://wallstreetcn.com/livenews/3149878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 07时30分]"
+        },
+        {
+          "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260815053953991800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
+          "url": "https://flash.jin10.com/detail/20260815043831738800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
@@ -437,7 +617,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -447,11 +627,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -461,8 +642,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -472,47 +653,48 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         }
       ]
     },
     {
-      "keyword_group": "价格",
+      "keyword_group": "美债",
       "match_count": 3,
       "titles": [
         {
-          "title": "中国AI把价格打下来，美国巨头一口气降80%",
-          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
-          "source": "凤凰网",
+          "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         },
         {
-          "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
-          "url": "https://wallstreetcn.com/livenews/3149878",
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
+          "url": "https://wallstreetcn.com/livenews/3149890",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
-          "url": "https://flash.jin10.com/detail/20260815043831738800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "07时30分"
         }
       ]
     },
@@ -528,8 +710,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         },
         {
           "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
@@ -541,24 +723,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
         }
       ]
     },
@@ -591,8 +755,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 07时30分]"
         }
       ]
     }

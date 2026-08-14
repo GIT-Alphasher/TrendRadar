@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T19:52:33.565294+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-08-14T21:24:26.408716+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "业绩增长超预期 中芯国际Q2销售收入达30亿美元 产能利用率进一步提升",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "现货白银日内涨幅达1%，报65.09美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3149781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "黄金后市何去何从？业内预测：年内仍有上行空间，最高看向7150美元！",
@@ -283,6 +294,17 @@
           "time_info": "04时55分"
         },
         {
+          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "消息人士：底特律汽车制造商将向白宫表示，修订后的北美贸易协定可能会给其带来数十亿美元的成本。",
           "url": "https://flash.jin10.com/detail/20260814001634831800",
           "source": "金十数据",
@@ -305,6 +327,17 @@
           "time_info": "14时22分"
         },
         {
+          "title": "现货白银日内涨幅达1.00%，现报65.11美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260814210115191800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "机构：预估至2030年全球LED通用照明市场规模有望达609.42亿美元",
           "url": "https://wallstreetcn.com/livenews/3149495",
           "source": "华尔街见闻-快讯",
@@ -314,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "市场消息：自6月以来，印度通过吸引海外资本的举措调动了逾500亿美元资金，为该国央行提供了更大的空间来充实外汇储备并支撑疲软的卢比。",
+          "url": "https://flash.jin10.com/detail/20260814210032971800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "美国至8月7日当周外国央行持有美国国债 -342.57亿美元，前值-255.34亿美元。",
@@ -366,7 +410,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -506,7 +550,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -517,11 +561,12 @@
             6,
             10,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时04分 ~ 19时52分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 21时24分]"
         },
         {
           "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
@@ -549,8 +594,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时04分 ~ 19时52分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 21时24分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -616,11 +661,12 @@
           "ranks": [
             17,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 21时24分]"
         },
         {
           "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
@@ -634,6 +680,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时56分 ~ 18时13分]"
+        },
+        {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 21时24分]"
         },
         {
           "title": "OpenAI首席营收官任职不到一年离职",
@@ -658,17 +717,15 @@
           "time_info": "10时34分"
         },
         {
-          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
-          "url": "https://www.cls.cn/detail/2454270",
-          "source": "财联社热门",
+          "title": "AI算力CPI",
+          "url": "https://flash.jin10.com/detail/20260814211050407800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            8,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
@@ -688,11 +745,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 21时24分]"
         },
         {
           "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
@@ -760,6 +818,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "SpaceX豪掷600亿收购Cursor 马斯克AI版图再落重子",
+          "url": "https://flash.jin10.com/detail/20260814210317465800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "美银：共和党若赢下中期选举，AI热潮或延续至2027年",
+          "url": "https://flash.jin10.com/detail/20260814210223473800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
@@ -861,6 +952,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "华强北AI眼镜销量暴涨100%",
+          "url": "https://wallstreetcn.com/livenews/3149755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "位列全球第二，国内高校团队AI安全攻防测评获佳绩",
           "url": "https://wallstreetcn.com/livenews/3149243",
           "source": "华尔街见闻-快讯",
@@ -952,7 +1054,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
@@ -1065,8 +1167,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 21时24分]"
         },
         {
           "title": "富时中国A50指数期货夜盘收盘涨0.03%。",
@@ -1102,6 +1204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "金十图示：2026年08月14日（周五）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260814210543047800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。华虹宏力跌超9%，京东集团跌超8%。",
@@ -1291,6 +1404,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "波罗的海干散货指数上涨0.67%，至2863点。",
+          "url": "https://wallstreetcn.com/livenews/3149748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "欧洲斯托克50指数收盘涨0.2%，德国DAX指数跌0.15%，英国富时100指数跌0.6%，法国CAC 40指数跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3149238",
           "source": "华尔街见闻-快讯",
@@ -1349,7 +1473,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -1358,11 +1482,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时04分 ~ 19时52分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 21时24分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -1436,6 +1561,20 @@
           "time_info": "[01时04分 ~ 14时22分]"
         },
         {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时34分 ~ 21时24分]"
+        },
+        {
           "title": "DeepSeek Harness发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -1491,19 +1630,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 16时24分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时34分 ~ 19时52分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -1600,6 +1726,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "一次看懂DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -1677,11 +1814,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 21时24分]"
         },
         {
           "title": "手机价格全线暴涨",
@@ -1763,6 +1901,18 @@
           "time_info": "[16时23分 ~ 16时24分]"
         },
         {
+          "title": "东南亚榴莲价格为何“崩了”",
+          "url": "https://www.toutiao.com/trending/7673692916342066694/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 21时24分]"
+        },
+        {
           "title": "美联储古尔斯比：许多通胀驱动因素来自关税，然后是石油价格，我们希望这些是一次性上涨。",
           "url": "https://flash.jin10.com/detail/20260814061236649800",
           "source": "金十数据",
@@ -1818,17 +1968,6 @@
           "time_info": "12时56分"
         },
         {
-          "title": "东南亚榴莲价格为何“崩了”",
-          "url": "https://www.toutiao.com/trending/7673692916342066694/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
           "title": "中芯国际高管：三季度开出或下线的晶圆使用了新的价格。",
           "url": "https://wallstreetcn.com/livenews/3149395",
           "source": "华尔街见闻-快讯",
@@ -1843,7 +1982,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -1904,6 +2043,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "美股三大指数集体高开",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
           "source": "百度热搜",
@@ -1948,6 +2098,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814210622788800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "应用材料(AMAT.O)股价在美股盘前交易中下跌5%。",
@@ -2000,94 +2161,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
-          "url": "https://www.cls.cn/detail/2453615",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时52分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时52分]"
-        },
-        {
-          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
-          "url": "https://flash.jin10.com/detail/20260814194148583800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
-          "url": "https://www.zhihu.com/question/2071179550575124530",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时54分 ~ 07时52分]"
-        },
-        {
-          "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
-          "url": "https://flash.jin10.com/detail/20260814171830547800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "美国PPI数据公布日，美债收益率普遍下挫",
-          "url": "https://wallstreetcn.com/livenews/3149300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "人工智能激活力 “新”意盎然促发展",
+          "url": "https://www.toutiao.com/trending/7673797019718598698/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "智洋创新：拟定增募资不超9.04亿元，用于多垂域具身智能及人工智能体研发等项目",
+          "url": "https://flash.jin10.com/detail/20260814210933708800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
         {
           "title": "据韩联社：受人工智能芯片需求持续推动，韩国7月ICT出口增长140%。",
           "url": "https://flash.jin10.com/detail/20260814102233154800",
@@ -2146,6 +2251,85 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时52分]"
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 21时24分]"
+        },
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260814194148583800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
+          "url": "https://www.zhihu.com/question/2071179550575124530",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时54分 ~ 07时52分]"
+        },
+        {
+          "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
+          "url": "https://flash.jin10.com/detail/20260814171830547800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "美国PPI数据公布日，美债收益率普遍下挫",
+          "url": "https://wallstreetcn.com/livenews/3149300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ChatGPT",
       "match_count": 2,
       "titles": [
@@ -2157,8 +2341,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 21时24分]"
         },
         {
           "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",

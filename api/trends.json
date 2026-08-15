@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-15T09:44:05.120014+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-08-15T11:01:29.149329+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "Jane Street 7月遭遇约150亿美元巨亏",
+          "url": "https://wallstreetcn.com/livenews/3149892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 11时01分]"
+        },
         {
           "title": "布伦特原油日内涨2%，现报88.89美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3149881",
@@ -20,6 +33,19 @@
           "time_info": "[05时33分 ~ 07时30分]"
         },
         {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://wallstreetcn.com/livenews/3149891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 11时01分]"
+        },
+        {
           "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
           "url": "https://wallstreetcn.com/livenews/3149879",
           "source": "华尔街见闻-快讯",
@@ -30,30 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 07时30分]"
-        },
-        {
-          "title": "Jane Street 7月遭遇约150亿美元巨亏",
-          "url": "https://wallstreetcn.com/livenews/3149892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 09时44分]"
-        },
-        {
-          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
-          "url": "https://wallstreetcn.com/livenews/3149891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 09时44分]"
         },
         {
           "title": "美国证券交易委员会文件显示，英伟达持有SpaceX1.228亿股A类普通股，估值约为210亿美元。",
@@ -104,6 +106,42 @@
           "time_info": "[07时30分 ~ 09时44分]"
         },
         {
+          "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260815083816255800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 11时01分]"
+        },
+        {
+          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815081946244800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 11时01分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 11时01分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的2.5亿美元。",
           "url": "https://flash.jin10.com/detail/20260815011624416800",
           "source": "金十数据",
@@ -121,7 +159,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -170,17 +208,6 @@
           "time_info": "07时30分"
         },
         {
-          "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
-          "url": "https://flash.jin10.com/detail/20260815083816255800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
           "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
           "url": "https://flash.jin10.com/detail/20260815051457331800",
           "source": "金十数据",
@@ -192,15 +219,15 @@
           "time_info": "07时30分"
         },
         {
-          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260815081946244800",
+          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "11时01分"
         },
         {
           "title": "CAPRICORN INVESTMENT持有SpaceX 1.208亿股股份， 价值206.4亿美元。",
@@ -212,17 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
-          "url": "https://flash.jin10.com/detail/20260815080428529800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
         },
         {
           "title": "AMD发行47.5亿美元债券，创公司最高规模发债纪录",
@@ -273,8 +289,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 09时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 11时01分]"
+        },
+        {
+          "title": "AI动画版大圣归来",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E7%89%88%E5%A4%A7%E5%9C%A3%E5%BD%92%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 11时01分]"
         },
         {
           "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
@@ -291,15 +318,31 @@
           "time_info": "[01时58分 ~ 09时44分]"
         },
         {
-          "title": "AI动画版大圣归来",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E7%89%88%E5%A4%A7%E5%9C%A3%E5%BD%92%E6%9D%A5",
-          "source": "bilibili 热搜",
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
           "ranks": [
-            1
+            21,
+            22,
+            24,
+            25,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 11时01分]"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 11时01分]"
         },
         {
           "title": "近日，富国基金旗下全资子公司富国资产管理（香港）有限公司获银河国际证券（新加坡）有限公司委任为投资顾问，为一只聚焦新加坡本地中小市值股票的主动管理型权益ETF提供选股支持。该产品已启动发行，预计后续将在新加坡交易所主板挂牌。 富国香港依托富国基金基本面与AI双轮驱动的量化模型体系，为该ETF提供选股决策支持。本次合作是公募基金“出海”模式升级的具体体现，表明中资资管机构在境外市场正逐步向能力端的投研服务者延伸。（证券日报）",
@@ -325,29 +368,16 @@
           "time_info": "[01时58分 ~ 09时44分]"
         },
         {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
+          "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
+          "url": "https://wallstreetcn.com/articles/3779452",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 09时44分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 09时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 11时01分]"
         },
         {
           "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
@@ -359,17 +389,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时58分 ~ 07时30分]"
-        },
-        {
-          "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
-          "url": "https://wallstreetcn.com/articles/3779452",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
         },
         {
           "title": "甲骨文：AI数据中心园区项目朱庇特计划仍按计划推进，我们将继续与合作伙伴密切合作，推动该项目向前发展。甲骨文跌幅收窄，现跌3.5%，此前一度跌4.7%。",
@@ -445,6 +464,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时30分 ~ 11时01分]"
+        },
+        {
           "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260815011957438800",
           "source": "金十数据",
@@ -465,18 +497,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
-          "url": "https://www.cls.cn/detail/2455043",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 09时44分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -568,11 +588,12 @@
           "url": "https://wallstreetcn.com/livenews/3149910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 11时01分]"
         },
         {
           "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
@@ -644,7 +665,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -663,11 +684,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 09时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 11时01分]"
         },
         {
           "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
@@ -694,6 +716,17 @@
           "time_info": "[07时30分 ~ 09时44分]"
         },
         {
+          "title": "路虎BBA保时捷价格大跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%99%8EBBA%E4%BF%9D%E6%97%B6%E6%8D%B7%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
           "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
           "url": "https://flash.jin10.com/detail/20260815043831738800",
           "source": "金十数据",
@@ -708,30 +741,8 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "DeepSeek Harness是什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 09时44分]"
-        },
         {
           "title": "DeepSeek Harness实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
@@ -743,8 +754,42 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 09时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 11时01分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 11时01分]"
+        },
+        {
+          "title": "DeepSeek-V4 Pro 跑分飙升",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
+          "title": "DeepSeek Harness是什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -771,8 +816,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 11时01分]"
         },
         {
           "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",

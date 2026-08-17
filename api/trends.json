@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-17T20:59:39.713812+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-08-17T21:48:51.725253+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时41分 ~ 21时48分]"
+        },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
           "url": "https://www.cls.cn/detail/2455353",
@@ -48,20 +63,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时27分 ~ 09时49分]"
-        },
-        {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 20时59分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -159,6 +160,31 @@
           "time_info": "[15时10分 ~ 19时34分]"
         },
         {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时52分 ~ 21时48分]"
+        },
+        {
+          "title": "大批AI博主停更了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时48分]"
+        },
+        {
           "title": "员工23次上班迟到17次被AI解雇",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A523%E6%AC%A1%E4%B8%8A%E7%8F%AD%E8%BF%9F%E5%88%B017%E6%AC%A1%E8%A2%ABAI%E8%A7%A3%E9%9B%87%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -195,20 +221,6 @@
           "time_info": "[13时41分 ~ 17时52分]"
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 20时59分]"
-        },
-        {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
           "url": "https://wallstreetcn.com/livenews/3150072",
           "source": "华尔街见闻-快讯",
@@ -233,17 +245,6 @@
           "time_info": "15时11分"
         },
         {
-          "title": "大批AI博主停更了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
           "title": "AI产业链的受益面正在变宽，模拟芯片也开始吃到AI红利",
           "url": "https://flash.jin10.com/detail/20260817094116592800",
           "source": "金十数据",
@@ -253,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "英伟达(NVDA.O)上涨0.8%，OpenAI承诺将在2030年前大规模部署英伟达AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20260817213122179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "Jain Global在亚洲增聘人手并扩大办公空间 迎接Millennium资金进驻",
@@ -272,31 +284,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
         {
-          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
-          "url": "https://wallstreetcn.com/livenews/3150523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
-          "title": "美团启动2027届校园招聘，新增十余种AI原生岗位",
-          "url": "https://wallstreetcn.com/livenews/3150521",
-          "source": "华尔街见闻-快讯",
+          "title": "AI算力CPI",
+          "url": "https://flash.jin10.com/detail/20260817212730193800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时59分"
+          "time_info": "21时48分"
         },
         {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
@@ -309,6 +310,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时41分 ~ 15时11分]"
+        },
+        {
+          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
+          "url": "https://wallstreetcn.com/livenews/3150523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时48分]"
+        },
+        {
+          "title": "美团启动2027届校园招聘，新增十余种AI原生岗位",
+          "url": "https://wallstreetcn.com/livenews/3150521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时48分]"
         },
         {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
@@ -343,8 +368,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 21时48分]"
         },
         {
           "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
@@ -397,9 +422,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "AI做的日剧太逼真了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E6%97%A5%E5%89%A7%E5%A4%AA%E9%80%BC%E7%9C%9F%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "AI故事主角又换了？华尔街开始大举押注云计算赛道",
@@ -444,6 +480,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "OpenAI：Ports-Pike项目预计将在截至2032年的六年建设期内创造3.5万个建筑业就业岗位，并长期创造2500个运营岗位。",
+          "url": "https://flash.jin10.com/detail/20260817210940922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "英伟达：OpenAI承诺2030年前部署约12吉瓦英伟达AI算力",
+          "url": "https://wallstreetcn.com/livenews/3150525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "涉中美AI，美被曝想逼多国“二选一”",
@@ -540,7 +598,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
@@ -548,7 +606,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
@@ -621,6 +679,17 @@
           "time_info": "[13时41分 ~ 18时40分]"
         },
         {
+          "title": "美国最高法院拒绝特朗普再次请求审理其针对E. Jean Carroll 500万美元判决结果的上诉。",
+          "url": "https://flash.jin10.com/detail/20260817213146460800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "报道：叙利亚-伊拉克原油管道料至少耗资150亿美元",
           "url": "https://wallstreetcn.com/livenews/3150478",
           "source": "华尔街见闻-快讯",
@@ -638,7 +707,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -736,13 +805,24 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
+          "title": "市场消息：Alphabet(GOOG.O)计划在首次澳大利亚债券发行中筹集36亿美元。",
+          "url": "https://flash.jin10.com/detail/20260817212627796800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "报道：英伟达将向SB ENERGY投资15亿美元",
           "url": "https://wallstreetcn.com/livenews/3150520",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -852,7 +932,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -907,7 +987,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -921,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "英伟达将向SB Energy投资15亿美元",
+          "url": "https://wallstreetcn.com/livenews/3150520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "因近期供给风险，LME铜的现货与三个月期货价差升至500美元以上。",
@@ -956,6 +1047,17 @@
           "time_info": "13时42分"
         },
         {
+          "title": "美国战争部（即国防部）：向NODA AI授予1亿美元合同，用于扩大联合部队自主力量的任务指挥能力。",
+          "url": "https://flash.jin10.com/detail/20260817210213960800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "WTI原油日内涨幅扩大至1.00%，现报82.34美元/桶。",
           "url": "https://flash.jin10.com/detail/20260817175509675800",
           "source": "金十数据",
@@ -981,7 +1083,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "英国8月Rightmove平均房屋要价指数年率 -1%，前值-0.40%。",
@@ -1012,7 +1114,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -1034,7 +1136,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -1056,7 +1158,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -1105,6 +1207,17 @@
           "time_info": "15时11分"
         },
         {
+          "title": "标普500指数高开4.92点，涨幅0.06%，报7790.68点； 道琼斯工业平均指数低开69.30点，跌幅0.13%，报53663.11点； 纳斯达克综合指数高开55.49点，涨幅0.21%，报26784.65点。",
+          "url": "https://wallstreetcn.com/livenews/3150544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "中信证券：恒生科技指数的调整具有显著事件效应",
           "url": "https://wallstreetcn.com/livenews/3150056",
           "source": "华尔街见闻-快讯",
@@ -1127,6 +1240,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 15时11分]"
+        },
+        {
+          "title": "美国8月纽约联储制造业指数 20.6，预期 10，前值 15.6。",
+          "url": "https://wallstreetcn.com/livenews/3150516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时48分]"
         },
         {
           "title": "【午报】科创50指数涨超3%，半导体产业链震荡走强，长鑫科技市值重回4万亿",
@@ -1190,18 +1315,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
-          "title": "美国8月纽约联储制造业指数 20.6，预期 10，前值 15.6。",
-          "url": "https://wallstreetcn.com/livenews/3150516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -1270,6 +1384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "摩根大通：将日本东证指数2026年底目标位从4,400点上调至4,600点。",
+          "url": "https://flash.jin10.com/detail/20260817211119103800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "日本6月设备利用指数环比 4.1%，前值 0.1%。",
@@ -1349,6 +1474,17 @@
           "time_info": "15时11分"
         },
         {
+          "title": "金十图示：2026年08月17日（周一）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260817210540470800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "澳大利亚S&P/ASX200指数8月17日（周一）收盘下跌49.90点，跌幅0.55%，报9065.30点。",
           "url": "https://flash.jin10.com/detail/20260817142105891800",
           "source": "金十数据",
@@ -1407,8 +1543,20 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "榴莲价格彻底崩了",
+          "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 21时48分]"
+        },
         {
           "title": "周生生等多家足金饰品价格调整",
           "url": "https://www.toutiao.com/trending/7674754756233641993/",
@@ -1416,9 +1564,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "美股开盘，道指跌0.3%，标普500指数接近平开，纳指涨0.2%。存储概念股上涨，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)涨4.5%。Alphabet(GOOG.O)涨0.2%，伯克希尔二季度继续加仓Alphabet。阿里巴巴(BABA.N)上涨1.6%，公司以15亿美元的价格出售游戏业务。",
+          "url": "https://flash.jin10.com/detail/20260817213040526800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "中国7月规模以上工业增加值同比、社会消费品零售总额同比、70个大中城市住宅销售价格月度报告将于十分钟后公布。",
@@ -1430,18 +1589,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
-        },
-        {
-          "title": "榴莲价格彻底崩了",
-          "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时59分]"
         },
         {
           "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
@@ -1467,6 +1614,18 @@
           "time_info": "[19时33分 ~ 20时59分]"
         },
         {
+          "title": "一线城市二手房价格连续5个月上涨 广州涨幅居首、上海紧随",
+          "url": "https://www.cls.cn/detail/2456299",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时48分]"
+        },
+        {
           "title": "去年价格暴涨5倍的柠檬 今年腰斩",
           "url": "https://www.baidu.com/s?wd=%E5%8E%BB%E5%B9%B4%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A85%E5%80%8D%E7%9A%84%E6%9F%A0%E6%AA%AC+%E4%BB%8A%E5%B9%B4%E8%85%B0%E6%96%A9",
           "source": "百度热搜",
@@ -1476,6 +1635,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "加拿大通胀率升至3% 中东冲突继续推升汽油价格",
+          "url": "https://wallstreetcn.com/livenews/3150540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "榴莲价格彻底崩了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "新西兰7月食品价格指数年率 1.9%，前值2.5%。",
@@ -1498,17 +1679,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "一线城市二手房价格连续5个月上涨 广州涨幅居首、上海紧随",
-          "url": "https://www.cls.cn/detail/2456299",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
         },
         {
           "title": "宜家日本将于8月20日起上调部分商品价格。",
@@ -1546,11 +1716,12 @@
             15,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 20时59分]"
+          "appearance_count": 10,
+          "time_info": "[13时41分 ~ 21时48分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -1620,6 +1791,17 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
+          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
+          "url": "https://www.zhihu.com/question/2072487733474359004",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时48分]"
+        },
+        {
           "title": "DeepSeek Harness 有什么好用的插件？",
           "url": "https://www.zhihu.com/question/2071617281214378127",
           "source": "知乎",
@@ -1640,15 +1822,87 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 13时42分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
         {
-          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
-          "url": "https://www.zhihu.com/question/2072487733474359004",
-          "source": "知乎",
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超1%，全球科技股指数ETF涨近1%，日常消费品ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3150547",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            1
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初跌超0.6%，报103.24美元，脱离6月1日以来（盘中）最高位106.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3150546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3150545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3150529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
+          "url": "https://wallstreetcn.com/livenews/3150487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
@@ -1656,7 +1910,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -1669,8 +1923,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 20时59分]"
+          "appearance_count": 10,
+          "time_info": "[13时41分 ~ 21时48分]"
         },
         {
           "title": "李大霄解读美债收益率",
@@ -1696,6 +1950,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时27分 ~ 06时31分]"
+        },
+        {
+          "title": "美债总规模将破40万亿大关，美银：做多黄金是明智之举",
+          "url": "https://flash.jin10.com/detail/20260817210832512800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
@@ -1735,34 +2000,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Snap美股盘前跌幅扩大至逾15%。",
-          "url": "https://wallstreetcn.com/livenews/3150462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
-          "url": "https://wallstreetcn.com/livenews/3150487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
         }
       ]
     },

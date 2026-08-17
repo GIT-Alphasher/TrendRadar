@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T18:40:36.503520+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-08-17T19:34:12.830730+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -20,6 +20,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时27分 ~ 13时42分]"
+        },
+        {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时48分 ~ 19时34分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -105,17 +119,17 @@
           "time_info": "[01时27分 ~ 09时49分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
           "ranks": [
-            9,
-            5,
-            6
+            11,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时48分 ~ 18时40分]"
+          "time_info": "[13时41分 ~ 19时34分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -131,17 +145,28 @@
           "time_info": "[01时27分 ~ 07时28分]"
         },
         {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            7,
+            10,
+            6,
             5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时41分 ~ 18时40分]"
+          "time_info": "[15时10分 ~ 19时34分]"
+        },
+        {
+          "title": "员工23次上班迟到17次被AI解雇",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A523%E6%AC%A1%E4%B8%8A%E7%8F%AD%E8%BF%9F%E5%88%B017%E6%AC%A1%E8%A2%ABAI%E8%A7%A3%E9%9B%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
@@ -215,17 +240,17 @@
           "time_info": "15时11分"
         },
         {
-          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
-          "url": "https://www.cls.cn/detail/2455726",
-          "source": "财联社热门",
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            6,
-            5
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时10分 ~ 18时40分]"
+          "time_info": "[17时52分 ~ 19时34分]"
         },
         {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
@@ -264,18 +289,6 @@
           "time_info": "[13时41分 ~ 15时11分]"
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 18时40分]"
-        },
-        {
           "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
           "url": "https://www.cls.cn/detail/2455627",
           "source": "财联社热门",
@@ -285,6 +298,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时52分 ~ 18时40分]"
+        },
+        {
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
+        },
+        {
+          "title": "美国的AI豪赌停得下来吗",
+          "url": "https://www.toutiao.com/trending/7674925224135298602/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "OpenAI CEO：大学读两年就够了",
@@ -315,9 +350,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "阿里推出AI音乐模型快乐虾米",
+          "url": "https://wallstreetcn.com/livenews/3150458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "百度AI漫剧季度分润增长88%，二线短剧平台看到新机会",
+          "url": "https://wallstreetcn.com/livenews/3150457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
@@ -392,7 +449,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -422,8 +479,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时48分 ~ 19时34分]"
+        },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://www.cls.cn/detail/2455237",
@@ -446,17 +514,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时27分 ~ 07时28分]"
-        },
-        {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时48分 ~ 18时40分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -495,15 +552,15 @@
           "time_info": "[13时41分 ~ 18时40分]"
         },
         {
-          "title": "美元跌至三个月低点 因投资者削减对美联储加息的押注",
-          "url": "https://wallstreetcn.com/livenews/3150445",
+          "title": "报道：叙利亚-伊拉克原油管道料至少耗资150亿美元",
+          "url": "https://wallstreetcn.com/livenews/3150478",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "19时34分"
         },
         {
           "title": "摩根大通市值逼近13位数：银行业首个“万亿美元俱乐部”成员或将诞生",
@@ -563,6 +620,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时28分]"
+        },
+        {
+          "title": "美元跌至三个月低点 因投资者削减对美联储加息的押注",
+          "url": "https://wallstreetcn.com/livenews/3150445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
         },
         {
           "title": "现货黄金再次突破4400美元",
@@ -725,7 +794,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -780,15 +849,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "瑞杰金融：将Reddit(RDDT.N)目标价从200美元上调至205美元。",
+          "url": "https://flash.jin10.com/detail/20260817191151055800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
     {
       "keyword_group": "指数",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "英国8月Rightmove平均房屋要价指数年率 -1%，前值-0.40%。",
@@ -901,6 +981,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 15时11分]"
+        },
+        {
+          "title": "【午报】科创50指数涨超3%，半导体产业链震荡走强，长鑫科技市值重回4万亿",
+          "url": "https://www.cls.cn/detail/2455748",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "A股三大指数集体高开",
@@ -1052,7 +1143,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1151,18 +1242,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "DeepSeek正式涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时11分]"
-        },
-        {
           "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
           "url": "https://www.zhihu.com/question/2072598571090538898",
           "source": "知乎",
@@ -1173,8 +1252,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 19时34分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时11分]"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
@@ -1257,7 +1348,7 @@
     },
     {
       "keyword_group": "价格",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国7月规模以上工业增加值同比、社会消费品零售总额同比、70个大中城市住宅销售价格月度报告将于十分钟后公布。",
@@ -1283,6 +1374,17 @@
           "time_info": "[04时32分 ~ 06时31分]"
         },
         {
+          "title": "国家统计局：7月份一二三线城市商品住宅销售价格同比降幅总体继续收窄",
+          "url": "https://www.cls.cn/detail/2455912",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
+        },
+        {
           "title": "去年价格暴涨5倍的柠檬 今年腰斩",
           "url": "https://www.baidu.com/s?wd=%E5%8E%BB%E5%B9%B4%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A85%E5%80%8D%E7%9A%84%E6%9F%A0%E6%AA%AC+%E4%BB%8A%E5%B9%B4%E8%85%B0%E6%96%A9",
           "source": "百度热搜",
@@ -1292,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "榴莲价格彻底崩了",
+          "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "新西兰7月食品价格指数年率 1.9%，前值2.5%。",
@@ -1325,6 +1438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "石化油服：国工公司及国工墨西哥子公司拟以400万美元的价格，收购DIAVAZ持有的墨西哥DS公司的50%股权及D&S公司持有的CEE项下EBANO项目0.01%的权益，并将在本次收购完成后，分批向墨西哥埃巴诺（EBANO）油田项目追加投资2.12亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3150452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
@@ -1342,8 +1466,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 19时34分]"
         },
         {
           "title": "李大霄解读美债收益率",
@@ -1408,6 +1532,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
